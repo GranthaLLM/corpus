@@ -212,10 +212,14 @@
    "sanskrit_mula": "श्रीशुक उवाच\nइत्यादिष्टो भगवता महाभागवतो नृप।\nउद्धवः प्रणिपत्याह तत्वजिज्ञासुरच्युतम्॥ ११/७/१३॥",
    "sanskrit_bhashya": null,
    "english": "[Text 13] Śrī Śukadeva Gosvāmi said: O King, the Supreme Personality of Godhead, Lord Kṛṣṇa, thus instructed His pure devotee Uddhava, who was eager to receive knowledge from the Lord. Uddhava then offered obeisances to the Lord and spoke as follows.",
-   "english_clean": "[Text 13] Śrī Śukadeva Gosvāmi said: O King, the Lord, Lord Kṛṣṇa, thus instructed His devotee Uddhava, who was eager to receive knowledge from the Lord. Uddhava then offered obeisances to the Lord and spoke as follows.",
+   "english_clean": "[Text 13] Śukācārya said: O King, Lord Kṛṣṇa, thus instructed His devotee Uddhava, who was eager to receive knowledge from the Lord. Uddhava then offered obeisances to the Lord and spoke as follows.",
    "english_edits": [
     {
-     "rule": "(the) Supreme Personality of Godhead -> the Lord",
+     "rule": "'the Supreme Personality of Godhead, Lord Kṛṣṇa' -> 'Lord Kṛṣṇa' (appositive dropped)",
+     "count": 1
+    },
+    {
+     "rule": "(Śrī) Śukadeva Gosvāmī -> Śukācārya",
      "count": 1
     },
     {
@@ -236,8 +240,13 @@
    "sanskrit_mula": "उद्धव उवाच\nयोगेश योगविन्यास योगात्मन् योगसम्भव।\nनिःश्रेयसाय मे प्रोक्तस्त्यागः संन्यासलक्षणः॥ ११/७/१४॥",
    "sanskrit_bhashya": "योगो देवादिषु तेन न्यस्त इति योगविन्यासः।\n“ज्ञानं तु योगशब्दोक्तं युज्यतेऽनेन यत् सुखम्।\nक्वचिद् योग उपायः स्यात् क्वचिच्चित्तनिरोधनम्॥”\nइति दत्तात्रेययोगे।\nअत्र ज्ञानमुपायश्च॥ १४॥",
    "english": "[Text 14] Śrī Uddhava said: My dear Lord, You alone award the results of yoga practice, and You are so kind that by Your own influence You distribute the perfection of yoga to Your devotee. Thus You are the Supreme Soul who is realized through yoga, and it is You who are the origin of all mystic power. For my supreme benefit You have explained the procedure for giving up the material world through the process of sannyāsa, or renunciation.",
-   "english_clean": "[Text 14] Śrī Uddhava said: My dear Lord, You alone award the results of yoga practice, and You are so kind that by Your own influence You distribute the perfection of yoga to Your devotee. Thus You are the Supreme Soul who is realized through yoga, and it is You who are the origin of all mystic power. For my supreme benefit You have explained the procedure for giving up the material world through the process of sannyāsa, or renunciation.",
-   "english_edits": [],
+   "english_clean": "[Text 14] Uddhava said: My dear Lord, You alone award the results of yoga practice, and You are so kind that by Your own influence You distribute the perfection of yoga to Your devotee. Thus You are the Supreme Soul who is realized through yoga, and it is You who are the origin of all mystic power. For my supreme benefit You have explained the procedure for giving up the material world through the process of sannyāsa, or renunciation.",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -442,8 +451,13 @@
    "sanskrit_mula": "कुतो बुद्धिरियं ब्रह्मन्नकर्तुस्ते विशारदा।\nयामासाद्य भवान् लोकान् विद्वांश्चरति बालवत्॥ ११/७/२६॥",
    "sanskrit_bhashya": null,
    "english": "[Text 26] Śrī Yadu said: O brāhmaṇa, I see that you are not engaged in any practical religious activity, and yet you have acquired a most expert understanding of all things and all people within this world. Kindly tell me, sir, how did you acquire this extraordinary intelligence, and why are you traveling freely throughout the world behaving as if you were a child?",
-   "english_clean": "[Text 26] Śrī Yadu said: O brāhmaṇa, I see that you are not engaged in any practical religious activity, and yet you have acquired a most expert understanding of all things and all people within this world. Kindly tell me, sir, how did you acquire this extraordinary intelligence, and why are you traveling freely throughout the world behaving as if you were a child?",
-   "english_edits": [],
+   "english_clean": "[Text 26] Yadu said: O brāhmaṇa, I see that you are not engaged in any practical religious activity, and yet you have acquired a most expert understanding of all things and all people within this world. Kindly tell me, sir, how did you acquire this extraordinary intelligence, and why are you traveling freely throughout the world behaving as if you were a child?",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -2957,8 +2971,12 @@
    "sanskrit_mula": "उद्धव उवाच\nगुणेषु वर्तमानोऽपि देहजेष्वनपावृतः।\nगुणैर्न बध्यतेऽदेही बध्यते वा कथं विभो॥ ११/१०/३५॥",
    "sanskrit_bhashya": "अदेही परमात्मा। बद्ध्यते चेत् कथं बद्ध्यते॥ ३५॥",
    "english": "[Text 35] Śrī Uddhava said: O my Lord, a living entity situated within the material body is surrounded by the modes of nature and the happiness and distress that are born of activities caused by these modes. How is it possible that he is not bound by this material encirclement? It may also be said that the living entity is ultimately transcendental and has nothing to do with the material world. Then how is he ever bound by material nature?",
-   "english_clean": "[Text 35] Śrī Uddhava said: O my Lord, a living being situated within the material body is surrounded by the modes of nature and the happiness and distress that are born of activities caused by these modes. How is it possible that he is not bound by this material encirclement? It may also be said that the living being is ultimately transcendental and has nothing to do with the material world. Then how is he ever bound by material nature?",
+   "english_clean": "[Text 35] Uddhava said: O my Lord, a living being situated within the material body is surrounded by the modes of nature and the happiness and distress that are born of activities caused by these modes. How is it possible that he is not bound by this material encirclement? It may also be said that the living being is ultimately transcendental and has nothing to do with the material world. Then how is he ever bound by material nature?",
    "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    },
     {
      "rule": "living entity/entities -> living being(s)",
      "count": 2
@@ -3398,8 +3416,12 @@
    "sanskrit_mula": "उद्धव उवाच\nसाधुत्व उत्तमश्लोक मनः कादृग्विधं प्रभो।\nभक्तिस्त्वय्युपयुञ्जीत कादृशी सद्भिरादृता॥ ११/११/२६॥\nएतन्मे पुरुषाध्यक्ष प्रपन्नाय च कथ्यताम्॥ ११/११/२७॥",
    "sanskrit_bhashya": null,
    "english": "[Text 26-27] Śrī Uddhava said: My dear Lord, O Supreme Personality of Godhead, what type of person do You consider to be a true devotee, and what type of devotional service is approved by great devotees as worthy of being offered to Your Lordship? My dear ruler of the universal controllers, O Lord of Vaikuṇṭha and almighty God of the universe, I am Your devotee, and because I love You I have no other shelter than You. Therefore please explain this to me.",
-   "english_clean": "[Text 26-27] Śrī Uddhava said: My dear Lord, O Lord, what type of person do You consider to be a true devotee, and what type of devotion is approved by great devotees as worthy of being offered to Your Lordship? My dear ruler of the universal controllers, O Lord of Vaikuṇṭha and almighty God of the universe, I am Your devotee, and because I love You I have no other shelter than You. Therefore please explain this to me.",
+   "english_clean": "[Text 26-27] Uddhava said: My dear Lord, O Lord, what type of person do You consider to be a true devotee, and what type of devotion is approved by great devotees as worthy of being offered to Your Lordship? My dear ruler of the universal controllers, O Lord of Vaikuṇṭha and almighty God of the universe, I am Your devotee, and because I love You I have no other shelter than You. Therefore please explain this to me.",
    "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    },
     {
      "rule": "(the) Supreme Personality of Godhead -> the Lord",
      "count": 1
@@ -3804,8 +3826,13 @@
    "sanskrit_mula": "उद्धव उवाच\nसंशयः शृण्वतो वाचं तव योगेश्वरेश्वर।\nन निवर्तत आत्मस्थो येन भ्राम्यति मे मनः॥ ११/१२/१६॥",
    "sanskrit_bhashya": "“वायौ मुख्यधिया” इत्युक्त्वा विशेषतो गोपिकाप्रशंसनात् संशयः शृण्वत इति चोदयति॥ १६॥",
    "english": "[Text 16] Śrī Uddhava said: O Lord of all masters of mystic power, I have heard Your words, but the doubt in my heart does not go away; thus my mind is bewildered.",
-   "english_clean": "[Text 16] Śrī Uddhava said: O Lord of all masters of mystic power, I have heard Your words, but the doubt in my heart does not go away; thus my mind is bewildered.",
-   "english_edits": [],
+   "english_clean": "[Text 16] Uddhava said: O Lord of all masters of mystic power, I have heard Your words, but the doubt in my heart does not go away; thus my mind is bewildered.",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -4080,8 +4107,13 @@
    "sanskrit_mula": "उद्धव उवाच\nविदन्ति मर्त्याः प्रायेण विषयान् पदमापदाम्।\nअथापि भुञ्जते कृष्ण तत् कथं श्वखराजवत्॥ ११/१३/८॥",
    "sanskrit_bhashya": null,
    "english": "[Text 8] Śrī Uddhava said: My dear Kṛṣṇa, generally human beings know that material life brings great future unhappiness, and still they try to enjoy material life. My dear Lord, how can one in knowledge act just like a dog, an ass or a goat?",
-   "english_clean": "[Text 8] Śrī Uddhava said: My dear Kṛṣṇa, generally human beings know that material life brings great future unhappiness, and still they try to enjoy material life. My dear Lord, how can one in knowledge act just like a dog, an ass or a goat?",
-   "english_edits": [],
+   "english_clean": "[Text 8] Uddhava said: My dear Kṛṣṇa, generally human beings know that material life brings great future unhappiness, and still they try to enjoy material life. My dear Lord, how can one in knowledge act just like a dog, an ass or a goat?",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -4175,8 +4207,13 @@
    "sanskrit_mula": "उद्धव उवाच\nयदा त्वं सनकादिभ्यो येन रूपेण केशव।\nयोगमादिष्टवानेतद् रूपमिच्छामि वेदितुम्॥ ११/१३/१५॥",
    "sanskrit_bhashya": null,
    "english": "[Text 15] Śrī Uddhava said: My dear Keśava, at what time and in what form did You instruct the science of yoga to Sanaka and his brothers? I now desire to know about these things.",
-   "english_clean": "[Text 15] Śrī Uddhava said: My dear Keśava, at what time and in what form did You instruct the science of yoga to Sanaka and his brothers? I now desire to know about these things.",
-   "english_edits": [],
+   "english_clean": "[Text 15] Uddhava said: My dear Keśava, at what time and in what form did You instruct the science of yoga to Sanaka and his brothers? I now desire to know about these things.",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -4668,8 +4705,13 @@
    "sanskrit_mula": "उद्धव उवाच\nवदन्ति कृष्ण श्रेयांसि बहूनि ब्रह्मवादिनः।\nतेषां विकल्पः प्राधान्यमुताहो एकमुख्यता॥ ११/१४/१॥",
    "sanskrit_bhashya": null,
    "english": "[Text 1] Śrī Uddhava said: My dear Kṛṣṇa, the learned sages who explain Vedic literature recommend various processes for perfecting one’s life. Considering these varieties of viewpoint, my Lord, please tell me whether all these processes are equally important, or whether one of them is supreme.",
-   "english_clean": "[Text 1] Śrī Uddhava said: My dear Kṛṣṇa, the learned sages who explain Vedic literature recommend various processes for perfecting one’s life. Considering these varieties of viewpoint, my Lord, please tell me whether all these processes are equally important, or whether one of them is supreme.",
-   "english_edits": [],
+   "english_clean": "[Text 1] Uddhava said: My dear Kṛṣṇa, the learned sages who explain Vedic literature recommend various processes for perfecting one’s life. Considering these varieties of viewpoint, my Lord, please tell me whether all these processes are equally important, or whether one of them is supreme.",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -5167,8 +5209,13 @@
    "sanskrit_mula": "उद्धव उवाच\nयथा त्वामरविन्दाक्ष यादृशं वा यदात्मकम्।\nध्यायेन्मुमुक्षुरेतन्मे ध्यानं त्वं वक्तुमर्हसि॥ ११/१४/३१॥",
    "sanskrit_bhashya": null,
    "english": "[Text 31] Śrī Uddhava said: My dear lotus-eyed Kṛṣṇa, by what process should one who desires liberation meditate upon You, of what specific nature should his meditation be, and upon which form should he meditate? Kindly explain to me this topic of meditation.",
-   "english_clean": "[Text 31] Śrī Uddhava said: My dear lotus-eyed Kṛṣṇa, by what process should one who desires liberation meditate upon You, of what specific nature should his meditation be, and upon which form should he meditate? Kindly explain to me this topic of meditation.",
-   "english_edits": [],
+   "english_clean": "[Text 31] Uddhava said: My dear lotus-eyed Kṛṣṇa, by what process should one who desires liberation meditate upon You, of what specific nature should his meditation be, and upon which form should he meditate? Kindly explain to me this topic of meditation.",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -5332,8 +5379,13 @@
    "sanskrit_mula": "उद्धव उवाच\nकया धारणया का स्वित् कथं वा सिद्धिरच्युत।\nकति वा सिद्धयो ब्रूहि योगिनां सिद्धिदो भवान्॥ ११/१५/२॥",
    "sanskrit_bhashya": null,
    "english": "[Text 2] Śrī Uddhava said: My dear Lord Acyuta, by what process can mystic perfection be achieved, and what is the nature of such perfection? How many mystic perfections are there? Please explain these things to me. Indeed, You are the bestower of all mystic perfections.",
-   "english_clean": "[Text 2] Śrī Uddhava said: My dear Lord Acyuta, by what process can mystic perfection be achieved, and what is the nature of such perfection? How many mystic perfections are there? Please explain these things to me. Indeed, You are the bestower of all mystic perfections.",
-   "english_edits": [],
+   "english_clean": "[Text 2] Uddhava said: My dear Lord Acyuta, by what process can mystic perfection be achieved, and what is the nature of such perfection? How many mystic perfections are there? Please explain these things to me. Indeed, You are the bestower of all mystic perfections.",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -5868,8 +5920,13 @@
    "sanskrit_mula": "उद्धव उवाच\nत्वं ब्रह्म परमं साक्षादनाद्यन्तमपावृतम्।\nसर्वेषामपि भावानां प्राणः स्थित्यप्ययोद्भवः॥ ११/१६/१॥",
    "sanskrit_bhashya": null,
    "english": "[Text 1] Śrī Uddhava said: My dear Lord, You are beginningless and endless, the Absolute Truth Himself, unlimited by anything else. You are the protector and life-giver, the destruction and creation of all things that exist.",
-   "english_clean": "[Text 1] Śrī Uddhava said: My dear Lord, You are beginningless and endless, the Absolute Truth Himself, unlimited by anything else. You are the protector and life-giver, the destruction and creation of all things that exist.",
-   "english_edits": [],
+   "english_clean": "[Text 1] Uddhava said: My dear Lord, You are beginningless and endless, the Absolute Truth Himself, unlimited by anything else. You are the protector and life-giver, the destruction and creation of all things that exist.",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [
     "Absolute Truth"
    ],
@@ -6578,8 +6635,12 @@
    "sanskrit_mula": "उद्धव उवाच\nयस्त्वयाऽभिहितः पूर्वं धर्मस्त्वद्भक्तिलक्षणः।\nवर्णाश्रमाचारवतां सर्वेषां द्विपदामपि॥ ११/१७/१॥\nयथाऽनुष्ठीयमानेन त्वयि भक्तिर्नृणां भवेत्।\nस्वधर्मेणारविन्दाक्ष तन्ममाख्यातुमर्हसि॥ ११/१७/२॥",
    "sanskrit_bhashya": null,
    "english": "[Text 1-2] Śrī Uddhava said: My dear Lord, previously You described the principles of devotional service that are to be practiced by followers of the varṇāśrama system and even ordinary, unregulated human beings. My dear lotus-eyed Lord, now please explain to me how all human beings can achieve loving service unto You by the execution of their prescribed duties.",
-   "english_clean": "[Text 1-2] Śrī Uddhava said: My dear Lord, previously You described the principles of devotion that are to be practiced by followers of the varṇāśrama system and even ordinary, unregulated human beings. My dear lotus-eyed Lord, now please explain to me how all human beings can achieve loving service unto You by the execution of their prescribed duties.",
+   "english_clean": "[Text 1-2] Uddhava said: My dear Lord, previously You described the principles of devotion that are to be practiced by followers of the varṇāśrama system and even ordinary, unregulated human beings. My dear lotus-eyed Lord, now please explain to me how all human beings can achieve loving service unto You by the execution of their prescribed duties.",
    "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    },
     {
      "rule": "devotional service -> devotion",
      "count": 1
@@ -6643,11 +6704,19 @@
    "sanskrit_mula": "श्रीभगवानुवाच\nधर्म्य एष तव प्रश्नो नैःश्रेयसकरो नृणाम्।\nवर्णाश्रमाचारवतां तमुद्धव निबोध मे॥ ११/१७/८॥",
    "sanskrit_bhashya": null,
    "english": "[Text 8] Śrī Śukadeva Gosvāmī said: Śrī Uddhava, the best of devotees, thus inquired from the Lord. Hearing his question, the Personality of Godhead, Śrī Kṛṣṇa, was pleased and for the welfare of all conditioned souls spoke those religious principles that are eternal.",
-   "english_clean": "[Text 8] Śrī Śukadeva Gosvāmī said: Śrī Uddhava, the best of devotees, thus inquired from the Lord. Hearing his question, the Lord, Śrī Kṛṣṇa, was pleased and for the welfare of all conditioned souls spoke those religious principles that are eternal.",
+   "english_clean": "[Text 8] Śukācārya said: Uddhava, the best of devotees, thus inquired from the Lord. Hearing his question, Kṛṣṇa, was pleased and for the welfare of all conditioned souls spoke those religious principles that are eternal.",
    "english_edits": [
     {
-     "rule": "(the) Supreme Personality of Godhead -> the Lord",
+     "rule": "'the Supreme Personality of Godhead, Lord Kṛṣṇa' -> 'Lord Kṛṣṇa' (appositive dropped)",
      "count": 1
+    },
+    {
+     "rule": "(Śrī) Śukadeva Gosvāmī -> Śukācārya",
+     "count": 1
+    },
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 2
     }
    ],
    "english_flags": [],
@@ -8407,8 +8476,12 @@
    "sanskrit_mula": "उद्धव उवाच\nज्ञानं विशुद्धं विपुलं यदेतद् वैराग्यविज्ञानयुतं पुराणम्।\nआख्याहि विश्वेश्वर विश्वमूर्ते त्वद्भक्तियोगं च महद्विमृग्यम्॥ ११/१९/८॥",
    "sanskrit_bhashya": null,
    "english": "[Text 8] Śrī Uddhava said: O Lord of the universe! O form of the universe! Please explain to me that process of knowledge which automatically brings detachment and direct perception of the truth, which is transcendental, and which is traditional among great spiritual philosophers. This knowledge, sought by elevated personalities, describes loving devotional service unto Your Lordship.",
-   "english_clean": "[Text 8] Śrī Uddhava said: O Lord of the universe! O form of the universe! Please explain to me that process of knowledge which automatically brings detachment and direct perception of the truth, which is transcendental, and which is traditional among great spiritual philosophers. This knowledge, sought by elevated personalities, describes loving devotion unto Your Lordship.",
+   "english_clean": "[Text 8] Uddhava said: O Lord of the universe! O form of the universe! Please explain to me that process of knowledge which automatically brings detachment and direct perception of the truth, which is transcendental, and which is traditional among great spiritual philosophers. This knowledge, sought by elevated personalities, describes loving devotion unto Your Lordship.",
    "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    },
     {
      "rule": "devotional service -> devotion",
      "count": 1
@@ -8714,8 +8787,13 @@
    "sanskrit_mula": "कस्त्यागः किं धनं श्रेष्ठं को यज्ञः का च दक्षिणा।\nपुंसः किं स्विद् बलं श्रीमद् भगो लाभश्च केशव॥ ११/१९/२८॥\nका विद्या ह्वीः परा का श्रीः किं सुखं दुःखमेव च।\nकः पण्डितः कश्च मूर्खः कः पन्था उत्पथश्च कः॥ ११/१९/२९॥\nकः स्वर्गो नरकः कः स्वित् को बन्धुरुत१ किं गृहम्।\nक आढ्यः को दरिद्रो वा कृपणः कः क ईश्वरः।\nएतान् प्रश्नान् मम ब्रूहि विपरीतं च सत्पते॥ ११/१९/३१॥\nश्रीभगवानुवाच\nअहिंसा सत्यमस्तेयमसङ्गो ह्वीरसञ्चयः।\nआस्तिक्यं ब्रह्मचर्यं च मौनं स्थैर्यं क्षमाऽभयम्॥ ११/१९/३२॥",
    "sanskrit_bhashya": null,
    "english": "[Text 28-32] Śrī Uddhava said: My dear Lord Kṛṣṇa, O chastiser of the enemies, please tell me how many types of disciplinary regulations and regular daily duties there are. Also, my Lord, tell me what is mental equilibrium, what is self-control, and what is the actual meaning of tolerance and steadfastness. What are charity, austerity and heroism, and how are reality and truth to be described? What is renunciation, and what is wealth? What is desirable, what is sacrifice, and what is religious remuneration? My dear Keśava, O most fortunate one, how am I to understand the strength, opulence and profit of a particular person? What is the best education, what is actual humility, and what is real beauty? What are happiness and unhappiness? Who is learned, and who is a fool? What are the true and the false paths in life, and what are heaven and hell? Who is indeed a true friend, and what is one’s real home? Who is a rich man, and who is a poor man? Who is wretched, and who is an actual controller? O Lord of the devotees, kindly explain these matters to me, along with their opposites.",
-   "english_clean": "[Text 28-32] Śrī Uddhava said: My dear Lord Kṛṣṇa, O chastiser of the enemies, please tell me how many types of disciplinary regulations and regular daily duties there are. Also, my Lord, tell me what is mental equilibrium, what is self-control, and what is the actual meaning of tolerance and steadfastness. What are charity, austerity and heroism, and how are reality and truth to be described? What is renunciation, and what is wealth? What is desirable, what is sacrifice, and what is religious remuneration? My dear Keśava, O most fortunate one, how am I to understand the strength, opulence and profit of a particular person? What is the best education, what is actual humility, and what is real beauty? What are happiness and unhappiness? Who is learned, and who is a fool? What are the true and the false paths in life, and what are heaven and hell? Who is indeed a true friend, and what is one’s real home? Who is a rich man, and who is a poor man? Who is wretched, and who is an actual controller? O Lord of the devotees, kindly explain these matters to me, along with their opposites.",
-   "english_edits": [],
+   "english_clean": "[Text 28-32] Uddhava said: My dear Lord Kṛṣṇa, O chastiser of the enemies, please tell me how many types of disciplinary regulations and regular daily duties there are. Also, my Lord, tell me what is mental equilibrium, what is self-control, and what is the actual meaning of tolerance and steadfastness. What are charity, austerity and heroism, and how are reality and truth to be described? What is renunciation, and what is wealth? What is desirable, what is sacrifice, and what is religious remuneration? My dear Keśava, O most fortunate one, how am I to understand the strength, opulence and profit of a particular person? What is the best education, what is actual humility, and what is real beauty? What are happiness and unhappiness? Who is learned, and who is a fool? What are the true and the false paths in life, and what are heaven and hell? Who is indeed a true friend, and what is one’s real home? Who is a rich man, and who is a poor man? Who is wretched, and who is an actual controller? O Lord of the devotees, kindly explain these matters to me, along with their opposites.",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -8809,8 +8887,13 @@
    "sanskrit_mula": "उद्धव उवाच\nविधिश्च प्रतिषेधश्च निगमो हीश्वरस्य ते।\nअपेक्षतेऽरविन्दाक्ष गुणदोषं च कर्मणाम्॥ ११/२०/१॥",
    "sanskrit_bhashya": null,
    "english": "[Text 1] Śrī Uddhava said: My dear lotus-eyed Kṛṣṇa, You are the Supreme Lord, and thus the Vedic literatures, consisting of positive and negative injunctions, constitute Your order. Such literatures focus upon the good and bad qualities of work.",
-   "english_clean": "[Text 1] Śrī Uddhava said: My dear lotus-eyed Kṛṣṇa, You are the Supreme Lord, and thus the Vedic literatures, consisting of positive and negative injunctions, constitute Your order. Such literatures focus upon the good and bad qualities of work.",
-   "english_edits": [],
+   "english_clean": "[Text 1] Uddhava said: My dear lotus-eyed Kṛṣṇa, You are the Supreme Lord, and thus the Vedic literatures, consisting of positive and negative injunctions, constitute Your order. Such literatures focus upon the good and bad qualities of work.",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -10466,8 +10549,12 @@
    "sanskrit_mula": "छेत्तुमर्हसि पदमेश वचोभिस्तत्वनैपुणैः॥ ११/२२/२६॥",
    "sanskrit_bhashya": "अन्योन्याधारत्वमेव दृश्यते। नतु परमेश्वरस्यानन्याधारत्वेन प्रकृत्याधारत्वं मन्दमतीनामित्यर्थः॥ २६॥",
    "english": "[Text 26] Śrī Uddhava inquired: Although nature and the living entity are constitutionally distinct, O Lord Kṛṣṇa, there appears to be no difference between them, because they are found residing within one another. Thus the soul appears to be within nature and nature within the soul.",
-   "english_clean": "[Text 26] Śrī Uddhava inquired: Although nature and the living being are constitutionally distinct, O Lord Kṛṣṇa, there appears to be no difference between them, because they are found residing within one another. Thus the soul appears to be within nature and nature within the soul.",
+   "english_clean": "[Text 26] Uddhava inquired: Although nature and the living being are constitutionally distinct, O Lord Kṛṣṇa, there appears to be no difference between them, because they are found residing within one another. Thus the soul appears to be within nature and nature within the soul.",
    "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    },
     {
      "rule": "living entity/entities -> living being(s)",
      "count": 1
@@ -10611,8 +10698,12 @@
    "sanskrit_mula": "तन्ममाख्याहि गोविन्द दुर्विभाव्यमनात्मभिः।\nन ह्येतत् प्रायशो लोके विद्वांसोऽञ्चन्ति वञ्चिताः॥ ११/२२/३५॥\nश्रीभगवानुवाच\nमनः कर्ममयं नॄणामिन्द्रियैः पञ्चभिर्युतम्।\nलोकाल्लोकं प्रयात्यन्यमात्मा तदनुवर्तते॥ ११/२२/३६॥",
    "sanskrit_bhashya": null,
    "english": "[Text 35-36] Śrī Uddhava said: O supreme master, the intelligence of those dedicated to fruitive activities is certainly deviated from You. Please explain to me how such persons accept superior and inferior bodies by their materialistic activities and then give up such bodies. O Govinda, this topic is very difficult for foolish persons to understand. Being cheated by illusion in this world, they generally do not become aware of these facts.",
-   "english_clean": "[Text 35-36] Śrī Uddhava said: O supreme master, the intelligence of those dedicated to actions aimed at results is certainly deviated from You. Please explain to me how such persons accept superior and inferior bodies by their materialistic activities and then give up such bodies. O Govinda, this topic is very difficult for foolish persons to understand. Being cheated by illusion in this world, they generally do not become aware of these facts.",
+   "english_clean": "[Text 35-36] Uddhava said: O supreme master, the intelligence of those dedicated to actions aimed at results is certainly deviated from You. Please explain to me how such persons accept superior and inferior bodies by their materialistic activities and then give up such bodies. O Govinda, this topic is very difficult for foolish persons to understand. Being cheated by illusion in this world, they generally do not become aware of these facts.",
    "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    },
     {
      "rule": "fruitive activities -> actions aimed at results",
      "count": 1
@@ -10985,8 +11076,13 @@
    "sanskrit_mula": "विदुषामपि विश्वात्मन् प्रकृतिर्हि बलीयसी।\nऋते त्वद्धर्मनिरतान् शान्तांस्ते चरणालयान्॥ ११/२२/६०॥",
    "sanskrit_bhashya": null,
    "english": "[Text 60] Śrī Uddhava said: O best of all speakers, please explain to me how I may properly understand this.",
-   "english_clean": "[Text 60] Śrī Uddhava said: O best of all speakers, please explain to me how I may properly understand this.",
-   "english_edits": [],
+   "english_clean": "[Text 60] Uddhava said: O best of all speakers, please explain to me how I may properly understand this.",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -11000,8 +11096,13 @@
    "sanskrit_mula": "श्रीभगवानुवाच\nबाह्यान्तर्भजनो ह्यत्र साधुर्वै दुर्जनेरितैः।\nदुरुक्तैर्भिन्नमात्मानं यः समाधातुमीश्वरः॥ ११/२३/२॥",
    "sanskrit_bhashya": null,
    "english": "[Text 2] Lord Śrī Kṛṣṇa said: O disciple of Bṛhaspati, there is virtually no saintly man in this world capable of resettling his own mind after it has been disturbed by the insulting words of uncivilized men.",
-   "english_clean": "[Text 2] Lord Śrī Kṛṣṇa said: O disciple of Bṛhaspati, there is virtually no saintly man in this world capable of resettling his own mind after it has been disturbed by the insulting words of uncivilized men.",
-   "english_edits": [],
+   "english_clean": "[Text 2] Lord Kṛṣṇa said: O disciple of Bṛhaspati, there is virtually no saintly man in this world capable of resettling his own mind after it has been disturbed by the insulting words of uncivilized men.",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -11465,8 +11566,13 @@
    "sanskrit_mula": "श्रीभगवानुवाच\nइत्यभिप्रेत्य मनसा ह्यावन्त्यो द्विजसत्तमः।\nउन्मुच्य हृदयग्रन्धिं शान्तो भिक्षुरभून्मुनिः॥ ११/२३/३१॥",
    "sanskrit_bhashya": null,
    "english": "[Text 31] Lord Śrī Kṛṣṇa continued: His mind thus determined, that most excellent Avantī brāhmaṇa was able to untie the knots of desire within his heart. He then assumed the role of a peaceful and silent sannyāsī mendicant.",
-   "english_clean": "[Text 31] Lord Śrī Kṛṣṇa continued: His mind thus determined, that most excellent Avantī brāhmaṇa was able to untie the knots of desire within his heart. He then assumed the role of a peaceful and silent sannyāsī mendicant.",
-   "english_edits": [],
+   "english_clean": "[Text 31] Lord Kṛṣṇa continued: His mind thus determined, that most excellent Avantī brāhmaṇa was able to untie the knots of desire within his heart. He then assumed the role of a peaceful and silent sannyāsī mendicant.",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -11890,8 +11996,13 @@
    "sanskrit_mula": "एतां समास्थाय परात्मनिष्ठामध्यासितां पूर्वतमैर्महर्षिभिः।\nअहं तरिष्यामि दुरन्तपारं तमो मुकुन्दाङ्घ्रिनिषेवयैव॥ ११/२३/५८॥",
    "sanskrit_bhashya": null,
    "english": "[Text 58] Lord Śrī Kṛṣṇa said: Thus becoming detached upon the loss of his property, this sage gave up his moroseness. He left home, taking sannyāsa, and began to travel about the earth. Even when insulted by foolish rascals he remained unswerved from his duty and chanted this song.",
-   "english_clean": "[Text 58] Lord Śrī Kṛṣṇa said: Thus becoming detached upon the loss of his property, this sage gave up his moroseness. He left home, taking sannyāsa, and began to travel about the earth. Even when insulted by foolish rascals he remained unswerved from his duty and chanted this song.",
-   "english_edits": [],
+   "english_clean": "[Text 58] Lord Kṛṣṇa said: Thus becoming detached upon the loss of his property, this sage gave up his moroseness. He left home, taking sannyāsa, and began to travel about the earth. Even when insulted by foolish rascals he remained unswerved from his duty and chanted this song.",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -11963,8 +12074,13 @@
    "sanskrit_mula": "श्रीभगवानुवाच\nअथ ते सम्प्रवक्ष्यामि साङ्ख्यं पूर्वविनिश्चितम्।\nयद् विज्ञाय पुमान् सद्यो जह्याद् वैकल्पिकं भ्रमम्॥ ११/२४/१॥",
    "sanskrit_bhashya": null,
    "english": "[Text 1] Lord Śrī Kṛṣṇa said: Now I shall describe to you the science of Sāṅkhya, which has been perfectly established by ancient authorities. By understanding this science a person can immediately give up the illusion of material duality.",
-   "english_clean": "[Text 1] Lord Śrī Kṛṣṇa said: Now I shall describe to you the science of Sāṅkhya, which has been perfectly established by ancient authorities. By understanding this science a person can immediately give up the illusion of material duality.",
-   "english_edits": [],
+   "english_clean": "[Text 1] Lord Kṛṣṇa said: Now I shall describe to you the science of Sāṅkhya, which has been perfectly established by ancient authorities. By understanding this science a person can immediately give up the illusion of material duality.",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -13438,8 +13554,13 @@
    "sanskrit_mula": "उद्धव उवाच\nक्रियायोगं समाचक्ष्व भवदाराधनं प्रभो।\nयेन त्वां ये यथाऽर्चन्ति सात्वताः सात्वतर्षभ॥ ११/२७/१॥",
    "sanskrit_bhashya": null,
    "english": "[Text 1] Śrī Uddhava said: My dear Lord, O master of the devotees, please explain to me the prescribed method of worshiping You in Your Deity form. What are the qualifications of those devotees who worship the Deity, on what basis is such worship established, and what is the specific method of worship?",
-   "english_clean": "[Text 1] Śrī Uddhava said: My dear Lord, O master of the devotees, please explain to me the prescribed method of worshiping You in Your Deity form. What are the qualifications of those devotees who worship the Deity, on what basis is such worship established, and what is the specific method of worship?",
-   "english_edits": [],
+   "english_clean": "[Text 1] Uddhava said: My dear Lord, O master of the devotees, please explain to me the prescribed method of worshiping You in Your Deity form. What are the qualifications of those devotees who worship the Deity, on what basis is such worship established, and what is the specific method of worship?",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -14318,8 +14439,12 @@
    "sanskrit_mula": "प्रत्यक्षेणानुमानेन निगमेनात्मसंविदा।\nआद्यन्तवदसज्ज्ञात्वा निःसङ्गो विचरेदिह॥ ११/२८/१०॥",
    "sanskrit_bhashya": "“असमर्थमसत् प्रोक्तं सत् समर्थं प्रकीर्तितम्” इति च॥ १०॥",
    "english": "[Text 10] Śrī Uddhava said: My dear Lord, it is not possible for this material existence to be the experience of either the soul, who is the seer, or of the body, which is the seen object. On the one hand, the spirit soul is innately endowed with perfect knowledge, and on the other hand, the material body is not a conscious, living entity. To whom, then, does this experience of material existence pertain?",
-   "english_clean": "[Text 10] Śrī Uddhava said: My dear Lord, it is not possible for this material existence to be the experience of either the soul, who is the seer, or of the body, which is the seen object. On the one hand, the spirit soul is innately endowed with perfect knowledge, and on the other hand, the material body is not a conscious, living being. To whom, then, does this experience of material existence pertain?",
+   "english_clean": "[Text 10] Uddhava said: My dear Lord, it is not possible for this material existence to be the experience of either the soul, who is the seer, or of the body, which is the seen object. On the one hand, the spirit soul is innately endowed with perfect knowledge, and on the other hand, the material body is not a conscious, living being. To whom, then, does this experience of material existence pertain?",
    "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    },
     {
      "rule": "living entity/entities -> living being(s)",
      "count": 1
@@ -14923,8 +15048,13 @@
    "sanskrit_mula": "उद्धव उवाच\nसुदुश्चरामिमां मन्ये योगचर्यामनात्मनः।\nयथाऽञ्जसा पुमान् सिध्येत् तन्मे ब्रूह्यञ्जसाऽच्युत॥ ११/२९/१॥",
    "sanskrit_bhashya": null,
    "english": "[Text 1] Śrī Uddhava said: My dear Lord Acyuta, I fear that the method of yoga described by You is very difficult for one who cannot control his mind. Therefore please explain to me in simple terms how someone can more easily execute it.",
-   "english_clean": "[Text 1] Śrī Uddhava said: My dear Lord Acyuta, I fear that the method of yoga described by You is very difficult for one who cannot control his mind. Therefore please explain to me in simple terms how someone can more easily execute it.",
-   "english_edits": [],
+   "english_clean": "[Text 1] Uddhava said: My dear Lord Acyuta, I fear that the method of yoga described by You is very difficult for one who cannot control his mind. Therefore please explain to me in simple terms how someone can more easily execute it.",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -15023,8 +15153,13 @@
    "sanskrit_mula": "श्रीशुक उवाच\nइत्युद्धवेनात्यनुरक्तचेतसा पृष्टो जगत्क्राडनकः स्वशक्तिभिः।\nगृहीतमूर्तित्रय ईश्वरेश्वरो जगाद सप्रेम मनोहरस्मितः॥ ११/२९/७॥",
    "sanskrit_bhashya": "“आत्माऽन्तरामा परमात्मेति मूर्तित्रयं हरेः।\nजाग्रत्स्वप्नसुषुप्तीनां सृष्ट्यादेश्च प्रवर्तकम्॥”\nइति त्रैकाल्ये॥ ७॥",
    "english": "[Text 7] Śukadeva Gosvāmī said: Thus questioned by the most affectionate Uddhava, Lord Kṛṣṇa, the supreme controller of all controllers, who takes the entire universe as His plaything and assumes the three forms of Brahmā, Viṣṇu and Śiva, began to reply, lovingly displaying His all-attractive smile.",
-   "english_clean": "[Text 7] Śukadeva Gosvāmī said: Thus questioned by the most affectionate Uddhava, Lord Kṛṣṇa, the supreme controller of all controllers, who takes the entire universe as His plaything and assumes the three forms of Brahmā, Viṣṇu and Śiva, began to reply, lovingly displaying His all-attractive smile.",
-   "english_edits": [],
+   "english_clean": "[Text 7] Śukācārya said: Thus questioned by the most affectionate Uddhava, Lord Kṛṣṇa, the supreme controller of all controllers, who takes the entire universe as His plaything and assumes the three forms of Brahmā, Viṣṇu and Śiva, began to reply, lovingly displaying His all-attractive smile.",
+   "english_edits": [
+    {
+     "rule": "(Śrī) Śukadeva Gosvāmī -> Śukācārya",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -15490,8 +15625,13 @@
    "sanskrit_mula": "श्रीशुक उवाच\nस एवमादर्शितयोगमार्गस्तदोत्तमश्लोकवचो निशम्य।\nबद्धाञ्जलिः प्रीत्युपरुद्धकण्ठो न किञ्चिदूचेऽश्रुपरिप्लुताक्षः॥ ११/२९/३५॥",
    "sanskrit_bhashya": null,
    "english": "[Text 35] Śukadeva Gosvāmī said: Hearing these words spoken by Lord Kṛṣṇa, and having thus been shown the entire path of yoga, Uddhava folded his hands to offer obeisances. But his throat choked up with love and his eyes overflowed with tears; so he could say nothing.",
-   "english_clean": "[Text 35] Śukadeva Gosvāmī said: Hearing these words spoken by Lord Kṛṣṇa, and having thus been shown the entire path of yoga, Uddhava folded his hands to offer obeisances. But his throat choked up with love and his eyes overflowed with tears; so he could say nothing.",
-   "english_edits": [],
+   "english_clean": "[Text 35] Śukācārya said: Hearing these words spoken by Lord Kṛṣṇa, and having thus been shown the entire path of yoga, Uddhava folded his hands to offer obeisances. But his throat choked up with love and his eyes overflowed with tears; so he could say nothing.",
+   "english_edits": [
+    {
+     "rule": "(Śrī) Śukadeva Gosvāmī -> Śukācārya",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -15520,8 +15660,13 @@
    "sanskrit_mula": "उद्धव उवाच\nविद्रावितो मोहमयोऽन्धकारो य आश्रितो मे तव सन्निधानात्।\nविभावसोः किन्नु समीपगस्य शीतं तमोऽभिप्रभवत्यजाद्य॥ ११/२९/३७॥",
    "sanskrit_bhashya": null,
    "english": "[Text 37] Śrī Uddhava said: O unborn, primeval Lord, although I had fallen into the great darkness of illusion, my ignorance has now been dispelled by Your merciful association. Indeed, how can cold, darkness and fear exert their power over one who has approached the brilliant sun?",
-   "english_clean": "[Text 37] Śrī Uddhava said: O unborn, primeval Lord, although I had fallen into the great darkness of illusion, my ignorance has now been dispelled by Your merciful association. Indeed, how can cold, darkness and fear exert their power over one who has approached the brilliant sun?",
-   "english_edits": [],
+   "english_clean": "[Text 37] Uddhava said: O unborn, primeval Lord, although I had fallen into the great darkness of illusion, my ignorance has now been dispelled by Your merciful association. Indeed, how can cold, darkness and fear exert their power over one who has approached the brilliant sun?",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -15600,8 +15745,17 @@
    "sanskrit_mula": "अतिव्रज्य गतीस्तिस्रो मामेष्यसि ततः परम्॥ ११/२९/४५॥",
    "sanskrit_bhashya": null,
    "english": "[Text 45] Śukadeva Gosvāmī said: Thus addressed by Lord Kṛṣṇa, whose intelligence destroys all the suffering of material life, Śrī Uddhava circumambulated the Lord and then fell down, placing his head upon the Lord’s feet. Although Uddhava was free from the influence of all material dualities, his heart was breaking, and at this time of departure he drenched the Lord’s lotus feet with his tears.",
-   "english_clean": "[Text 45] Śukadeva Gosvāmī said: Thus addressed by Lord Kṛṣṇa, whose intelligence destroys all the suffering of material life, Śrī Uddhava circumambulated the Lord and then fell down, placing his head upon the Lord’s feet. Although Uddhava was free from the influence of all material dualities, his heart was breaking, and at this time of departure he drenched the Lord’s lotus feet with his tears.",
-   "english_edits": [],
+   "english_clean": "[Text 45] Śukācārya said: Thus addressed by Lord Kṛṣṇa, whose intelligence destroys all the suffering of material life, Uddhava circumambulated the Lord and then fell down, placing his head upon the Lord’s feet. Although Uddhava was free from the influence of all material dualities, his heart was breaking, and at this time of departure he drenched the Lord’s lotus feet with his tears.",
+   "english_edits": [
+    {
+     "rule": "(Śrī) Śukadeva Gosvāmī -> Śukācārya",
+     "count": 1
+    },
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -15660,8 +15814,12 @@
    "sanskrit_mula": "यदेतदानन्दसमुद्रसम्भृतं\nज्ञानामृतं भागवताय भाषितम्।\nकृष्णेन योगेश्वरसेविताङ्घ्रिणा\nसच्छ्रद्धयाऽऽसेव्य जगद् विमुच्यते॥ ११/२९/४९॥",
    "sanskrit_bhashya": null,
    "english": "[Text 49] I offer my obeisances to that Supreme Personality of Godhead, the original and greatest of all beings, Lord Śrī Kṛṣṇa. He is the author of the Vedas, and just to destroy His devotees’ fear of material existence, like a bee He has collected this nectarean essence of all knowledge and self-realization. Thus He has awarded to His many devotees this nectar from the ocean of bliss, and by His mercy they have drunk it.",
-   "english_clean": "[Text 49] I offer my obeisances to that the Lord, the original and greatest of all beings, Lord Śrī Kṛṣṇa. He is the author of the Vedas, and just to destroy His devotees’ fear of material existence, like a bee He has collected this nectarean essence of all knowledge and self-realization. Thus He has awarded to His many devotees this nectar from the ocean of bliss, and by His mercy they have drunk it.",
+   "english_clean": "[Text 49] I offer my obeisances to that the Lord, the original and greatest of all beings, Lord Kṛṣṇa. He is the author of the Vedas, and just to destroy His devotees’ fear of material existence, like a bee He has collected this nectarean essence of all knowledge and self-realization. Thus He has awarded to His many devotees this nectar from the ocean of bliss, and by His mercy they have drunk it.",
    "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    },
     {
      "rule": "(the) Supreme Personality of Godhead -> the Lord",
      "count": 1
@@ -15701,5 +15859,5 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Vedabase SB 11.7-11.29 correspond to Setutila's chapters 7-29. Sanskrit is verse-only in 'sanskrit' (Setutila mula, speaker lines attached to the verse they introduce); Madhva's commentary blocks are in sanskrit_bhashya and are NOT translated by the English. English = Prabhupada's verse translation per Vedabase 'Text' entry, fetched from the chapter pages. Setutila's verse numbers (from its own '॥ s/c/v ॥' marks) were matched to Vedabase 'Text' numbers; a chapter keeps number pairing only if the Sanskrit and English lengths stay proportional for at least 85% of pairs (align='number'; 875 units). In the other chapters (the two recensions split or number some verses differently, e.g. Setutila 11.8.20 = Vedabase Text 21) the whole chapter was aligned by Sanskrit-to-English length with 1-1, 1-2, 2-1 beads (align='length'; 40 units); spot checks were right but errors can accumulate, so filter on align == 'number' for the safest pairs. Units with align='none' have Sanskrit only (no Vedabase text found for that verse, typically the speaker-intro verse 1). A unit with several Sanskrit verses or Vedabase texts is a group. Prabhupada's translation is interpretive (purport-influenced) rather than literal, so `english` keeps his published wording untouched and `english_clean` is a rule-based neutral variant: only the term swaps listed in english_edits (per unit, with counts) were applied, e.g. '(Supreme) Personality of Godhead' -> 'the Lord', 'devotional service' -> 'devotion', 'living entity' -> 'living being', 'Supersoul' -> 'the Supreme Self', 'demigod' -> 'god', 'sense gratification' -> 'sense enjoyment', 'fruitive activities' -> 'actions aimed at results', 'spiritual master' -> 'teacher', 'pure devotee' -> 'devotee'. Nothing was deleted or rewritten beyond these swaps; terms with no neutral equivalent are only listed in english_flags (e.g. 'Kṛṣṇa consciousness'). english_clean is an edit of the source text made for this benchmark, not a published translation; use `english` when citing."
+ "notes": "Vedabase SB 11.7-11.29 correspond to Setutila's chapters 7-29. Sanskrit is verse-only in 'sanskrit' (Setutila mula, speaker lines attached to the verse they introduce); Madhva's commentary blocks are in sanskrit_bhashya and are NOT translated by the English. English = Prabhupada's verse translation per Vedabase 'Text' entry, fetched from the chapter pages. Setutila's verse numbers (from its own '॥ s/c/v ॥' marks) were matched to Vedabase 'Text' numbers; a chapter keeps number pairing only if the Sanskrit and English lengths stay proportional for at least 85% of pairs (align='number'; 875 units). In the other chapters (the two recensions split or number some verses differently, e.g. Setutila 11.8.20 = Vedabase Text 21) the whole chapter was aligned by Sanskrit-to-English length with 1-1, 1-2, 2-1 beads (align='length'; 40 units); spot checks were right but errors can accumulate, so filter on align == 'number' for the safest pairs. Units with align='none' have Sanskrit only (no Vedabase text found for that verse, typically the speaker-intro verse 1). A unit with several Sanskrit verses or Vedabase texts is a group. Prabhupada's translation is interpretive (purport-influenced) rather than literal, so `english` keeps his published wording untouched and `english_clean` is a rule-based neutral variant: only the term swaps listed in english_edits (per unit, with counts) were applied, e.g. '(Supreme) Personality of Godhead' -> 'the Lord', 'devotional service' -> 'devotion', 'living entity' -> 'living being', 'Supersoul' -> 'the Supreme Self', 'demigod' -> 'god', 'sense gratification' -> 'sense enjoyment', 'fruitive activities' -> 'actions aimed at results', 'spiritual master' -> 'teacher', 'pure devotee' -> 'devotee'; honorifics are dropped ('Sūta Gosvāmī' -> 'Sūta Paurāṇika', 'Śukadeva Gosvāmī' -> 'Śukācārya', other 'X Gosvāmī' -> 'X', 'Śrīla' and the honorific 'Śrī' before a name removed; 'Mahārāja' is left as is). Nothing was deleted or rewritten beyond these swaps; terms with no neutral equivalent are only listed in english_flags (e.g. 'Kṛṣṇa consciousness'). english_clean is an edit of the source text made for this benchmark, not a published translation; use `english` when citing."
 }

@@ -12,8 +12,12 @@
    "sanskrit_mula": "राजोवाच-\nकपिलस्तत्त्वसङ्ख्याता भगवानात्ममायया। जातः स्वयमजः साक्षादात्मप्रज्ञप्तये नृणाम्॥ ३/२६/१॥",
    "sanskrit_bhashya": null,
    "english": "[Text 1] Śrī Śaunaka said: Although He is unborn, the Supreme Personality of Godhead took birth as Kapila Muni by His internal potency. He descended to disseminate transcendental knowledge for the benefit of the whole human race.",
-   "english_clean": "[Text 1] Śrī Śaunaka said: Although He is unborn, the Lord took birth as Kapila Muni by His internal potency. He descended to disseminate transcendental knowledge for the benefit of the whole human race.",
+   "english_clean": "[Text 1] Śaunaka said: Although He is unborn, the Lord took birth as Kapila Muni by His internal potency. He descended to disseminate transcendental knowledge for the benefit of the whole human race.",
    "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    },
     {
      "rule": "(the) Supreme Personality of Godhead -> the Lord",
      "count": 1
@@ -67,8 +71,13 @@
    "sanskrit_mula": "श्रीशुक उवाच-\nद्वैपायनसखश्चैवं मैत्रेयो भगवांस्तथा। प्राहेदं विदुरं प्रीत आन्वीक्षिक्यां प्रचोदितः॥ ३/२६/४॥",
    "sanskrit_bhashya": null,
    "english": "[Text 4] Śrī Sūta Gosvāmī said: The most powerful sage Maitreya was a friend of Vyāsadeva. Being encouraged and pleased by Vidura’s inquiry about transcendental knowledge, Maitreya spoke as follows.",
-   "english_clean": "[Text 4] Śrī Sūta Gosvāmī said: The most powerful sage Maitreya was a friend of Vyāsadeva. Being encouraged and pleased by Vidura’s inquiry about transcendental knowledge, Maitreya spoke as follows.",
-   "english_edits": [],
+   "english_clean": "[Text 4] Sūta Paurāṇika said: The most powerful sage Maitreya was a friend of Vyāsadeva. Being encouraged and pleased by Vidura’s inquiry about transcendental knowledge, Maitreya spoke as follows.",
+   "english_edits": [
+    {
+     "rule": "(Śrī) Sūta Gosvāmī -> Sūta Paurāṇika",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -578,8 +587,12 @@
    "sanskrit_mula": "मैत्रेय उवाच-\nविदित्वाऽर्थं कपिलो मातुरित्थं जातस्नेहो यत्र तन्वाऽभिजातः। तत्त्वाम्नायं यत् प्रवदन्ति साङ्ख्यं प्रावोचद् वै भक्तिवितानयोगम्॥ ३/२६/३१॥",
    "sanskrit_bhashya": "“शुक्लेन जनिरन्येषां हरेः स्वतनुवैव तु।\nनित्योदितज्ञानतनोः कुतः स्याच्छुक्लतो जनिः॥”\nइति गारुडे॥ ३१॥",
    "english": "[Text 31] Śrī Maitreya said: After hearing the statement of His mother, Kapila could understand her purpose, and He became compassionate towards her because of being born of her body. He described the Sāṅkhya system of philosophy, which is a combination of devotional service and mystic realization, as received by disciplic succession.",
-   "english_clean": "[Text 31] Śrī Maitreya said: After hearing the statement of His mother, Kapila could understand her purpose, and He became compassionate towards her because of being born of her body. He described the Sāṅkhya system of philosophy, which is a combination of devotion and mystic realization, as received by disciplic succession.",
+   "english_clean": "[Text 31] Maitreya said: After hearing the statement of His mother, Kapila could understand her purpose, and He became compassionate towards her because of being born of her body. He described the Sāṅkhya system of philosophy, which is a combination of devotion and mystic realization, as received by disciplic succession.",
    "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    },
     {
      "rule": "devotional service -> devotion",
      "count": 1
@@ -2351,8 +2364,13 @@
    "sanskrit_mula": "एवं प्रत्यवमृश्यासावात्मानं प्रतिपद्यते। साहङ्कारस्य द्रव्यस्य योऽवस्थानमनुग्रहः॥ ३/२८/१७॥",
    "sanskrit_bhashya": "साहङ्कारं द्रव्यं जीवः तस्यावस्थानमनुग्राहकश्च परमात्मा।\n“नित्यदृक् परमात्माऽसौ मृतवद् यो न किञ्चन।\nजानाति जीवः स ज्ञेयः परमात्मा तदाश्रयः॥”\nइति हरिवंशेषु॥ १७॥",
    "english": "[Text 17] Śrī Devahūti inquired: My dear brāhmaṇa, does material nature ever give release to the spirit soul? Since one is attracted to the other eternally, how is their separation possible?",
-   "english_clean": "[Text 17] Śrī Devahūti inquired: My dear brāhmaṇa, does material nature ever give release to the spirit soul? Since one is attracted to the other eternally, how is their separation possible?",
-   "english_edits": [],
+   "english_clean": "[Text 17] Devahūti inquired: My dear brāhmaṇa, does material nature ever give release to the spirit soul? Since one is attracted to the other eternally, how is their separation possible?",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -3144,8 +3162,13 @@
    "sanskrit_mula": "ध्यानायनं रहसि तद् बहळाधरोष्ठ- भासाऽरुणायिततनुद्विजकुन्दपङ्क्ति। ध्यायेत् स्वहृत्कुहरकेऽवसितस्य विष्णो- र्भक्त्याऽऽर्द्रयाऽर्पितमना न पृथग् दिदृक्षेत्॥ ३/२९/३२॥",
    "sanskrit_bhashya": "न पृथग् दिदृक्षेत्। तमेव दिदृक्षेदित्यर्थः॥ ३२॥",
    "english": "[Text 32] A yogī should similarly meditate on the most benevolent smile of Lord Śrī Hari, a smile which, for all those who bow to Him, dries away the ocean of tears caused by intense grief. The yogī should also meditate on the Lord’s arched eyebrows, which are manifested by His internal potency in order to charm the sex-god for the good of the sages.",
-   "english_clean": "[Text 32] A yogī should similarly meditate on the most benevolent smile of Lord Śrī Hari, a smile which, for all those who bow to Him, dries away the ocean of tears caused by intense grief. The yogī should also meditate on the Lord’s arched eyebrows, which are manifested by His internal potency in order to charm the sex-god for the good of the sages.",
-   "english_edits": [],
+   "english_clean": "[Text 32] A yogī should similarly meditate on the most benevolent smile of Lord Hari, a smile which, for all those who bow to Him, dries away the ocean of tears caused by intense grief. The yogī should also meditate on the Lord’s arched eyebrows, which are manifested by His internal potency in order to charm the sex-god for the good of the sages.",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -3442,8 +3465,13 @@
    "sanskrit_mula": "मैत्रेय उवाच-\nइति मातुर्वचः श्लक्ष्णं प्रतिनन्द्य महामुनिः। आबभाषे कुरुश्रेष्ठ प्रीतस्तां करुणार्दितः॥ ३/३०/६॥",
    "sanskrit_bhashya": null,
    "english": "[Text 6] Śrī Maitreya said: O best amongst the Kurus, the great sage Kapila, moved by great compassion and pleased by the words of His glorious mother, spoke as follows.",
-   "english_clean": "[Text 6] Śrī Maitreya said: O best amongst the Kurus, the great sage Kapila, moved by great compassion and pleased by the words of His glorious mother, spoke as follows.",
-   "english_edits": [],
+   "english_clean": "[Text 6] Maitreya said: O best amongst the Kurus, the great sage Kapila, moved by great compassion and pleased by the words of His glorious mother, spoke as follows.",
+   "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -6447,8 +6475,12 @@
    "sanskrit_mula": "मैत्रेय उवाच-\nएवं निशम्य कपिलस्य वचो जनित्री सा कर्दमस्य दयिता किल देवहूतिः। विस्रस्तमोहपटला तमभिप्रणम्य तुष्टाव तत्त्वविषयाखिलसिद्धभूमिम्॥ ३/३४/१॥",
    "sanskrit_bhashya": null,
    "english": "[Text 1] Śrī Maitreya said: Thus Devahūti, the mother of Lord Kapila and wife of Kardama Muni, became freed from all ignorance concerning devotional service and transcendental knowledge. She offered her obeisances unto the Lord, the author of the basic principles of the Sāṅkhya system of philosophy, which is the background of liberation, and she satisfied Him with the following verses of prayer.",
-   "english_clean": "[Text 1] Śrī Maitreya said: Thus Devahūti, the mother of Lord Kapila and wife of Kardama Muni, became freed from all ignorance concerning devotion and transcendental knowledge. She offered her obeisances unto the Lord, the author of the basic principles of the Sāṅkhya system of philosophy, which is the background of liberation, and she satisfied Him with the following verses of prayer.",
+   "english_clean": "[Text 1] Maitreya said: Thus Devahūti, the mother of Lord Kapila and wife of Kardama Muni, became freed from all ignorance concerning devotion and transcendental knowledge. She offered her obeisances unto the Lord, the author of the basic principles of the Sāṅkhya system of philosophy, which is the background of liberation, and she satisfied Him with the following verses of prayer.",
    "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    },
     {
      "rule": "devotional service -> devotion",
      "count": 1
@@ -6656,8 +6688,12 @@
    "sanskrit_mula": "मैत्रेय उवाच-\nइति प्रदर्श्य भगवानुशतीमात्मनो गतिम्। स्वमात्रा ब्रह्मवादिन्या कपिलोऽनुमतो ययौ॥ ३/३४/१२॥",
    "sanskrit_bhashya": null,
    "english": "[Text 12] Śrī Maitreya said: The Supreme Personality of Godhead Kapila, after instructing His beloved mother, took permission from her and left His home, His mission having been fulfilled.",
-   "english_clean": "[Text 12] Śrī Maitreya said: The Lord Kapila, after instructing His beloved mother, took permission from her and left His home, His mission having been fulfilled.",
+   "english_clean": "[Text 12] Maitreya said: The Lord Kapila, after instructing His beloved mother, took permission from her and left His home, His mission having been fulfilled.",
    "english_edits": [
+    {
+     "rule": "honorific Śrī before a name removed",
+     "count": 1
+    },
     {
      "rule": "(the) Supreme Personality of Godhead -> the Lord",
      "count": 1
@@ -7091,5 +7127,5 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Vedabase SB 3.25-3.33 correspond to Setutila's chapters 26-34 (Setutila numbers one chapter higher in Skandha 3). Sanskrit is verse-only in 'sanskrit' (Setutila mula, speaker lines attached to the verse they introduce); Madhva's commentary blocks are in sanskrit_bhashya and are NOT translated by the English. English = Prabhupada's verse translation per Vedabase 'Text' entry, fetched from the chapter pages. Setutila's verse numbers (from its own '॥ s/c/v ॥' marks) were matched to Vedabase 'Text' numbers; a chapter keeps number pairing only if the Sanskrit and English lengths stay proportional for at least 85% of pairs (align='number'; 385 units). In the other chapters (the two recensions split or number some verses differently, e.g. Setutila 11.8.20 = Vedabase Text 21) the whole chapter was aligned by Sanskrit-to-English length with 1-1, 1-2, 2-1 beads (align='length'; 0 units); spot checks were right but errors can accumulate, so filter on align == 'number' for the safest pairs. Units with align='none' have Sanskrit only (no Vedabase text found for that verse, typically the speaker-intro verse 1). A unit with several Sanskrit verses or Vedabase texts is a group. Prabhupada's translation is interpretive (purport-influenced) rather than literal, so `english` keeps his published wording untouched and `english_clean` is a rule-based neutral variant: only the term swaps listed in english_edits (per unit, with counts) were applied, e.g. '(Supreme) Personality of Godhead' -> 'the Lord', 'devotional service' -> 'devotion', 'living entity' -> 'living being', 'Supersoul' -> 'the Supreme Self', 'demigod' -> 'god', 'sense gratification' -> 'sense enjoyment', 'fruitive activities' -> 'actions aimed at results', 'spiritual master' -> 'teacher', 'pure devotee' -> 'devotee'. Nothing was deleted or rewritten beyond these swaps; terms with no neutral equivalent are only listed in english_flags (e.g. 'Kṛṣṇa consciousness'). english_clean is an edit of the source text made for this benchmark, not a published translation; use `english` when citing."
+ "notes": "Vedabase SB 3.25-3.33 correspond to Setutila's chapters 26-34 (Setutila numbers one chapter higher in Skandha 3). Sanskrit is verse-only in 'sanskrit' (Setutila mula, speaker lines attached to the verse they introduce); Madhva's commentary blocks are in sanskrit_bhashya and are NOT translated by the English. English = Prabhupada's verse translation per Vedabase 'Text' entry, fetched from the chapter pages. Setutila's verse numbers (from its own '॥ s/c/v ॥' marks) were matched to Vedabase 'Text' numbers; a chapter keeps number pairing only if the Sanskrit and English lengths stay proportional for at least 85% of pairs (align='number'; 385 units). In the other chapters (the two recensions split or number some verses differently, e.g. Setutila 11.8.20 = Vedabase Text 21) the whole chapter was aligned by Sanskrit-to-English length with 1-1, 1-2, 2-1 beads (align='length'; 0 units); spot checks were right but errors can accumulate, so filter on align == 'number' for the safest pairs. Units with align='none' have Sanskrit only (no Vedabase text found for that verse, typically the speaker-intro verse 1). A unit with several Sanskrit verses or Vedabase texts is a group. Prabhupada's translation is interpretive (purport-influenced) rather than literal, so `english` keeps his published wording untouched and `english_clean` is a rule-based neutral variant: only the term swaps listed in english_edits (per unit, with counts) were applied, e.g. '(Supreme) Personality of Godhead' -> 'the Lord', 'devotional service' -> 'devotion', 'living entity' -> 'living being', 'Supersoul' -> 'the Supreme Self', 'demigod' -> 'god', 'sense gratification' -> 'sense enjoyment', 'fruitive activities' -> 'actions aimed at results', 'spiritual master' -> 'teacher', 'pure devotee' -> 'devotee'; honorifics are dropped ('Sūta Gosvāmī' -> 'Sūta Paurāṇika', 'Śukadeva Gosvāmī' -> 'Śukācārya', other 'X Gosvāmī' -> 'X', 'Śrīla' and the honorific 'Śrī' before a name removed; 'Mahārāja' is left as is). Nothing was deleted or rewritten beyond these swaps; terms with no neutral equivalent are only listed in english_flags (e.g. 'Kṛṣṇa consciousness'). english_clean is an edit of the source text made for this benchmark, not a published translation; use `english` when citing."
 }
