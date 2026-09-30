@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Grantha corpus work file",
+  "type": "object",
+  "required": ["id", "text", "tradition", "units", "source_sanskrit", "source_english", "bundled", "needs_ocr", "notes"],
+  "properties": {
+    "id": {"type": "string"},
+    "text": {"type": "string"},
+    "tradition": {"type": ["string", "null"]},
+    "commentator": {"type": ["string", "null"]},
+    "script": {"type": "string", "description": "Script/transliteration of the sanskrit field: IAST, Devanagari, or IAST-padaccheda"},
+    "units": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["ref", "sanskrit", "english"],
+        "properties": {
+          "ref": {"type": "string"},
+          "kind": {"enum": ["mula", "bhashya", "mula+bhashya", "prose", "verse", null]},
+          "sanskrit": {"type": ["string", "null"]},
+          "sanskrit_mula": {"type": ["string", "null"]},
+          "sanskrit_bhashya": {"type": ["string", "null"]},
+          "english": {"type": ["string", "null"]}
+        }
+      }
+    },
+    "source_sanskrit": {"type": ["object", "null"], "properties": {"citation": {"type": "string"}, "url": {"type": "string"}, "license": {"type": ["string", "null"]}}},
+    "source_english": {"type": ["object", "null"], "properties": {"citation": {"type": "string"}, "url": {"type": "string"}, "license": {"type": ["string", "null"]}}},
+    "bundled": {"type": "boolean"},
+    "needs_ocr": {"type": "boolean"},
+    "alignment": {"enum": ["row_aligned", "by_ref", "unaligned", "not_applicable"], "description": "How english relates to sanskrit per unit. row_aligned: source pairs them. by_ref: same ref scheme in two editions, not verified. unaligned: english has no per-unit split yet."},
+    "slice_of": {"type": ["object", "null"], "description": "When file is a row range of a larger source file"},
+    "notes": {"type": ["string", "null"]}
+  }
+}
