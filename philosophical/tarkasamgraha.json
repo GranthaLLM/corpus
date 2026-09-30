@@ -1,0 +1,510 @@
+{
+ "id": "5",
+ "text": "Tarkasaṃgraha of Annambhaṭṭa",
+ "tradition": "Nyaya",
+ "commentator": null,
+ "script": "IAST",
+ "units": [
+  {
+   "ref": "1",
+   "kind": "mula",
+   "sanskrit": "nidhāya hṛdi viśveśaṃ vidhāya guruvandanam | bālānāṃ sukhabodhāya kriyate tarkasaṃgrahaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2",
+   "kind": "mula",
+   "sanskrit": "dravyaguṇakarmasāmānyaviśeṣasamavāyābhāvāḥ sapta padārthāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3",
+   "kind": "mula",
+   "sanskrit": "tatra dravyāṇi pṛthivyaptejovāyvākāśakāladigātmamanāṃsi navaiva ||",
+   "english": null
+  },
+  {
+   "ref": "4",
+   "kind": "mula",
+   "sanskrit": "rūparasagandhasparśasaṃkhyāparimāṇapṛthaktvasaṃyogavibhāgaparatvāparatvagurutvadravatvasnehaśabdabuddhisukhaduḥkhecchādveṣaprayatnadharmādharmasaṃskārāś caturviṃśati guṇāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "5",
+   "kind": "mula",
+   "sanskrit": "utkṣepaṇāvakṣepaṇākuñcanaprasāraṇagamanāni pañca karmāṇi ||",
+   "english": null
+  },
+  {
+   "ref": "6",
+   "kind": "mula",
+   "sanskrit": "param aparaṃ ceti dvividhaṃ sāmānyam ||",
+   "english": null
+  },
+  {
+   "ref": "7",
+   "kind": "mula",
+   "sanskrit": "nityadravyavṛttayo viśeṣās tv anantā eva ||",
+   "english": null
+  },
+  {
+   "ref": "8",
+   "kind": "mula",
+   "sanskrit": "samavāyas tv eka eva ||",
+   "english": null
+  },
+  {
+   "ref": "9",
+   "kind": "mula",
+   "sanskrit": "abhāvaś caturvidhaḥ | prāgabhāvaḥ pradhvaṃsābhāvo 'tyantābhāvo 'nyonyābhāvaś ceti ||",
+   "english": null
+  },
+  {
+   "ref": "10",
+   "kind": "mula",
+   "sanskrit": "gandhavatī pṛthivī | sā dvividhā nityānityā ca | nityā paramāṇurūpā | anityā kāryarūpā | punas trividhā śarīrendriyaviṣayabhedāt | śarīram asmadādīnām | indriyaṃ gandhagrāhakaṃ ghrāṇaṃ nāsāgravarti | viṣayo mṛtpāṣāṇādiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "11",
+   "kind": "mula",
+   "sanskrit": "śitasparśavatya āpaḥ | tā dvividhāḥ nityā anityāś ca | ntyāḥ paramāṇurūpāḥ | anityāḥ kāryarūpāḥ. | punas trividhāḥ. śarīrendriyaviṣayabhedāt | śarīraṃ varuṇaloke | indriyaṃ rasagrāhakaṃ rasanaṃ jihvāgravarti | viṣayaḥ saritsamudrādiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "12",
+   "kind": "mula",
+   "sanskrit": "uṣṇasparśavat tejaḥ | tad dvividhaṃ nityam anityaṃ ca | niyyaṃ paramāṇurūpam | anityaṃ kāryarūpam | punas trividhaṃ śarīrendriyaviṣayabhedāt | śarīram ādityaloke | indriyaṃ rūpagrāhakaṃ cakṣuḥ kṛṣṇatārāgravarti | viṣayaś caturvidhaḥ | bhaumadivyaudaryākarajabhedāt | bhaumaṃ vahnyādikam | abindhanaṃ divyaṃ vidyudādi | bhuktasya pariṇāmahetur audaryam. ākarajaṃ suvarṇādi ||",
+   "english": null
+  },
+  {
+   "ref": "13",
+   "kind": "mula",
+   "sanskrit": "rūparahitasparśavān vāyuḥ | sa dvividho nityo 'nityaś ca | nityaḥ paramāṇurūpaḥ | anityaḥ kāryarūpaḥ | punas trividhaḥ śarīrendriyaviṣayabhedāt | śarīraṃ vāyuloke | indriyaṃ sparśagrāhakaṃ tvaksarvaśarīravarti | viṣayo vṛkṣādikampanahetuḥ || śarīrāntaḥsaṃcārī vāyuḥ prāṇaḥ | sa caiko 'py upādhibhedāt prāṇāpānādisaṃjñā labhate ||",
+   "english": null
+  },
+  {
+   "ref": "14",
+   "kind": "mula",
+   "sanskrit": "śabdaguṇam ākāśam | tac caikaṃ vibhu nityaṃ ca ||",
+   "english": null
+  },
+  {
+   "ref": "15",
+   "kind": "mula",
+   "sanskrit": "atītādivyavahārahetuḥ kālaḥ | sa caiko vibhur nityaś ca ||",
+   "english": null
+  },
+  {
+   "ref": "16",
+   "kind": "mula",
+   "sanskrit": "prācyādivyavahārahetur dik | sā caikā vibhvī nityā ca ||",
+   "english": null
+  },
+  {
+   "ref": "17",
+   "kind": "mula",
+   "sanskrit": "jñānādhikaraṇam ātmā | sa dvividhaḥ paramātmā jīvātmā ca | tatreśvaraḥ sarvajñaḥ paramātmaika eva | jīvātmā pratiśarīraṃ bhinno vibhur nityaś ca ||",
+   "english": null
+  },
+  {
+   "ref": "18",
+   "kind": "mula",
+   "sanskrit": "sukhādyupalabdhisādhanam indriyaṃ manaḥ | tac ca pratyātmaniyatatvād anantaṃ paramāṇurūpaṃ nityaṃ ca ||",
+   "english": null
+  },
+  {
+   "ref": "19",
+   "kind": "mula",
+   "sanskrit": "cakṣurmātragrāhyo guṇo rūpam | tac ca śuklanīlapītaraktaharitakapiśacitrabhedāt saptavidhaṃ pṛthivījalatejovṛtti | tatra pṛthivyāṃ saptavidham | abhāsvaraśuklaṃ jale | bhāsvaraśuklaṃ tejasi ||",
+   "english": null
+  },
+  {
+   "ref": "20",
+   "kind": "mula",
+   "sanskrit": "rasanagrāhyo guṇo rasaḥ | sa ca madhurāmlalavaṇakaṭukaṣāyatiktabhedāt ṣaḍvidhaḥ | pṛthivyāṃ ṣaḍvidhaḥ | jale madhura eva ||",
+   "english": null
+  },
+  {
+   "ref": "21",
+   "kind": "mula",
+   "sanskrit": "ghrāṇagrāhyo guṇo gandhaḥ | sa ca dvividhaḥ surabhirasurabhiś ca | pṛthivīmātravṛttiḥ |",
+   "english": null
+  },
+  {
+   "ref": "22",
+   "kind": "mula",
+   "sanskrit": "tvagindriyamātragrāhyo guṇo saparśaḥ | sa ca trividhaḥ śitoṣṇānuṣṇāśītabhedāt | pṛthivyaptejovāyuvṛttiḥ | tatra śīto jale | uṣṇas tejasi | anuṣṇāśītaḥ pṛthivīvāyvoḥ ||",
+   "english": null
+  },
+  {
+   "ref": "23",
+   "kind": "mula",
+   "sanskrit": "rūpādicatuṣṭayaṃ pṛthivyāṃ pākajam anityaṃ ca | anyatrāpākajaṃ nityam antyaṃ ca | nityagataṃ nityam | anityagatam anityam ||",
+   "english": null
+  },
+  {
+   "ref": "24",
+   "kind": "mula",
+   "sanskrit": "ekatvādivyavahārahetuḥ saṃkhyā | navadravyavṛttir ekatvādiparārdhaparyantā | ekatvaṃ nityam anityaṃ ca | nityagataṃ nityam anityagatam anityam | dvitvādikaṃ tu sarvatrānityam eva ||",
+   "english": null
+  },
+  {
+   "ref": "25",
+   "kind": "mula",
+   "sanskrit": "mānavyavahārakāraṇaṃ parimāṇaṃ | navadravyavṛtti | tac caturvidham | aṇu mahad dīrghaṃ hrasvaṃ ceti ||",
+   "english": null
+  },
+  {
+   "ref": "26",
+   "kind": "mula",
+   "sanskrit": "pṛthagvyavahārakāraṇaṃ pṛthagtvaṃ | sarvadravyavṛtti ||",
+   "english": null
+  },
+  {
+   "ref": "27",
+   "kind": "mula",
+   "sanskrit": "saṃyuktavyavahārahetuḥ saṃyogaḥ | sarvadravyavṛttiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "28",
+   "kind": "mula",
+   "sanskrit": "saṃyoganāśako guṇo vibhāgaḥ | sarvadravyavṛttiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "29",
+   "kind": "mula",
+   "sanskrit": "parāparavyavahārāsādhāraṇakāraṇe paratvāparatve | pṛthivyādicatuṣṭayamanovṛttīti | te dvividhe dikkṛte kālakṛte ca | dūrasthe dikkṛtaṃ paratvam | samīpasthe dikkṛtam aparatvam | jyeṣṭhe kālakṛthaṃ paratvam | kaniṣṭhe kālakṛtam aparatvam ||",
+   "english": null
+  },
+  {
+   "ref": "30",
+   "kind": "mula",
+   "sanskrit": "ādyapatanāsamavāyikāraṇaṃ gurutvaṃ | pṛthivījalavṛtti ||",
+   "english": null
+  },
+  {
+   "ref": "31",
+   "kind": "mula",
+   "sanskrit": "ādyasyandanāsamavāyikāraṇaṃ dravatvaṃ pṛthivyaptejovṛtti | tad dvividhaṃ sāṃsiddhikaṃ naimittikaṃ ca | sāṃsiddhikaṃ jale naimittikaṃ pṛthivītejasoḥ | pṛthivyāṃ ghṛtādāvagnisaṃyogajanyaṃ daravatvam | tejasi suvarṇādau ||",
+   "english": null
+  },
+  {
+   "ref": "32",
+   "kind": "mula",
+   "sanskrit": "cūrṇādipiṇḍībhāvahetur guṇaḥ snehaḥ | jalamātravṛttiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "33",
+   "kind": "mula",
+   "sanskrit": "śrotragrāhyo guṇaḥ śabdaḥ | ākāśamātravṛttiḥ | sa dvividho dvanyātmako varṇātmakaś ceti | dvanyātmako bheryādau | varṇātmakaḥ saṃskṛtabhāṣādirūpaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "34",
+   "kind": "mula",
+   "sanskrit": "sarvavyavahārahetur buddhir jñānam | sā dvividhā smṛtiranubhavaś ca | saṃskāramātrajanyaṃ jñānaṃ smṛtiḥ | tadbhinnaṃ jñānam anubhavaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "35",
+   "kind": "mula",
+   "sanskrit": "sa dvividho yathārtho 'yathārthaś ca | tadvati tatprakārako 'nubhavo yathārthaḥ | yathā rajata idaṃ rajatam iti jñānam | sa eva pramety ucyate | tadabhāvavati tatprakārako 'nubhavo 'yathārthaḥ | yathā śuktāv idaṃ rajatam iti jñānam ||",
+   "english": null
+  },
+  {
+   "ref": "36",
+   "kind": "mula",
+   "sanskrit": "yathārthānubhavaś caturvidhaḥ pratyakṣānumityupamitiśabdabhedāt | tatkaraṇam api caturvidhaṃ pratyakṣānumānopamānaśabdabhedāt ||",
+   "english": null
+  },
+  {
+   "ref": "37",
+   "kind": "mula",
+   "sanskrit": "asādhāraṇam kāraṇaṃ karaṇam |",
+   "english": null
+  },
+  {
+   "ref": "38",
+   "kind": "mula",
+   "sanskrit": "kāryaniyatapūrvavṛtti kāraṇam |",
+   "english": null
+  },
+  {
+   "ref": "39",
+   "kind": "mula",
+   "sanskrit": "kāryaṃ prāgabhāvapratiyogi |",
+   "english": null
+  },
+  {
+   "ref": "40",
+   "kind": "mula",
+   "sanskrit": "kāraṇaṃ trividhaṃ samavāyyasamavāyinimittabhedāt | yat samavetaṃ kāryam utpadyate tat samavāyikāraṇam | yathā tantavaḥ paṭasya paṭaś ca khagatarūpādeḥ | kāryeṇa kāraṇena vā sahaikasminn arthe samavetatve sati yat kāraṇaṃ tad asamavāyikāraṇam | yathā tantusaṃyogaḥ paṭasya tanturūpaṃ paṭarūpasya | tadubhayabhinnaṃ kāraṇaṃ nimittakāraṇam | yathā turīvemādikaṃ paṭasya |",
+   "english": null
+  },
+  {
+   "ref": "41",
+   "kind": "mula",
+   "sanskrit": "tad etattrividhakāraṇamadhye yad asādhāraṇaṃ kāraṇaṃ tad eva karaṇam ||",
+   "english": null
+  },
+  {
+   "ref": "42",
+   "kind": "mula",
+   "sanskrit": "tatra pratyakṣajñānakaraṇaṃ pratyakṣam | indriyārthasannikarṣajanyaṃ jñānaṃ pratyakṣam |tad dvividhaṃ nirvikalpakaṃ savikalpakaṃ ceti | tatra nirvikalpakaṃ jñānaṃ nirvikalpakaṃ yathedaṃ kiṃcit | saparakārakaṃ jñānaṃ savikalpakaṃ yathā ḍittho'yam brahmaṇo'yaṃ śyāmo'yam iti ||",
+   "english": null
+  },
+  {
+   "ref": "43",
+   "kind": "mula",
+   "sanskrit": "pratyakṣajñānahetur indriyārthasannikarṣaḥ ṣaḍvidhaḥ | saṃyogaḥ saṃyuktasamavāyaḥ saṃyuktasamavetasamavāyaḥ samavāyaḥ samavetasamavāyo viśeṣaṇaviśeṣyabhāvaś ceti | cakṣuṣā ghaṭapratyakṣajanane saṃyogaḥ sannikarṣaḥ | ghaṭarūpapratyakṣajanane saṃyuktasamavāyaḥ sannikarṣaḥ cakṣuḥsaṃyukte ghaṭe rūpasya samavāyāt | rūpatvasāmānyapratyakṣe saṃyuktasamavetasamavāyaḥ sannikarṣaḥ cakṣuḥsaṃyukte ghaṭe rūpaṃ samavetaṃ tatra rūpatvasya samavāyāt | śrotreṇa śabdasyākāśaguṇatvāt guṇaguṇinoś ca samavāyāt | śabdatvasākṣātkāre samavetasamavāyaḥ sannikarṣaḥ śrotrasamavete śabde śabdatvasya samavāyāt | abhāvaparatyakṣe viśeṣaṇaviśeṣyabhāvaḥ sannikarṣo ghaṭābhāvavad bhṛtalam ity atra cakṣuḥsaṃyukte bhūtale ghaṭābhāvasya viśeṣaṇatvāt | evaṃ snnikarṣaṣaṭkajanyaṃ jñānaṃ pratyakṣam | tatkaraṇam indriyam | tasmād indriyaṃ pratyakṣapramāṇam iti siddham ||",
+   "english": null
+  },
+  {
+   "ref": "44",
+   "kind": "mula",
+   "sanskrit": "anumitikaraṇam anumānam | parāmarśajanyaṃ jñānam anumitiḥ | vyāptiviśiṣṭapakṣadharmatājñānaṃ parāmarśaḥ | yathā vahnivyāpyadhūmavān ayaṃ parvata iti jñānaṃ parāmarśaḥ | taj janyaṃ parvato vahnimān iti jñānam anumitiḥ | yatra yatra dhūmas tatrāgnir iti sāhacaryaniyamo vyāptiḥ | vyāpyasya parvatādivṛttitvaṃ pakṣadharmatā ||",
+   "english": null
+  },
+  {
+   "ref": "45",
+   "kind": "mula",
+   "sanskrit": "anumānaṃ dvividhaṃ svārthaṃ parārthaṃ ca | tatra svārthaṃ svānumitihetuḥ | tathā hi svayam eva bhūyo darśanena yatra dhūmas tatra agnir iti mahānasādau vyāptiṃ gṛhītvā parvatasamīpaṃ gatas tadgate cāgnau sandihānaḥ parvate dhūmaṃ paśyan vyāptiṃ smarati yatra dhūmas tatrāgnir iti | tadantaraṃ vahnivyāpyadhūmavān ayaṃ parvata iti jñānam utpadyate | ayam eva liṅgaparāmarṣaṃ ity ucyate | tasmāt parvato vahnimān iti jñānam anumitir utpadyate | tad etat svārthānumānam | yat tu svayaṃ dhūmād agnim anumāya parapratipattyarthaṃ pañcāvayavavākyaṃ prayukte tat parārthānumānam | yathā parvato vahnimān dhūmavattvāt | yo yo dhūmavān sa vahnimān yathā mahānasaḥ | tathā cāyam | tasmāt tatheti | anena pratipāditāl lingāt paro'py agniṃ pratipadyate ||",
+   "english": null
+  },
+  {
+   "ref": "46",
+   "kind": "mula",
+   "sanskrit": "pratijñāhetūdāharaṇopanayanigamāni pañcāvayavaḥ | parvato vahnimān iti pratijñā | dhūmavattvād iti hetuḥ | yo yo dhūmavān sa so'gnimān yathā mahānasa ity udāharaṇam | tathā cāyam iti upanayaḥ | tasmāt tatheti nigamanam ||",
+   "english": null
+  },
+  {
+   "ref": "47",
+   "kind": "mula",
+   "sanskrit": "svārthānumitiparārthānumityor liṅgaparāmarśa eva karaṇam | tasmāl liṅgaparāmarśā'numānam ||",
+   "english": null
+  },
+  {
+   "ref": "48",
+   "kind": "mula",
+   "sanskrit": "liṅgaṃ trividham | anvayavyatireki kevalānvayi kevalavyatireki ceti | anvayena vyatirekeṇa ca vyāptimad anvayavyatireki | yathā vahnau sādhye dhūmavattvam | yatra dhūmas tatrāgnir yathā mahānasa ity anvayavyāptiḥ | yatra vahnir nāsti tatra dhūmo'pi nāsti yathā mahāhrada iti vyatirekavyāptiḥ | anvayamātravyāptikaṃ kevalānvayi yathā ghaṭo'bhidheyaḥ prameyatvāt paṭavat | atra prameyatvābhidhyatvayor vyatirekavyāptir nāsti sarvasyāpi prameyatvād abhidheyatvāc ca | vyatirekamātravyāptikaṃ kevalavyatireki yathā pṛthivī tarebhyo bhidyate gandhavattvāt | yad itarebhyo na bhidyate na tad gandhavat | yathā jalam | na ceyaṃ tathā | tasmān na tatheti atra yad gandhavat tad itarabhinnam ity anvayadṛṣṭanto nāsti pṛthivīmātrasya pakṣatvāt ||",
+   "english": null
+  },
+  {
+   "ref": "49",
+   "kind": "mula",
+   "sanskrit": "saṃdigdhasādhyavān pakṣaḥ | yathā dhūmavattve hetau parvataḥ ||",
+   "english": null
+  },
+  {
+   "ref": "50",
+   "kind": "mula",
+   "sanskrit": "niścitasādhyavān sapakṣaḥ | yathā tatraiva mahānasaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "51",
+   "kind": "mula",
+   "sanskrit": "niścitasādhyābhāvavān vipakṣaḥ | yathā tatraiva mahāhradaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "52",
+   "kind": "mula",
+   "sanskrit": "savyabhicāraviruddhasatpakṣāsiddhabādhitāḥ pañca hetvābhāsāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "53",
+   "kind": "mula",
+   "sanskrit": "savyabhicāro'naikāntikaḥ | sa trividhaḥ | sādhāraṇāsādhāraṇānupasaṃhāribhedāt | tatra sādhyābhāvavadvṛttiḥ sādhāraṇo anaikāntikaḥ | yathā parvato vahnimān prameyatvād iti prameyatvasya vahnyabhāvavati hrade vidyamānatvāt | sarvasapakṣavipakṣavyāvṛtto'sādhāraṇaḥ | yathā śabdo nityaḥ śabdatvād iti | śabdatvaṃ sarvebhyo nityebhyo'ntyebhyaś ca vyāvṛttaṃ śabdamātravṛtti | anvayavyatirekadṛṣṭāntarahito'nupasaṃhārī | yathā sarvam anityaṃ prameyatvād iti | atra sarvasyāpi pakṣatvād dṛṣṭānto nāsti ||",
+   "english": null
+  },
+  {
+   "ref": "54",
+   "kind": "mula",
+   "sanskrit": "sādhyābhāvavyāpto hetur viruddhaḥ | yatra śabdo nityaḥ kṛtakatvād iti | kṛtakatvaṃ hi nityatvābhāvenānityatvena vyāptam ||",
+   "english": null
+  },
+  {
+   "ref": "55",
+   "kind": "mula",
+   "sanskrit": "yasya sādhyabhāvasādhakaṃ hetvantaraṃ vidyate sa satpratipakṣaḥ | yathā śabdo nityaḥ śrāvaṇatvāc chabdatvavad iti | śabdo'nityaḥ kāryatvād ghaṭavad iti ||",
+   "english": null
+  },
+  {
+   "ref": "56",
+   "kind": "mula",
+   "sanskrit": "asiddhas trividhaḥ | āśrayāsiddhaḥ svarūpāsiddho vyāpyatvāsiddhaś ceti | āśrayāsiddho yathā gaganāravindaṃ surabhy aravindatvāt sarojāravindavat | atra gaganāravindam āśrayaḥ | sa ca nāsty eva | svarūpāsiddho yathā śabdo guṇaś cākṣuṣatvāt | atra cākṣuṣatvaṃ śabde nāsti śabdasya śrāvaṇatvāt | sopādhiko vyāpyatvāsiddhaḥ | sādhyavyāpakatve sati sādhanāvyāpaka upādhiḥ | sādhyasamānādhikaraṇātyantābhāvāpratiyogitvaṃ sādhyavyāpakatvam | sādhanavann iṣṭātyantābhāvapratiyogitvaṃ sādhāraṇāvyapakatvam | parvato dhūmavān vahnimattvād ity atrārdrendhasaṃyoga upādhiḥ | tathā hi | yatra dhūmas tatrārdrendhnasaṃyoga iti sādhyavyāpakatā | yatra vahnis tatrārdrendhanasaṃyogābhāvād iti sādhanāvyāpakatā | evaṃ sādhyavyāpakatve sati sādhanāvyāpakatvād ardrendhanasaṃyoga upādhiḥ | sopādhikatvād vahnimattvaṃ vyāpyatvāsiddham ||",
+   "english": null
+  },
+  {
+   "ref": "57",
+   "kind": "mula",
+   "sanskrit": "yasya sādhyābhāvaḥ pramāṇāntareṇa niścitaḥ sa bādhitaḥ | yathā vahnir anuṣṇo dravyatvād iti | atrānuṣṇatvaṃ sādhyaṃ tadabhāva uṣṇatvaṃ spārśanapratyakṣeṇa gṛhyata iti bādhitatvam ||",
+   "english": null
+  },
+  {
+   "ref": "58",
+   "kind": "mula",
+   "sanskrit": "upamitikaraṇam upamānam | saṃjñāsaṃjñisaṃbandhajñānam upamitiḥ | tatkaraṇaṃ sādṛśyajñānam | atideśavākyārthasmaraṇam avāntaravyāpāraḥ | tathā hi kaś cid gavayaśabdārtham ajānan kutaś cid āraṇyakapuruṣād gosadṛśo gavaya iti śrutvā vanaṃ gato vākyārthaṃ smaran gosadṛṣaṃ piṇḍaṃ paśyati | tadanantaram asau gavayaśabdavācya ity upamitir utpadyte ||",
+   "english": null
+  },
+  {
+   "ref": "59",
+   "kind": "mula",
+   "sanskrit": "āptavākyaṃ śabdaḥ | āptas tu yathārthavaktā | vākyaṃ padasamūhaḥ | yathā gām ānayeti | śaktaṃ padam | asmāt padād ayam artho boddhavya itīśvarasaṃketaḥ śaktiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "60",
+   "kind": "mula",
+   "sanskrit": "ākāṅkṣā yogyatā saṃnidhiś ca vākyārthajñānahetuḥ | padasya padāntaravyatirekaprayuktānvayānanubhāvakatvam ākāṅkṣā | arthābādho yogyatā | padānāmavilambenoccāraṇaṃ saṃnidhiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "61",
+   "kind": "mula",
+   "sanskrit": "ākāṅkṣādirahitaṃ vākyam apramāṇam | yathā gaur aśvaḥ puruṣo hastīti na pramāṇam ākāṅkṣāvirahāt | agninā siñced iti na pramāṇaṃ yogyatāvirahāt | prahare prehare'sahoccāritāni gām ānayetyādipadāni na pramāṇaṃ saṃnidhyabhāvāt ||",
+   "english": null
+  },
+  {
+   "ref": "62",
+   "kind": "mula",
+   "sanskrit": "vākyaṃ dvividham | vaidikaṃ laukikaṃ ca | vaidikam īśvaroktatvāt sarvam eva pramāṇam | laukikaṃ tv āptoktaṃ pramāṇam | anyad apramāṇam ||",
+   "english": null
+  },
+  {
+   "ref": "63",
+   "kind": "mula",
+   "sanskrit": "vākyārthajñānaṃ śabdajñānam | tatkaraṇaṃ śabdaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "64",
+   "kind": "mula",
+   "sanskrit": "ayathārthānubhavas trividhaḥ saṃśayaviparyayatarkabhedāt | ekasmin dharmini viruddhanānādharmavaiśiṣṭyāvagāhi jñānaṃ saṃśayaḥ | yathā sthāṇur vā purṣo veti | mithyājñānaṃ viparyayaḥ | yathā śuktāv idaṃ rajatam iti | vyāpyāropeṇa vyāpakāropas tarkaḥ yathā yadi vahnir na syāt tarhi dhūmo'pi na syād iti ||",
+   "english": null
+  },
+  {
+   "ref": "65",
+   "kind": "mula",
+   "sanskrit": "smṛtir api dvividhā | yathārthāyathārthā ca pramājanyā yathārthā | apramājanyāyathārthā ||",
+   "english": null
+  },
+  {
+   "ref": "66",
+   "kind": "mula",
+   "sanskrit": "sarveśām anukūlatayā vedanīyaṃ sukham ||",
+   "english": null
+  },
+  {
+   "ref": "67",
+   "kind": "mula",
+   "sanskrit": "sarveśāṃ pratikūlatayā vedanīyaṃ duḥkham ||",
+   "english": null
+  },
+  {
+   "ref": "68",
+   "kind": "mula",
+   "sanskrit": "icchā kāmaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "69",
+   "kind": "mula",
+   "sanskrit": "krodho dveṣaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "70",
+   "kind": "mula",
+   "sanskrit": "kṛtiḥ prayatnaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "71",
+   "kind": "mula",
+   "sanskrit": "vihitakarmajanyo dharmaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "72",
+   "kind": "mula",
+   "sanskrit": "niṣiddhakarmajanyas tv adharmaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "73",
+   "kind": "mula",
+   "sanskrit": "buddhyādayo'ṣṭāv ātmamātraviśeṣaguṇāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "74",
+   "kind": "mula",
+   "sanskrit": "buddhīcchāprayatnā dvividhāḥ | nityā anityāś ca | nityā īśvarasya | anityā jīvasya ||",
+   "english": null
+  },
+  {
+   "ref": "75",
+   "kind": "mula",
+   "sanskrit": "saṃskāras trividhaḥ | vego bhāvanā sthitisthāpakaś ceti | vegaḥ pṛthivyādicatuṣṭayamanovṛttiḥ | anubhavajanyā smṛtihetur bhāvanātmamātravṛttiḥ | anyathā kṛtasya punas tadavasthāpādakaḥ sthitisthāpakaḥ kaṭādipṛthivīvṛttiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "76",
+   "kind": "mula",
+   "sanskrit": "calanātmakaṃ karma | ūrdhvadeśasaṃyogahetur utkṣepaṇam | adhodeśasaṃyogahetur apakṣepaṇam | śarīrasaṃnikṛṣṭasaṃyogahetur ākuñcanam | viprakṛṣṭasaṃyogahetuḥ prasāraṇam | anyat sarvaṃ gamanam | pṛthivyādicatuṣṭayamanomātravṛtti ||",
+   "english": null
+  },
+  {
+   "ref": "77",
+   "kind": "mula",
+   "sanskrit": "nityam ekam anekānugataṃ sāmānyam | dravyaguṇakarmavṛtti | tad dvividhaṃ parāparabhedāt | paraṃ sattā | aparaṃ dravyatvādiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "78",
+   "kind": "mula",
+   "sanskrit": "nityadravyavṛttayo vyāvartakā viśeṣāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "79",
+   "kind": "mula",
+   "sanskrit": "nityasaṃbandhaḥ samavāyaḥ | ayutasiddhavṛttiḥ | yayor dvayor madhya ekam avinaśyadaparāśritam evāvatiṣṭate tāv ayutasiddau | yathāvayavāvayavinau guṇaguṇinau kriyākriyāvantau jātivyaktī viśeṣanityadravye ceti ||",
+   "english": null
+  },
+  {
+   "ref": "80",
+   "kind": "mula",
+   "sanskrit": "anādiḥ sāntaḥ prāgabhāvaḥ | utpatteḥ pūrvaṃ kāryasya | sādir anantaḥ pradhvaṃsaḥ | utpattyanantaraṃ kāryasya | traikālikasaṃsargāvacchinnapratiyogitāko'tyantābhāvaḥ | yathā bhūtale ghaṭo nāstīti | tādātmyasaṃbandhāvacchinnapratiyogitāko'nyonyābhāvaḥ yathā ghaṭaḥ paṭo na bhavatīti ||",
+   "english": null
+  },
+  {
+   "ref": "81",
+   "kind": "mula",
+   "sanskrit": "sarveṣāṃ padārthānāṃ yathāyatham ukteṣv antarbhāvāt saptaiva padārthā iti siddham ||",
+   "english": null
+  }
+ ],
+ "source_sanskrit": {
+  "citation": "Annambhatta, Tarkasamgraha, analytic text input by Takuya Ono (GRETIL); sandhi and compound markers removed",
+  "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/nyaya/antarkau.htm",
+  "license": "GRETIL: for reference purposes only, terms as for source file"
+ },
+ "source_english": {
+  "citation": "The Tarkasangraha of Annambhatta with the author's gloss Dipika and an English translation (1851 Allahabad ed., archive.org scan)",
+  "url": "https://archive.org/details/tarkasangrahaofa00annaiala",
+  "license": null
+ },
+ "bundled": false,
+ "needs_ocr": true,
+ "alignment": "unaligned",
+ "slice_of": null,
+ "notes": "Sanskrit only (81 mula sections, GRETIL analytic text with sandhi markers removed; verse 1 ab+cd is one unit). The scan's English is deliberately NOT attached: its printed section numbers do not follow GRETIL's (offset by one early, equal in the middle, drifting later, because the translator also numbers pieces of the Dipika gloss), and trial pairings by number or by length put the wrong translation on about a third of the sections. A reliable pairing needs the scan's Devanagari to be OCR'd (Sarvam Vision or similar) and matched to these sections by text, as was done for the Taittiriya Madhva file."
+}

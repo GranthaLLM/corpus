@@ -8,7 +8,7 @@ ROWS = [
     ("2", "Brahmasutra, Shankara", ["philosophical/bsb_shankara", "philosophical/bsb_shankara_gretil"], "Sanskrit Advaita Sharada; English Gambhirananda scan, 509/555 sutras; GRETIL kept as alt Sanskrit"),
     ("3", "Sri Bhashya, Ramanuja", ["philosophical/sribhashya_ramanuja"], "English only (Thibaut via wisdomlib); Sanskrit needs OCR of Annangaracharya scan"),
     ("4", "Brahmasutra, Madhva", ["philosophical/bsb_madhva"], "From project docx (Sarvam OCR English); 16 sutras have no English (missing book pages)"),
-    ("5", "Tarkasamgraha", [], "Not started (1851 scan, Sanskrit+English bundled)"),
+    ("5", "Tarkasamgraha", ["philosophical/tarkasamgraha"], "Sanskrit only (GRETIL, 81 sections); scan English not attached, its numbering does not match, needs Devanagari OCR to pair"),
     ("6", "Bhattasangraha", [], "Not started (Google Sites scans)"),
     ("7", "Sarvadarshanasamgraha", ["philosophical/sarvadarshanasamgraha"], "Mitrasamgraha rows, bundled"),
     ("8", "Vimshatika/Trimshika", ["philosophical/vimshatika_trimshika"], "Mitrasamgraha rows; appears to be the Vimshatika only"),
