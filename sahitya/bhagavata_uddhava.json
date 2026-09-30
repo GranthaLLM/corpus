@@ -436,8 +436,13 @@
    "sanskrit_mula": "अवधूतं द्विजं कञ्चिच्चरन्तमकुतोभयम्।\nकविं निरीक्ष्य निपुणं यदुः पप्रच्छ धर्मवित्॥ ११/७/२५॥",
    "sanskrit_bhashya": null,
    "english": "[Text 25] Mahārāja Yadu once observed a certain brāhmaṇa avadhūta, who appeared to be quite young and learned, wandering about fearlessly. Being himself most learned in spiritual science, the King took the opportunity and inquired from him as follows.",
-   "english_clean": "[Text 25] Mahārāja Yadu once observed a certain brāhmaṇa avadhūta, who appeared to be quite young and learned, wandering about fearlessly. Being himself most learned in spiritual science, the King took the opportunity and inquired from him as follows.",
-   "english_edits": [],
+   "english_clean": "[Text 25] King Yadu once observed a certain brāhmaṇa avadhūta, who appeared to be quite young and learned, wandering about fearlessly. Being himself most learned in spiritual science, the King took the opportunity and inquired from him as follows.",
+   "english_edits": [
+    {
+     "rule": "Mahārāja X -> King X",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -566,8 +571,13 @@
    "sanskrit_mula": "यतो यदनुशिक्षामि यथा वा नाहुषात्मज।\nतत् तथा पुरुषव्याघ्र निबोध कथयामि ते॥ ११/७/३६॥",
    "sanskrit_bhashya": null,
    "english": "[Text 36] Please listen, O son of Mahārāja Yayāti, O tiger among men, as I explain to you what I have learned from each of these gurus.",
-   "english_clean": "[Text 36] Please listen, O son of Mahārāja Yayāti, O tiger among men, as I explain to you what I have learned from each of these gurus.",
-   "english_edits": [],
+   "english_clean": "[Text 36] Please listen, O son of King Yayāti, O tiger among men, as I explain to you what I have learned from each of these gurus.",
+   "english_edits": [
+    {
+     "rule": "Mahārāja X -> King X",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -3674,8 +3684,12 @@
    "sanskrit_mula": "मत्सङ्गेन तु दैतेया यातुधाना मृगाः खगाः।\nगन्धर्वाप्सरसो नागाः सिद्धाश्चारणगुह्यकाः॥ ११/१२/३॥\nविद्याधरा मनुष्येषु वैश्याः शूद्राः स्त्रियोऽन्त्यजाः।\nरजस्तमःप्रकृतयस्तस्मिंस्तस्मिन् युगेऽनघ॥ ११/१२/४॥\nबहवो मत्पदं प्राप्ता त्वाष्ट्रकावन्तिकादयः।\nवृषपर्वा बलिर्बाणो मयश्चाथ विभीषणः॥ ११/१२/५॥",
    "sanskrit_bhashya": null,
    "english": "[Text 3-6] In every yuga many living entities entangled in the modes of passion and ignorance gained the association of My devotees. Thus, such living entities as the Daityas, Rākṣasas, birds, beasts, Gandharvas, Apsarās, Nāgas, Siddhas, Cāraṇas, Guhyakas and Vidyādharas, as well as such lower-class human beings as the vaiśyas, śūdras, women and others, were able to achieve My supreme abode. Vṛtrāsura, Prahlāda Mahārāja and others like them also achieved My abode by association with My devotees, as did personalities such as Vṛṣaparvā, Bali Mahārāja, Bāṇāsura, Maya, Vibhīṣaṇa, Sugrīva, Hanumān, Jāmbavān, Gajendra, Jaṭāyu, Tulādhāra, Dharma-vyādha, Kubjā, the gopīs in Vṛndāvana and the wives of the brāhmaṇas who were performing sacrifice.",
-   "english_clean": "[Text 3-6] In every yuga many living beings entangled in the modes of passion and ignorance gained the association of My devotees. Thus, such living beings as the Daityas, Rākṣasas, birds, beasts, Gandharvas, Apsarās, Nāgas, Siddhas, Cāraṇas, Guhyakas and Vidyādharas, as well as such lower-class human beings as the vaiśyas, śūdras, women and others, were able to achieve My supreme abode. Vṛtrāsura, Prahlāda Mahārāja and others like them also achieved My abode by association with My devotees, as did personalities such as Vṛṣaparvā, Bali Mahārāja, Bāṇāsura, Maya, Vibhīṣaṇa, Sugrīva, Hanumān, Jāmbavān, Gajendra, Jaṭāyu, Tulādhāra, Dharma-vyādha, Kubjā, the gopīs in Vṛndāvana and the wives of the brāhmaṇas who were performing sacrifice.",
+   "english_clean": "[Text 3-6] In every yuga many living beings entangled in the modes of passion and ignorance gained the association of My devotees. Thus, such living beings as the Daityas, Rākṣasas, birds, beasts, Gandharvas, Apsarās, Nāgas, Siddhas, Cāraṇas, Guhyakas and Vidyādharas, as well as such lower-class human beings as the vaiśyas, śūdras, women and others, were able to achieve My supreme abode. Vṛtrāsura, King Prahlāda and others like them also achieved My abode by association with My devotees, as did personalities such as Vṛṣaparvā, King Bali, Bāṇāsura, Maya, Vibhīṣaṇa, Sugrīva, Hanumān, Jāmbavān, Gajendra, Jaṭāyu, Tulādhāra, Dharma-vyādha, Kubjā, the gopīs in Vṛndāvana and the wives of the brāhmaṇas who were performing sacrifice.",
    "english_edits": [
+    {
+     "rule": "X Mahārāja -> King X",
+     "count": 2
+    },
     {
      "rule": "living entity/entities -> living being(s)",
      "count": 2
@@ -6185,8 +6199,13 @@
    "sanskrit_mula": "विद्ध्युद्धव त्वं दैत्यानां प्रह्लादमसुरर्षभम्।\nसोमं नक्षत्रौषधीनां धनेशं यक्षरक्षसाम्॥ ११/१६/१६॥",
    "sanskrit_bhashya": null,
    "english": "[Text 16] My dear Uddhava, among the demoniac sons of Diti know Me to be Prahlāda Mahārāja, the saintly lord of the asuras. Among the stars and herbs I am their lord, Candra (the moon), and among Yakṣas and Rākṣasas I am the lord of wealth, Kuvera.",
-   "english_clean": "[Text 16] My dear Uddhava, among the demoniac sons of Diti know Me to be Prahlāda Mahārāja, the saintly lord of the asuras. Among the stars and herbs I am their lord, Candra (the moon), and among Yakṣas and Rākṣasas I am the lord of wealth, Kuvera.",
-   "english_edits": [],
+   "english_clean": "[Text 16] My dear Uddhava, among the demoniac sons of Diti know Me to be King Prahlāda, the saintly lord of the asuras. Among the stars and herbs I am their lord, Candra (the moon), and among Yakṣas and Rākṣasas I am the lord of wealth, Kuvera.",
+   "english_edits": [
+    {
+     "rule": "X Mahārāja -> King X",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -6470,8 +6489,12 @@
    "sanskrit_mula": "ब्रह्मण्यानां बलिरहं वीराणामहमर्जुनः।\nभूतानां स्थितिरुत्पत्तिरहं वै प्रतिसङ्क्रमः॥ ११/१६/३५॥",
    "sanskrit_bhashya": null,
    "english": "[Text 35] Among those dedicated to brahminical culture I am Bali Mahārāja, the son of Virocana, and I am Arjuna among heroes. Indeed, I am the creation, maintenance and annihilation of all living entities.",
-   "english_clean": "[Text 35] Among those dedicated to brahminical culture I am Bali Mahārāja, the son of Virocana, and I am Arjuna among heroes. Indeed, I am the creation, maintenance and annihilation of all living beings.",
+   "english_clean": "[Text 35] Among those dedicated to brahminical culture I am King Bali, the son of Virocana, and I am Arjuna among heroes. Indeed, I am the creation, maintenance and annihilation of all living beings.",
    "english_edits": [
+    {
+     "rule": "X Mahārāja -> King X",
+     "count": 1
+    },
     {
      "rule": "living entity/entities -> living being(s)",
      "count": 1
@@ -11546,8 +11569,12 @@
    "sanskrit_mula": "तत्र मामनुमोदेरन् देवास्त्रिभुवनेश्वराः।\nमुहूर्तेन ब्रह्मलोकं खद्वाङ्गः समसाधयत्॥ ११/२३/३०॥",
    "sanskrit_bhashya": null,
    "english": "[Text 30] Thus may the presiding demigods of these three worlds kindly show their mercy upon me. Indeed, Mahārāja Khaṭvāṅga was able to achieve the spiritual world in a single moment.",
-   "english_clean": "[Text 30] Thus may the presiding gods of these three worlds kindly show their mercy upon me. Indeed, Mahārāja Khaṭvāṅga was able to achieve the spiritual world in a single moment.",
+   "english_clean": "[Text 30] Thus may the presiding gods of these three worlds kindly show their mercy upon me. Indeed, King Khaṭvāṅga was able to achieve the spiritual world in a single moment.",
    "english_edits": [
+    {
+     "rule": "Mahārāja X -> King X",
+     "count": 1
+    },
     {
      "rule": "demigod(s) -> god(s)",
      "count": 1
@@ -13368,8 +13395,12 @@
    "sanskrit_mula": "श्रीभगवानुवाच\nएवं प्रगायन् नृपदेवदेवः स उर्वशीलोकमथो विहाय।\nआत्मानमात्मन्यवगम्य मां वा उपारमज्ज्ञानविधूतमोहः॥ ११/२६/२५॥",
    "sanskrit_bhashya": null,
    "english": "[Text 25] The Supreme Personality of Godhead said: Having thus chanted this song, Mahārāja Purūravā, eminent among the demigods and human beings, gave up the position he had achieved in the planet of Urvaśī. His illusion cleansed away by transcendental knowledge, he understood Me to be the Supreme Soul within his heart and so at last achieved peace.",
-   "english_clean": "[Text 25] The Lord said: Having thus chanted this song, Mahārāja Purūravā, eminent among the gods and human beings, gave up the position he had achieved in the planet of Urvaśī. His illusion cleansed away by transcendental knowledge, he understood Me to be the Supreme Soul within his heart and so at last achieved peace.",
+   "english_clean": "[Text 25] The Lord said: Having thus chanted this song, King Purūravā, eminent among the gods and human beings, gave up the position he had achieved in the planet of Urvaśī. His illusion cleansed away by transcendental knowledge, he understood Me to be the Supreme Soul within his heart and so at last achieved peace.",
    "english_edits": [
+    {
+     "rule": "Mahārāja X -> King X",
+     "count": 1
+    },
     {
      "rule": "(the) Supreme Personality of Godhead -> the Lord",
      "count": 1
@@ -13539,8 +13570,13 @@
    "sanskrit_mula": "चेतसेळासुतोऽप्येवमुर्वश्या लोकनिःस्पृहः।\nमुक्तसङ्गो महीमेतामात्मारामश्चचार ह॥ ११/२६/३५॥",
    "sanskrit_bhashya": "भगवतोऽपि सतां मध्ये प्रधानत्वात् सन्तोऽहमेव चेत्युक्तम्।\n“विष्णोश्च सत्प्रधानत्वान्न सतां विद्यते परम्।\nइत्याहुर्वेदविदुषः स हि सर्वेश्वरेश्वरः॥”\nइति च॥ ३५॥",
    "english": "[Text 35] Thus losing his desire to be on the same planet as Urvaśī, Mahārāja Purūravā began to wander the earth free of all material association and completely satisfied within the self.",
-   "english_clean": "[Text 35] Thus losing his desire to be on the same planet as Urvaśī, Mahārāja Purūravā began to wander the earth free of all material association and completely satisfied within the self.",
-   "english_edits": [],
+   "english_clean": "[Text 35] Thus losing his desire to be on the same planet as Urvaśī, King Purūravā began to wander the earth free of all material association and completely satisfied within the self.",
+   "english_edits": [
+    {
+     "rule": "Mahārāja X -> King X",
+     "count": 1
+    }
+   ],
    "english_flags": [],
    "align": "number",
    "vedabase_texts": [
@@ -15859,5 +15895,5 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Vedabase SB 11.7-11.29 correspond to Setutila's chapters 7-29. Sanskrit is verse-only in 'sanskrit' (Setutila mula, speaker lines attached to the verse they introduce); Madhva's commentary blocks are in sanskrit_bhashya and are NOT translated by the English. English = Prabhupada's verse translation per Vedabase 'Text' entry, fetched from the chapter pages. Setutila's verse numbers (from its own '॥ s/c/v ॥' marks) were matched to Vedabase 'Text' numbers; a chapter keeps number pairing only if the Sanskrit and English lengths stay proportional for at least 85% of pairs (align='number'; 875 units). In the other chapters (the two recensions split or number some verses differently, e.g. Setutila 11.8.20 = Vedabase Text 21) the whole chapter was aligned by Sanskrit-to-English length with 1-1, 1-2, 2-1 beads (align='length'; 40 units); spot checks were right but errors can accumulate, so filter on align == 'number' for the safest pairs. Units with align='none' have Sanskrit only (no Vedabase text found for that verse, typically the speaker-intro verse 1). A unit with several Sanskrit verses or Vedabase texts is a group. Prabhupada's translation is interpretive (purport-influenced) rather than literal, so `english` keeps his published wording untouched and `english_clean` is a rule-based neutral variant: only the term swaps listed in english_edits (per unit, with counts) were applied, e.g. '(Supreme) Personality of Godhead' -> 'the Lord', 'devotional service' -> 'devotion', 'living entity' -> 'living being', 'Supersoul' -> 'the Supreme Self', 'demigod' -> 'god', 'sense gratification' -> 'sense enjoyment', 'fruitive activities' -> 'actions aimed at results', 'spiritual master' -> 'teacher', 'pure devotee' -> 'devotee'; honorifics are dropped ('Sūta Gosvāmī' -> 'Sūta Paurāṇika', 'Śukadeva Gosvāmī' -> 'Śukācārya', other 'X Gosvāmī' -> 'X', 'Śrīla' and the honorific 'Śrī' before a name removed; 'Mahārāja' is left as is). Nothing was deleted or rewritten beyond these swaps; terms with no neutral equivalent are only listed in english_flags (e.g. 'Kṛṣṇa consciousness'). english_clean is an edit of the source text made for this benchmark, not a published translation; use `english` when citing."
+ "notes": "Vedabase SB 11.7-11.29 correspond to Setutila's chapters 7-29. Sanskrit is verse-only in 'sanskrit' (Setutila mula, speaker lines attached to the verse they introduce); Madhva's commentary blocks are in sanskrit_bhashya and are NOT translated by the English. English = Prabhupada's verse translation per Vedabase 'Text' entry, fetched from the chapter pages. Setutila's verse numbers (from its own '॥ s/c/v ॥' marks) were matched to Vedabase 'Text' numbers; a chapter keeps number pairing only if the Sanskrit and English lengths stay proportional for at least 85% of pairs (align='number'; 875 units). In the other chapters (the two recensions split or number some verses differently, e.g. Setutila 11.8.20 = Vedabase Text 21) the whole chapter was aligned by Sanskrit-to-English length with 1-1, 1-2, 2-1 beads (align='length'; 40 units); spot checks were right but errors can accumulate, so filter on align == 'number' for the safest pairs. Units with align='none' have Sanskrit only (no Vedabase text found for that verse, typically the speaker-intro verse 1). A unit with several Sanskrit verses or Vedabase texts is a group. Prabhupada's translation is interpretive (purport-influenced) rather than literal, so `english` keeps his published wording untouched and `english_clean` is a rule-based neutral variant: only the term swaps listed in english_edits (per unit, with counts) were applied, e.g. '(Supreme) Personality of Godhead' -> 'the Lord', 'devotional service' -> 'devotion', 'living entity' -> 'living being', 'Supersoul' -> 'the Supreme Self', 'demigod' -> 'god', 'sense gratification' -> 'sense enjoyment', 'fruitive activities' -> 'actions aimed at results', 'spiritual master' -> 'teacher', 'pure devotee' -> 'devotee'; honorifics are dropped ('Sūta Gosvāmī' -> 'Sūta Paurāṇika', 'Śukadeva Gosvāmī' -> 'Śukācārya', other 'X Gosvāmī' -> 'X', 'Śrīla' and the honorific 'Śrī' before a name removed; 'Mahārāja X' and 'X Mahārāja' become 'King X'). Nothing was deleted or rewritten beyond these swaps; terms with no neutral equivalent are only listed in english_flags (e.g. 'Kṛṣṇa consciousness'). english_clean is an edit of the source text made for this benchmark, not a published translation; use `english` when citing."
 }
