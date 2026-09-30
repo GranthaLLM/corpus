@@ -1,0 +1,1968 @@
+{
+ "id": "27",
+ "text": "Śatakatraya",
+ "tradition": null,
+ "commentator": null,
+ "script": "IAST",
+ "units": [
+  {
+   "ref": "1.1",
+   "kind": "verse",
+   "sanskrit": "dik-kālādyanavacchinnānanta-cin-mātra-mūrtaye |\nsvānubhūty-eka-mānāya namaḥ śāntāya tejase ||",
+   "english": null
+  },
+  {
+   "ref": "1.2",
+   "kind": "verse",
+   "sanskrit": "boddhāro matsara-grastāḥ\nprabhavaḥ smaya-dūṣitāḥ |\nabodhopahatāḥ cānye\njīrṇam aṅge subhāṣitam ||",
+   "english": null
+  },
+  {
+   "ref": "1.3",
+   "kind": "verse",
+   "sanskrit": "ajñaḥ sukham ārādhyaḥ\nsukhataram ārādhyate viśeṣajñaḥ |\njñāna-lava-durvidagdhaṃ\nbrahmāpi taṃ naraṃ na rañjayati ||",
+   "english": null
+  },
+  {
+   "ref": "1.4",
+   "kind": "verse",
+   "sanskrit": "prasahya maṇim uddharen makara-vaktra-daṃṣṭrāntarāt\nsamudram api santaret pracalad ūrmi-mālākulam |\nbhujaṅgam api kopitaṃ śirasi puṣpavad dhārayet\nna tu pratiniviṣṭa-mūṛkha-jana-cittam ārādhayet ||",
+   "english": null
+  },
+  {
+   "ref": "1.5",
+   "kind": "verse",
+   "sanskrit": "labheta sikatāsu tailam api yatnataḥ pīḍayan\npibec ca mṛga-tṛṣṇikāsu salilaṃ pipāsārditaḥ |\nkvacid api paryaṭan śaśa-viṣāṇam āsādayet\nna tu pratiniviṣṭa-mūrkha-cittam ārādhayet ||",
+   "english": null
+  },
+  {
+   "ref": "1.6",
+   "kind": "verse",
+   "sanskrit": "vyālaṃ bāla-mṛṇāla-tantubhir asau roddhuṃ samujjṛmbhate\nchettuṃ vajra-maṇiṃ śirīṣa-kusuma-prāntena sannahyati |\nmādhuryaṃ madhu-bindunā racayituṃ kṣārāmudher īhate\nnetuṃ vāñchanti yaḥ khalān pathi satāṃ sūktaiḥ sudhā-syandibhiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.7",
+   "kind": "verse",
+   "sanskrit": "svāyattam ekānta-guṇaṃ vidhātrā\nvinirmitaṃ chādanam ajñatāyāḥ |\nviśeṣāataḥ sarva-vidāṃ samāje\nvibhūṣaṇaṃ maunam apaṇḍitānām ||",
+   "english": null
+  },
+  {
+   "ref": "1.8",
+   "kind": "verse",
+   "sanskrit": "yadā kiñcij-jño 'haṃ dvipa iva madāndhaḥ samabhavaṃ\ntadā sarvajño 'smīty abhavad avaliptaṃ mama manaḥ\nyadā kiñcit kiñcid budhajana-sakāśād avagataṃ\ntadā mūrkho 'smīti jvara iva mado me vyapagataḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.9",
+   "kind": "verse",
+   "sanskrit": "kṛmi-kula-cittaṃ lālā-klinnaṃ vigandhi-jugupsitaṃ\nnirupama-rasaṃ prītyā khādan narāsthi nirāmiṣam |\nsurapatim api śvā pārśvasthaṃ vilokya na śaṅkate\nna hi gaṇayati kṣudro jantuḥ parigraha-phalgutām ||",
+   "english": null
+  },
+  {
+   "ref": "1.10",
+   "kind": "verse",
+   "sanskrit": "śiraḥ śārvaṃ svargāt paśupati-śirastaḥ kṣitidharaṃ\nmhīdhrād uttuṅgād avanim avaneś cāpi jaladhim |\nadho 'dho gaṅgeyaṃ padam upagatā stokam\nathavāviveka-bhraṣṭānāṃ bhavati vinipātaḥ śatamukhaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.11",
+   "kind": "verse",
+   "sanskrit": "śakyo vārayituṃ jalena hutabhuk cchatreṇa sūryātapo\nnāgendro niśitāgkuśena samado daṇḍena go-gardabhau |\nvyādhir bheṣaja-saṅgrahaiś ca vividhair mantra-prayogair viṣaṃ\nsarvasyauṣadham asti śāstra-vihitaṃ mūrkhasya nasty auṣadhim ||",
+   "english": null
+  },
+  {
+   "ref": "1.12",
+   "kind": "verse",
+   "sanskrit": "sāhitya-saṅgīta-kalā-vihīnaḥ\nsākṣāt paśuḥ puccha-viṣāṇa-hīnaḥ |\ntṛṇaṃ na khādann api jīvamānas\ntad bhāga-dheyaṃ paramaṃ paśūnām ||",
+   "english": null
+  },
+  {
+   "ref": "1.13",
+   "kind": "verse",
+   "sanskrit": "yeṣāṃ na vidyā na tapo na dānaṃ\njñānaṃ na śīlaṃ na guṇo na dharmaḥ |\nte martya-loke bhuvi bhāra-bhūtā\nmanuṣya-rūpeṇa mṛgāś caranti ||",
+   "english": null
+  },
+  {
+   "ref": "1.14",
+   "kind": "verse",
+   "sanskrit": "varaṃ parvata-durgeṣu\nbhrāntaṃ vanacaraiḥ saha\nna mūrkha-jana-samparkaḥ\nsurendra-bhavaneṣv api ||",
+   "english": null
+  },
+  {
+   "ref": "1.15",
+   "kind": "verse",
+   "sanskrit": "śāstropaskṛta-śabda-sundara-giraḥ śiṣya-pradeyāgamā\nvikhyātāḥ kavayo vasanti viṣaye yasya prabhor nirdhanāḥ |\ntaj-jāḍyaṃ vasudhādipasya kavayas tv arthaṃ vināpīśvarāḥ\nkutsyāḥ syuḥ kuparīkṣakā hi maṇayo yair arghataḥ pātitāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.16",
+   "kind": "verse",
+   "sanskrit": "hartur yāti na gocaraṃ kim api śaṃ puṣṇāti yat sarvadā 'py\narthibhyaḥ pratipādyamānam aniśaṃ prāpnoti vṛddhiṃ parām |\nkalpānteṣv api na prayāti nidhanaṃ vidyākhyam antardhanaṃ\nyeṣāṃ tān prati mānam ujjhata nṛpāḥ kas taiḥ saha spardhate ||",
+   "english": null
+  },
+  {
+   "ref": "1.17",
+   "kind": "verse",
+   "sanskrit": "adhigata-paramārthān paṇḍitān māvamaṃsthās\ntṛṇam iva laghu lakṣmīr naiva tān saṃruṇaddhi |\nabhinava-mada-lekhā-śyāma-gaṇḍa-sthalānāṃ\nna bhavati bisatantur vāraṇaṃ vāraṇānām ||",
+   "english": null
+  },
+  {
+   "ref": "1.18",
+   "kind": "verse",
+   "sanskrit": "ambhojinī-vana-vihāra-vilāsam eva\nhaṃsasya hanti nitarāṃ kupito vidhātā |\nna tv asya dugdha-jala-bheda-vidhau prasiddhāṃ\nvaidagdhī-kīrtim apahartum asau samarthaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.19",
+   "kind": "verse",
+   "sanskrit": "keyūrāṇi na bhūṣayanti puruṣaṃ hārā na candrojjvalā\nna snānaṃ na vilepanaṃ na kusumaṃ nālaṅkṛtā mūrdhajāḥ |\nvāṇy ekā samalaṅkaroti puruṣaṃ yā saṃskṛtā dhāryate\nkṣīyante khalu bhūṣaṇāni satataṃ vāg-bhūṣaṇaṃ bhūṣaṇam ||",
+   "english": null
+  },
+  {
+   "ref": "1.20",
+   "kind": "verse",
+   "sanskrit": "vidyā nāma narasya rūpam adhikaṃ pracchanna-guptaṃ dhanaṃ\nvidyā bhogakarī yaśaḥ-sukhakarī vidyā gurūṇāṃ guruḥ |\nvidyā bandhujano videśa-gamane vidyā parā devatā\nvidyā rājasu pūjyate na tu dhanaṃ vidyā-vihīnaḥ paśuḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.21",
+   "kind": "verse",
+   "sanskrit": "kṣāntiś cet kavacena kiṃ kim aribhiḥ krodho 'sti ced dehināṃ\njñātiś ced analena kiṃ yadi suhṛd divyauṣadhaṃ kiṃ phalam |\nkiṃ sarpair yadi durjanāḥ kim u dhanair vidyā 'navadyā yadi\nvrīḍā cet kim u bhūṣaṇaiḥ sukavitā yady asti rājyena kim ||",
+   "english": null
+  },
+  {
+   "ref": "1.22",
+   "kind": "verse",
+   "sanskrit": "dākṣiṇyaṃ svajane dayā parijane śāṭhyaṃ sadā durjane\nprītiḥ sādhujane nayo nṛpa-jane vidvaj-jane cārjavam |\nśauryaṃ śatru-jane kṣamā guru-jane kāntā-jane dhṛṣṭatā\nye caivaṃ puruṣāḥ kalāsu kuśalās teṣv eva loka-sthitiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.23",
+   "kind": "verse",
+   "sanskrit": "jāḍyaṃ dhiyo harati siñcati vāci satyaṃ\nmānonnatiṃ diśati pāpam apākaroti |\ncetaḥ prasādayati dikṣu tanoti kīrtiṃ\nsat-saṅgatiḥ kathaya kiṃ na karoti puṃsām ||",
+   "english": null
+  },
+  {
+   "ref": "1.24",
+   "kind": "verse",
+   "sanskrit": "jayanti te sukṛtino\nrasa-siddhāḥ kavīśvarāḥ |\nnāsti yeṣāṃ yaśaḥkāye\njarā-maraṇa-jaṃ bhayam ||",
+   "english": null
+  },
+  {
+   "ref": "1.25",
+   "kind": "verse",
+   "sanskrit": "sūnuḥ sac-caritaḥ satī priyatamā svāmī prasādonmukhaḥ\nsnigdhaṃ mitram avañcakaḥ parijano niḥkleśa-leśaṃ manaḥ |\nākāro ruciraḥ sthiraś ca vibhavo vidyāvadātaṃ mukhaṃ\ntuṣṭe viṣṭapa-kaṣṭa-hāriṇi harau samprāpyate dehinā ||",
+   "english": null
+  },
+  {
+   "ref": "1.26",
+   "kind": "verse",
+   "sanskrit": "prāṇāghātān nivṛttiḥ para-dhana-haraṇe saṃyamaḥ satya-vākyaṃ\nkāle śaktyā pradānaṃ yuvati-jana-kathā-mūka-bhāvaḥ pareṣām |\ntṛṣṇā-sroto vibhaṅgo guruṣu ca vinayaḥ sarva-bhūtānukampā\nsāmānyaḥ sarva-śāstreṣv anupahata-vidhiḥ śreyasām eṣa panthāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.27",
+   "kind": "verse",
+   "sanskrit": "prārabhyate na khalu vighna-bhayena nīcaiḥ\nprārabhya vighna-vihatā viramanti madhyāḥ |\nvighnaiḥ punaḥ punar api pratihanyamānāḥ\nprārabdham uttama-janā na parityajanti ||",
+   "english": null
+  },
+  {
+   "ref": "1.28",
+   "kind": "verse",
+   "sanskrit": "asanto nābhyarthyāḥ suhṛd api na yācyaḥ kṛśa-dhanaḥ\npriyā nyāyyā vṛttir malinam asubhaṅge 'py asukaram |\nvipady uccaiḥ stheyaṃ padam anuvidheyaṃ ca mahatāṃ\nsatāṃ kenoddiṣṭaṃ viṣamam asidhārā-vratam idam ||",
+   "english": null
+  },
+  {
+   "ref": "1.29",
+   "kind": "verse",
+   "sanskrit": "kṣut-kṣāmo 'pi jarā-kṛśo 'pi śithila-prāṇo 'pi kaṣṭāṃ daśām\nāpanno 'pi vipanna-dīdhitir iti prāṇeṣu naśyatsv api |\nmattebhendra-vibhinna-kumbha-piśita-grāsaika-baddha-spṛhaḥ\nkiṃ jīrṇaṃ tṛṇam atti māna-mahatām agresaraḥ kesarī ||",
+   "english": null
+  },
+  {
+   "ref": "1.30",
+   "kind": "verse",
+   "sanskrit": "svalpa-snāyu-vasāvaśeṣa-malinaṃ nirmāṃsam apy asthi goḥ\nśvā labdhvā paritoṣam eti na tu tat tasya kṣudhā-śāntaye |\nsiṃho jambukam aṅkam āgatam api tyaktvā nihanti dvipaṃ\nsarvaḥ kṛcchra-gato 'pi vāñchanti janaḥ sattvānurūpaṃ phalam ||",
+   "english": null
+  },
+  {
+   "ref": "1.31",
+   "kind": "verse",
+   "sanskrit": "lāṅgūla-cālanam adhaś-caraṇāvapātaṃ\nbhūmau nipatya vadanodara-darśanaṃ ca |\nśvā piṇḍadasya kurute gaja-puṅgavas tu\ndhīraṃ vilokayati cāṭu-śataiś ca bhuṅkte ||",
+   "english": null
+  },
+  {
+   "ref": "1.32",
+   "kind": "verse",
+   "sanskrit": "parivartini saṃsāre\nmṛtaḥ ko vā na jāyate |\nsa jāto yena jātena\nyāti vaṃśaḥ samunnatim ||",
+   "english": null
+  },
+  {
+   "ref": "1.33",
+   "kind": "verse",
+   "sanskrit": "kusuma-stavakasyeva\ndvayī vṛttir manasvinaḥ |\nmūrdhni vā sarva-lokasya\nśīryate vana eva vā ||",
+   "english": null
+  },
+  {
+   "ref": "1.34",
+   "kind": "verse",
+   "sanskrit": "santy anye 'pi bṛhaspati-prabhṛtayaḥ sambhāvitāḥ pañcaṣās\ntān praty eṣa viśeṣa-vikrama-rucī rāhur na vairāyate |\ndvāv eva grasate divākara-niśā-prāṇeśvarau bhāskarau\nbhrātaḥ parvaṇi paśya dānava-patiḥ śīrṣāvaśeṣākṛtiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.35",
+   "kind": "verse",
+   "sanskrit": "vahati bhuvana-śreṇiṃ śeṣaḥ phaṇāphalaka-sthitāṃ\nkamaṭha-patinā madhye-pṛṣṭhaṃ sadā sa ca dhāryate |\ntam api kurute kroḍādhīnaṃ payodhir anādarād\nahaha mahatāṃ niḥsīmānaś caritra-vibhūtayaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.36",
+   "kind": "verse",
+   "sanskrit": "varaṃ pakṣa-cchedaḥ samadamaghavan-mukta-kuliśaprahārair\nudgacchad-bahula-dahanodgāra-gurubhiḥ |\ntuṣārādreḥ sūnor ahaha pitari kleśa-vivaśe\nna cāsau sampātaḥ payasi payasāṃ patyur ucitaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.37",
+   "kind": "verse",
+   "sanskrit": "siṃhaḥ śiśur api nipatati\nmada-malina-kapola-bhittiṣu gajeṣu |\nprakṛtir iyaṃ sattvavatāṃ\nna khalu vayas tejaso hetuḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.38",
+   "kind": "verse",
+   "sanskrit": "jātir yātu rasātalaṃ guṇa-gaṇais tatrāpy adho gamyatāṃ\nśīlaṃ śaila-taṭāt patatv abhijanaḥ sandahyatāṃ vahninā |\nśaurye vairiṇi vajram āśu nipatatv artho 'stu naḥ kevalaṃ\nyenaikena vinā guṇas tṛṇa-lava-prāyāḥ samastā ime ||",
+   "english": null
+  },
+  {
+   "ref": "1.39",
+   "kind": "verse",
+   "sanskrit": "dhanam arjaya kākutstha\ndhana-mūlam idaṃ jagat |\nantaraṃ nābhijānāmi\nnirdhanasya mṛtasya ca ||",
+   "english": null
+  },
+  {
+   "ref": "1.40",
+   "kind": "verse",
+   "sanskrit": "tānīndriyāṇy avikalāni tad eva nāma\nsā buddhir apratihatā vacanaṃ tad eva |\narthoṣmaṇā virahitaḥ puruṣaḥ kṣaṇena\nso 'py anya eva bhavatīti vicitram etat ||",
+   "english": null
+  },
+  {
+   "ref": "1.41",
+   "kind": "verse",
+   "sanskrit": "yasyāsti vittaṃ sa naraḥ kulīnaḥ\nsa paṇḍitaḥ sa śrutavān guṇajñaḥ |\nsa eva vaktā sa ca darśanīyaḥ\nsarve guṇāḥ kāñcanam āśrayanti ||",
+   "english": null
+  },
+  {
+   "ref": "1.42",
+   "kind": "verse",
+   "sanskrit": "daurmantryān nṛpatir vinaśyati yatiḥ saṅgāt suto lālanāt\nvipro 'nadhyayanāt kulaṃ kutanayāc chīlaṃ khalopāsanāt |\nhrīr madyād anavekṣaṇād api kṛṣiḥ snehaḥ pravāsāśrayān\nmaitrī cāpraṇayāt samṛddhir anayāt tyāga-pramādād dhanam ||",
+   "english": null
+  },
+  {
+   "ref": "1.43",
+   "kind": "verse",
+   "sanskrit": "dānaṃ bhogo nāśas tisro\ngatayo bhavanti vittasya |\nyo na dadāti na bhuṅkte\ntasya tṛtīyā gatir bhavati ||",
+   "english": null
+  },
+  {
+   "ref": "1.44",
+   "kind": "verse",
+   "sanskrit": "maṇiḥ śāṇollīḍhaḥ samara-vijayī heti-dalito\nmada-kṣīṇo nāgaḥ śaradi saritaḥ śyāna-pulināḥ |\nkalā-śeṣaś candraḥ surata-mṛditā bāla-vanitā\ntan-nimnā śobhante galita-vibhavāś cārthiṣu narāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.45",
+   "kind": "verse",
+   "sanskrit": "parikṣīṇaḥ kaścit spṛhayati yavānāṃ prasṛtaye\nsa paścāt sampūrṇaḥ kalayati dharitrīṃ tṛṇa-samām |\nataś cānaikāntyād guru-laghutayā 'rtheṣu dhaninām\navasthā vastūni prathayati ca saṅkocayati ca ||",
+   "english": null
+  },
+  {
+   "ref": "1.46",
+   "kind": "verse",
+   "sanskrit": "rājan dudhukṣasi yadi kṣiti-dhenum etāṃ\ntenādya vatsam iva lokam amuṃ puṣāṇa\ntasmiṃś ca samyag aniśaṃ paripoṣyamāṇe\nnānā-phalaiḥ phalati kalpalateva bhūmiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.47",
+   "kind": "verse",
+   "sanskrit": "satyānṛtā ca paruṣā priya-vādinī ca\nhiṃsrā dayālur api cārthaparā vadānyā |\nnitya-vyayā pracura-nitya-dhanāgamā ca\nvārāṅganeva nṛpa-nītir aneka-rūpā ||",
+   "english": null
+  },
+  {
+   "ref": "1.48",
+   "kind": "verse",
+   "sanskrit": "ājñā kīrtiḥ pālanaṃ brāhmaṇānāṃ\ndānaṃ bhogo mitra-saṃrakṣaṇaṃ ca\nyeṣām ete ṣaḍguṇā na pravṛttāḥ\nko 'rthas teṣāṃ pārthivopāśrayeṇa ||",
+   "english": null
+  },
+  {
+   "ref": "1.49",
+   "kind": "verse",
+   "sanskrit": "yad dhātrā nija-bhāla-paṭṭa-likhitaṃ stokaṃ mahad vā dhanaṃ\ntat prāpnoti marusthale 'pi nitarāṃ merau tato nādhikam |\ntad dhīro bhava vittavatsu kṛpaṇāṃ vṛttiṃ vṛthā sā kṛthāḥ\nkūpe paśya payonidhāv api ghaṭo gṛhṇāti tulyaṃ jalam ||",
+   "english": null
+  },
+  {
+   "ref": "1.50",
+   "kind": "verse",
+   "sanskrit": "tvam eva cātakādhāro '\nsīti keṣāṃ na gocaraḥ |\nkim ambhoda-varāsmākaṃ\nkārpaṇyoktaṃ pratīkṣase ||",
+   "english": null
+  },
+  {
+   "ref": "1.51",
+   "kind": "verse",
+   "sanskrit": "re re cātaka sāvadhāna-manasā mitra kṣaṇaṃ śrūyatām\nambhodā bahavo vasanti gagane sarve 'pi naitādṛśāḥ |\nkecid vṛṣṭibhir ārdrayanti vasudhāṃ garjanti kecid vṛthā\nyaṃ yaṃ paśyasi tasya tasya purato mā brūhi dīnaṃ vacaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.52",
+   "kind": "verse",
+   "sanskrit": "akaruṇatvam akāraṇa-vigrahaḥ\nparadhane parayoṣiti ca spṛhā |\nsujana-bandhujaneṣv asahiṣṇutā\nprakṛti-siddham idaṃ hi durātmanām ||",
+   "english": null
+  },
+  {
+   "ref": "1.53",
+   "kind": "verse",
+   "sanskrit": "durjanaḥ parihartavyo\nvidyayā 'lakṛto 'pi san |\nmaṇinā bhūṣitaḥ sarpaḥ\nkim asau na bhayaṅkaraḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.54",
+   "kind": "verse",
+   "sanskrit": "jāḍyaṃ hrīmati gaṇyate vrata-rucau dambhaḥ śucau kaitavaṃ\nśūre nirghṛṇatā munau vimatitā dainyaṃ priyālāpini |\ntejasviny avaliptatā mukharatā vaktary aśaktiḥ sthire\ntat ko nāma guṇo bhavet sa guṇināṃ yo durjanair nāṅkitaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.55",
+   "kind": "verse",
+   "sanskrit": "lobhaś ced aguṇena kiṃ piśunatā yady asti kiṃ pātakaiḥ\nsatyaṃ cet tapasā ca kiṃ śuci mano yady asti tīrthena kim |\nsaujanyaṃ yadi kiṃ guṇaiḥ sumahimā yady asti kiṃ maṇḍanaiḥ\nsad-vidyā yadi kiṃ dhanair apayaśo yady asti kiṃ mṛtyunā ||",
+   "english": null
+  },
+  {
+   "ref": "1.56",
+   "kind": "verse",
+   "sanskrit": "śaśī divasa-dhūsaro galita-yauvanā kāminī\nsaro vigata-vārijaṃ mukham anakṣaraṃ svākṛteḥ |\nprabhur dhana-parāyaṇaḥ satata-durgataḥ sajjano\nnṛpāṅgaṇa-gataḥ khalo manasi sapta śalyāni me ||",
+   "english": null
+  },
+  {
+   "ref": "1.57",
+   "kind": "verse",
+   "sanskrit": "na kaścic caṇḍa-kopānām\nātmīyo nāma bhūbhujām |\nhotāram api juhvānaṃ\nspṛṣṭo vahati pāvakaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.58",
+   "kind": "verse",
+   "sanskrit": "maunomūkaḥ pravacana-paṭur bāṭulo jalpako vā\ndhṛṣṭaḥ pārśve vasati ca sadā dūrataś cāpragalbhaḥ |\nkṣāntyā bhīrur yadi na sahate prāyaśo nābhijātaḥ\nsevādharmaḥ parama-gahano yoginām apy agamyaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.59",
+   "kind": "verse",
+   "sanskrit": "udbhāsitākhila-khalasya viśṛṅkhalasya\nprāg-jāta-vistṛta-nijādhama-karma-vṛtteḥ |\ndaivād avāpta-vibhavasya guṇa-dviṣo 'sya\nnīcasya gocara-gataiḥ sukham āpyate ||",
+   "english": null
+  },
+  {
+   "ref": "1.60",
+   "kind": "verse",
+   "sanskrit": "ārambha-gurvī kṣayiṇī krameṇa\nlaghvī purā vṛddhimatī ca paścāt |\ndinasya pūrvārdha-parārdha-bhinnā\nchāyeva maitrī khala-saj-janānām ||",
+   "english": null
+  },
+  {
+   "ref": "1.61",
+   "kind": "verse",
+   "sanskrit": "mṛga-mīna-sajjanānāṃ tṛṇa-jala-santoṣa-vihita-vṛttīnām |\nlubdhaka-dhīvara-piśunā niṣkāraṇa-vairiṇo jagati ||",
+   "english": null
+  },
+  {
+   "ref": "1.62",
+   "kind": "verse",
+   "sanskrit": "vāñchā sajjana-saṅgame para-guṇe prītir gurau namratā\nvidyāyāṃ vyasanaṃ sva-yoṣiti ratir lokāpavādād bhayam |\nbhaktiḥ śūlini śaktir ātma-damane saṃsarga-muktiḥ khale\nyeṣv ete nivasanti nirmala-guṇās tebhyo narebhyo namaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.63",
+   "kind": "verse",
+   "sanskrit": "vipadi dhairyam athābhyudaye kṣamā\nsadasi vākya-paṭutā yudhi vikramaḥ |\nyaśasi cābhirucir vyasanaṃ śrutau\nprakṛti-siddham idaṃ hi mahātmanām ||",
+   "english": null
+  },
+  {
+   "ref": "1.64",
+   "kind": "verse",
+   "sanskrit": "pradānaṃ pracchannaṃ gṛham upagate sambhrama-vidhiḥ\npriyaṃ kṛtvā maunaṃ sadasi kathanaṃ cāpy upakṛteḥ |\nanutseko lakṣmyām anabhibhava-gandhāḥ para-kathāḥ\nsatāṃ kenoddiṣṭaṃ viṣamam asidhārā-vratam idam ||",
+   "english": null
+  },
+  {
+   "ref": "1.65",
+   "kind": "verse",
+   "sanskrit": "kare ślāghyas tyāgaḥ śirasi guru-pāda-praṇayitā\nmukhe satyā vāṇī vijayi bhujayor vīryam atulam |\nhṛdi svacchā vṛttiḥ śrutim adhigataṃ ca śravaṇayor\nvināpy aiśvaryeṇa prakṛti-mahatāṃ maṇḍanam idam ||",
+   "english": null
+  },
+  {
+   "ref": "1.66",
+   "kind": "verse",
+   "sanskrit": "sampatsu mahatāṃ cittaṃ bhavaty utpala-komalam |āpatsu ca mahāśailaśilā- saṅghāta-karkaśam ||",
+   "english": null
+  },
+  {
+   "ref": "1.67",
+   "kind": "verse",
+   "sanskrit": "santaptāyasi saṃsthitasya payaso nāmāpi na jñāyate\nmuktākāratayā tad eva nalinī-patra-sthitaṃ rājate |\nsvātyāṃ sāgara-śukti-madhya-patitaṃ tan-mauktikaṃ jāyate\nprāyeṇādhama-madhyamottama-guṇaḥ saṃsargato jāyate ||",
+   "english": null
+  },
+  {
+   "ref": "1.68",
+   "kind": "verse",
+   "sanskrit": "prīṇāti yaḥ sucaritaiḥ pitaraṃ sa putro\nyad bhartur eva hitam icchati tat kalatram |\ntan mitram āpadi sukhe ca sama-kriyaṃ yad\netat trayaṃ jagati puṇya-kṛto labhante ||",
+   "english": null
+  },
+  {
+   "ref": "1.69",
+   "kind": "verse",
+   "sanskrit": "eko devaḥ keśavo vā śivo vā\nhy ekaṃ mitraṃ bhūpatir vā yatir vā |\neko vāsaḥ pattane vā vane vā\nhy ekā bhāryā sundarī vā darī vā ||",
+   "english": null
+  },
+  {
+   "ref": "1.70",
+   "kind": "verse",
+   "sanskrit": "namratvenonnamantaḥ para-guṇa-kathanaiḥ svān guṇān khyāpayantaḥ\nsvārthān sampādayanto vitata-pṛthutarārambha-yatnāḥ parārthe |\nkṣāntyaivākṣepa-rukṣākṣara-mukhara-mukhān durjanān dūṣayantaḥ\nsantaḥ sāścarya-caryā jagati bahu-matāḥ kasya nābhyarcanīyāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.71",
+   "kind": "verse",
+   "sanskrit": "bhavanti namrās taravaḥ phalodgamair\nnavāmbubhir dūrāvalambino ghanāḥ |\nanuddhatāḥ sat-puruṣāḥ samṛddhibhiḥ\nsvabhāva eṣa paropakāriṇām ||",
+   "english": null
+  },
+  {
+   "ref": "1.72",
+   "kind": "verse",
+   "sanskrit": "śrotraṃ śrutenaiva na kuṇḍalena\ndānena pāṇir na tu kaṅkaṇena |\nvibhāti kāyaḥ karuṇa-parāṇāṃ\nparopakārair na tu candanena ||",
+   "english": null
+  },
+  {
+   "ref": "1.73",
+   "kind": "verse",
+   "sanskrit": "pāpān nivārayati yojayate hitāya\nguhyaṃ nigūhati guṇān prakaṭīkaroti |\nāpad-gataṃ ca na jahāti dadāti kāle\nsan-mitra-lakṣaṇam idaṃ pravadanti santaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.74",
+   "kind": "verse",
+   "sanskrit": "padmākaraṃ dinakaro vikacīkaroti\ncamdrp volāsayati kairava-cakravālam |\nnābhyarthito jaladharo 'pi jalaṃ dadāti\nsantaḥ svayaṃ parahite vihitābhiyogāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.75",
+   "kind": "verse",
+   "sanskrit": "eke sat-puruṣāḥ parārtha-ghaṭakāḥ svārthaṃ parityajanti ye\nsāmānyās tu parārtham udyama-bhṛtaḥ svārthāvirodhena ye |\nte 'mī mānuṣa-rākṣasāḥ parahitaṃ svārthāya nighnanti ye\nye tu ghnanti nirarthakaṃ parahitaṃ te ke na jānīmahe ||",
+   "english": null
+  },
+  {
+   "ref": "1.76",
+   "kind": "verse",
+   "sanskrit": "kṣīreṇātmagatodakāya hi guṇā dattā purā te 'khilā\nkṣīrottāpam avekṣya tena payasā svātmā kṛśānau hutaḥ |\ngantuṃ pāvakam unmanas tad abhavad dṛṣṭvā tu mitrāpadaṃ\nyuktaṃ tena jalena śāmyati satāṃ maitrī punas tv īdṛśī ||",
+   "english": null
+  },
+  {
+   "ref": "1.77",
+   "kind": "verse",
+   "sanskrit": "itaḥ svapiti keśavaḥ kulam itas tadīya-dviṣām\nitaś ca śaraṇārthināṃ śikhariṇāṃ gaṇāḥ śerate |\nito 'pi baḍavānalaḥ saha samasta-saṃvartakaiṛ\naho vitatam ūrjitaṃ bhara-sahaṃ sindhor vapuḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.78",
+   "kind": "verse",
+   "sanskrit": "tṛṣṇāṃ chindhi bhaja kṣamāṃ jahi madaṃ pāpe ratiṃ mā kṛthāḥ\nsatyaṃ brūhy anuyāhi sādhu-padavīṃ sevasva vidvaj-janam |\nmānyān mānaya vidviṣo 'py anunaya prakhyāpaya praśrayaṃ\nkīrtiṃ pālaya duḥkhite kuru dayām etat satāṃ ceṣṭitam ||",
+   "english": null
+  },
+  {
+   "ref": "1.79",
+   "kind": "verse",
+   "sanskrit": "manasi vacasi kāye puṇya-pīyūṣa-pūrṇās\ntribhuvanam upakāra-śreṇibhiḥ prīṇayantaḥ |\npara-guṇa-paramāṇūn parvatīkṛtya nityaṃ\nnija-hṛdi vikasantaḥ santa santaḥ kiyantaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.80",
+   "kind": "verse",
+   "sanskrit": "kiṃ tena hema-giriṇā rajatādriṇā vā\nyatrāśritāś ca taravas taravas ta eva |\nmanyāmahe malayam eva yad-āśrayeṇa\nkaṅkola-nimba-kaṭujā api candanāḥ syuḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.81",
+   "kind": "verse",
+   "sanskrit": "ratnair mahārhais tutuṣur na devā\nna bhejire bhīma-viṣeṇa bhītim |\nsudhāṃ vinā na parayur virāmaṃ\nna niścitārthād viramanti dhīrāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.82",
+   "kind": "verse",
+   "sanskrit": "kvacit pṛthvīśayyaḥ kvacid api ca paraṅka-śayanaḥ\nkvacic chākāhāraḥ kvacid api ca śālyodana-ruciḥ |\nkvacit kanthādhārī kvacid api ca divyāmbaradharo\nmanasvī kāryārthī na gaṇayati duḥkhaṃ na ca sukham ||",
+   "english": null
+  },
+  {
+   "ref": "1.83",
+   "kind": "verse",
+   "sanskrit": "aiśvaryasya vibhūṣaṇaṃ sujanatā śauryasya vāk-saṃyamo\njñānasyopaśamaḥ śrutasya vinayo vittasya pātre vyayaḥ |\nakrodhas tapasaḥ kṣamā prabhavitur dharmasya nirvājatā\nsarveṣām api sarva-kāraṇam idaṃ śīlaṃ paraṃ bhūṣaṇam ||",
+   "english": null
+  },
+  {
+   "ref": "1.84",
+   "kind": "verse",
+   "sanskrit": "nindantu nīti-nipuṇā yadi vā stuvantu\nlakṣmīḥ samāviśatu gacchatu vā yatheṣṭham |\nadyaiva vā maraṇam astu yugāntare vā\nnyāyyāt pathaḥ pravicalanti padaṃ na dhīrāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.85",
+   "kind": "verse",
+   "sanskrit": "bhagnāśasya karaṇḍa-piṇḍita-tanor mlānendriyasya kṣudhā\nkṛtvākhur vivaraṃ svayaṃ nipatito naktaṃ mukhe bhoginaḥ |\ntṛptas tat-piśitena satvaram asau tenaiva yātaḥ yathā\nlokāḥ paśyata daivam eva hi nṛṇāṃ vṛddhau kṣaye kāraṇam ||",
+   "english": null
+  },
+  {
+   "ref": "1.86",
+   "kind": "verse",
+   "sanskrit": "ālasyaṃ hi manuṣyāṇāṃ\nśarīrastho mahān ripuḥ |\nnāsty udyama-samo bandhuḥ\nkurvāṇo nāvasīdati ||",
+   "english": null
+  },
+  {
+   "ref": "1.87",
+   "kind": "verse",
+   "sanskrit": "chinno 'pi rohati tar kṣīṇo 'py upacīyate punaś candraḥ |\niti vimṛśantaḥ santaḥ santapyante na duḥkheṣu ||",
+   "english": null
+  },
+  {
+   "ref": "1.88",
+   "kind": "verse",
+   "sanskrit": "netā yasya bṛhaspatiḥ praharaṇaṃ vajraṃ surāḥ sainikāḥ\nsvargo durgam anugrahaḥ kila harer airāvato vāraṇaḥ |\nity aiśvarya-balānvito 'pi balabhid bhagnaḥ paraiḥ saṅgare\ntad vyaktaṃ nanu daivam eva śaraṇaṃ dhig dhig vṛthā pauruṣam ||",
+   "english": null
+  },
+  {
+   "ref": "1.89",
+   "kind": "verse",
+   "sanskrit": "karmāyattaṃ phalaṃ puṃsāṃ\nbuddhiḥ karmānusāriṇī |\ntathāpi sudhiyā bhāvyaṃ\nsuvicāryaiva kurvatā ||",
+   "english": null
+  },
+  {
+   "ref": "1.90",
+   "kind": "verse",
+   "sanskrit": "khalv āto divaseśvarasya kiraṇaiḥ santāḍito mastake\nvāñchan deśam anātapaṃ vidhi-vaśāt tālasya mūlaṃ gataḥ |\ntatrāpy asya mahāphalena patatā bhagnaṃ saśabdaṃ śiraḥ\nprāyo gacchati yatra bhāgya-rahitas tatraiva yānty āpadaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.91",
+   "kind": "verse",
+   "sanskrit": "ravi-niśākarayor graha-pīḍanaṃ\ngaja-bhujaṅgamayor api bandhanam |\nmatimatāṃ ca vilokya daridratāṃ\nvidhir aho balavān iti me matiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.92",
+   "kind": "verse",
+   "sanskrit": "sṛjati tāvad aśeṣa-guṇakaraṃ\npuruṣa-ratnam alaṅkaraṇaṃ bhuvaḥ |\ntad api tat-kṣaṇa-bhaṅgi karoti\nced ahaha kaṣṭam apaṇḍitatā vidheḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.93",
+   "kind": "verse",
+   "sanskrit": "patraṃ naiva yadā karīra-viṭape doṣo vasantasya kim\nnolūko 'py avaokate yadi divā sūryasya kiṃ dūṣaṇam |\ndhārā naiva patanti cātaka-mukhe meghasya kiṃ dūṣaṇam\nyat pūrvaṃ vidhinā lalāṭa-likhitaṃ tan mārjituṃ kaḥ kṣamaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.94",
+   "kind": "verse",
+   "sanskrit": "namasyāmo devān nanu hatavidhes te 'pi vaśagā\nvidhir vandyaḥ so 'pi pratiniyata-karmaika-phaladaḥ |\nphalaṃ karmāyattaṃ yadi kim amaraiḥ kiṃ ca vidhinā\nnamas tat-karmabhyo vidhir api na yebhyaḥ prabhavati ||",
+   "english": null
+  },
+  {
+   "ref": "1.95",
+   "kind": "verse",
+   "sanskrit": "brahmā yena kulālavan niyamito brahmāḍa-bhāṇḍodare\nviṣṇur yena daśāvatāra-gahane kṣipto mahā-saṅkaṭe |\nrudro yena kapāla-pāṇi-puṭake bhikṣāṭanaṃ kāritaḥ\nsūryo bhrāmyati nityam eva gagane tasmai namaḥ karmaṇe ||",
+   "english": null
+  },
+  {
+   "ref": "1.96",
+   "kind": "verse",
+   "sanskrit": "naivākṛtiḥ phalati naivaa kulaṃ na śīlaṃ\nvidyāpi naiva na ca yatna-kṛtāpi sevā |\nbhāgyāni pūrva-tapasā khalu sañcitāni\nkāle phalanti puruṣasya yathaiva vṛkṣāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.97",
+   "kind": "verse",
+   "sanskrit": "vane raṇe śatru-jalāgni-madhye\nmahārṇave parvata-mastake vā |\nsuptaṃ pramattaṃ viṣama-sthitaṃ vā\nrakṣanti puṇyāni purākṛtāni ||",
+   "english": null
+  },
+  {
+   "ref": "1.98",
+   "kind": "verse",
+   "sanskrit": "yā sādhūṃś ca khalān karoti viduṣo mūrkhān hitān dveṣiṇaḥ\npratyakṣaṃ kurute parīkṣam amṛtaṃ hālāhalaṃ tat-kṣaṇāt |\ntām ārādhaya sat-kriyāṃ bhagavatīṃ bhoktuṃ phalaṃ vāñchitaṃ\nhe sādho vyasanair guṇeṣu vipuleṣv āsthāṃ vṛthā mā kṛthāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.99",
+   "kind": "verse",
+   "sanskrit": "guṇavad aguṇavad vā kurvatā kārya-jātaṃ\npariṇatir avadhāryā yatnataḥ paṇḍitena |\natirabhasa-kṛtānāṃ karmaṇām āvipatter\nbhavati hṛdaya-dāhī śalya-tulyo vipākaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.100",
+   "kind": "verse",
+   "sanskrit": "sthālyāṃ vaidūryamayyāṃ pacati tilakaṇāṃś candanair indhanaughaiḥ\nsauvarṇair lāṅgalāgrair vilikhati vasudhām arka-mūlasya hetoḥ |\nkṛtvā karpūra-khaṇḍān vṛttim iha kurute kodravāṇāṃ samantāt\nprāpyemāṃ karm-bhūmiṃ na carati manujo yas topa manda-bhāgyaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.101",
+   "kind": "verse",
+   "sanskrit": "majjatv ambhasi yātu meru-śikharaṃ śatruṃ jayatv āhave\nvāṇijyaṃ kṛṣi-sevane ca sakalā vidyāḥ kalāḥ śikṣatām |\nākāśaṃ vipulaṃ prayātu khagavat kṛtvā prayatnaṃ paraṃ\nnābhāvyaṃ bhavatīha karma-vaśato bhāvyasya nāśaḥ kutaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.102",
+   "kind": "verse",
+   "sanskrit": "bhīmaṃ vanaṃ bhavati tasya puraṃ pradhānaṃ\nsarvo janaḥ svajanatām upayāti tasya |\nkṛtsnā ca bhūr bhavati sannidhi-ratna-pūrṇā\nyasyāsti pūrva-sukṛtaṃ vipulaṃ narasya ||",
+   "english": null
+  },
+  {
+   "ref": "1.103",
+   "kind": "verse",
+   "sanskrit": "ko lābho guṇisaṅgamaḥ kim asukhaṃ prājñetaraiḥ saṅgatiḥ\nkā hāniḥ samaya-cyutir nipuṇatā kā dharma-tattve ratiḥ |\nkaḥ śūro vijitendriyaḥ priyatamā kā 'nuvratā kiṃ dhanaṃ\nvidyā kiṃ sukham apravāsa-gamanaṃ rājyaṃ kim ājñā-phalam ||",
+   "english": null
+  },
+  {
+   "ref": "1.104",
+   "kind": "verse",
+   "sanskrit": "apriya-vacana-daridraiḥ priya-vacana-dhanāḍhyaiḥ sva-dāra-parituṣṭaiḥ |\npara-parivāda-nivṛttaiḥ kvacit kvacin maṇḍitā vasudhā ||",
+   "english": null
+  },
+  {
+   "ref": "1.105",
+   "kind": "verse",
+   "sanskrit": "kadarthitasyāpi hi dhairya-vṛtter\nna śakyate dhairya-guṇaḥ pramārṣṭum |\nadhomukhasyāpi kṛtasya vahner\nnādhaḥ śikhā yāti kadācid eva ||",
+   "english": null
+  },
+  {
+   "ref": "1.106",
+   "kind": "verse",
+   "sanskrit": "kāntākaṭākṣa-viśikhā na lunanti yasya\ncittaṃ na nirdahati kipa-kṛśānutāpaḥ |\nkarṣanti bhūri-viṣayāś ca na lobha-pāśair\nloka-trayaṃ jayati kṛtsnam idaṃ sa dhīraḥ ||",
+   "english": null
+  },
+  {
+   "ref": "1.107",
+   "kind": "verse",
+   "sanskrit": "ekenāpi hi śūreṇa\npādākrāntaṃ mahītalam |\nkriyate bhāskareṇaiva\nsphāra-sphurita-tejasā ||",
+   "english": null
+  },
+  {
+   "ref": "1.108",
+   "kind": "verse",
+   "sanskrit": "vahnis tasya jalāyate jala-nidhiḥ kulyāyate tat-kṣaṇān\nmeruḥ svalpa-śilāyate mṛgapatiḥ sadyaḥ kuraṅgāyate |\nvyālo mālya-guṇāyate viṣa-rasaḥ pīyūṣa-varṣāyate\nyasyāṅge 'khila-loka-vallabhatamaṃ śīlaṃ samunmīlati ||",
+   "english": null
+  },
+  {
+   "ref": "1.109",
+   "kind": "verse",
+   "sanskrit": "lajjā-guṇaugha-jananīṃ jananīm iva svām\natyanta-śuddha-hṛdayām anuvartamānām |\ntejasvinaḥ sukham asūn api santyajanati\nsatya-vrata-vyasanino na punaḥ pratijñām ||",
+   "english": null
+  },
+  {
+   "ref": "2.1",
+   "kind": "verse",
+   "sanskrit": "śambhu-svayambhu-harayo hariṇekṣaṇānāṃ\nyenākriyanta satataṃ gṛha-kumbha-dāsāḥ |\nvācām agocara-caritra-vicitritāya\ntasmai namo bhagavate makara-dhvajāya ||",
+   "english": null
+  },
+  {
+   "ref": "2.2",
+   "kind": "verse",
+   "sanskrit": "smitena bhāvena ca lajjayā bhiyā\nparāṇmukhair ardha-kaṭākṣa-vīkṣaṇaiḥ |\nvacobhir īrṣyā-kalahena līlayā\nsamasta-bhāvaiḥ khalu bandhanaṃ striyaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.3",
+   "kind": "verse",
+   "sanskrit": "bhrū-cāturyāt kuṣcitākṣāḥ kaṭākṣāḥ\nsnigdhā vāco lajjitāntāś ca hāsāḥ |\nlīlā-mandaṃ prasthitaṃ ca sthitaṃ ca\nstrīṇām etad bhūṣaṇaṃ cāyudhaṃ ca ||",
+   "english": null
+  },
+  {
+   "ref": "2.4",
+   "kind": "verse",
+   "sanskrit": "kvacit sa-bhrū-bhaṅgaiḥ kvacid api ca lajjā-parigataiḥ\nkvacid bhūri-trastaiḥ kvacid api ca līlā-vilalitaiḥ |\nkumārīṇām etair madana-subhagair netra-valitaiḥ\nsphuran-nīlābjānāṃ prakara-parikīrṇā iva diśaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.5",
+   "kind": "verse",
+   "sanskrit": "vaktraṃ candra-vikāsi paṅkaja-parīhāsa-kṣame locane\nvarṇaḥ svarṇam apākariṣṇur alinī-jiṣṇuḥ kacānāṃ cayaḥ |\nbakṣojāv ibha-kumbha-vibhrama-harau gurvī nitamba-sthalī\nvācāṃ hāri ca mārdavaṃ yuvatīṣu svābhāvikaṃ maṇḍanam ||",
+   "english": null
+  },
+  {
+   "ref": "2.6",
+   "kind": "verse",
+   "sanskrit": "smita-kiñcin-mugdhaṃ sarala-taralo dṛṣṭi-vibhavaḥ\nparispando vācām abhinava-vilāsokti-sarasaḥ |\ngatānām ārambhaḥ kisalayita-līlā-parikaraḥ\nspṛśantyās tāruṇyaṃ kim iva na hi ramyaṃ mṛgadṛśaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.7",
+   "kind": "verse",
+   "sanskrit": "draṣṭavyeṣu kim uttamaṃ mṛgadṛśaḥ prema-prasannaṃ mukhaṃ\nghrātaveṣv api kiṃ tad-āsya-pavanaḥ śravyeṣu kiṃ tad-vacaḥ |\nkiṃ svādyeṣu tad-oṣṭha-pallava-rasaḥ spṛśyeṣu kiṃ tad-vapurdhyeyaṃ\nkiṃ nava-yauvane sahṛdayaiḥ sarvatra tad-vibhramāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.8",
+   "kind": "verse",
+   "sanskrit": "etāś calad-valaya-saṃhati-mekhalotthajhaṅkāra-\nnūpura-parājita-rāja-haṃsyaḥ |\nkurvanti kasya na mano vivaśaṃ taruṇyo\nvitrasta-mugdha-hariṇī-sadṛśaiḥ kaṭākṣaiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.9",
+   "kind": "verse",
+   "sanskrit": "kuṅkuma-paṅka-kalaṅkita-dehā\ngaura-payodhara-kampita-hārā |\nnūpura-haṃsa-raṇat-padmā\nkaṃ na vaśīkurute bhuvi rāmā ||",
+   "english": null
+  },
+  {
+   "ref": "2.10",
+   "kind": "verse",
+   "sanskrit": "nūnaṃ hi te kavi-varā viparīta-vāco\nye nityam āhur abalā iti kāminīs tāḥ |\nyābhir vilolitara-tāraka-dṛṣṭi-pātaiḥ\nśakrādayo 'pi vijitās tv abalāḥ kathaṃ tāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.11",
+   "kind": "verse",
+   "sanskrit": "nūnam ājñā-karas tasyāḥ subhruvo makara-dhvajaḥ |\nyatas tan-netra-sañcāra-sūciteṣu pravartate ||",
+   "english": null
+  },
+  {
+   "ref": "2.12",
+   "kind": "verse",
+   "sanskrit": "keśāḥ saṃyaminaḥ śruter api paraṃ pāraṃ gate locane\nantar-vaktram api svabhāva-śuci-bhīḥ kīrṇaṃ dvijānāṃ gaṇaiḥ |\nmuktānāṃ satatādhivāsa-rucirau vakṣoja-kumbhāv imāvitthaṃ\ntanvi vapuḥ praśāntam api terāgaṃ karoty eva naḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.13",
+   "kind": "verse",
+   "sanskrit": "mugdhe dhānuṣkatā keyam apūrvā tvayi dṛśyate |\nyayā vidhyasi cetāṃsi guṇair eva na sāyakaiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.14",
+   "kind": "verse",
+   "sanskrit": "sati pradīpe saty agnau satsu tārāravīnduṣu |\nvinā me mṛga-śāvākṣyā tamo-bhūtam idaṃ jagat ||",
+   "english": null
+  },
+  {
+   "ref": "2.15",
+   "kind": "verse",
+   "sanskrit": "udvṛttaḥ stana-bhāra eṣa tarale netre cale bhrū-late\nrāgādhiṣṭhitam oṣṭha-pallavam idaṃ kurvantu nāma vyathām |\nsaubhāgyākṣara-mālikeva likhitā puṣpāyudhena svayaṃ\nmadhyasthāpi karoti tāpam adhikaṃ romāvaliḥ kena sā ||",
+   "english": null
+  },
+  {
+   "ref": "2.16",
+   "kind": "verse",
+   "sanskrit": "mukhena candra-kāntena mahānīlaiḥ śiroruhaiḥ |\nkarābhyāṃ padmarāgābhyāṃ reje ratnamayīva sā ||",
+   "english": null
+  },
+  {
+   "ref": "2.17",
+   "kind": "verse",
+   "sanskrit": "guruṇā stana-bhāreṇa mukha-candreṇa bhāsvatā |\nśanaiś-carābhyāṃ pādābhyāṃ reje grahamayīva sā ||",
+   "english": null
+  },
+  {
+   "ref": "2.18",
+   "kind": "verse",
+   "sanskrit": "tasyāḥ stanau yadi ghanau jaghanaṃ ca hāri\nvaktraṃ ca cāru tava citta kim ākulatvam |\npuṇyaṃ kuruṣva yadi teṣu tavāsti vāñchā\npuṇyair vinā na hi bhavanti samīhitārthāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.19",
+   "kind": "verse",
+   "sanskrit": "ime tāruṇya-śrī-nava-parimalāḥ prauḍha-suratapratāpa-\nprārambhāḥ smara-vijaya-dāna-pratibhuvaḥ |\nciraṃ cetaś corā abhinava-vikāraika-guravo\nvilāsa-vyāpārāḥ kim api vijayante mṛga-dṛśām ||",
+   "english": null
+  },
+  {
+   "ref": "2.20",
+   "kind": "verse",
+   "sanskrit": "praṇaya-madhurāḥ premodgārā rasāśrayatāṃ gatāḥ\nphaṇiti-madhurā mugdha-prāyāḥ prakāśita-sammadāḥ |\nprakṛti-subhagā visrambhārdrāḥ smarodaya-dāyinī\nrahasi kim api svairālāpā haranti mṛgīdṛśām ||",
+   "english": null
+  },
+  {
+   "ref": "2.21",
+   "kind": "verse",
+   "sanskrit": "viśramya viśramya vana-drumāṇāṃ\nchāyāsu tanvī vicacāra kācit |\nstanottarīyeṇa karoddhṛtena\nnivārayantī śaśino mayūkhān ||",
+   "english": null
+  },
+  {
+   "ref": "2.22",
+   "kind": "verse",
+   "sanskrit": "adarśane darśana-mātra-kāmā\ndṛṣṭvā pariṣvaṅga-sukhaika-lolā |\nāliṅgitāyāṃ punar āyatākṣyāmāśāsmahe\nvigrahayor abhedam ||",
+   "english": null
+  },
+  {
+   "ref": "2.23",
+   "kind": "verse",
+   "sanskrit": "mālatī śirasi jṛmbhaṇaṃ mukhe\ncandanaṃ vapuṣi kuṅkumāvilam |\nvakṣasi priyatamā madālasā\nsvarga eṣa pariśiṣṭa āgamaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.24",
+   "kind": "verse",
+   "sanskrit": "prāṅ mām eti manāg anāgata-rasaṃ jātābhilāṣāṃ tataḥ\nsavrīḍaṃ tad anu ślathodyamam atha pradhvasta-dhairyaṃ punaḥ |\npremārdraṃ spṛhaṇīya-nirbhara-rahaḥ krīḍā-pragalbhaṃ tato\nniḥsaṅgāṅga-vikarṣaṇādhika-sukha-ramyaṃ kula-strī-ratam ||",
+   "english": null
+  },
+  {
+   "ref": "2.25",
+   "kind": "verse",
+   "sanskrit": "urasi nipatitānāṃ srasta-dhammillakānāṃ\nmukulita-nayanānāṃ kiñcid-unmīlitānām |\nupari surata-kheda-svinna-gaṇḍa-sthalānāmadhara-\nmadhu vadhūnāṃ bhāgyavantaḥ pibanti ||",
+   "english": null
+  },
+  {
+   "ref": "2.26",
+   "kind": "verse",
+   "sanskrit": "āmīlita-nayanānāṃ yaḥ\nsurataraso 'nu saṃvidaṃ bhāti |\nmithurair mitho 'vadhāritamavitatham\nidam eva kāma-nirbarhaṇam ||",
+   "english": null
+  },
+  {
+   "ref": "2.27",
+   "kind": "verse",
+   "sanskrit": "idam anucitam akramaś ca puṃsāṃ\nyad iha jarāsv api manmathā vikārāḥ |\ntad api ca na kṛtaṃ nitambinīnāṃ\nstana-patanāvadhi jīvitaṃ rataṃ vā ||",
+   "english": null
+  },
+  {
+   "ref": "2.28",
+   "kind": "verse",
+   "sanskrit": "rājas-tṛṣṇāmburāśer na hi jagati gataḥ kaścid evāvasānaṃ\nko vārtho 'rthaiḥ prabhūtaiḥ sva-vapuṣi galite yauvane sānurāge |\ngacchāmaḥ sadma yāvad vikasita-nayanendīvarālokinīnāmākramyākramya\nrūpaṃ jhaṭiti na jarayā lupyate preyasīnām ||",
+   "english": null
+  },
+  {
+   "ref": "2.29",
+   "kind": "verse",
+   "sanskrit": "rāgasyāgāram ekaṃ naraka-śata-mahā-duḥkha-samprāpti-heturmohasyotpatti-\nbījaṃ jaladhara-paṭalaṃ jñāna-tārādhipasya |\nkandarpasyaika-mitraṃ prakaṭita-vividha-spaṣṭa-doṣa-prabandhaṃ\nloke 'smin na hy artha-vraja-kula-bhavana-yauvanād anyad asti ||",
+   "english": null
+  },
+  {
+   "ref": "2.30",
+   "kind": "verse",
+   "sanskrit": "śṛṅgāra-druma-nīrade prasṛmara-krīḍā-rasa-srotasi\npradyumna-priya-bāndhave catura-vāṅ-muktā-phalodanvati |\ntanvī-netra-cakora-pāvana-vidhau saubhāgya-lakṣmī-nidhau\ndhanyaḥ ko 'pi na vikriyāṃ kalayati prāpte nave yauvane ||",
+   "english": null
+  },
+  {
+   "ref": "2.31",
+   "kind": "verse",
+   "sanskrit": "saṃsāre 'sminn asāre kunṛpati-bhavana-dvāra-sevā-kalaṅkavyāsaṅga-\nvyasta-dhairyaṃ katham amala-dhiyo mānasaṃ saṃvidadhyuḥ |\nyady etāḥ prodyad-indu-dyuti-nicaya-bhṛto na syur ambhoja-netrāḥ\npreṅkhat-kāñcī-kalāpāḥ stana-bhara-vinaman-madhya-bhājas taruṇyaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.32",
+   "kind": "verse",
+   "sanskrit": "siddhādhyāsita-kandare hara-vṛṣa-skandhāvarugṇa-drume\ngaṅgā-dhauta-śilā-tale himavataḥ sthāne sthite śreyasi |\nkaḥ kurvīta śiraḥ praṇāma-malinaṃ mlānaṃ manasvī jano\nyad-vitrasta-kuraṅga-śāva-nayanā na syuḥ smarāstraṃ striyaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.33",
+   "kind": "verse",
+   "sanskrit": "saṃsāra tava paryanta-padavī na davīyasī |\nantarā dustarā na syur yadi te madirekṣaṇām ||",
+   "english": null
+  },
+  {
+   "ref": "2.34",
+   "kind": "verse",
+   "sanskrit": "diśa vana-hariṇībhyo vaṃśa-kāṇḍa-cchavīnāṃ\nkavalam upala-koṭi-cchinna-mūlaṃ kuśānām |\nśaka-yuvati-kapolāpāṇḍutāmbūla-vallīdalam\naruṇa-nakhāgraiḥ pāṭitaṃ vā vadhūbhyaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.35",
+   "kind": "verse",
+   "sanskrit": "asārāḥ sarve te virati-virasāḥ pāpa-viṣayā\njugupsyantāṃ yad vā nanu sakala-doṣāspadam iti |\ntathāpy etad-bhūmau nahi para-hitāt puṇyam adhikaṃ\nna cāsmin saṃsāre kuvalaya-dṛśo ramyam aparam ||",
+   "english": null
+  },
+  {
+   "ref": "2.35*1",
+   "kind": "verse",
+   "sanskrit": "etat-kāma-phalo loke yad dvayor eka-cittatā |\nanya-citta-kṛte kāme śavayor iva saṅgamaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.36",
+   "kind": "verse",
+   "sanskrit": "mātsaryam utsārya vicārya kāryamāryāḥ\nsamaryādam idaṃ vadantu |\nsevyā nitambāḥ kim u bhūdharāṇāmata\nsmara-smera-vilāsinīnām ||",
+   "english": null
+  },
+  {
+   "ref": "2.37",
+   "kind": "verse",
+   "sanskrit": "saṃsāre svapna-sāre pariṇati-tarale dve gatī paṇḍitānāṃ\ntattva-jñānāmṛtāmbhaḥ-plava-lalita-dhiyāṃ yātu kālaḥ kathañcit |\nno cen mugdhāṅganānāṃ stana-jaghana-ghanābhoga-sambhoginīnāṃ\nsthūlopastha-sthalīṣu sthagita-karatala-sparśa-līlodyamānām ||",
+   "english": null
+  },
+  {
+   "ref": "2.38",
+   "kind": "verse",
+   "sanskrit": "āvāsaḥ kriyatāṃ gaṅge pāpa-hāriṇi vāriṇi |\nstana-dvaye taruṇyā vā manohāriṇi hāriṇi ||",
+   "english": null
+  },
+  {
+   "ref": "2.39",
+   "kind": "verse",
+   "sanskrit": "kim iha bahubhir uktair yukti-śūnyaiḥ pralāpairdvayam\niha puruṣāṇāṃ sarvadā sevanīyam |\nabhinava-mada-līlā-lālasaṃ sundarīṇāṃ\nstana-bhara-parikhinnaṃ yauvanaṃ vā vanaṃ vā ||",
+   "english": null
+  },
+  {
+   "ref": "2.40",
+   "kind": "verse",
+   "sanskrit": "satyaṃ janā vacmi na pakṣa-pātāl\nlokeṣu saptasv api tathyam etat |\nnānyan manohāri nitambinībhyo\nduḥkhaika-hetur na ca kaścid anyaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.41",
+   "kind": "verse",
+   "sanskrit": "kāntety utpala-locaneti vipula-śroṇī-bharety unnamatpīnottuṅga-\npayodhareti samukhāmbhojeti subhrūr iti |\ndṛṣṭvā mādyati modate 'bhiramate prastauti vidvān api\npratyakṣāśuci-bhastrikāṃ striyam aho mohasya duśceṣṭitam ||",
+   "english": null
+  },
+  {
+   "ref": "2.42",
+   "kind": "verse",
+   "sanskrit": "smṛtā bhavati tāpāya dṛṣṭā conmāda-kāriṇī |\nspṛṣṭā bhavati mohāya sā nāma dayitā katham ||",
+   "english": null
+  },
+  {
+   "ref": "2.43",
+   "kind": "verse",
+   "sanskrit": "tāvad evāmṛtamayī yāval locana-gocarā |\ncakṣuṣ-pathād atītā tu viṣād apy atiricyate ||",
+   "english": null
+  },
+  {
+   "ref": "2.44",
+   "kind": "verse",
+   "sanskrit": "nāmṛtaṃ na viṣaṃ kiñcid etāṃ muktvā nitambinīm |\nsaivāmṛta-latā raktā viraktā viṣa-vallarī ||",
+   "english": null
+  },
+  {
+   "ref": "2.45",
+   "kind": "verse",
+   "sanskrit": "āvartaḥ saṃśayānām avinaya-bhuvanaṃ paṭṭaṇaṃ sāhasānāṃ\ndoṣāṇāṃ sannidhānaṃ kapaṭa-śata-mayaṃ kṣetram apratyayānām |\nsvarga-dvārasya vighno naraka-pura-mukha sarvamāyākaraṇḍaṃ\nstrī-yantraṃ kena sṛṣṭaṃ viṣam amṛtamayaṃ prāṇi-lokasya pāśaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.46",
+   "kind": "verse",
+   "sanskrit": "no satyena mṛgāṅka eṣa vadanī-bhūto na cendīvaradvandvaṃ\nlocanatāṃ gata na kanakair apy aṅga-yaṣṭiḥ kṛtā |\nkintv evaṃ kavibhiḥ pratārita-manās tattvaṃ vijānann api\ntvaṅ-māṃsāsthi-mayaṃ vapur mṛga-dṛśāṃ mando janaḥ sevate ||",
+   "english": null
+  },
+  {
+   "ref": "2.47",
+   "kind": "verse",
+   "sanskrit": "līlāvatīnāṃ sahajā vilāsāsta\neva mūḍhasya hṛdi sphuranti |\nrāgo nalinyā hi nisarga-siddhastatra\nbhramty eva vṛthā ṣaḍ-aṅghriḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.47*1",
+   "kind": "verse",
+   "sanskrit": "saṃmohayanti madayanti viḍambayanti\nnirbhartsyanti ramayanti viṣādayanti |\netāḥ praviśya sadayaṃ hṛdayaṃ narāṇāṃ\nkiṃ nāma vāma-nayanā na samācaranti ||",
+   "english": null
+  },
+  {
+   "ref": "2.48",
+   "kind": "verse",
+   "sanskrit": "yad etat pūrṇendu-dyuti-haram udārākṛti paraṃ\nmukhābjaṃ tanvaṅgyāḥ kila vasati yatrādhara-madhu |\nidaṃ tat kiṃ pāka-druma-phalam idānīm atirasavyatīte 'smin\nkāle viṣam iva bhaviṣyty asukhadam ||",
+   "english": null
+  },
+  {
+   "ref": "2.49",
+   "kind": "verse",
+   "sanskrit": "unmīlat-trivalī-taraṅga-nilayā prottuṅga-pīna-stanadvandvenodgata-\ncakravāka-yugalā vaktrāmbujodbhāsinī |\nkāntākāra-dharā nadīyam abhitaḥ krūrātra nāpekṣate\nsaṃsārārṇava-majjanaṃ yadi tadā dūreṇa santyajyatām ||",
+   "english": null
+  },
+  {
+   "ref": "2.50",
+   "kind": "verse",
+   "sanskrit": "jalpanti sārdham anyena paśyanty anyaṃ savibhramāḥ |\nhṛd-gataṃ cintayanty anyaṃ priyaḥ ko nāma yoṣitām ||",
+   "english": null
+  },
+  {
+   "ref": "2.51",
+   "kind": "verse",
+   "sanskrit": "madhu tiṣṭhati vāci yoṣitāṃ hṛdi hālāhalam eva kevalam |\nataeva nipīyate 'dharo hṛdayaṃ muṣṭibhir eva tāḍyate ||",
+   "english": null
+  },
+  {
+   "ref": "2.52",
+   "kind": "verse",
+   "sanskrit": "apasara sakhe dūrād asmāt kaṭākṣa-viṣānalāt\nprakṛti-viṣamād yoṣit-sarpād vilāsa-phaṇābhṛtaḥ |\nitara-phaṇinā daṣṭaḥ śakyaś cikitsitum auṣadhaiścatur-\nvanitābhogi-grastaṃ hi mantriṇaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.53",
+   "kind": "verse",
+   "sanskrit": "vistāritaṃ makara-ketana-dhīvareṇa\nstrī-saṃjñitaṃ baḍiśam atra bhavāmbu-rāśau |\nyenācirāt tad-adharāmiṣa-lola-martya-\nmatsyān vikṛṣya vipacaty anurāga-vahnau ||",
+   "english": null
+  },
+  {
+   "ref": "2.54",
+   "kind": "verse",
+   "sanskrit": "kāminī-kāya-kāntāre kuca-parvata-durgame |\nmā saṃcara manaḥ pāntha tatrāste smara-taskaraḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.55",
+   "kind": "verse",
+   "sanskrit": "vyādīrgheṇa calena vaktra-gatinā tejasvinā bhoginā\nnīlābja-dyutināhinā param ahaṃ dṛṣṭo na tac-cakṣuṣā |\ndṛṣṭe santi cikitsakā diśi diśi prāyeṇa darmārthino\nmugdhākṣkṣaṇa-vīkṣitasya na hi me vaidyo na cāpy auṣadham ||",
+   "english": null
+  },
+  {
+   "ref": "2.56",
+   "kind": "verse",
+   "sanskrit": "iha hi madhura-gītaṃ nṛtyam etad-raso 'yaṃ\nsphurati parimalo 'sau sparśa eṣa stanānām |\niti hata-paramārthair indriyair bhrāmyamāṇaḥ\nsva-hita-karaṇa-dhūrtaiḥ pañcabhir vañcito 'smi ||",
+   "english": null
+  },
+  {
+   "ref": "2.57",
+   "kind": "verse",
+   "sanskrit": "na gamyo mantrāṇāṃ na ca bhavati bhaiṣajya-viṣayo\nna cāpi pradhvaṃsaṃ vrajati vividhaiḥ śāntika-śataiḥ |\nbhramāveśād aṅge kam api vidadhad bhaṅgam asakṛt\nsmarāpasmāro 'yaṃ bhramayati dṛśaṃ ghūrṇayati ca ||",
+   "english": null
+  },
+  {
+   "ref": "2.58",
+   "kind": "verse",
+   "sanskrit": "jāty-andhāya ca durmukhāya ca jarājīrṇā khilāṅgāya ca\ngrāmīṇāya ca duṣkulāya ca galat-kuṣṭhābhibhūtāya ca |\nyacchantīṣu manoharaṃ nija-vapu-lakṣmī-lava-śraddhayā\npaṇya-strīṣu viveka-kalpa-latikāśa-strīṣu rājyeta kaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.59",
+   "kind": "verse",
+   "sanskrit": "veśyāsau madana-jvālā\nrūpe 'ndhana-vivardhitā |\nkāmibhir yatra hūyante\nyauvanāni dhanāni ca ||",
+   "english": null
+  },
+  {
+   "ref": "2.60",
+   "kind": "verse",
+   "sanskrit": "kaś cumbati kula-puruṣo veśyādhara-pallavaṃ manojñam api |\ncārabhaṭa-cora-ceṭaka-naṭa-viṭa-niṣṭhīvana-śarāvam ||",
+   "english": null
+  },
+  {
+   "ref": "2.61",
+   "kind": "verse",
+   "sanskrit": "dhanyās ta eva dhavalāyata-locanānāṃ\ntāruṇya-darpa-ghana-pīna-payodharāṇām |\nkṣāmodaropari lasat-trivalī-latānāṃ\ndṛṣṭvākṛtiṃ vikṛtim eti mano na yeṣām ||",
+   "english": null
+  },
+  {
+   "ref": "2.62",
+   "kind": "verse",
+   "sanskrit": "bāle līlā-mukulitam amī mantharā dṛṣṭi-pātāḥ\nkiṃ kṣipyante virama-virama vyartha eṣa śramas te |\nsampraty anye vayam uparataṃ bālyam āsthā vanānte\nkṣīṇo mohas tṛṇam iva jagaj-jālam ālokayāmaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.63",
+   "kind": "verse",
+   "sanskrit": "iyaṃ bālā māṃ praty anavaratam indīvara-dalaprabhā\ncīraṃ cakṣuḥ kṣipati kim abhipretam anayā |\ngato moho 'smākaṃ smara-śabara-bāṇa-vyatikarajvara-\njvālā śāntā tad api na varākī viramati ||",
+   "english": null
+  },
+  {
+   "ref": "2.64",
+   "kind": "verse",
+   "sanskrit": "kiṃ kandarpa karaṃ kadarthayasi re kodaṇḍa-ṭaṅkāritaṃ\nre re kokila komalaṃ kala-ravaṃ kiṃ vā vṛthā jalpasi |\nmugdhe snigdha-vidagdha-cāru-madhurair lolaiḥ kaṭākṣair alaṃ\ncetaś cumbita-candra-cūḍa-caraṇa-dhyānāmṛtaṃ vartate ||",
+   "english": null
+  },
+  {
+   "ref": "2.65",
+   "kind": "verse",
+   "sanskrit": "virahe 'pi saṅgamaḥ khalu\nparasparaṃ saṅgataṃ mano yeṣām |\nhṛdayam api vighaṭṭitaṃ cet\nsaṅgī virahaṃ viśeṣayati ||",
+   "english": null
+  },
+  {
+   "ref": "2.66",
+   "kind": "verse",
+   "sanskrit": "kiṃ gatena yadi sā na jīvati\nprāṇiti priyatamā tathāpi kim |\nity udīkṣya nava-megha-mālikāṃ\nna prayāti pathikaḥ sva-mandiram ||",
+   "english": null
+  },
+  {
+   "ref": "2.67",
+   "kind": "verse",
+   "sanskrit": "viramata budhā yoṣit-saṅgāt sukhāt kṣaṇa-bhaṅgurāt\nkuruta karuṇā-maitrī-prajñā-vadhū-jana-saṅgamam |\nna khalu narake hārākrāntaṃ ghana-stana-maṇḍalaṃ\nśaraṇam athavā śroṇī-bimbaṃ raṇan-maṇi-mekhalam ||",
+   "english": null
+  },
+  {
+   "ref": "2.68",
+   "kind": "verse",
+   "sanskrit": "yadā yogābhyāsa-vyasana-kṛśayor ātma-manasoravicchinnā\nmaitrī sphurati kṛtinas tasya kim u taiḥ |\npriyāṇām ālāpair adhara-madhubhir vaktra-vidhubhiḥ\nsaniśvāsāmodaiḥ sakuca-kalaśāśleṣa-surataiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.69",
+   "kind": "verse",
+   "sanskrit": "yadāsīd ajñānaṃ smara-timira-sañcāra-janitaṃ\ntadā dṛṣṭa-nārī-mayam idam aśeṣaṃ jagad iti |\nidānīm asmākaṃ paṭutara-vivekāñjana-juṣāṃ\nsamībhūtā dṛṣṭis tribhuvanam api brahma manute ||",
+   "english": null
+  },
+  {
+   "ref": "2.70",
+   "kind": "verse",
+   "sanskrit": "tāvad eva kṛtinām api sphuratyeṣa\nnirmala-viveka-dīpakaḥ |\nyāvad eva na kuraṅga-cakṣuṣāṃ\ntāḍyate caṭula-locanāñcalaiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.71",
+   "kind": "verse",
+   "sanskrit": "vacasi bhavati saṅga-tyāgam uddiśya vārtā\nśruti-mukhara-mukhānāṃ kevalaṃ paṇḍitānām |\njaghanam aruṇa-ratna-granthi-kāñcī-kalāpaṃ\nkuvalaya-nayanānāṃ ko vihātuṃ samarthaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.72",
+   "kind": "verse",
+   "sanskrit": "sva-para-pratārako 'sau\nnindati yo 'līka-paṇḍito yuvatīḥ |\nyasmāt tapaso 'pi phalaṃ\nsvargaḥ svarge 'pi cāpsarasaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.73",
+   "kind": "verse",
+   "sanskrit": "mattebha-kumbha-dalane bhuvi santi dhīrāḥ\nkecit pracaṇḍa-mṛga-rāja-vadhe 'pi dakṣāḥ |\nkintu bravīmi balināṃ purataḥ prasahya\nkandarpa-darpa-dalane viralā manuṣyāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.74",
+   "kind": "verse",
+   "sanskrit": "san-mārge tāvad āste prabhavati ca naras tāvad evendriyāṇāṃ\nlajjāṃ tāvad vidhatte vinayam api samālambate tāvad eva |\nbhrū-cāpākṛṣṭa-muktāḥ śravaṇa-patha-gatā nīla-pakṣmāṇa ete\nyāval līlāvatīnāṃ hṛdi na dhṛtimuṣo dṛṣṭi-bāṇāḥ patanti ||",
+   "english": null
+  },
+  {
+   "ref": "2.75",
+   "kind": "verse",
+   "sanskrit": "unmatta-prema-saṃrambhād\nārabhante yad-aṅganāḥ |\ntatra pratyūham ādhātuṃ\nbrahmāpi khalu kātaraḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.76",
+   "kind": "verse",
+   "sanskrit": "tāvan mahattvaṃ pāṇḍityaṃ\nkulīnatvaṃ vivekitā |\nyāvaj jvalati nāṅgeṣu\nhataḥ pañceṣu-pāvakaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.77",
+   "kind": "verse",
+   "sanskrit": "śāstrajño 'pi praguṇi-tanayo 'tyānta-bādhāpi bāḍhaṃ\nsaṃsāre 'smin bhavati viralo bhājanaṃ sad-gatīnām |\nyenaitasmin niraya-nagara-dvāram udghāṭayantī\nvāmākṣīṇāṃ bhavati kuṭilā bhrū-latā kuñcikeva ||",
+   "english": null
+  },
+  {
+   "ref": "2.78",
+   "kind": "verse",
+   "sanskrit": "kṛśaḥ kāṇaḥ khañjaḥ śravaṇa-rahitaḥ puccha-vikalo\nvraṇī pūya-klinnaḥ kṛmi-kula-śatair āvṛta-tanuḥ |\nkṣudhā kṣāmo jīrṇaḥ piṭharaka-kapālārpita-galaḥ\nśunīm anveti śvā hatam api ca hanty eva madanaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.79",
+   "kind": "verse",
+   "sanskrit": "strī-mudrāṃ kusumāyudhasya jayinīṃ sarvārtha-sampat-karīṃ\nye mūḍhāḥ pravihāya yānti kudhiyo mithyā-phalānveṣiṇaḥ |\nte tenaiva nihatya nirdayataraṃ nagnīkṛtā muṇḍitāḥ\nkecit pañca-śikhī-kṛtāś ca jaṭilāḥ kāpālikāś cāpare ||",
+   "english": null
+  },
+  {
+   "ref": "2.80",
+   "kind": "verse",
+   "sanskrit": "viśvāmitra-parāśara-prabhṛtayo vātāmbu-parṇāśanāste 'pi\nstrī-mukha-paṅkajaṃ sulalitaṃ dṛṣṭvaiva mohaṃ gatāḥ |\nśālyannaṃ sa-ghṛtaṃ payo-dadhi-yutaṃ ye bhuñjate mānavāsteṣām\nindriya-nigraho yadi bhaved vindhyaḥ plavet sāgare ||",
+   "english": null
+  },
+  {
+   "ref": "2.81",
+   "kind": "verse",
+   "sanskrit": "parimala-bhṛto vātāḥ śākhā navāṅkura-koṭayo\nmadhura-vidhurotkaṇṭhā-bhājaḥ priyā pika-pakṣiṇām |\nvirala-virasa-svedodgārā vadhū-vadanendavaḥ\nprasarati madhau dhātryāṃ jāto na kasya guṇodayaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.82",
+   "kind": "verse",
+   "sanskrit": "madhur ayaṃ madhurair api kokilā\nkala-ravair malayasya ca vāyubhiḥ |\nvirahiṇaḥ prahiṇasti śarīriṇo\nvipadi hanta sudhāpi viṣāyate ||",
+   "english": null
+  },
+  {
+   "ref": "2.83",
+   "kind": "verse",
+   "sanskrit": "āvāsaḥ kila-kiñcitasya dayitā-pārśve vilāsālasāḥ\nkarṇe kokila-kāminī-kala-ravaḥ smero latā-maṇḍapaḥ |\ngoṣṭhī sat-kavibhiḥ samaṃ katipayair mugdhāḥ sudhāṃśoḥ karāḥ\nkeṣāṃcit sukhayanti cātra hṛdayaṃ caitre vicitrāḥ kṣapāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.84",
+   "kind": "verse",
+   "sanskrit": "pāntha strī-virahānalāhuti-kalām ātanvatī mañjarīmākandeṣu\npikāṅganābhir adhunā sotkaṇṭham ālokyate |\napy ete nava-pāṭalā-parimala-prāg-bhāra-pāṭac-carā\nvānti-klānti-vitāna-tānava-kṛtaḥ śrīkhaṇḍa-śailānilāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.85",
+   "kind": "verse",
+   "sanskrit": "prathitaḥ praṇayavatīnāṃ\ntāvat padam ātanotu hṛdi mānaḥ |\nbhavati na yāvac candanataru-\nsurabhir malaya-pavamānaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.86",
+   "kind": "verse",
+   "sanskrit": "sahakāra-kusuma-kesaranikara-\nbharāmoda-mūrcchita-dig-ante |\nmadhura-madhura-vidhura-madhupe\nmadhau bhavet kasya notkaṇṭhā ||",
+   "english": null
+  },
+  {
+   "ref": "2.87",
+   "kind": "verse",
+   "sanskrit": "acchāccha-candana-rasārdratarā mṛgākṣyo\ndhārā-gṛhāṇi kusumāni ca kaumudī ca |\nmando marut sumanasaḥ śuci harmya-pṛṣṭhaṃ\ngrīṣme madaṃ ca madanaṃ ca vivardhayanti ||",
+   "english": null
+  },
+  {
+   "ref": "2.88",
+   "kind": "verse",
+   "sanskrit": "srajo hṛdy āmodā vyajana-pavanaś candra-kiraṇāḥ\nparāgaḥ kāsāro malayaja-rajaḥ śīdhu viśadam |\nśuciḥ saudhotsaṅgaḥ pratanu vasanaṃ paṅkaja-dṛśo\nnidāgha-rtāv etad vilasati labhante sukṛtinaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.89",
+   "kind": "verse",
+   "sanskrit": "sudhā-śubhraṃ dhāma sphurad-amala-raśmiḥ śaśadharaḥ\npriyā-vaktrāmbhojaṃ malayaja-rajaś cātisurabhiḥ |\nsrajo hṛdyāmodās tad idam akhilaṃ rāgiṇi jane\nkaroty antaḥ kṣobhaṃ na tu viṣaya-saṃsarga-vimukhe ||",
+   "english": null
+  },
+  {
+   "ref": "2.90",
+   "kind": "verse",
+   "sanskrit": "taruṇī-veṣoddīpita-kāmā\nvikasaj-jātī-puṣpa-sugandhiḥ |\nunnata-pīna-payodhara-bhārā\nprāvṛṭ tanute kasya na harṣam ||",
+   "english": null
+  },
+  {
+   "ref": "2.91",
+   "kind": "verse",
+   "sanskrit": "viyad-upacita-meghaṃ bhūmayaḥ kandalinyo\nnava-kuṭaja-kadambāmodino gandhavāhāḥ |\nśikhi-kula-kala-kekārāvaramyā vanāntāḥ\nsukhinam asukhinaṃ vā sarvam utkaṇṭhayanti ||",
+   "english": null
+  },
+  {
+   "ref": "2.92",
+   "kind": "verse",
+   "sanskrit": "upari ghanaṃ ghana-paṭalaṃ\ntiryag girayo 'pi nartita-mayūrāḥ |\nkṣitir api kandala-dhavalā\ndṛṣṭiṃ pathikaḥ kva pātayati ||",
+   "english": null
+  },
+  {
+   "ref": "2.93",
+   "kind": "verse",
+   "sanskrit": "ito vidyud-vallī-vilasitam itaḥ ketaki-taroḥ\nsphuran gandhaḥ prodyaj-jalada-ninada-sphūrjitam itaḥ |\nitaḥ keki-krīḍā-kala-kala-ravaḥ pakṣmala-dṛśāṃ\nkathaṃ yāsyanty ete viraha-divasāḥ sambhṛta-rasāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.94",
+   "kind": "verse",
+   "sanskrit": "asūci-sañcāre tamasi nabhasi prauḍha-jaladadhvani-\nprājñaṃmanye patati pṛṣatānāṃ ca nicaye |\nidaṃ saudāminyāḥ kanaka-kamanīyaṃ vilasitaṃ\nmudaṃ ca mlāniṃ ca prathayati pathi svaira-sudṛśām ||",
+   "english": null
+  },
+  {
+   "ref": "2.95",
+   "kind": "verse",
+   "sanskrit": "āsāreṇa na harmyataḥ priyatamair yātuṃ bahiḥ śakyate\nśītotkampa-nimittam āyata-dṛśā gāḍhaṃ samāliṅgyate |\njātāḥ śīkara-śītalāś ca marutor atyanta-kheda-cchido\ndhanyānāṃ bata durdinaṃ sudinatāṃ yāti priyā-saṅgame ||",
+   "english": null
+  },
+  {
+   "ref": "2.96",
+   "kind": "verse",
+   "sanskrit": "ardhaṃ suptvā niśāyāḥ sarabhasa-suratāyāsa-sanna-ślathāṅgaprodbhūtāsahya-\ntṛṣṇo madhu-mada-nirato harmya-pṛṣṭhe vivikte |\nsambhoga-klānta-kāntā-śithila-bhuja-latā-varjitaṃ karkarīto\njyotsnābhinnāccha-dhāraṃ pibati na salilaṃ śāradaṃ manda-puṇyaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.97",
+   "kind": "verse",
+   "sanskrit": "hemante dadhi-dugdha-sarpir aśanā māñjiṣṭha-vāso-bhṛtaḥ\nkāśmīra-drava-sāndra-digdha-vapuṣaś chinnā vicitrai rataiḥ |\nvṛttoru-stana-kāminojana-kṛtāśleṣā gṛhābhyantare\ntāmbūlī-dala-pūga-pūrita-mukhā dhanyāḥ sukhaṃ śerate ||",
+   "english": null
+  },
+  {
+   "ref": "2.98",
+   "kind": "verse",
+   "sanskrit": "praduyat-prauḍha-priyaṅgu-dyuti-bhṛti vikasat-kunda-mādyad-dvirephe\nkāle prāleya-vāta-pracala-vilasitodāra-mandāra-dhāmni |\nyeṣāṃ no kaṇṭha-lagnā kṣaṇam api tuhina-kṣoda-dakṣā mṛgākṣī\ntesām āyāma-yāmā yama-sadana-samā yāminī yāti yūnām ||",
+   "english": null
+  },
+  {
+   "ref": "2.99",
+   "kind": "verse",
+   "sanskrit": "cumbanto gaṇḍa-bhittīr alakavati mukhe sītkṛtāny ādadhānā\nvakṣaḥ-sūtkañcukeṣu stana-bhara-pulakodbhedam āpādayantaḥ |\nūrū-nākampayantaḥ pṛthu-jaghana-taṭāt sraṃsayanto 'ṃśukāni\nvyaktaṃ kāntā-janānāṃ viṭa-carita-bhṛtaḥ śaiśirā vānti vātāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.100",
+   "kind": "verse",
+   "sanskrit": "keśānākulayan dṛśo mukulayan vāso balād ākṣipannātanvan\npulakodgamaṃ prakaṭayann āvega-kampaṃ śanaiḥ |\nbāraṃ bāram udāra-sītkṛta-kṛto danta-cchadān pīḍayan\nprāyaḥ śaiśira eṣa samprati marut kāntāsu kāntāyate ||",
+   "english": null
+  },
+  {
+   "ref": "2.101",
+   "kind": "verse",
+   "sanskrit": "yady asya nāsti ruciraṃ tasmiṃs tasya spṛhā manojñe 'pi |\nramaṇīye 'pi sudhāṃśau na manaḥ-kāmaḥ sarojinyāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "2.102",
+   "kind": "verse",
+   "sanskrit": "vairāgye saṃcaraty eko nītau bhramati cāparaḥ |\nśṛṅgāre ramate kaścid bhuvi bhedāḥ parasparam ||",
+   "english": null
+  },
+  {
+   "ref": "3.1",
+   "kind": "verse",
+   "sanskrit": "cūḍottaṃsita-candra-cāru-kalikā-cañcac-chikhā-bhāsvaro\nlīlā-dagdha-vilola-kāma-śalabhaḥ śreyo-daśāgre sphuran |\nantaḥ-sphūrjad-apāra-moha-timira-prāg-bhāram uccāṭayan\nśvetaḥ-sadmani yogināṃ vijayate jñāna-pradīpo haraḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.2",
+   "kind": "verse",
+   "sanskrit": "bhrāntaṃ deśam aneka-durga-viṣamaṃ prāptaṃ na kiñcit phalaṃ\ntyaktvā jāti-kulābhimānam ucitaṃ sevā kṛtā niṣphalā |\nbhuktaṃ māna-vivarjitaṃ para-gṛheṣv āśaṅkayā kākavat\ntṛṣṇe jṛmbhasi pāpa-karma-piśune nādyāpi santuṣyasi ||",
+   "english": null
+  },
+  {
+   "ref": "3.3",
+   "kind": "verse",
+   "sanskrit": "utkhātaṃ nidhi-śaṅkayā kṣiti-talaṃ dhmātā girer dhātavo\nnistīrṇaḥ saritāṃ patir nṛpatayo yatnena santoṣitāḥ |\nmantrārādhana-tat-pareṇa manasā nītāḥ śmaśāne niśāḥ\nprāptaḥ kāṇa-varāṭako 'pi na mayā tṛṣṇe sakāmā bhava ||",
+   "english": null
+  },
+  {
+   "ref": "3.4",
+   "kind": "verse",
+   "sanskrit": "khalālāpāḥ sauḍhāḥ katham api tad-ārādhana-parairnigṛhyāntar-\nbāṣpaṃ hasitam api śūnyena manasā |\nkṛto vitta-stambha-pratihata-dhiyām añjalir api\ntvam āśe moghāśe kima aparam ato nartayasi mām ||",
+   "english": null
+  },
+  {
+   "ref": "3.5",
+   "kind": "verse",
+   "sanskrit": "amīṣāṃ prāṇānāṃ tulita-visinī-patra-payasāṃ\nkṛte kiṃ nāsmābhir vigalita-vivekair vyavasitam |\nyad-āḍhyānām agre draviṇa-mada-niḥsaṃjña-manasāṃ\nkṛtaṃ māva-vrīḍair nija-guṇa-kathā-pātakam api ||",
+   "english": null
+  },
+  {
+   "ref": "3.6",
+   "kind": "verse",
+   "sanskrit": "kṣāntaṃ na kṣamayā gṛhocita-sukhaṃ tyaktaṃ na santoṣataḥ\nsoḍho duḥsaha-śīta-tāpa-pavana-kleśo na taptaṃ tapaḥ |\ndhyātaṃ vittam ahar-niśaṃ nityamita-prāṇair na śambhoḥ padaṃ\ntat-tat-karma kṛtaṃ yad eva munibhis tais taiḥ phalair vañcitāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.7",
+   "kind": "verse",
+   "sanskrit": "bhogā na bhuktā vayam eva bhuktās\ntapo na taptaṃ vayam eva taptāḥ |\nkālo na yāto vayam eva yātāstṛṣṇā\nna jīrṇā vayam eva jīrṇāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.8",
+   "kind": "verse",
+   "sanskrit": "balibhir mukham ākrāntaṃ palitenāṅkitaṃ śiraḥ |\ngātrāṇi śithilāyante tṛṣṇaikā taruṇāyate ||",
+   "english": null
+  },
+  {
+   "ref": "3.8*1",
+   "kind": "verse",
+   "sanskrit": "viveka-vyākośe vidadhati same śāmyati tṛṣā\npariṣvaṅge tuṅge prasaratitarāṃ sā pariṇatā |\njarājīrṇaiśvarya-grasana-gahanākṣepa-kṛpaṇastṛṣāpātraṃ\nyasyāṃ bhavati marutām apy adhipatiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.9",
+   "kind": "verse",
+   "sanskrit": "nivṛttā bhogecchā puruṣa-bahu-māno 'pi galitaḥ\nsamānāḥ svar-yātāḥ sapadi suhṛdo jīvita-samāḥ |\nśanair yaṣṭy utthānaṃ ghana-timira-ruddhe ca nayane\naho mūḍhaḥ kāyas tad api maraṇāpāya-cakitaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.10",
+   "kind": "verse",
+   "sanskrit": "āśā nāma nadī manoratha-jalā tṛṣṇā-taraṅgākulā\nrāga-grāhavatī vitarka-vihagā dhairya-druma-dhvaṃsinī |\nmohāvarta-sudustarātigahanā prottuṅga-cintā-taṭī\ntasyāḥ para-gatā viśuddham alaso nandanti yogīśvarāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.11",
+   "kind": "verse",
+   "sanskrit": "na saṃsārotpannaṃ caritam anupaśyāmi kuśalaṃ\nvipākaḥ puṇyānāṃ janayati bhayaṃ me vimṛśataḥ |\nmahadbhiḥ puṇyaughaiś cira-parigṛhītāś ca viṣayā\nmahānto jāyante vyasanam iva dātuṃ viṣayiṇām ||",
+   "english": null
+  },
+  {
+   "ref": "3.12",
+   "kind": "verse",
+   "sanskrit": "avaśyaṃ yātāraś cirataram uṣitvāpi viṣayā\nviyoge ko bhedas tyajati na jano yat svayam amūn |\nvrajantaḥ svātantryād atula-paritāpāya manasaḥ\nsvayaṃ tyaktā hy ete śama-sukham anantaṃ vidadhati ||",
+   "english": null
+  },
+  {
+   "ref": "3.13",
+   "kind": "verse",
+   "sanskrit": "brahma-jñāna-viveka-nirmala-dhiyaḥ kurvanty aho duṣkaraṃ\nyan muñcanty upabhoga-bhāñjy api dhanāny ekāntato niḥspṛhāḥ |\nsamprātān na purā na samprati na ca prāptau dṛḍha-pratyayān\nvāñchā-mātra-parigrahān api paraṃ tyaktuṃ na śaktā vayam ||",
+   "english": null
+  },
+  {
+   "ref": "3.14",
+   "kind": "verse",
+   "sanskrit": "dhanyānāṃ giri-kandareṣu vasatāṃ jyotiḥ paraṃ dhyāyatāmānandāśru-\njalaṃ pibanti śakunā niḥśaṅkam aṅkeśayāḥ |\nasmākaṃ tu manorathoparacita-prāsāda-vāpī-taṭakrīḍā-\nkānana-keli-kautuka-juṣām āyuḥ paraṃ kṣīyate ||",
+   "english": null
+  },
+  {
+   "ref": "3.15",
+   "kind": "verse",
+   "sanskrit": "bhikṣā-śataṃ tad api nīrasam eka-bāraṃ\nśayyā ca bhūḥ parijano nija-deha-mātram |\nvastraṃ viśīrṇa-śata-khaṇḍa-mayī ca kanthā\nhā hā tathāpi viṣayā na parityajanti ||",
+   "english": null
+  },
+  {
+   "ref": "3.16",
+   "kind": "verse",
+   "sanskrit": "stanau māṃsa-granthī kanaka-kalaśāv ity upamitī\nmukhaṃ śleṣmāgāraṃ tad api ca śaśāṅkena tulitam |\nsravan-mūtra-klinnaṃ kari-vara-śira-spardhi jaghanaṃ\nmuhur nindyaṃ rūpaṃ kavi-jana-viśeṣair guru-kṛtam ||",
+   "english": null
+  },
+  {
+   "ref": "3.17",
+   "kind": "verse",
+   "sanskrit": "eko rāgiṣu rājate priyatamā-dehārdha-hārī haro\nnīrāgeṣu jano vimukta-lalanāsaṅgo na yasmāt paraḥ |\ndurvāra-smara-bāṇa-pannaga-viṣa-vyābiddha-mugdho janaḥ\nśeṣaḥ kāma-viḍambitān na viṣayān bhoktuṃ na moktuṃ kṣamaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.18",
+   "kind": "verse",
+   "sanskrit": "ajānan dāhātmyaṃ patatu śalabhas tīvra-dahane\nsa mīno 'py ajñānād baḍiśa-yutam aśnātu piśitam |\nvijānanto 'py ete vayam iha viyaj jāla-jaṭilān\nna muñcāmaḥ kānām ahaha gahano moha-mahimā ||",
+   "english": null
+  },
+  {
+   "ref": "3.19",
+   "kind": "verse",
+   "sanskrit": "tṛṣā śuṣyaty āsye pibati salilaṃ śīta-madhuraṃ\nkṣudhārtaḥ śālyannaṃ kavalayati māṃsādi-kalitam |\npradīpte kāmāgnau sudṛḍhataram āliṅgati vadhūṃ\npratīkāraṃ vyādhaḥ sukham iti viparyasyati janaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.20",
+   "kind": "verse",
+   "sanskrit": "tuṅgaṃ veśma sutāḥ satām abhimatāḥ saṅkhyātigāḥ sampadaḥ\nkalyāṇī dayitā vayaś ca navam ity ajñāna-mūḍho janaḥ |\nmatvā viśvam anaśvaraṃ niviśate saṃsāra-kārā-gṛhe\nsaṃdṛśya kṣaṇa-bhaṅguraṃ tad akhilaṃ dhanyas tu sannyasyati ||",
+   "english": null
+  },
+  {
+   "ref": "3.21",
+   "kind": "verse",
+   "sanskrit": "dīnā dīna-mukhaiḥ sadaiva śiśukairākṛṣṭa-jīrṇāmbarā\nkrośadbhiḥ kṣudhitair niranna-vidhurā dṛśyā na ced gehinī |\nyācñā-bhaṅga-bhayena gadgada-gala-truṭyad-vilīnākṣaraṃ\nko dehīti vadet sva-dagdha-jaṭharasyārthe manasvī pumān ||",
+   "english": null
+  },
+  {
+   "ref": "3.22",
+   "kind": "verse",
+   "sanskrit": "abhimata-mahāmāna-granthi-prabheda-paṭīyasī\ngurutara-guṇa-grāmābhoja-sphuṭojjvala-candrikā |\nvipula-vilal-lajjā-vallī-vitāna-kuṭhārikā\njaṭhara-piṭharī duspureyaṃ karoti viḍambanam ||",
+   "english": null
+  },
+  {
+   "ref": "3.23",
+   "kind": "verse",
+   "sanskrit": "puṇye grāme vane vā mahati sita-paṭac-channa-pālī kapāliṃ\nhy ādāya nyāya-garbha-dvija-huta-huta-bhug dhūma-dhūmropakaṇṭhe |\ndvāraṃ dvāraṃ praviṣṭo varam udara-darī-pūraṇāya kṣudhārto\nmānī prāṇaiḥ sanātho na punar anudinaṃ tulya-kulyesu dīnaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.24",
+   "kind": "verse",
+   "sanskrit": "gaṅgā-taraṅga-kaṇa-śīkara-śītalāni\nvidyādharādhyuṣita-cāru-śilā-talāni |\nsthānāni kiṃ himavataḥ pralayaṃ gatāni\nyat sāvamāna-para-piṇḍa-ratā manuṣyāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.25",
+   "kind": "verse",
+   "sanskrit": "kiṃ kandāḥ kandarebhyaḥ pralayam upagatā nirjharā vā giribhyaḥ\npradhvastā vā tarubhyaḥ sarasa-gala-bhṛto valkalinyaś ca śākhāḥ |\nvīkṣyante yan mukhāni prasabham apagata-praśrayāṇāṃ khalānāṃ\nduḥkhāpta-svalpa-vitta-smaya-pavana-vaśānartita-bhrū-latāni ||",
+   "english": null
+  },
+  {
+   "ref": "3.26",
+   "kind": "verse",
+   "sanskrit": "puṇyair mūla-phalais tathā praṇayinīṃ vṛttiṃ kuruṣvādhunā\nbhū-śayyāṃ nava-pallavair akṛpaṇair uttiṣṭha yāvo vanam |\nkṣudrāṇām aviveka-mūḍha-manasāṃ yatreśvarāṇāṃ sadā\nvitta-vyādhi-vikāra-vihvala-girāṃ nāmāpi na śrūyate ||",
+   "english": null
+  },
+  {
+   "ref": "3.27",
+   "kind": "verse",
+   "sanskrit": "phalaṃ svecchā-labhyaṃ prativanam akhedaṃ kṣitiruhāṃ\npayaḥ sthāne sthāne śiśira-madhuraṃ puṇya-saritām |\nmṛdu-sparśā śayyā sulalita-latā-pallava-mayī\nsahante santāpaṃ tad api dhanināṃ dvāri kṛpaṇāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.28",
+   "kind": "verse",
+   "sanskrit": "ye vartante dhana-pati-puraḥ prārthanā-duḥkha-bhājo\nye cālpatvaṃ dadhati viṣayākṣepa-paryāpta-buddheḥ |\nteṣām antaḥ-sphurita-hasitaṃ vāsarāṇi smareyaṃ\ndhyāna-cchede śikhari-kuhara-grāva-śayyā-niṣaṇṇaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.29",
+   "kind": "verse",
+   "sanskrit": "ye santoṣa-nirantara-pramuditas teṣāṃ na bhinnā mudo\nye tv anye dhana-lubdha-saṅkala-dhiyas tesāṃ na tṛṣṇāhatā |\nitthaṃ kasya kṛte kutaḥ sa vidhinā kīdṛk-padaṃ sampadāṃ\nsvātmany eva samāpta-hema-mahimā merur na me rocate ||",
+   "english": null
+  },
+  {
+   "ref": "3.30",
+   "kind": "verse",
+   "sanskrit": "bhikṣāhāram adainyam apratisukhaṃ bhīticchidaṃ sarvato\ndurmātsarya-madābhimāna-mathanaṃ duḥkhaugha-vidhvaṃsanam |\nsarvatrānvaham aprayatna-sulabhaṃ sādhu-priyaṃ pāvanaṃ\nśambhoḥ satram avāyam akṣaya-nidhiṃ śaṃsanti yogīśvarāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.31",
+   "kind": "verse",
+   "sanskrit": "bhoge rogamayaṃ kule cyuti-bhayaṃ vitte nṛpālād bhayaṃ\nmāne dhainya-bhayaṃ bale ripu-bhayaṃ rūpe jarāya bhayam |\nśāstre vādibhayaṃ guṇe khala-bhayaṃ kāye kṛtāntād bhayaṃ\nsarvaṃ vastu bhayānvitaṃ bhuvi nṝṇāṃ vairāgyam evābhayam ||",
+   "english": null
+  },
+  {
+   "ref": "3.32",
+   "kind": "verse",
+   "sanskrit": "ākrāntaṃ maraṇena janma jarasā cātyujjvalaṃ yauvanaṃ\nsantoṣo dhana-lipsayā śama-mukhaṃ prauḍhāṅganā-vibhramaiḥ |\nlokair matsaribhir guṇā vana-bhuvo vyālair nṛpā durjanair\nasthairyeṇa vibhūtayo 'py apahatā grastaṃ na kiṃ kena vā ||",
+   "english": null
+  },
+  {
+   "ref": "3.33",
+   "kind": "verse",
+   "sanskrit": "ādhi-vyādhi-śatair janasya vividhair ārogyam unmūlyate\nlakṣmīr yatra patanti tatra vivṛta-dvārā iva vyāpadaḥ |\njātaṃ jātam avaśyam āśu vivaśaṃ mṛtyuḥ karoty ātmasāt\ntat kiṃ tena niraṅkuśena vidhinā yan nirmitaṃ susthiram ||",
+   "english": null
+  },
+  {
+   "ref": "3.34",
+   "kind": "verse",
+   "sanskrit": "bhogās tuṅgataraṅga-bhaṅga-taralāḥ prāṇāḥ kṣaṇa-dhvaṃsinaḥ\nstokāny eva dināni yauvana-sukhaṃ sphūrtiḥ priyāsu sthitā |\ntat-saṃsāram asāram eva nikhilaṃ buddhvā budhā bodhakā\nlokānugraha-peśalena manasā yatnaḥ samādhīyatām ||",
+   "english": null
+  },
+  {
+   "ref": "3.35",
+   "kind": "verse",
+   "sanskrit": "bhogā megha-vitāna-madhya-vilasat-saudāminī-cañcalā\nāyur vāyu-vighaṭṭitābja-paṭalī-līnāmbuvad bhaṅguram |\nlīlā yauvana-lālasās tanubhṛtām ity ākalayya drutaṃ\nyoge dhairya-samādhi-siddhi-sulabhe buddhiṃ vidadhvaṃ budhāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.36",
+   "kind": "verse",
+   "sanskrit": "āyuḥ kallola-lolaṃ katipaya-divasa-sthāyinī yauvana-śrīr\narthāḥ saṅkalpa-kalpā ghana-samaya-taḍid-vibhramā bhoga-pūgāḥ |\nkaṇṭhāśleṣopagūḍha tad api ca na ciraṃ yat priyābhaḥ praṇītaṃ\nbrahmaṇy āsakta-cittā bhavata bhavamayāmbhodhi-pāraṃ tarītum ||",
+   "english": null
+  },
+  {
+   "ref": "3.37",
+   "kind": "verse",
+   "sanskrit": "kṛcchreṇāmedhya-madhye niyamita-tanubhiḥ sthīyate garbha-vāse\nkāntā-viśleṣa-duḥkha-vyatikara-viṣamo yauvane copabhogaḥ |\nvāmākṣīṇām avajñā-vihasita-vasatir vṛddha-bhāvo 'nyasādhuḥ\nsaṃsāre re manuṣyā vadata yadi sukhaṃ svalpam apy asti kiñcit ||",
+   "english": null
+  },
+  {
+   "ref": "3.38",
+   "kind": "verse",
+   "sanskrit": "vyāghrīva tiṣṭhati jarā paritarjayantī\nrogāś ca śatrava iva praharanti deham |\nāyuḥ parisravanti bhinna-ghaṭā-divāmbho\nlokas tathāpy ahitam ācaratīti citram ||",
+   "english": null
+  },
+  {
+   "ref": "3.39",
+   "kind": "verse",
+   "sanskrit": "bhogā bhaṅgura-vṛttayo bahuvidhās tair eva cāyaṃ bhavastat\nkasyeha kṛte paribhramata re lokāḥ kṛtaṃ ceṣṭataiḥ |\nāśā-pāśa-śatāpaśānti-viśadaṃ cetaḥ-samādhīyatāṃ\nkāmotpatti-vaśāt svadhāmani yadi śraddeyam asmad-vacaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.39*1",
+   "kind": "verse",
+   "sanskrit": "sakhe dhanyāḥ kecit truṭita-bhava-bandha-vyatikarā\nvanānte cittāntar-viṣam aviṣayāśīt-viṣa-gatāḥ |\nśarac-candra-jyotsnādhavala-gaganābhoga-subhagāṃ\nnayante ye rātriṃ sukṛta-caya-cintaika-śaraṇāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.40",
+   "kind": "verse",
+   "sanskrit": "brahmendrādi-marud-gaṇāṃs tṛṇa-kaṇān yatra sthito manyate\nyat-svādād virasā bhavanti vibhavās trailokya-rājyādayaḥ |\nbhogaḥ ko 'pi sa eva eka paramo nityodito jṛmbhate\nbhoḥ sādho kṣaṇa-bhaṅgure tad itare bhoge ratiṃ mā kṛthāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.41",
+   "kind": "verse",
+   "sanskrit": "sā ramyā nagarī mahān sa nṛpatiḥ sāmanta-cakraṃ ca tat\npārśve tasya ca sā vidagdha-pariṣat tāś candra-bimbānanāḥ |\nudvṛttaḥ sa rāja-putra-nivahas te vandinas tāḥ kathāḥ\nsarvaṃ yasya vaśād agāt smṛti-pathaṃ kālāya tasmai namaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.42",
+   "kind": "verse",
+   "sanskrit": "yatrānekaḥ kvacid api gṛhe tatra tiṣṭhaty athaiko\nyatrāpy ekas tad anu bahavas tatra naiko 'pi cānte |\nitthaṃ nayau rajani-divasau lolayan dvāv ivākṣau\nkālaḥ kalyo bhuvana-phalake kraḍati prāṇi-śāraiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.43",
+   "kind": "verse",
+   "sanskrit": "ādityasya gatāgatair aharahaḥ saṃkṣīyate jīvitaṃ\nvyāpārair bahu-kārya-bhāra-gurubhiḥ kālo 'pi na jñāyate |\ndṛṣṭvā janma-jarā-vipatti-maraṇaṃ trāsaś ca notpadyate\npītvā mohamayīṃ pramāda-madirām unmatta-bhūtaṃ jagat ||",
+   "english": null
+  },
+  {
+   "ref": "3.44",
+   "kind": "verse",
+   "sanskrit": "rātriḥ saiva punaḥ sa eva divaso matvā mudhā jantavo\ndhāvanty udyaminas tathaiva nibhṛta-prārabdha-tat-tat-kriyāḥ |\nvyāpāraiḥ punar-ukta-bhūta-viṣayair itthaṃ vidhenāmunā\nsaṃsāreṇa kadarthitā vayam aho mohān na lajjāmahe ||",
+   "english": null
+  },
+  {
+   "ref": "3.45",
+   "kind": "verse",
+   "sanskrit": "na dhyānaṃ padam īśvarasya vidhivat saṃsāra-vicchittaye\nsvarga-dvāra-kapāṭa-pāṭana-paṭur dharmo 'pi nopārjitaḥ |\nnārī-pīna-payodharoru-yugalaṃ svapne 'pi nāliṅgitaṃ\nmātuḥ kevalam eva yauvana-vana-cchede kuṭhārā vayam ||",
+   "english": null
+  },
+  {
+   "ref": "3.46",
+   "kind": "verse",
+   "sanskrit": "nābhyastā prativādi-vṛnda-damanī vidyā vinītocitā\nkhaḍgāgraiḥ kari-kumbha-pīṭha-dalanair nākaṃ na nītaṃ yaśaḥ |\nkāntākomala-pallavādhara-rasaḥ pīto na candrodaye\ntāruṇyaṃ gatam eva niṣphalam aho śūnyālaye dīpavat ||",
+   "english": null
+  },
+  {
+   "ref": "3.47",
+   "kind": "verse",
+   "sanskrit": "vidyā nādhigatā kalaṅka-rahitā vittaṃ ca nopārjitaṃ\nśuśrūṣāpi samāhitena manasā pitror na sampāditā |\nālolāyata-locanāḥ priyatamāḥ svapne 'pi nāliṅgitāḥ\nkālo 'yaṃ para-piṇḍa-lolupatayā kākair iva preryate ||",
+   "english": null
+  },
+  {
+   "ref": "3.48",
+   "kind": "verse",
+   "sanskrit": "vayaṃ yebhyo jātāś cira-parigatā eva khalu te\nsamaṃ yaiḥ saṃvṛddhāḥ smṛti-viṣayatāṃ te 'pi gamitāḥ |\nidānīm ete smaḥ pratidivasam āsanna-patanā\ngatās tulyāvasthāṃ sikatilanadī-tīra-tarubhiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.49",
+   "kind": "verse",
+   "sanskrit": "āyur varṣa-śataṃ nṝṇāṃ parimitaṃ rātrau tad-ardhaṃ gataṃ\ntasyārdhasya parasya cārdham aparaṃ bālatva-vṛddhatvayoḥ |\nśeṣaṃ vyādhi-viyoga-duḥkha-sahitaṃ sevādibhir nīyate\njīve vārita-raṅga-cañcalatare saukhyaṃ kutaḥ prāṇinām ||",
+   "english": null
+  },
+  {
+   "ref": "3.50",
+   "kind": "verse",
+   "sanskrit": "kṣaṇaṃ bālo bhūtvā kṣaṇam pai yuvā kāma-rasikaḥ\nkṣaṇaṃ vittair hīnaḥ kṣaṇam api ca sampūrṇa-vibhavaḥ |\njarā-jīrṇair aṅgair naṭa iva balī-maṇḍita-tanūr\nnaraḥ saṃsārānte viśati yamadhānīya-vanikām ||",
+   "english": null
+  },
+  {
+   "ref": "3.51",
+   "kind": "verse",
+   "sanskrit": "tvaṃ rājā vayam apy upāsita-guru-prajñābhimānonnatāḥ\nkhyātas tvaṃ vibhavair yaśāṃsi kavayo dikṣu pratanvanti naḥ |\nitthaṃ māna-dhanāti-dūram ubhayor apy āvayor antaraṃ\nyady asmāsu parāṅmukho 'si vayam apy ekāntato niḥspṛhā ||",
+   "english": null
+  },
+  {
+   "ref": "3.52",
+   "kind": "verse",
+   "sanskrit": "arthānām īśiṣe tvaṃ vayam api ca girām īśmahe yāvad arthaṃ\nśūras tvaṃ vādi-darpa-vyupaśamana-vidhāva-kṣayaṃ pāṭavaṃ naḥ |\nsevante tvāṃ dhanāḍhyā matimalahatayemām api śrotu-kāmāmayy\napy āsthā na te cet tvayi mama nitarām eva rājann anāsthā ||",
+   "english": null
+  },
+  {
+   "ref": "3.53",
+   "kind": "verse",
+   "sanskrit": "vayam iha parituṣṭā valkalais tvaṃ dukūlaiḥ\nsama iha paritoṣo nirviśeṣo viśeṣaḥ |\nsa tu bhavatu daridro yasya tṛṣṇā viśālā\nmanasi ca parituṣṭe ko 'rthavān ko daridraḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.54",
+   "kind": "verse",
+   "sanskrit": "phalam alam aśanāya svādu pānāya toyaṃ\nkṣitir api śayanārthaṃ vāsase valkalaṃ ca |\nnava-ghana-madhupāna-bhrānta-sarvendriyāṇāmavinayam\nanumantuṃ notsahe durjanānām ||",
+   "english": null
+  },
+  {
+   "ref": "3.55",
+   "kind": "verse",
+   "sanskrit": "aśnīmahi vayaṃ bhikṣām āśāvāso vasīmahi |\nśayīmahi mahī-pṛṣṭhe kurvīmahi kim īśvaraiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.56",
+   "kind": "verse",
+   "sanskrit": "na naṭā nā viṭā na gāyakā na ca sabhyetara-vāda-cuñcavaḥ |\nnṛpam īkṣitum atra ke vayaṃ stana-bhārān amitā na yoṣitaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.57",
+   "kind": "verse",
+   "sanskrit": "vipula-hṛdayair īśair etaj jagaj janitaṃ purā\nvidhṛtam aparair dattaṃ cānyair vijitya tṛṇaṃ yathā |\niha hi bhuvanāny anyair dhīrāś caturdaśa bhuñjate\nkatipaya-pura-svāmye puṃsāṃ ka eṣa mada-jvaraḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.58",
+   "kind": "verse",
+   "sanskrit": "abhuktāyāṃ yasyāṃ kṣaṇam api na yātaṃ nṛpa-śatair\ndhuvas tasyā lābhe ka iva bahumānaḥ kṣiti-bhṛtām |\ntad-aṃśasyāpy aṃśe tad-avaya-leśe 'pi patayo\nviṣāde kartavye vidadhati jaḍāḥ pratyuta mudam ||",
+   "english": null
+  },
+  {
+   "ref": "3.59",
+   "kind": "verse",
+   "sanskrit": "mṛt-piṇḍo jala-rekhayā bala-yatiḥ sarvo 'py ayaṃ nanv aṇuḥ\nsvāṃśīkṛtya sa eva saṅgara-śatai rājñāṃ gaṇā bhuñjate |\nye dadyur dadato 'thavā kim aparaṃ kṣudrā daridraṃ bhṛśaṃ\ndhig dhik tān puruṣādhamān dhanakaṇān vāñchanti tebhyo 'pi ye ||",
+   "english": null
+  },
+  {
+   "ref": "3.60",
+   "kind": "verse",
+   "sanskrit": "sa jātaḥ ko 'py āsīn madana-ripuṇā mūrdhni dhavalaṃ\nkapālaṃ yasyoccair vinihitam alaṅkāra-vidhaye |\nnṛbhiḥ prāṇa-trāṇa-pravaṇa-matibhiḥ kaiścid adhunā\nnamadbhiḥ kaḥ puṃsām ayam atula-darpa-jvara-bharaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.61",
+   "kind": "verse",
+   "sanskrit": "pareṣāṃ cetāṃsi pratidivasam ārādhya bahudhā\nprasādaṃ kiṃ netuṃ viśasi hṛdaya kleśa-kalitam |\nprasanne tvayy antaḥ-savayamudita-cintāmaṇi-gaṇo\nviviktaḥ saṅkalpaḥ kim abhilaṣitaṃ puṣyati na te ||",
+   "english": null
+  },
+  {
+   "ref": "3.61*1",
+   "kind": "verse",
+   "sanskrit": "satyām eva trilokī-sariti hara-śiraś cumbinīvac chaṭāyāṃ\nsad-vṛttiṃ kalpayantyāṃ baṭa-viṭapa-bhavair valkalaiḥ sat-phalaiś ca |\nko 'yaṃ vidvān vipatti-jvara-janita-rujātīva-duḥkhāsikānāṃ\nvaktraṃ vīkṣeta duḥsthe yadi hi na vibhṛyāt sve kuṭumbe 'nukampām ||",
+   "english": null
+  },
+  {
+   "ref": "3.62",
+   "kind": "verse",
+   "sanskrit": "paribhramasi kiṃ mudhā kvacana citta viśrāmyatāṃ\nsvayaṃ bhavati yad yathā bhavati tat tathā nānyathā |\natītam ananusmarann api ca bhāvya-saṅkalpayannatarkita-\nsamāgamānubhavāmi bhoganāham ||",
+   "english": null
+  },
+  {
+   "ref": "3.63",
+   "kind": "verse",
+   "sanskrit": "etasmād viramendriyārtha-gahanādāyāsakād āśrayaśreyo-\nmārgam aśeṣa-duḥkha-śamana-vyāpāra-dakṣaṃ kṣaṇāt |\nsvātmībhāvam upaihi santyaja nijāṃ kallola-lolaṃ gatiṃ\nmā bhūyo bhaja bhaṅgurāṃ bhava-ratiṃ cetaḥ prasīdādhunā ||",
+   "english": null
+  },
+  {
+   "ref": "3.64",
+   "kind": "verse",
+   "sanskrit": "mohaṃ mārjaya tām upārjaya ratiṃ candrārdha-cūḍāmaṇau\ncetaḥ svarga-taraṅgiṇī-taṭa-bhuvām āsaṅgam aṅgīkuru |\nko vā vīciṣu budbudeṣu ca taḍil-lekhāsu ca śrīṣu ca\njvālāgreṣu ca pannageṣu sarid-vegeṣu ca ca-pratyayaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.65",
+   "kind": "verse",
+   "sanskrit": "cetaś cintaya mā ramāṃ sakṛd imām asthāyinīm āsthayā\nbhūpāla-bhrukuṭī-kuṭī-viharaṇa-vyāpāra-paṇyāṅganām |\nkanthā-kañcukinaḥ praviśya bhavana-dvārāṇi vārāṇasīrathyā-\npaṅktiṣu pāṇi-pātra-patitāṃ bhikṣām apekṣāmahe ||",
+   "english": null
+  },
+  {
+   "ref": "3.66",
+   "kind": "verse",
+   "sanskrit": "agre gītaṃ sarasa-kavayaḥ pārśvayor dākṣiṇātyāḥ\npaścāl līlāvalaya-raṇitaṃ cāmara-grāhiṇīnām |\nyady asty evaṃ kuru bhava-rasāsvādane lampaṭatvaṃ\nno cec cetaḥ praviśa sahasā nirvikalpe samādhau ||",
+   "english": null
+  },
+  {
+   "ref": "3.67",
+   "kind": "verse",
+   "sanskrit": "prāptāḥ śriyaḥ sakala-kāma-dudhās tataḥ kiṃ\nnyastaṃ padaṃ śirasi vidviṣatāṃ tataḥ kim |\nsampāditāḥ praṇayino vibhavais tataḥ kiṃ\nkalpaṃ sthitās tanubhṛtāṃ tanavas tataḥ kim ||",
+   "english": null
+  },
+  {
+   "ref": "3.68",
+   "kind": "verse",
+   "sanskrit": "bhaktir bhave maraṇa-janma-bhayaṃ hṛdi-sthaṃ\nsneho na bandhuṣu na manmathajā vikārāḥ |\nsaṃsarja doṣa-rahitā vijayā vanāntā\nvairāgyam asti kim itaḥ paramarthanīyam ||",
+   "english": null
+  },
+  {
+   "ref": "3.69",
+   "kind": "verse",
+   "sanskrit": "tasmād anantam ajaraṃ paramaṃ vikāsi\ntad brahma cintaya kim ebhir asad-vikalpaiḥ |\nyasyānuṣaṅgiṇa ime bhuvanādhipatyabhogādayaḥ\nkṛpaṇa-loka-matā bhavanti ||",
+   "english": null
+  },
+  {
+   "ref": "3.70",
+   "kind": "verse",
+   "sanskrit": "pātālam āviśasi yāsi nabho vilaṅghya\ndiṅ-maṇḍalaṃ bhramasi mānasa cāpalena |\nbhrāntyāpi jātu vimalaṃ katham ātmanīnaṃ\nna brahma saṃsarasi virvṛtimm eṣi yena ||",
+   "english": null
+  },
+  {
+   "ref": "3.71",
+   "kind": "verse",
+   "sanskrit": "kiṃ vedaiḥ smṛtibhiḥ purāṇa-paṭhanaiḥ śāstrair mahā-vistaraiḥ\nsvarga-grāma-kuṭī-nivāsa-phaladaiḥ karma-kriyā-vibhramaiḥ |\nmuktvaikaṃ bhava-duḥkha-bhāra-racanā-vidhvaṃsa-kālānalaṃ\nsvātmānanda-pada-praveśa-kalanaṃ śesair vāṇig-vṛttibhiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.71*1",
+   "kind": "verse",
+   "sanskrit": "nāyaṃ te samayo rahasyam adhunā nidrāti nātho yadi\nsthitvā drakṣyati kupyati prabhur iti dvāreṣu yeṣāṃ vacaḥ |\ncetas tān apahāya yāhi bhavanaṃ devasya viśveśitur\nnirdauvārika-nirdayokty-aparuṣaṃ niḥsoma-śarma-pradam ||",
+   "english": null
+  },
+  {
+   "ref": "3.72",
+   "kind": "verse",
+   "sanskrit": "yato meruḥ śrīmān nipatati yugāntāgni-valitaḥ\nsamudrāḥ śuṣyanti pracura-makara-grāha-nilayāḥ |\ndharā gacchaty antaṃ dharaṇi-dhara-pādair api dhṛtā\nśarīre kā vārtā karikalabha-karṇāgra-capale ||",
+   "english": null
+  },
+  {
+   "ref": "3.73",
+   "kind": "verse",
+   "sanskrit": "gātraṃ saṅkucitaṃ gatir vigalitā bhraṣṭā ca dantāvalir\ndṛṣṭir nakṣyati vardhate vadhiratā vaktraṃ ca lālāyate |\nvākyaṃ nādriyate ca bāndhava-jano bhāryā na śuśrūṣate\nhā kaṣṭaṃ puruṣasya jīrṇa-vayasaḥ putro 'py amitrāyate ||",
+   "english": null
+  },
+  {
+   "ref": "3.74",
+   "kind": "verse",
+   "sanskrit": "varṇaṃ sitaṃ śirasi vīkṣya śiroruhāṇāṃ\nsthānaṃ jarā-paribhavasya tadā pumāṃsam |\nāropitāṃsthi-śatakaṃ parihṛtya yānti\ncaṇḍāla-kūpam iva dūrataraṃ taruṇyaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.75",
+   "kind": "verse",
+   "sanskrit": "yāvat svastham idaṃ śarīram arujaṃ yāvac ca dūre jarā\nyāvac cendriya-śaktir apratihatā yāvat kṣayo nāyuṣaḥ |\nātma-śreyasi tāvad eva viduṣā kāryaḥ prayatno mahān\nsandīpte bhavane tu kūpa-khananaṃ pratyudyamaḥ kīdṛśaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.76",
+   "kind": "verse",
+   "sanskrit": "tapasyantaḥ santaḥ kim adhinivasāmaḥ sura-nadīṃ\nguṇodārān dārān uta paricarāmaḥ savinayam |\npibāmaḥ śāstraughānuta-vividha-kāvyāmṛta-rasān\nna vidmaḥ kiṃ kurmaḥ katipaya-nimeṣāyuṣi jane ||",
+   "english": null
+  },
+  {
+   "ref": "3.77",
+   "kind": "verse",
+   "sanskrit": "durārādhyāś cāmī turaga-cala-cittāḥ kṣitibhujo\nvayaṃ tu sthūlecchāḥ sumahati phale baddha-manasaḥ |\njarā dehaṃ mṛtyur harati dayitaṃ jīvitam idaṃ\nsakhe nānyac chreyo jagati viduṣe 'nyatra tapasaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.78",
+   "kind": "verse",
+   "sanskrit": "māne mlāyini khaṇḍite ca vasuni vyarthe prayāte 'rthini\nkṣīṇe bandhu-jane gate parijane naṣṭe śanair yauvane |\nyuktaṃ kevalam etad eva sudhiyāṃ yaj jahnu-kanyā-payaḥpūtāgrāva-\ngirīndra-kandara-taṭī-kuñje nivāsaḥ kvacit ||",
+   "english": null
+  },
+  {
+   "ref": "3.79",
+   "kind": "verse",
+   "sanskrit": "ramyāś candra-marīcayas tṛṇavatī ramyā vanānta-sthalī\nramyaṃ sādhu-samāgamāgata-sukhaṃ kāvyeṣu ramyāḥ kathāḥ |\nkopopāhita-bāṣpa-bindu-taralaṃ ramyaṃ priyāyā mukhaṃ\nsarvaṃ ramyam anityatām upagate citte na kiñcit punaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.80",
+   "kind": "verse",
+   "sanskrit": "ramyaṃ harmya-talaṃ na kiṃ vasataye śravyaṃ na geyādikaṃ\nkiṃ vā prāṇa-samāsamāgama-sukhaṃ naivādhika-prītaye |\nkintu bhrānta-pataṅga-kṣapavanavyālola-dīpāṅkuracchāyā-\ncañcalam ākalayya sakalaṃ santo vanāntaṃ gatāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.81",
+   "kind": "verse",
+   "sanskrit": "ā saṃsārāt tribhuvanam idaṃ cinvatāṃ tāt tādṛṅnaivāsmākaṃ\nnayana-padavīṃ śrotra-mārgaṃ gato vā |\nyo 'yaṃ dhatte viṣaya-kariṇo gāḍha-gūḍhābhimānakṣīvasyāntaḥ-\nkaraṇa-kariṇaḥ saṃyamālāna-līlām ||",
+   "english": null
+  },
+  {
+   "ref": "3.82",
+   "kind": "verse",
+   "sanskrit": "yad etat svacchandaṃ viharaṇam akārpaṇyam aśanaṃ\nsahāryaiḥ saṃvāsaḥ śrutam upaśamaika-vrata-phalam |\nmano manda-spandaṃ bahir api cirasyāpi vimṛśanna\njāne kasyaiṣā pariṇatir udārasya tapasaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.83",
+   "kind": "verse",
+   "sanskrit": "jīrṇā eva manorathāś ca hṛdaye yātaṃ ca tad yauvanaṃ\nhantāṅgeṣu guṇāś bandhya-phalatāṃ yātā guṇajñair vinā |\nkiṃ yuktaṃ sahasābhyupaiti balavān kālaḥ kṛtānto 'kṣamī\nhā jñātaṃ madanāntakāṅghri-yugalaṃ muktvāsti nānyo gatiḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.84",
+   "kind": "verse",
+   "sanskrit": "maheśvare vā jagatām adhīśvare\njanārdane vā jagad-antarātmani |\nna vastu-bheda-pratipattir asti me\ntathāpi bhaktis taruṇendu-śekhare ||",
+   "english": null
+  },
+  {
+   "ref": "3.85",
+   "kind": "verse",
+   "sanskrit": "sphurat-sphāra-jyotsnādhavalita-tale kvāpi puline\nsukhāsīnāḥ śānta-dhvantisu rajanīṣu dyu-saritaḥ |\nbhavābhogodvignāḥ śiva śiva śivety uccavacasaḥ\nkadā yāsyāmo 'targata-bahula-bāṣpākula-daśām ||",
+   "english": null
+  },
+  {
+   "ref": "3.-",
+   "kind": "verse",
+   "sanskrit": "mahādevo devaḥ sarid api ca saiṣā sura-saridguhā\nevāgāraṃ vasanam api tā eva haritaḥ |\nsuhṛdā kālo 'yaṃ vratm idam adainya-vratam idaṃ\nkiyad vā vakṣyāmo vaṭa-viṭapa evāstu dayitā ||",
+   "english": null
+  },
+  {
+   "ref": "3.86",
+   "kind": "verse",
+   "sanskrit": "vitīrṇe sarvasve taruṇa-karuṇā-pūrṇa-hṛdayāḥ\nsmarantaḥ saṃsāre viguṇa-pariṇāmāṃ vidhi-gatim |\nvayaṃ puṇyāraṇye pariṇata-śarac-candra-kiraṇās\ntriyāmā nesyāmo hara-caraṇa-cintaika-śaraṇāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.87",
+   "kind": "verse",
+   "sanskrit": "kadā vārāṇasyām amara-taṭinī-rodhasi vasan\nvasānaḥ kaupīnaṃ śirasi nidadhāno 'ñjali-puṭam |\naye gaurīnātha tripurahara śambho trinayana\nprasīdetyākrośan nimiṣam iva neṣyāmi divasān ||",
+   "english": null
+  },
+  {
+   "ref": "3.--2",
+   "kind": "verse",
+   "sanskrit": "udyāneṣu vicitra-bhojana-vidhis tīvrātitīvraṃ tapaḥ\nkaupīnāvaraṇaṃ suvastram amitaṃ bhikṣāṭanaṃ maṇḍanam |\nāsannaṃ maraṇaṃ ca maṅgala-samaṃ yasyāṃ samutpadyate\ntāṃ kāśīṃ parihṛtya hanta vibudhair anyatra kiṃ sthīyate ||",
+   "english": null
+  },
+  {
+   "ref": "3.88",
+   "kind": "verse",
+   "sanskrit": "snātvā gāṅgaiḥ payobhiḥ śuci-kusuma-phalair arcayitvā vibho tvā\ndhyeye dhyānaṃ niveśya kṣiti-dhara-kuhara-grāva-paryaṅka-mūle |\nātmārāmaḥ phalāśī guru-vacana-ratas tvat-prasādāt smarāre\nduḥkhaṃ mokṣye kadāhaṃ sama-kara-caraṇe puṃsi sevāsamuttham ||",
+   "english": null
+  },
+  {
+   "ref": "3.89",
+   "kind": "verse",
+   "sanskrit": "ekākī niḥspṛhaḥ śāntaḥ pāṇipātro digambaraḥ |\nkadā śambho bhaviṣyāmi karma-nirmūlana-kṣamaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.90",
+   "kind": "verse",
+   "sanskrit": "pāṇiṃ pātrayatāṃ nisarga-śucinā bhaikṣeṇa santuṣyatāṃ\nyatra kvāpi niṣīdatāṃ bahu-tṛṇaṃ viśvaṃ muhuḥ paśyatām |\natyāge 'pi tanor akhaṇḍa-paramānandāvabodha-spṛśā\nmadhvā ko 'pi śiva-prasāda-sulabhaḥ sampatsyate yoginām ||",
+   "english": null
+  },
+  {
+   "ref": "3.91",
+   "kind": "verse",
+   "sanskrit": "kaupīnaṃ śata-khaṇḍa-jarjarataraṃ kanthā punas tādṛśī\nnaiścintyaṃ nirapekṣa-bhaikṣyam aśanaṃ nidrā śmaśāne vane |\nsvātantryeṇa niraṅkuśaṃ viharaṇaṃ svāntaṃ praśāntaṃ sadā\nsthairyaṃ yoga-mahotsave 'pi ca yadi trailokya-rājyena kim ||",
+   "english": null
+  },
+  {
+   "ref": "3.92",
+   "kind": "verse",
+   "sanskrit": "brahmāṇḍaṃ maṇḍalī-mātraṃ kiṃ lobhāya manasvinaḥ |\nśapharī-sphurtenābdhiḥ kṣubdho na khalu jāyate ||",
+   "english": null
+  },
+  {
+   "ref": "3.93",
+   "kind": "verse",
+   "sanskrit": "mātar lakṣmi bhajasva kañcid aparaṃ mat-kāṅkṣiṇī mā sma bhūr\nbhogeṣu spṛhayālavas tava vaśe kā niḥspṛhāṇām asi |\nsadyaḥ syūta-palāśa-patra-puṭikā-pātraiḥ pavitrī-kṛtair\nbhikṣā-vastubhir eva samprati vayaṃ vṛttiṃ samīhāmahe ||",
+   "english": null
+  },
+  {
+   "ref": "3.94",
+   "kind": "verse",
+   "sanskrit": "mahā-śayyā pṛthvī vipulam upadhānaṃ bhuja-latāṃ\nvitānaṃ cākāśaṃ vyajanam anukūlo 'yam anilaḥ |\nśarac-candro dīpo virati-vanitā-saṅga-muditaḥ\nsukhī śāntaḥ śete munir atanu-bhūtir nṛpa iva ||",
+   "english": null
+  },
+  {
+   "ref": "3.95",
+   "kind": "verse",
+   "sanskrit": "bhikṣāsī jana-madhya-saṅga-rahitaḥ svāyatta-ceṣṭaḥ sadā\nhānā-dāna-virakta-mārga-nirataḥ kaścit tapasvī sthitaḥ |\nrathyākīrṇa-viśīrṇa-jīrṇa-vasanaḥ samprāpta-kanthāsano\nnirmāno nirahaṅkṛtiḥ śama-sukhābhogaika-baddha-spṛhaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.96",
+   "kind": "verse",
+   "sanskrit": "caṇḍālaḥ kim ayaṃ dvijātir athavā śūdro 'tha kiṃ tāpasaḥ\nkiṃ vā tattva-viveka-peśala-matir yogīśvaraḥ ko 'pi kim |\nity utpanna-vikalpa-jalpa-mukharair ābhāṣyamāṇā janair\nna kruddhāḥ pathi naiva tuṣṭa-manaso yānti svayaṃ yoginaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.97",
+   "kind": "verse",
+   "sanskrit": "hiṃsā-śūnyam ayatna-labhyam aśanaṃ dhātrā marut-kalpitaṃ\nvyālānaṃ paśavas tṛṇāṅkura-bhujas tuṣṭāḥ sthalī-śāyinaḥ |\nsaṃsārārṇava-laṅghana-kṣama-dhiyāṃ vṛttiḥ kṛtā sā nṛṇāṃ\ntām anveṣayatāṃ prayānti satataṃ sarvaṃ samāptiṃ guṇāḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.98",
+   "kind": "verse",
+   "sanskrit": "gaṅgā-tīre hima-giri-śilā-baddha-padmāsanasya\nbrahma-dhyānābhyasana-vidhinā yoga-nidrāṃ gatasya |\nkiṃ tair bhāvyaṃ mama sudivasair yatra te nirviśaṅkāḥ\nkaṇḍūyante jaraṭha-hariṇāḥ svāṅgam aṅge madīye ||",
+   "english": null
+  },
+  {
+   "ref": "3.--3",
+   "kind": "verse",
+   "sanskrit": "jīrṇāḥ kanthā tataḥ kiṃ sitam amala-paṭaṃ paṭṭa-sūtraṃ tataḥ kiṃ\nekā bhāryā tataḥ kiṃ haya-kari-sugaṇair āvṛto vā tataḥ kim |\nbhaktaṃ bhuktaṃ tataḥ kiṃ kadaśanam athavā vāsarānte tataḥ kiṃ\nvyakta-jyotir na vāntarmathita-bhava-bhayaṃ vaibhavaṃ vā tataḥ kim ||",
+   "english": null
+  },
+  {
+   "ref": "3.99",
+   "kind": "verse",
+   "sanskrit": "pāṇiḥ pātraṃ pavitraṃ bhramaṇa-parigataṃ bhaikṣyam akṣayyam annaṃ\nvistīrṇaṃ vastram āśā-daśakam acapalaṃ talpam asvalpam urvīm |\nyeṣāṃ niḥsaṅgatāṅgī-karaṇa-pariṇata-svānta-santoṣiṇas te\ndhanyāḥ saṃnyasta-dainya-vyatikara-nikarāḥ karma nirmūlayanti ||",
+   "english": null
+  },
+  {
+   "ref": "3.99*1",
+   "kind": "verse",
+   "sanskrit": "trailokyādhipatitvam eva virasaṃ yasmin mahāśāsane\ntal labdhvāsana-vastra-māna-ghaṭane bhoge ratiṃ mā kṛthāḥ |\nbhogaḥ ko 'pi sa eka eva paramo nityoditā jṛmbhane\nyat-svādād virasā bhavanti visayās trailokya-rājyādayaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.100",
+   "kind": "verse",
+   "sanskrit": "mātar medini tāta māruti sakhe tejaḥ subandho jala\nbhrātar vyoma nibaddha eṣa bhavatām antyaḥ praṇāmāñjaliḥ |\nyuṣmat-saṅga-vaśopajāta-sukṛta-sphāra-sphuran-nirmalajñānāpāsta-\nsamasta-moha-mahimā līne para-brahmaṇi ||",
+   "english": null
+  },
+  {
+   "ref": "3.100*1",
+   "kind": "verse",
+   "sanskrit": "śayyā śaila-śilā-gṛhaṃ giri-guhā vastraṃ taruṇāṃ tvacaḥ\nsāraṅgāḥ suhṛdo nanu kṣiti-ruhāṃ vṛttiḥ phalaiḥ komalaiḥ |\nyesāṃ nirjharam ambu-pānam ucitaṃ ratyai tu vidyāṅganā\nmanye te parameśvarāḥ śirasi yari baddho na sevāñjaliḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.100*2",
+   "kind": "verse",
+   "sanskrit": "dhairyaṃ yasya pitā kṣamā ca jananī śāntiś ciraṃ gehinī\nsatyaṃ mitram idaṃ dayā ca bhaginī bhrātā manaḥ-saṃyamaḥ |\nśayyā bhūmi-talaṃ diśo 'pi vasanaṃ jñānāmṛtaṃ bhojanaṃ\nhy ete yasya kuṭumbino vada sakhe kasmād bhayaṃ yoginaḥ ||",
+   "english": null
+  },
+  {
+   "ref": "3.100*3",
+   "kind": "verse",
+   "sanskrit": "aho vā hāre vā balavati ripau vā suhṛdi vā\nmaṇau vā loṣṭhe vā kusuma-śayane vā dṛṣadi vā |\ntṛṇe vā straiṇe vā mama sama-dṛśo yānti divasāḥ\nkvacit puṇyāraṇye śiva śiva śiveti pralapataḥ ||",
+   "english": null
+  }
+ ],
+ "source_sanskrit": {
+  "citation": "Bhartṛhari, Śatakatraya, GRETIL (J. Brzezinski; 'needs critical reading', edition numberings vary)",
+  "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_bhatRhari-zatakatraya.txt",
+  "license": "CC BY-NC-SA 4.0 (GRETIL)"
+ },
+ "source_english": {
+  "citation": "Wortham, The Satakas of Bhartrihari (1886)",
+  "url": "https://archive.org/details/satakasofbhartri00bharuoft",
+  "license": null
+ },
+ "bundled": false,
+ "needs_ocr": false,
+ "alignment": "unaligned",
+ "slice_of": null,
+ "notes": "Sanskrit only in pass 1; Wortham English pending OCR. ref = shataka.verse (1 Nitishataka, 2 Shringarashataka, 3 Vairagyashataka). Verse numbering is GRETIL's and may differ from Wortham's. [normalized: 0 empty heading-only units dropped, 2 repeated refs suffixed -2/-3 (the source repeats the number); a repeated unit never reuses the first unit's English.]"
+}
