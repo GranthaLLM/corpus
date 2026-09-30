@@ -70,18 +70,15 @@ def main():
         if n > 70:
             continue
         s = secs[n]
-        dip = " ".join(s["dipika"]).strip() or None
-        mula = s["mula"]
-        units.append({"ref": str(n), "kind": "mula+dipika", "sanskrit": " ".join(x for x in (mula, dip) if x),
-                      "sanskrit_mula": mula, "sanskrit_dipika": dip, "english": english.get(n)})
+        units.append({"ref": str(n), "kind": "mula", "sanskrit": s["mula"], "english": english.get(n)})
     missing_en = [u["ref"] for u in units if not u["english"]]
     write("philosophical/tarkasamgraha.json", dict(
-        id="5", text="Tarkasaṃgraha of Annambhaṭṭa with the Dīpikā", tradition="Nyaya", commentator="Annambhaṭṭa (Dīpikā)", script="Devanagari", units=units,
+        id="5", text="Tarkasaṃgraha of Annambhaṭṭa", tradition="Nyaya", commentator=None, script="Devanagari", units=units,
         source_sanskrit={"citation": "The Tarkasangraha of Annam Bhatta (Nirnayasagara, Bombay 1876; English from the 1851 Allahabad edition of Ballantyne and Hall), Sanskrit re-OCR'd with Sarvam Vision (sa-IN)", "url": "https://archive.org/details/tarkasangrahaofa00annaiala", "license": None},
         source_english={"citation": "same book: J.R. Ballantyne and F. Hall's English translation of the Tarkasangraha and its Dipika (archive.org scan, Sarvam Vision OCR)", "url": "https://archive.org/details/tarkasangrahaofa00annaiala", "license": None},
         bundled=True, needs_ocr=True, alignment="row_aligned",
-        notes=(f"Sanskrit and English from the same scan, both via Sarvam Vision OCR of pages 8-58. Units follow the book's own numbering 1-70 (mula sentence + Annambhatta's Dipika gloss in Devanagari; GRETIL's 81-section numbering differs and was not used). english is the book's quoted translation for that number (it already folds in the Dipika content, translator's [brackets] kept). "
-               f"Sections without English: {', '.join(missing_en) or 'none'}. Sections whose number the OCR could not read (mula numbers {', '.join(str(n) for n in range(1, 71) if n not in secs)}) have no Sanskrit unit here even where the book has their English; Dipika paragraphs are attached to the preceding mula by position, so a stray index or page-head line may occasionally sit in a sanskrit_dipika, and where mula and Dipika were OCR'd as one paragraph (e.g. 39) sanskrit_mula carries the Dipika too. First pass; Dipika text after section 70 (the book's indices) is excluded.")))
+        notes=(f"Mula only: Annambhatta's Tarkasamgraha sentences, without his own Dipika gloss, which is a commentary and was dropped as out of scope. Sanskrit and English are from the same scan, both via Sarvam Vision OCR of pages 8-58. Units follow the book's own numbering 1-70 (GRETIL's 81-section numbering differs and was not used); english is the book's quoted translation of that mula number, translator's [brackets] kept (some brackets paraphrase the Dipika). "
+               f"Sections without English: {', '.join(missing_en) or 'none'}. Sections whose number the OCR could not read (mula numbers {', '.join(str(n) for n in range(1, 71) if n not in secs)}) have no unit here even where the book has their English. Where the OCR fused a Dipika sentence into the mula paragraph, it was split at the last double danda before the section number, so a stray Dipika fragment may remain at the start of a few sanskrit values. First pass.")))
     print(len(units), len(missing_en), missing_en)
 
 
