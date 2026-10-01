@@ -6,7 +6,7 @@ ROWS = [
     ("1b", "Gita, Ramanuja", ["philosophical/bg_ramanuja"], "English from Adidevananda scan (archive OCR), verse-matched; 82%"),
     ("1c", "Gita, Madhva", ["philosophical/bg_madhva"], "Bhashya + Tatparya Sanskrit (Setutila), English from Sonde PDF; verse groups"),
     ("2", "Brahmasutra, Shankara", ["philosophical/bsb_shankara", "philosophical/bsb_shankara_gretil"], "Sanskrit Advaita Sharada; English Gambhirananda scan, 509/555 sutras; GRETIL kept as alt Sanskrit"),
-    ("3", "Sri Bhashya, Ramanuja", ["philosophical/sribhashya_ramanuja"], "English only (Thibaut via wisdomlib); Sanskrit needs OCR of Annangaracharya scan"),
+    ("3", "Sri Bhashya, Ramanuja", ["philosophical/sribhashya_ramanuja"], "English Thibaut via wisdomlib; Sanskrit Bodhan OCR of the Annangaracharya scan (unproofread), aligned per sutra; 6 units hold two sutras"),
     ("4", "Brahmasutra, Madhva", ["philosophical/bsb_madhva"], "From project docx (Sarvam OCR English); 16 sutras have no English (missing book pages)"),
     ("5", "Tarkasamgraha", ["philosophical/tarkasamgraha"], "Mula only (Dipika dropped); Sanskrit + English from the 1876/1851 scan (Sarvam OCR), book numbering 1-70; 63 sections, 7 lost to OCR numbering"),
     ("6", "Bhattasangraha", [], "Not started (Google Sites scans)"),

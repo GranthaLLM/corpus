@@ -2,6 +2,7 @@ import re
 from common import *
 from build_upanishads import setu_units, setu_sections, SETU, SETU_LIC, WL
 from wlparse import load
+from sribhashya_sanskrit import attach_sanskrit
 
 BOOK = "brahma-sutras-ramanuja"
 
@@ -26,6 +27,17 @@ def sri_bhashya_english():
         txt = "\n\n".join((f"[{t}]\n" if not t.startswith("Sutra") else "") + b for t, b in g["pages"]).strip()
         units.append({"ref": g["ref"], "kind": "mula+bhashya", "sanskrit": None, "english": txt or None})
     return units
+
+
+def write_sri_bhashya(u):
+    ss = attach_sanskrit(u)
+    write("philosophical/sribhashya_ramanuja.json", dict(
+        id="3", text="Śrī Bhāṣya of Rāmānuja", tradition="Vishishtadvaita", commentator="Rāmānuja", script="Devanagari", units=u,
+        source_sanskrit={"citation": "Annangaracharya 1971 ed., Sri Bhashyam Sanskrit text (scan), OCR by Bodhan indic-ocr", "url": "https://archive.org/details/ShriBhasyamOfRamanujaSanskritText", "license": None},
+        source_english={"citation": "Thibaut 1904, The Vedanta-Sutras with Ramanuja's Sri-Bhashya, as hosted on wisdomlib", "url": WL + BOOK, "license": None},
+        bundled=False, needs_ocr=True, alignment="by_ref",
+        notes=f"English: Thibaut via wisdomlib, grouped per sutra (all wisdomlib sub-pages under each 'Sutra a.b.c' page are concatenated in page order, sub-page titles in brackets, page-number markers removed); wisdomlib footnotes are left in. Sanskrit: Bodhan indic-ocr on the Annangaracharya scan (archive.org ShriBhasyamOfRamanujaSanskritText, 188 spreads split into 376 half pages; cache in raw/sribhashya_bodhan), then split on the printed sutra markers and aligned to the English units by order within each pada (sutra statement + bhashya per unit). The edition's refs differ from Thibaut's from 2.2.33 on (English 2.2.33 is Sanskrit 2.2.32), and wisdomlib folds 1.3.32, 2.1.6, 2.1.18, 2.2.24, 3.3.58, 3.4.44 into the preceding sutra, so those units carry two consecutive sutras of Sanskrit ({ss['merge']} merges). The English numbers the sutras as printed in the Sanskrit marker in all but the OCR digit slips (9 read as 6). Sanskrit is OCR text: '*' marks the quotation glyph, a few conjuncts and sandhi are wrong, and it is not proofread. Alt English: Rangacharya and Varadaraja Aiyangar 1899."))
+    print("sribhashya", len(u))
 
 
 if __name__ == "__main__":
@@ -78,11 +90,4 @@ if __name__ == "__main__":
         notes="translation not located. Sanskrit from Setutila plain text (clean) instead of the Govindacharya scan; units = skandha / adhyaya. The Govindacharya scan in the corpus doc is not needed for Sanskrit."))
     print("btn", len(units))
 
-    u = sri_bhashya_english()
-    write("philosophical/sribhashya_ramanuja.json", dict(
-        id="3", text="Śrī Bhāṣya of Rāmānuja", tradition="Vishishtadvaita", commentator="Rāmānuja", script="IAST", units=u,
-        source_sanskrit={"citation": "Annangaracharya 1971 ed., Sri Bhashyam Sanskrit text (scan)", "url": "https://archive.org/details/ShriBhasyamOfRamanujaSanskritText", "license": None},
-        source_english={"citation": "Thibaut 1904, The Vedanta-Sutras with Ramanuja's Sri-Bhashya, as hosted on wisdomlib", "url": WL + BOOK, "license": None},
-        bundled=False, needs_ocr=True, alignment="unaligned",
-        notes="English only in pass 1: Thibaut via wisdomlib, grouped per sutra (all wisdomlib sub-pages under each 'Sutra a.b.c' page are concatenated in page order, sub-page titles in brackets, page-number markers removed). Sanskrit pending OCR pass 2 (Annangaracharya scan). Alt English: Rangacharya and Varadaraja Aiyangar 1899."))
-    print("sribhashya", len(u))
+    write_sri_bhashya(sri_bhashya_english())
