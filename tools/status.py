@@ -13,7 +13,7 @@ ROWS = [
     ("7", "Sarvadarshanasamgraha", ["philosophical/sarvadarshanasamgraha"], "Mitrasamgraha rows, bundled"),
     ("8", "Vimshatika/Trimshika", ["philosophical/vimshatika_trimshika"], "Mitrasamgraha rows; appears to be the Vimshatika only"),
     ("9", "Samkhyakarika", ["philosophical/samkhyakarika"], "Mitrasamgraha rows (Matharavritti)"),
-    ("10", "MBTN", ["philosophical/mbtn"], "Sanskrit only (Setutila sections); English needs Sridhar scan"),
+    ("10", "MBTN", ["philosophical/mbtn"], "Sanskrit Setutila; English Nellitheertha 2021, aligned per chapter by order (names, length, machine-translation similarity); units over 16 verses split into ~8-verse groups; 1 unit (a single unmarked verse in ch 9) has no English"),
     ("11", "BTN", ["philosophical/btn"], "Sanskrit only (Setutila); translation not located"),
     ("12-21 Shankara", "Upanishads, Shankara track", [f"upanishads/{u}_shankara" for u in ["isa", "kena", "katha", "prashna", "mundaka", "mandukya", "brihadaranyaka", "taittiriya", "aitareya"]] + ["upanishads/chandogya_shankara", "upanishads/chandogya_shankara_jha", "upanishads/kena_vakya_shankara"], "Sanskrit Advaita Sharada; English wisdomlib (Taittiriya none), Sastri scan (Aitareya, khanda level); Chandogya English only in the Jha file"),
     ("12-21 Madhva", "Upanishads, Madhva track", [f"upanishads/{u}_madhva" for u in ["isa", "kena", "katha", "prashna", "mundaka", "mandukya", "taittiriya", "aitareya", "chandogya", "brihadaranyaka"]], "Sanskrit Setutila; English wisdomlib (Isa..Mandukya), Sonde+Sarvam OCR (Taittiriya), Pandurangi (Aitareya); Chandogya and Brihadaranyaka English missing"),
