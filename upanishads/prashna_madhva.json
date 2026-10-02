@@ -202,7 +202,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "तद् ये ह वै तत् प्रजापतिव्रतं चरन्ति ते मिथुनमुत्पादयन्ते। तेषामेवैष ब्रह्मलोको येषां तपो ब्रह्मचर्यं येषु सत्यं प्रतिष्ठितम्॥ १/१४॥",
-   "english": null
+   "english": "Among them verily, those indeed, who know the abovementioned works of God (Prajāpati), become fathers of good children; by them alone (is attainable) this Satya-loka,—by them, who practise austerity and celibacy, in whom truth is fixed as a law"
   },
   {
    "ref": "1/15",
@@ -643,7 +643,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "पृथिवी च पृथिवीमात्रा चापश्चापोमात्रा च तेजश्च तेजोमात्रा च वायुश्च वायुमात्रा चाकाशश्चाकाशमात्रा च। चक्षुश्च द्रष्टव्यं च श्रोत्रं च श्रोतव्यं च घ्राणं च घ्रातव्यं च रसनं च रसयितव्यं च त्वक् च स्पर्शयितव्यं च वाक् च वक्तव्यं च हस्तौ च दातव्यं च पादौ च गन्तव्यं च पायुश्च विसर्जयितव्यं चोपस्थश्चानन्दयितव्यं च मनश्च मन्तव्यं च बुद्धिश्च बोद्धव्यं च अहङ्कारश्चाहङ्कर्तव्यं च चित्तं च चेतयितव्यं च तेजश्च विद्योतयितव्यं च प्राणश्च विधारयितव्यं च॥ ८॥",
-   "english": null
+   "english": "The earth and the earth measure, water and the water measure, fire and the fire measure, air and the air measure, ākāśa and the ākāśa measure, the seeing and the form, the hearing and the sound, the smelling and the scent, the tasting and the taste, the touching and the touch, the speech and what is uttered, the hand and what is handled, the organ and what is enjoyed, the lower apertures and what is excreted (from them), the feet and the place to go to, the mind and the thought; the intellect and what is understood, the I-ness and what is posited as I, the memory and the object remembered, the perceptive faculty in general and all objects of preception, the Prāṇa (the great support) and all objects that are supported upon."
   },
   {
    "ref": "4/9",
@@ -717,7 +717,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "यः पुनरेतं त्रिमात्रेणोमित्येतैनैवाक्षरेण परं पुरुषमभिध्यायीत स तेजसि सूर्ये सम्पन्नो यथा पादोदरस्त्वचा विनिर्मुच्यते एवं ह वै स पाप्मना विनिर्मुक्तः स सामभिरुन्नीयते ब्रह्मलोकम्॥ ५॥",
-   "english": null
+   "english": "But he who understands this Aum to consist of three measures, should, with this Imperishable syllable, meditate on the Supreme Puruṣa alone, for thereby he would reach the tejas or the sun. As a snake becomes fully liberated from its old skin, thus he verily becomes liberated from all his sins. By the Sāman verses he is carried up thence to the Satya-loka. From that High Being, the Group-soul of all Jīvas, (from the Caturmukha Brahmā) he gets instruction about the Supreme In-dwelling Puruṣa. To that effect are the following two verses."
   },
   {
    "ref": "5/6",
@@ -749,7 +749,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "ऋग्भिरेतं यजुर्भिरन्तरिक्षं सामभिर्यत् तत् कवयो वेदयन्ते।\nतमोङ्कारेणैवायतनेनान्वेति विद्वान् यत् तच्छान्तमजरममृतमभयं परं चेति॥ ५/८॥",
-   "english": null
+   "english": "By the Ṛk (one gains) this (physical), by the Yajuṣ, the Soma loka (the astral), by the Sāman that which the wise (only) know (the Brahma loka). (But) the Brahma-knower, by the vehicle of the word AUM alone, reaches also that which is Peace, Undecaying, Free from fear, and the Supreme."
   },
   {
    "ref": "colophon66",
@@ -843,14 +843,14 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "तदेष श्लोकः-\nअरा इव रथनाभौ कला यस्मिन् प्रतिष्ठिताः।\nतं वेद्यं पुरुषं वेद यथा मा वो मृत्युः परिव्यथा इति॥ ६/६॥",
-   "english": null
+   "english": "Like the spokes in the nave of the wheel, in whom the kalās are established, know ye Him, the knowable person; so that death may not pain you."
   },
   {
    "ref": "6/7",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "तान् होवाच। एतावदेवाहमेतत् परं ब्रह्म वेद नातः परमस्तीति॥ ६/७॥",
-   "english": null
+   "english": "To them, he said: Thus far I know this Supreme Brahman. I know not any greater than He."
   },
   {
    "ref": "6/8",
@@ -916,5 +916,5 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit from Setutila/Sarvamula JSON/shatprashna_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. Joins rejected because the wisdomlib translation number differs from the ref: [('6/6', '7')]. English from wisdomlib matched by ref: 61 of 77 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [1 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 6/8] [22 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 1/3, 1/4, 1/5, 1/6, 1/7, 1/8, 1/12, 2/7, 2/8, 3/4, 3/6, 3/7, 3/9, 3/10, 4/1, 4/3, 4/4, 5/3, 5/6, 6/2, 6/3, 6/5]"
+ "notes": "Sanskrit from Setutila/Sarvamula JSON/shatprashna_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. Joins rejected because the wisdomlib translation number differs from the ref: [('6/6', '7')]. English from wisdomlib matched by ref: 61 of 77 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [1 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 6/8] [22 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 1/3, 1/4, 1/5, 1/6, 1/7, 1/8, 1/12, 2/7, 2/8, 3/4, 3/6, 3/7, 3/9, 3/10, 4/1, 4/3, 4/4, 5/3, 5/6, 6/2, 6/3, 6/5] [6 units whose Setutila ref is mis-numbered (1/14-2 is mantra 1.15, 8 is 4.8, 5 is 5.5, 5/8 is 5.7, 6/6 and 6/7 as printed) got the verse translation of the wisdomlib mantra they hold, matched by reading the Sanskrit; the unit 'unnumbered31' is a stray verse number with no text.]"
 }
