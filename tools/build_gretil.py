@@ -115,7 +115,7 @@ if __name__ == "__main__":
 
     src = {"citation": "Bhartṛhari, Śatakatraya, GRETIL (J. Brzezinski; 'needs critical reading', edition numberings vary)", "url": GRETIL + "sa_bhatRhari-zatakatraya.txt", "license": GRETIL_LIC}
     n = write("sahitya/shatakatraya.json", dict(
-        id="27", text="Śatakatraya", tradition=None, units=shataka(), source_sanskrit=src,
+        id="25", text="Śatakatraya", tradition=None, units=shataka(), source_sanskrit=src,
         source_english={"citation": "Wortham, The Satakas of Bhartrihari (1886)", "url": "https://archive.org/details/satakasofbhartri00bharuoft", "license": None},
         alignment="unaligned", notes="Sanskrit only in pass 1; Wortham English pending OCR. ref = shataka.verse (1 Nitishataka, 2 Shringarashataka, 3 Vairagyashataka). Verse numbering is GRETIL's and may differ from Wortham's."))
     print("shatakatraya", n)

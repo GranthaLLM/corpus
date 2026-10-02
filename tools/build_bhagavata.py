@@ -210,7 +210,7 @@ def build(skandha, vb_chs, offset, title, id_, fname, cite_extra):
 
 
 if __name__ == "__main__":
-    build("3", range(25, 34), 1, "Bhāgavata Purāṇa: Kapila's Upadeśa to Devahūti (Skandha 3, chapters 25-33)", "24a", "sahitya/bhagavata_kapila.json",
+    build("3", range(25, 34), 1, "Bhāgavata Purāṇa: Kapila's Upadeśa to Devahūti (Skandha 3, chapters 25-33)", "22a", "sahitya/bhagavata_kapila.json",
           "Vedabase SB 3.25-3.33 correspond to Setutila's chapters 26-34 (Setutila numbers one chapter higher in Skandha 3).")
-    build("11", range(7, 30), 0, "Bhāgavata Purāṇa: Uddhava Gītā (Skandha 11, chapters 7-29)", "24b", "sahitya/bhagavata_uddhava.json",
+    build("11", range(7, 30), 0, "Bhāgavata Purāṇa: Uddhava Gītā (Skandha 11, chapters 7-29)", "22b", "sahitya/bhagavata_uddhava.json",
           "Vedabase SB 11.7-11.29 correspond to Setutila's chapters 7-29.")
