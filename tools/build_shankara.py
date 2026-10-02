@@ -107,11 +107,6 @@ if __name__ == "__main__":
             bundled=False, needs_ocr=False, alignment="by_ref", notes=notes.strip()))
         print(id_, len(u), "verse units", n_v, "english text/ref", t, r)
 
-    u = as_units("kena-vakya-bhashya", False)
-    write("upanishads/kena_vakya_shankara.json", dict(
-        id="kena_vakya_shankara", text="Kena Upaniṣad Vākyabhāṣya", tradition="Advaita", commentator="Śaṃkara", script="Devanagari",
-        units=u, source_sanskrit={"citation": "Advaita Sharada", "url": AS + "kena-vakya-bhashya/1", "license": AS_LIC}, source_english=None,
-        alignment="not_applicable", notes="Śaṃkara's second Kena commentary (Vakyabhashya). No English source identified; english null."))
     u = as_units("aitareya-bhashya", False)
     write("upanishads/aitareya_shankara.json", dict(
         id="aitareya_shankara", text="Aitareya Upaniṣad Śāṃkarabhāṣya", tradition="Advaita", commentator="Śaṃkara", script="Devanagari",
