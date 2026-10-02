@@ -52,7 +52,7 @@ def check(f):
             errs.append(f"{r}: mula+commentary without commentary part")
         if u["sanskrit"] and u["english"] and u["scope"] == "mula+commentary" and len(u["english"]) < 0.8 * len(s):
             warns.append(f"{r}: english much shorter than sanskrit for scope mula+commentary")
-        if re.search(r"[a-zA-Z]", re.sub(r"\(BhGR_[^)]*\)|bbs_[\d,.]+[a-z]?|\bfn\.?:|_+", "", s)) and name not in ("harivamsha.json", "chandogya_shankara_jha.json"):
+        if re.search(r"[a-zA-Z]", re.sub(r"\(BhGR_[^)]*\)|bbs_[\d,.]+[a-z]?|\bfn\.?:|_+", "", s)) and name not in ("harivamsha.json"):
             warns.append(f"{r}: latin letters in sanskrit")
     return d, errs, warns
 

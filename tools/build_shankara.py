@@ -130,9 +130,9 @@ if __name__ == "__main__":
     write("upanishads/chandogya_shankara.json", dict(
         id="chandogya_shankara", text="Chāndogya Upaniṣad Śāṃkarabhāṣya", tradition="Advaita", commentator="Śaṃkara", script="Devanagari",
         units=u, source_sanskrit={"citation": "Advaita Sharada", "url": AS + "chandogya-bhashya/1", "license": AS_LIC},
-        source_english={"citation": "Jha, Chandogyopanishad (Mitrasamgraha GV05chupsau), see chandogya_shankara_jha.json", "url": MITRA + "GV05chupsau.tsv", "license": MITRA_LIC},
+        source_english={"citation": "Jha, Chandogyopanishad (Mitrasamgraha GV05chupsau)", "url": MITRA + "GV05chupsau.tsv", "license": MITRA_LIC},
         alignment="unaligned",
-        notes="Sanskrit (verse + bhashya) from Advaita Sharada. english null: the only English (Jha) is sentence-aligned to a different Sanskrit segmentation and lives in chandogya_shankara_jha.json, which pairs them per row."))
+        notes="Sanskrit (verse + bhashya) from Advaita Sharada. English joined afterwards by tools/merge_chandogya.py (Jha rows)."))
     u = as_units("brahmasutra-bhashya", False)
     write("philosophical/bsb_shankara.json", dict(
         id="bsb_shankara", text="Brahmasūtra Śāṃkarabhāṣya", tradition="Advaita", commentator="Śaṃkara", script="Devanagari",
