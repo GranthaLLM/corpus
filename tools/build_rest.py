@@ -72,27 +72,4 @@ if __name__ == "__main__":
 
     write_mbtn(setu_sections("mbtn", 1))
 
-    body = (RAW / "btn.txt").read_text(encoding="utf-8")
-    units, cur, skandha = [], None, None
-    for line in body.split("\n"):
-        m = re.match(r"^=== (.+?) ===$", line.strip())
-        if m:
-            h = m.group(1)
-            if "स्कन्ध" in h:
-                skandha = h
-            elif "ध्याय" in h:
-                cur = {"ref": f"{skandha} / {h}" if skandha else h, "kind": "verse", "sanskrit": [], "english": None}
-                units.append(cur)
-            continue
-        if cur is not None and line.strip():
-            cur["sanskrit"].append(line.strip())
-    for x in units:
-        x["sanskrit"] = "\n".join(x["sanskrit"]) or None
-    write("philosophical/btn.json", dict(
-        id="11", text="Bhāgavata Tātparya Nirṇaya", tradition="Dvaita", commentator="Madhva", script="Devanagari", units=units,
-        source_sanskrit={"citation": "Setutila/Sarvamula texts/btn.txt (plain text)", "url": "https://github.com/Setutila/Sarvamula/blob/main/texts/btn.txt", "license": SETU_LIC},
-        source_english=None, bundled=False, needs_ocr=False, alignment="not_applicable",
-        notes="translation not located. Sanskrit from Setutila plain text (clean) instead of the Govindacharya scan; units = skandha / adhyaya. The Govindacharya scan in the corpus doc is not needed for Sanskrit."))
-    print("btn", len(units))
-
     write_sri_bhashya(sri_bhashya_english())
