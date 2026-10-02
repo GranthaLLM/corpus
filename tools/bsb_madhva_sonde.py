@@ -10,8 +10,9 @@ SKIP = {"2.4.10-2"}
 def headers(L):
     out = []
     for i, l in enumerate(L):
-        m = re.search(r"ॐ?\s*।+\s*([०-९0-9]+)\s*।+\s*$", l.strip())
-        if m and "ॐ" in l:
+        s = l.strip()
+        m = re.search(r"।+\s*([०-९0-9]{1,3})\s*(?:।+)?\s*$", s)
+        if m and "ॐ" in s and s.startswith(("।", "ॐ", "॥")):
             out.append((i, int(m.group(1).translate(DEVN))))
     return out
 
@@ -39,42 +40,69 @@ def english(lines):
     return out
 
 
-def main():
+TAIL = re.compile(r"^(0{3,}|First Chap\w*|Second Chap\w*|Third Chap\w*|Fourth Chap\w*|\w+ Step|Step \w+)\s*$", re.I)
+
+
+def clean(lines):
+    out = [l for l in english(lines)]
+    while out and TAIL.match(out[-1].strip()):
+        out.pop()
+    text = " ".join(out)
+    text = re.sub(r"\bCpmmentary\b|\bCommentary\b", "", text)
+    return re.sub(r"(\w)- (\w)", r"\1\2", re.sub(r"\s+", " ", text)).strip()
+
+
+def main(replace_all=True):
     d = json.loads((ROOT / "philosophical/bsb_madhva.json").read_text(encoding="utf-8"))
     H = {}
     for a, f in FILES.items():
         L = (RAW / "sonde" / f"{f}.txt").read_text(encoding="utf-8").split("\n")
-        H[a] = (L, padas(headers(L)))
-    n, parked = 0, []
+        hs = padas(headers(L))
+        H[a] = (L, hs, {(p, n): k for k, (i, p, n) in enumerate(hs)})
+    maxn = {}
     for u in d["units"]:
         m = re.match(r"^(\d)\.(\d)\.(\d+)$", u["ref"])
-        if not m or u.get("english") or u["ref"] in SKIP or not u.get("sanskrit"):
+        if m:
+            key = (int(m.group(1)), int(m.group(2)))
+            maxn[key] = max(maxn.get(key, 0), int(m.group(3)))
+    replaced, kept, filled = [], [], 0
+    for u in d["units"]:
+        m = re.match(r"^(\d)\.(\d)\.(\d+)$", u["ref"])
+        if not m or u["ref"] in SKIP or not u.get("sanskrit"):
             continue
         a, b, s = map(int, m.groups())
-        L, hs = H[a]
-        k = next((k for k, (i, p, nn) in enumerate(hs) if p == b and nn == s), None)
-        if k is None:
-            parked.append(u["ref"])
+        L, hs, idx = H[a]
+        k = idx.get((b, s))
+        reliable = k is not None and ((b, s + 1) in idx or s == maxn[(a, b)])
+        bp = next((p for p in u.get("parts", []) if p["role"] == "bhashya"), None)
+        mp = next((p for p in u.get("parts", []) if p["role"] == "mula"), None)
+        if not reliable or bp is None:
+            kept.append(u["ref"])
             continue
         end = hs[k + 1][0] if k + 1 < len(hs) else len(L)
-        text = " ".join(english(L[hs[k][0]:end]))
-        text = re.sub(r"(\w)- (\w)", r"\1\2", re.sub(r"\s+", " ", text)).strip()
+        text = clean(L[hs[k][0]:end])
         if len(text) < 20:
-            parked.append(u["ref"])
+            kept.append(u["ref"])
             continue
-        mp = next((p for p in u.get("parts", []) if p["role"] == "mula"), None)
-        bp = next((p for p in u.get("parts", []) if p["role"] == "bhashya"), None)
-        if bp is None:
-            parked.append(u["ref"])
+        sk = len(bp.get("sanskrit") or "") or 1
+        old_b = len(bp.get("english") or "")
+        if len(text) / sk < 0.3 or len(text) / sk > 6 or (old_b and not 0.35 <= len(text) / old_b <= 2.8):
+            kept.append(u["ref"])
+            continue
+        had = bool(u.get("english"))
+        if not replace_all and had:
             continue
         bp["english"] = text
         u["english"] = "\n".join(x for x in ((mp or {}).get("english"), text) if x)
-        u.setdefault("meta", {})["english_source"] = "Sonde, Brahmasutra Bhashya (bhashya translation only)"
-        n += 1
-    d["notes"] += (f" [Bhashya English for {n} sutras that Subba Rau's docx lacked, from Nagesh D. Sonde's Brahmasutra Bhashya translation (PDF text layer; his sutras are numbered per pada, "
-                   f"so each sutra's block runs from its numbered line to the next); the sutra's mula english stays Subba Rau's. Not filled: 2.4.10-2 (a repeated number) {', '.join(parked)}.]")
+        u.setdefault("meta", {})["english_source"] = "Sonde, Brahmasutra Bhashya (bhashya); Subba Rau 1904 (sutra)" if (mp or {}).get("english") else "Sonde, Brahmasutra Bhashya (bhashya)"
+        replaced.append(u["ref"])
+        filled += not had
+    d["notes"] += (f" [Bhashya English replaced with Nagesh D. Sonde's Brahmasutra Bhashya translation for {len(replaced)} sutras ({filled} of them previously had none); the sutra's own english (mula part) stays Subba Rau's. "
+                   "Sonde's sutras are found by their numbered Sanskrit lines (his Devanagari is partly broken, a few headers are lost), and each sutra's block runs to the next numbered line. "
+                   f"A sutra keeps Subba Rau's English when its next header was not found (its block would also hold the next sutra) or when Sonde's block is implausibly short or long against the Sanskrit or against Subba Rau's: {', '.join(kept)}.]")
     write("philosophical/bsb_madhva.json", d)
-    print(n, "parked", parked)
+    print("replaced", len(replaced), "kept", len(kept), kept)
+    return d
 
 
 if __name__ == "__main__":
