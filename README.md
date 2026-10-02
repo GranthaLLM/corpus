@@ -45,7 +45,16 @@ Build order: the `build_*.py` scripts, then `normalize.py`, then `layout.py` (ol
 - Mitrasamgraha: CC BY-SA
 - Setutila/Sarvamula: CC0
 - Advaita Sharada: Sringeri Sharada Peetham; no licence stated on the site, `robots.txt` allows crawling. Kept private.
+- Nagesh D. Sonde (Madhva Gita, Brahmasutra, Taittiriya, Bṛhadāraṇyaka, Kena, Kaṭha, Muṇḍaka translations): the author states they are not protected by copyright and free to copy and distribute.
+- Kennedy 1913 (Śṛṅgāraśataka English), Sastri 1903/1905 (Taittiriya and Kena Śaṃkara), Subba Rau 1904 (Madhva Brahmasutra): public domain.
+- Warrier (Ramakrishna Math, Śaṃkara Gita), Adidevananda (Rāmānuja Gita), Gambhirananda (Śaṃkara Brahmasutra): in copyright; hence the repo stays private.
 - wisdomlib: translations are copyrighted by their publishers and hosted there under wisdomlib's terms. This repo is private for that reason; check before any redistribution.
+
+## Tools added late
+
+- `tools/shivaji_to_unicode.py`: decodes text typed in the legacy Shivaji01 Devanagari font (Sonde's PDFs) to Unicode, about 93-95% character agreement against our Sanskrit.
+- `tools/*_english.py`, `*_fill.py`, `*_sonde.py`: per-work joins of English onto the units (by verse number, by Devanagari similarity, or by content). Each reads its source from `GRANTHA_RAW`, so none can be re-run without that cache.
+- Files that took English from two sources say so in `notes`; a unit never mixes sources.
 
 ## Rebuilding
 
