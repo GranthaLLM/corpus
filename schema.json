@@ -2,34 +2,189 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Grantha corpus work file",
   "type": "object",
-  "required": ["id", "text", "tradition", "units", "source_sanskrit", "source_english", "bundled", "needs_ocr", "notes"],
+  "required": [
+    "id",
+    "text",
+    "tradition",
+    "units",
+    "source_sanskrit",
+    "source_english",
+    "bundled",
+    "needs_ocr",
+    "notes",
+    "script"
+  ],
   "properties": {
-    "id": {"type": "string"},
-    "text": {"type": "string"},
-    "tradition": {"type": ["string", "null"]},
-    "commentator": {"type": ["string", "null"]},
-    "script": {"type": "string", "description": "Script/transliteration of the sanskrit field: IAST, Devanagari, or IAST-padaccheda"},
+    "id": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    },
+    "tradition": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "commentator": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "script": {
+      "const": "Devanagari",
+      "description": "Script of every sanskrit string. English is English."
+    },
     "units": {
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["ref", "sanskrit", "english"],
+        "additionalProperties": false,
+        "required": [
+          "ref",
+          "kind",
+          "scope",
+          "sanskrit",
+          "english"
+        ],
         "properties": {
-          "ref": {"type": "string"},
-          "kind": {"enum": ["mula", "bhashya", "mula+bhashya", "prose", "verse", null]},
-          "sanskrit": {"type": ["string", "null"]},
-          "sanskrit_mula": {"type": ["string", "null"]},
-          "sanskrit_bhashya": {"type": ["string", "null"]},
-          "english": {"type": ["string", "null"]}
+          "ref": {
+            "type": "string",
+            "description": "Numbering as the source uses it; unique within the file"
+          },
+          "kind": {
+            "enum": [
+              "verse",
+              "sutra",
+              "prose",
+              "group"
+            ],
+            "description": "Form of the text; group = several verses the source joins"
+          },
+          "scope": {
+            "enum": [
+              "text",
+              "mula",
+              "commentary",
+              "mula+commentary"
+            ],
+            "description": "What `sanskrit` and `english` both hold. text = an independent work (prakarana, kavya, itihasa); mula = verse/sutra only; commentary = commentary or intro prose only; mula+commentary = both"
+          },
+          "sanskrit": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Eval input. Null = no input, unit is skipped"
+          },
+          "english": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Reference translation of exactly `sanskrit` (same scope). Null = unit is skipped"
+          },
+          "parts": {
+            "type": "array",
+            "description": "Optional metadata, never scored: the pieces of a commentary unit. A part with sanskrit but no english, or a part outside `scope`, is allowed",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "role"
+              ],
+              "properties": {
+                "role": {
+                  "enum": [
+                    "mula",
+                    "bhashya",
+                    "tatparya"
+                  ]
+                },
+                "sanskrit": {
+                  "type": "string"
+                },
+                "english": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "meta": {
+            "type": "object",
+            "description": "Source-specific extras (alignment method, edit logs, verbatim English)"
+          }
         }
       }
     },
-    "source_sanskrit": {"type": ["object", "null"], "properties": {"citation": {"type": "string"}, "url": {"type": "string"}, "license": {"type": ["string", "null"]}}},
-    "source_english": {"type": ["object", "null"], "properties": {"citation": {"type": "string"}, "url": {"type": "string"}, "license": {"type": ["string", "null"]}}},
-    "bundled": {"type": "boolean"},
-    "needs_ocr": {"type": "boolean"},
-    "alignment": {"enum": ["row_aligned", "by_ref", "unaligned", "not_applicable"], "description": "How english relates to sanskrit per unit. row_aligned: source pairs them. by_ref: same ref scheme in two editions, not verified. unaligned: english has no per-unit split yet."},
-    "slice_of": {"type": ["object", "null"], "description": "When file is a row range of a larger source file"},
-    "notes": {"type": ["string", "null"]}
+    "source_sanskrit": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "properties": {
+        "citation": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "license": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "source_english": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "properties": {
+        "citation": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "license": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "bundled": {
+      "type": "boolean"
+    },
+    "needs_ocr": {
+      "type": "boolean"
+    },
+    "alignment": {
+      "enum": [
+        "row_aligned",
+        "by_ref",
+        "unaligned",
+        "not_applicable"
+      ],
+      "description": "How english relates to sanskrit per unit. row_aligned: source pairs them. by_ref: same ref scheme in two editions, not verified. unaligned: english has no per-unit split yet."
+    },
+    "slice_of": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
   }
 }
