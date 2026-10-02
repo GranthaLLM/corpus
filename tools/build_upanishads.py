@@ -29,6 +29,9 @@ def split_english(rest):
     if not trans and pre_lines:
         i = next((k for k, l in enumerate(pre_lines) if HDR.search(l) and len(l) < 120), len(pre_lines))
         trans, bh = pre_lines[:i], pre_lines[i + 1:]
+    for part in (trans, bh):
+        while part and re.match(r"^(Verse|Mantra)\s+[\d.]+\d:?\s*$", part[-1].strip()):
+            part.pop()
     return "\n".join(trans) or None, "\n".join(bh) or None
 
 
