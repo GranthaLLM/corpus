@@ -72,7 +72,7 @@ if __name__ == "__main__":
     parsed = seq_parse(A, bsb_counts(), window=5, cwin=6, tail=12)
     parsed = {k: v for k, v in parsed.items() if len(v[0].strip()) >= 70 or re.search(r"[.;:)]\s*$", v[0].strip())}
     update("philosophical/bsb_shankara.json", parsed, "Gambhirananda (archive.org djvu)", bsb_ref,
-           "english_mula = the sutra translation, english_bhashya = Gambhirananda's translation of Shankara's commentary up to the next sutra; his topic headings and footnote numbers may appear inside the text.")
+           "english_mula = the sutra translation, english_bhashya = Gambhirananda's translation of Śaṃkara's commentary up to the next sutra; his topic headings and footnote numbers may appear inside the text.")
     A = english_filter(paragraphs("adidevananda_2.txt"))
     update("philosophical/bg_ramanuja.json", seq_parse(A, GITA_COUNTS), "Adidevananda (archive.org djvu)", ramanuja_ref,
            "Where the GRETIL text splits a verse into ab/cd units, the English is attached to the ab unit only.")

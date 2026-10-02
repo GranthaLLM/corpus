@@ -1,8 +1,8 @@
 {
  "id": "mandukya_shankara",
- "text": "Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā Śāṅkarabhāṣya",
+ "text": "Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā Śāṃkarabhāṣya",
  "tradition": "Advaita",
- "commentator": "Śaṅkara",
+ "commentator": "Śaṃkara",
  "script": "Devanagari",
  "units": [
   {
@@ -4241,5 +4241,5 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit (verse + Shankara's bhashya, Devanagari) from Advaita Sharada /read/mandukya-karika-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Nikhilananda 1949), joined by Devanagari verse text (202) or number-checked ref (1): 203 of 227 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [11 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 2.K20, 2.K21, 2.K22, 2.K23, 2.K24, 2.K26, 2.K27, 4.K31, 4.K51, 4.K61, 4.K68]"
+ "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/mandukya-karika-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Nikhilananda 1949), joined by Devanagari verse text (202) or number-checked ref (1): 203 of 227 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [11 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 2.K20, 2.K21, 2.K22, 2.K23, 2.K24, 2.K26, 2.K27, 4.K31, 4.K51, 4.K61, 4.K68]"
 }

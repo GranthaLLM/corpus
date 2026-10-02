@@ -62,14 +62,14 @@ def main():
     for un, en in zip(units[1:], parts[1:]):
         un["english"] = en or None
     write("upanishads/aitareya_shankara.json", dict(
-        id="aitareya_shankara", text="Aitareya Upaniṣad Śāṅkarabhāṣya", tradition="Advaita", commentator="Śaṅkara", script="Devanagari", units=units,
+        id="aitareya_shankara", text="Aitareya Upaniṣad Śāṃkarabhāṣya", tradition="Advaita", commentator="Śaṃkara", script="Devanagari", units=units,
         source_sanskrit={"citation": "Advaita Sharada", "url": AS + "aitareya-bhashya/1", "license": AS_LIC},
         source_english={"citation": "S. Sitarama Sastri, The Aitareya and Taittiriya Upanishads and Sri Sankara's Commentary (Upanishads and Sri Sankara's Commentary Vol. 5), archive.org OCR text layer", "url": "https://archive.org/details/UpanishadsAndSriSankarasCommentaryVol.5", "license": None},
         bundled=False, needs_ocr=True, alignment="by_ref",
-        notes=("Sanskrit from Advaita Sharada (mantras + Shankara's bhashya), grouped by khanda: 1.1, 1.2, 1.3 = the three khandas of the first adhyaya; 2.1 and 3.1 = adhyayas 2 and 3 (Sastri's 'fourth' and 'fifth' Parts). "
+        notes=("Sanskrit from Advaita Sharada (mantras + Śaṃkara's bhashya), grouped by khanda: 1.1, 1.2, 1.3 = the three khandas of the first adhyaya; 2.1 and 3.1 = adhyayas 2 and 3 (Sastri's 'fourth' and 'fifth' Parts). "
                "English from Sastri's translation as printed (mantra translations and commentary translation, not separable), cut at his own 'KHANDA I/II/III' and 'Here ends the ... Part' markers, so each unit's English matches its Sanskrit exactly at khanda level. "
                "Verse-level pairing was not possible: Sastri groups mantras differently from Advaita Sharada (22 'Com.' blocks against 33 verses) and his OCR lost most verse numbers. "
-               "The 'intro' unit pairs Shankara's opening bhashya (sambandha-bhashya, Sanskrit) with Sastri's introductory text before Khanda I. "
+               "The 'intro' unit pairs Śaṃkara's opening bhashya (sambandha-bhashya, Sanskrit) with Sastri's introductory text before Khanda I. "
                "Paragraphs with Sanskrit-script OCR garbage are dropped; OCR noise remains. Verse-level Advaita Sharada units are available in git history. First pass.")))
     print([(u['ref'], len(u['sanskrit']), len(u['english'] or '')) for u in units], 0)
 

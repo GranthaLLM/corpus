@@ -94,14 +94,14 @@ if __name__ == "__main__":
         wl = tidy(wl_units(wlbook))
         t, r = attach_english(u, wl) if id_ != "taittiriya" else (0, 0)
         n_v = sum(1 for x in u if x["kind"] == "mula+bhashya")
-        notes = (f"Sanskrit (verse + Shankara's bhashya, Devanagari) from Advaita Sharada /read/{book}. sanskrit_mula = verse, sanskrit_bhashya = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. "
+        notes = (f"Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/{book}. sanskrit_mula = verse, sanskrit_bhashya = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. "
                  + (f"English from wisdomlib ({cite}), joined by Devanagari verse text ({t}) or number-checked ref ({r}): {t + r} of {n_v} verse units have english; the rest are null. " if id_ != "taittiriya" else f"English source: wisdomlib ({cite}), not joined. ")
                  + "english = translation of verse + translation of commentary (english_mula / english_bhashya separate). "
                  + "Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). ")
         if id_ == "taittiriya":
             notes += "english deliberately null: wisdomlib's Mahadeva Sastri edition is split per mantra with interleaved Sureshvara and Sayana commentary and numbering that does not map to Advaita Sharada's anuvaka blocks, and trial joins paired the wrong passages. Needs a manual or scan-based alignment. "
         write(f"upanishads/{id_}_shankara.json", dict(
-            id=f"{id_}_shankara", text=f"{text} Śāṅkarabhāṣya", tradition="Advaita", commentator="Śaṅkara", script="Devanagari",
+            id=f"{id_}_shankara", text=f"{text} Śāṃkarabhāṣya", tradition="Advaita", commentator="Śaṃkara", script="Devanagari",
             units=u, source_sanskrit={"citation": "Advaita Sharada (Sringeri Sharada Peetham)", "url": AS + book + "/1", "license": AS_LIC},
             source_english={"citation": f"wisdomlib, {cite}", "url": WL + wlbook, "license": None},
             bundled=False, needs_ocr=False, alignment="by_ref", notes=notes.strip()))
@@ -109,35 +109,35 @@ if __name__ == "__main__":
 
     u = as_units("kena-vakya-bhashya", False)
     write("upanishads/kena_vakya_shankara.json", dict(
-        id="kena_vakya_shankara", text="Kena Upaniṣad Vākyabhāṣya", tradition="Advaita", commentator="Śaṅkara", script="Devanagari",
+        id="kena_vakya_shankara", text="Kena Upaniṣad Vākyabhāṣya", tradition="Advaita", commentator="Śaṃkara", script="Devanagari",
         units=u, source_sanskrit={"citation": "Advaita Sharada", "url": AS + "kena-vakya-bhashya/1", "license": AS_LIC}, source_english=None,
-        alignment="not_applicable", notes="Shankara's second Kena commentary (Vakyabhashya). No English source identified; english null."))
+        alignment="not_applicable", notes="Śaṃkara's second Kena commentary (Vakyabhashya). No English source identified; english null."))
     u = as_units("aitareya-bhashya", False)
     write("upanishads/aitareya_shankara.json", dict(
-        id="aitareya_shankara", text="Aitareya Upaniṣad Śāṅkarabhāṣya", tradition="Advaita", commentator="Śaṅkara", script="Devanagari",
+        id="aitareya_shankara", text="Aitareya Upaniṣad Śāṃkarabhāṣya", tradition="Advaita", commentator="Śaṃkara", script="Devanagari",
         units=u, source_sanskrit={"citation": "Advaita Sharada", "url": AS + "aitareya-bhashya/1", "license": AS_LIC},
         source_english={"citation": "Sastri, The Upanishads and Sri Sankara's Commentary Vol. 5", "url": "https://archive.org/details/UpanishadsAndSriSankarasCommentaryVol.5", "license": None},
         alignment="unaligned", needs_ocr=True,
         notes="Sanskrit from Advaita Sharada (verse-structured). English pending OCR pass 2 (Sastri scan); null. Alt Sanskrit: GRETIL sa_aitareyopaniSad-comm.txt (no verse markers)."))
     u = as_units("bhagavadgita-bhashya", False)
     write("philosophical/bg_shankara.json", dict(
-        id="1a", text="Bhagavadgītā Śāṅkarabhāṣya", tradition="Advaita", commentator="Śaṅkara", script="Devanagari",
+        id="1a", text="Bhagavadgītā Śāṃkarabhāṣya", tradition="Advaita", commentator="Śaṃkara", script="Devanagari",
         units=u, source_sanskrit={"citation": "Advaita Sharada", "url": AS + "bhagavadgita-bhashya/1", "license": AS_LIC},
         source_english={"citation": "Sastri 1897, Bhagavad-Gita with the Commentary of Sri Shankaracharya", "url": "https://archive.org/details/Bhagavad-Gita.with.the.Commentary.of.Sri.Shankaracharya", "license": None},
         alignment="unaligned", needs_ocr=True,
         notes="Sanskrit from Advaita Sharada (clean text, so no OCR on the Sanskrit side; the Vani Vilas 1910 scan in the corpus doc is not needed for Sanskrit). English pending OCR pass 2 (Sastri scan); null. ref = chapter.verse; avatarika paragraphs folded into sanskrit_bhashya."))
     u = as_units("chandogya-bhashya", False)
     write("upanishads/chandogya_shankara.json", dict(
-        id="chandogya_shankara", text="Chāndogya Upaniṣad Śāṅkarabhāṣya", tradition="Advaita", commentator="Śaṅkara", script="Devanagari",
+        id="chandogya_shankara", text="Chāndogya Upaniṣad Śāṃkarabhāṣya", tradition="Advaita", commentator="Śaṃkara", script="Devanagari",
         units=u, source_sanskrit={"citation": "Advaita Sharada", "url": AS + "chandogya-bhashya/1", "license": AS_LIC},
         source_english={"citation": "Jha, Chandogyopanishad (Mitrasamgraha GV05chupsau), see chandogya_shankara_jha.json", "url": MITRA + "GV05chupsau.tsv", "license": MITRA_LIC},
         alignment="unaligned",
         notes="Sanskrit (verse + bhashya) from Advaita Sharada. english null: the only English (Jha) is sentence-aligned to a different Sanskrit segmentation and lives in chandogya_shankara_jha.json, which pairs them per row."))
     u = as_units("brahmasutra-bhashya", False)
     write("philosophical/bsb_shankara.json", dict(
-        id="bsb_shankara", text="Brahmasūtra Śāṅkarabhāṣya", tradition="Advaita", commentator="Śaṅkara", script="Devanagari",
+        id="bsb_shankara", text="Brahmasūtra Śāṃkarabhāṣya", tradition="Advaita", commentator="Śaṃkara", script="Devanagari",
         units=u, source_sanskrit={"citation": "Advaita Sharada (Vani Vilas Sri Shankara Granthavali edition)", "url": AS + "brahmasutra-bhashya/1", "license": AS_LIC},
         source_english={"citation": "Gambhirananda, Brahma-Sutra Bhasya of Sankaracharya", "url": "https://archive.org/details/brahma-sutra-bhasya-of-sankaracharya-swami-gambhirananda", "license": None},
         alignment="unaligned", needs_ocr=True,
-        notes="Sanskrit (sutra + Shankara bhashya) from Advaita Sharada, chosen over GRETIL (bsb_shankara_gretil.json, unproofread Sansknet text) as the orthodox edition. English pending OCR pass 2 (Gambhirananda scan); null. ref = adhyaya.pada.sutra; avatarika paragraphs folded into sanskrit_bhashya."))
+        notes="Sanskrit (sutra + Śaṃkara bhashya) from Advaita Sharada, chosen over GRETIL (bsb_shankara_gretil.json, unproofread Sansknet text) as the orthodox edition. English pending OCR pass 2 (Gambhirananda scan); null. ref = adhyaya.pada.sutra; avatarika paragraphs folded into sanskrit_bhashya."))
     print("done")

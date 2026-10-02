@@ -30,9 +30,9 @@ if __name__ == "__main__":
     simple("philosophical/samkhyakarika.json", "9", "Sāṃkhyakārikā of Īśvarakṛṣṇa", "Samkhya", "GSP31iskamatu.tsv",
            "Īśvarakṛṣṇa, Sāṃkhyakārikā with Māṭharavṛtti, Wilson translation (Mitrasamgraha GSP31iskamatu)",
            ROWNOTE + "File name indicates the Māṭharavṛtti; rows interleave kārikā and commentary.", commentator="Māṭhara (per file name)")
-    simple("upanishads/chandogya_shankara_jha.json", "chandogya_shankara_jha", "Chāndogya Upaniṣad Śāṅkarabhāṣya", "Advaita", "GV05chupsau.tsv",
-           "Chāndogya Upaniṣad with Śaṅkara's commentary, Jha translation (Mitrasamgraha GV05chupsau)",
-           ROWNOTE + "Bundled sentence-aligned TSV (Jha). Alternative to chandogya_shankara.json, whose Sanskrit comes from Advaita Sharada; this file is kept because it pairs Sanskrit and English per row.", commentator="Śaṅkara")
+    simple("upanishads/chandogya_shankara_jha.json", "chandogya_shankara_jha", "Chāndogya Upaniṣad Śāṃkarabhāṣya", "Advaita", "GV05chupsau.tsv",
+           "Chāndogya Upaniṣad with Śaṃkara's commentary, Jha translation (Mitrasamgraha GV05chupsau)",
+           ROWNOTE + "Bundled sentence-aligned TSV (Jha). Alternative to chandogya_shankara.json, whose Sanskrit comes from Advaita Sharada; this file is kept because it pairs Sanskrit and English per row.", commentator="Śaṃkara")
     simple("sahitya/harivamsha.json", "23", "Harivaṃśa", None, "GE07hv_conpu.tsv",
            "Harivaṃśa, Dutt translation (Mitrasamgraha GE07hv_conpu)", ROWNOTE)
     simple("sahitya/kumarasambhava.json", "24", "Kumārasambhava", None, "GK19kaku.tsv",

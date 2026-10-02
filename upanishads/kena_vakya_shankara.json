@@ -2,7 +2,7 @@
  "id": "kena_vakya_shankara",
  "text": "Kena Upaniṣad Vākyabhāṣya",
  "tradition": "Advaita",
- "commentator": "Śaṅkara",
+ "commentator": "Śaṃkara",
  "script": "Devanagari",
  "units": [
   {
@@ -523,5 +523,5 @@
  "needs_ocr": false,
  "alignment": "not_applicable",
  "slice_of": null,
- "notes": "Shankara's second Kena commentary (Vakyabhashya). No English source identified; english null."
+ "notes": "Śaṃkara's second Kena commentary (Vakyabhashya). No English source identified; english null."
 }

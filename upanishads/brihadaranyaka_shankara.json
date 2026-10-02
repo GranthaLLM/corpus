@@ -1,8 +1,8 @@
 {
  "id": "brihadaranyaka_shankara",
- "text": "Bṛhadāraṇyaka Upaniṣad Śāṅkarabhāṣya",
+ "text": "Bṛhadāraṇyaka Upaniṣad Śāṃkarabhāṣya",
  "tradition": "Advaita",
- "commentator": "Śaṅkara",
+ "commentator": "Śaṃkara",
  "script": "Devanagari",
  "units": [
   {
@@ -7692,5 +7692,5 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit (verse + Shankara's bhashya, Devanagari) from Advaita Sharada /read/brihadaranyaka-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Madhavananda 1950), joined by Devanagari verse text (189) or number-checked ref (225): 414 of 434 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [15 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 2.3.1, 2.4.1, 2.4.2, 2.4.9, 3.2.9, 3.9.27, 4.3.19, 4.3.37, 4.4.3, 4.5.2, 4.5.14, 6.2.5, 6.2.13, 6.4.2, 6.5.1]"
+ "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/brihadaranyaka-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Madhavananda 1950), joined by Devanagari verse text (189) or number-checked ref (225): 414 of 434 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [15 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 2.3.1, 2.4.1, 2.4.2, 2.4.9, 3.2.9, 3.9.27, 4.3.19, 4.3.37, 4.4.3, 4.5.2, 4.5.14, 6.2.5, 6.2.13, 6.4.2, 6.5.1]"
 }

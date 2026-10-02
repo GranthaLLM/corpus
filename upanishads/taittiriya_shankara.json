@@ -1,8 +1,8 @@
 {
  "id": "taittiriya_shankara",
- "text": "Taittirīya Upaniṣad Śāṅkarabhāṣya",
+ "text": "Taittirīya Upaniṣad Śāṃkarabhāṣya",
  "tradition": "Advaita",
- "commentator": "Śaṅkara",
+ "commentator": "Śaṃkara",
  "script": "Devanagari",
  "units": [
   {
@@ -995,5 +995,5 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit (verse + Shankara's bhashya, Devanagari) from Advaita Sharada /read/taittiriya-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English source: wisdomlib (A. Mahadeva Sastri 1903), not joined. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). english deliberately null: wisdomlib's Mahadeva Sastri edition is split per mantra with interleaved Sureshvara and Sayana commentary and numbering that does not map to Advaita Sharada's anuvaka blocks, and trial joins paired the wrong passages. Needs a manual or scan-based alignment."
+ "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/taittiriya-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English source: wisdomlib (A. Mahadeva Sastri 1903), not joined. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). english deliberately null: wisdomlib's Mahadeva Sastri edition is split per mantra with interleaved Sureshvara and Sayana commentary and numbering that does not map to Advaita Sharada's anuvaka blocks, and trial joins paired the wrong passages. Needs a manual or scan-based alignment."
 }

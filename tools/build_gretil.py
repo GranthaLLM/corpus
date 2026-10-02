@@ -100,9 +100,9 @@ if __name__ == "__main__":
     src = {"citation": "Bādarāyaṇa, Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya, GRETIL (Sansknet input, not proofread)",
            "url": GRETIL + "sa_bAdarAyaNa-brahmasUtra-comm.txt", "license": GRETIL_LIC}
     n = write("philosophical/bsb_shankara_gretil.json", dict(
-        id="bsb_shankara_gretil", text="Brahmasūtra Śāṅkarabhāṣya", tradition="Advaita", commentator="Śaṅkara",
+        id="bsb_shankara_gretil", text="Brahmasūtra Śāṃkarabhāṣya", tradition="Advaita", commentator="Śaṃkara",
         units=brahmasutra(), source_sanskrit=src, source_english={"citation": "Gambhirananda, Brahma-Sutra Bhasya of Sankaracharya", "url": "https://archive.org/details/brahma-sutra-bhasya-of-sankaracharya-swami-gambhirananda", "license": None},
-        alignment="unaligned", notes="Sanskrit only in pass 1. English (Gambhirananda scan) pending OCR pass; english null for every unit. GRETIL text is unproofread and word boundaries may be irregular. ref = adhyaya.pada.sutra. sanskrit_mula = sutra, sanskrit_bhashya = Shankara's commentary up to next sutra; adhikarana headings dropped."))
+        alignment="unaligned", notes="Sanskrit only in pass 1. English (Gambhirananda scan) pending OCR pass; english null for every unit. GRETIL text is unproofread and word boundaries may be irregular. ref = adhyaya.pada.sutra. sanskrit_mula = sutra, sanskrit_bhashya = Śaṃkara's commentary up to next sutra; adhikarana headings dropped."))
     print("bsb_shankara", n)
 
     src = {"citation": "Rāmānuja, Bhagavadgītābhāṣya, GRETIL (input S. Ishitobi, analytic text)", "url": GRETIL + "sa_rAmAnuja-bhagavadgItAbhASya.txt", "license": GRETIL_LIC}

@@ -1,8 +1,8 @@
 {
  "id": "kena_shankara",
- "text": "Kena Upaniṣad (Padabhāṣya) Śāṅkarabhāṣya",
+ "text": "Kena Upaniṣad (Padabhāṣya) Śāṃkarabhāṣya",
  "tradition": "Advaita",
- "commentator": "Śaṅkara",
+ "commentator": "Śaṃkara",
  "script": "Devanagari",
  "units": [
   {
@@ -642,5 +642,5 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit (verse + Shankara's bhashya, Devanagari) from Advaita Sharada /read/kena-pada-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1905), joined by Devanagari verse text (23) or number-checked ref (0): 23 of 35 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [2 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 3.3, 3.11]"
+ "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/kena-pada-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1905), joined by Devanagari verse text (23) or number-checked ref (0): 23 of 35 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [2 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 3.3, 3.11]"
 }

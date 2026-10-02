@@ -1,8 +1,8 @@
 {
  "id": "katha_shankara",
- "text": "Kaṭha Upaniṣad Śāṅkarabhāṣya",
+ "text": "Kaṭha Upaniṣad Śāṃkarabhāṣya",
  "tradition": "Advaita",
- "commentator": "Śaṅkara",
+ "commentator": "Śaṃkara",
  "script": "Devanagari",
  "units": [
   {
@@ -2356,5 +2356,5 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit (verse + Shankara's bhashya, Devanagari) from Advaita Sharada /read/kathaka-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1928), joined by Devanagari verse text (92) or number-checked ref (28): 120 of 120 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [12 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 1.1.10, 1.3.11, 1.3.12, 2.1.4, 2.1.5, 2.1.12, 2.1.13, 2.1.14, 2.3.9, 2.3.10, 2.3.11, 2.3.19]"
+ "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/kathaka-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1928), joined by Devanagari verse text (92) or number-checked ref (28): 120 of 120 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [12 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 1.1.10, 1.3.11, 1.3.12, 2.1.4, 2.1.5, 2.1.12, 2.1.13, 2.1.14, 2.3.9, 2.3.10, 2.3.11, 2.3.19]"
 }

@@ -1,8 +1,8 @@
 {
  "id": "aitareya_shankara",
- "text": "Aitareya Upaniṣad Śāṅkarabhāṣya",
+ "text": "Aitareya Upaniṣad Śāṃkarabhāṣya",
  "tradition": "Advaita",
- "commentator": "Śaṅkara",
+ "commentator": "Śaṃkara",
  "script": "Devanagari",
  "units": [
   {
@@ -112,5 +112,5 @@
  "needs_ocr": true,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit from Advaita Sharada (mantras + Shankara's bhashya), grouped by khanda: 1.1, 1.2, 1.3 = the three khandas of the first adhyaya; 2.1 and 3.1 = adhyayas 2 and 3 (Sastri's 'fourth' and 'fifth' Parts). English from Sastri's translation as printed (mantra translations and commentary translation, not separable), cut at his own 'KHANDA I/II/III' and 'Here ends the ... Part' markers, so each unit's English matches its Sanskrit exactly at khanda level. Verse-level pairing was not possible: Sastri groups mantras differently from Advaita Sharada (22 'Com.' blocks against 33 verses) and his OCR lost most verse numbers. The 'intro' unit pairs Shankara's opening bhashya (sambandha-bhashya, Sanskrit) with Sastri's introductory text before Khanda I. Paragraphs with Sanskrit-script OCR garbage are dropped; OCR noise remains. Verse-level Advaita Sharada units are available in git history. First pass."
+ "notes": "Sanskrit from Advaita Sharada (mantras + Śaṃkara's bhashya), grouped by khanda: 1.1, 1.2, 1.3 = the three khandas of the first adhyaya; 2.1 and 3.1 = adhyayas 2 and 3 (Sastri's 'fourth' and 'fifth' Parts). English from Sastri's translation as printed (mantra translations and commentary translation, not separable), cut at his own 'KHANDA I/II/III' and 'Here ends the ... Part' markers, so each unit's English matches its Sanskrit exactly at khanda level. Verse-level pairing was not possible: Sastri groups mantras differently from Advaita Sharada (22 'Com.' blocks against 33 verses) and his OCR lost most verse numbers. The 'intro' unit pairs Śaṃkara's opening bhashya (sambandha-bhashya, Sanskrit) with Sastri's introductory text before Khanda I. Paragraphs with Sanskrit-script OCR garbage are dropped; OCR noise remains. Verse-level Advaita Sharada units are available in git history. First pass."
 }

@@ -1,8 +1,8 @@
 {
  "id": "bsb_shankara_gretil",
- "text": "Brahmasūtra Śāṅkarabhāṣya",
+ "text": "Brahmasūtra Śāṃkarabhāṣya",
  "tradition": "Advaita",
- "commentator": "Śaṅkara",
+ "commentator": "Śaṃkara",
  "script": "Devanagari",
  "units": [
   {
@@ -9455,5 +9455,5 @@
  "needs_ocr": false,
  "alignment": "unaligned",
  "slice_of": null,
- "notes": "Sanskrit only in pass 1. English (Gambhirananda scan) pending OCR pass; english null for every unit. GRETIL text is unproofread and word boundaries may be irregular. ref = adhyaya.pada.sutra. mula part = sutra, bhashya part = Shankara's commentary up to next sutra; adhikarana headings dropped. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is]"
+ "notes": "Sanskrit only in pass 1. English (Gambhirananda scan) pending OCR pass; english null for every unit. GRETIL text is unproofread and word boundaries may be irregular. ref = adhyaya.pada.sutra. mula part = sutra, bhashya part = Śaṃkara's commentary up to next sutra; adhikarana headings dropped. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is]"
 }
