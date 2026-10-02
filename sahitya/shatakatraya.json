@@ -773,126 +773,180 @@
    "kind": "verse",
    "scope": "text",
    "sanskrit": "शम्भुस्वयम्भुहरयो हरिणेक्षणानां\nयेनाक्रियन्त सततं गृहकुम्भदासाः ।\nवाचाम् अगोचरचरित्रविचित्रिताय\nतस्मै नमो भगवते मकरध्वजाय ॥",
-   "english": null
+   "english": "Fall down and worship the illustrious wielder of the flowery bow/ who compelled even the gods themselves to be the servants of antelope-eyed ladies; the youth whose curious deeds cannot be described in words.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 1"
+   }
   },
   {
    "ref": "2.2",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "स्मितेन भावेन च लज्जया भिया\nपराण्मुखैर् अर्धकटाक्षवीक्षणैः ।\nवचोभिर् ईर्ष्याकलहेन लीलया\nसमस्तभावैः खलु बन्धनं स्त्रियः ॥",
-   "english": null
+   "english": "Smiles, gestures, modesty, and coquettish glances, the face half -turned away, teasing, jealousy, quarrels, chaff — these are indeed the weapons of women, out of which they make a chain to bind down men.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 2"
+   }
   },
   {
    "ref": "2.3",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "भ्रूचातुर्यात् कुष्चिताक्षाः कटाक्षाः\nस्निग्धा वाचो लज्जितान्ताश् च हासाः ।\nलीलामन्दं प्रस्थितं च स्थितं च\nस्त्रीणाम् एतद् भूषणं चायुधं च ॥",
-   "english": null
+   "english": "Eyes cast down, sidelong looks, pretty eyebrows, soft words, modest gmiles, artificial movements and postures of the body, a slow, indolent movement in walking — these things serve women equally well as ornaments and as weapons.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 3"
+   }
   },
   {
    "ref": "2.4",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "क्वचित् सभ्रूभङ्गैः क्वचिद् अपि च लज्जापरिगतैः\nक्वचिद् भूरित्रस्तैः क्वचिद् अपि च लीलाविललितैः ।\nकुमारीणाम् एतैर् मदनसुभगैर् नेत्रवलितैः\nस्फुरन्नीलाब्जानां प्रकरपरिकीर्णा इव दिशः ॥",
-   "english": null
+   "english": "If once our fancy has been caught by women we shall never cast a look round us without seeing the world filled, as it were, with the sparkling glances of lotus-eyed navodahs — glances which strike us at first by the movements of the beautiful eyebrows, and then, perhaps, by the modesty or shyness of the fair one, or by her timidity and laughing gracefulness, or the unsteady feelings displayed in those eyes, those fickle eyes, whose magnificence resembles the dark-blue lotus in full bloom.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 4"
+   }
   },
   {
    "ref": "2.5",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "वक्त्रं चन्द्रविकासि पङ्कजपरीहासक्षमे लोचने\nवर्णः स्वर्णम् अपाकरिष्णुर् अलिनीजिष्णुः कचानां चयः ।\nबक्षोजाव् इभकुम्भविभ्रमहरौ गुर्वी नितम्बस्थली\nवाचां हारि च मार्दवं युवतीषु स्वाभाविकं मण्डनम् ॥",
-   "english": null
+   "english": "A face that shames the splendour of the moon, eyes that surpass the beauty of the lotus, a complexion outshining even the lustre of gold, thick hair, blacker than the black bee, breasts that make us forget the twin domes on the forehead of an elephant, rounded hips, and a sweet voice — these are the natural ornaments of young women.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 5"
+   }
   },
   {
    "ref": "2.6",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "स्मितकिञ्चिन्मुग्धं सरलतरलो दृष्टिविभवः\nपरिस्पन्दो वाचाम् अभिनवविलासोक्तिसरसः ।\nगतानाम् आरम्भः किसलयितलीलापरिकरः\nस्पृशन्त्यास् तारुण्यं किम् इव न हि रम्यं मृगदृशः ॥",
-   "english": null
+   "english": "What is not handsome about young and beautiful maidens who are just entering on the threshold of womanhood? Their gently smiling faces, frank and innocent looks, their harmonious voices when we speak to them, and, when they walk, the delicate movements of their limbs, like the trembling of lotus stems — these things are, one and all, unsurpassed in their loveliness.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 6"
+   }
   },
   {
    "ref": "2.7",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "द्रष्टव्येषु किम् उत्तमं मृगदृशः प्रेमप्रसन्नं मुखं\nघ्रातवेष्व् अपि किं तदास्यपवनः श्रव्येषु किं तद्वचः ।\nकिं स्वाद्येषु तदोष्ठपल्लवरसः स्पृश्येषु किं तद्वपुर्ध्येयं\nकिं नवयौवने सहृदयैः सर्वत्र तद्विभ्रमाः ॥",
-   "english": null
+   "english": "What can be more beautiful for the lover to look at than the face of his antelopeeyed mistress smiling at him with unchecked lassion? What can be more lovely for him to breathe than the breath of her mouth? What more beautiful for him to hear than her voice? What more beautiful for him to eat than the delicate ambrosia of her lips? What can be more lovely: for him to touch than her soft body, and what more beautiful for him to think about than the image and grace of his adored one?",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 7"
+   }
   },
   {
    "ref": "2.8",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "एताश् चलद्वलयसंहतिमेखलोत्थझङ्कार\nनूपुरपराजितराजहंस्यः ।\nकुर्वन्ति कस्य न मनो विवशं तरुण्यो\nवित्रस्तमुग्धहरिणीसदृशैः कटाक्षैः ॥",
-   "english": null
+   "english": "Who is there that is not conquered by the artless, timid glances of lovely and youthful women, the melodious tinkling of whose loose anklets and waistbelts puts to shame even the sweet tones of the swans?",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 8"
+   }
   },
   {
    "ref": "2.9",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "कुङ्कुमपङ्ककलङ्कितदेहा\nगौरपयोधरकम्पितहारा ।\nनूपुरहंसरणत्पद्मा\nकं न वशीकुरुते भुवि रामा ॥",
-   "english": null
+   "english": "The charms of a lovely woman, whose body has been anointed with saffron, whose necklace swings gently with the rise and fall of her golden breasts, and from whose feet we hear the sweet sounds of her tinkling anklets: by making use of these things what handsome woman cannot reduce a man to a condition of the most abject slavery?",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 9"
+   }
   },
   {
    "ref": "2.10",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "नूनं हि ते कविवरा विपरीतवाचो\nये नित्यम् आहुर् अबला इति कामिनीस् ताः ।\nयाभिर् विलोलितरतारकदृष्टिपातैः\nशक्रादयो ऽपि विजितास् त्व् अबलाः कथं ताः ॥",
-   "english": null
+   "english": "All the best poets were wrong when they called woman weak. How can such an expression be applied to those whose starlike eves subdued the hearts of Indra himself, and the other mighty gods?",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 10"
+   }
   },
   {
    "ref": "2.11",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "नूनम् आज्ञाकरस् तस्याः सुभ्रुवो मकरध्वजः ।\nयतस् तन्नेत्रसञ्चारसूचितेषु प्रवर्तते ॥",
-   "english": null
+   "english": "Makaradhvaja is truly the obedient slave of the beautiful woman who possesses a pair of fine eyebrows: for he consoles himself in all their labyrinths, and is ready at any moment to take the field in her service.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 11"
+   }
   },
   {
    "ref": "2.12",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "केशाः संयमिनः श्रुतेर् अपि परं पारं गते लोचने\nअन्तर्वक्त्रम् अपि स्वभावशुचिभीः कीर्णं द्विजानां गणैः ।\nमुक्तानां सतताधिवासरुचिरौ वक्षोजकुम्भाव् इमावित्थं\nतन्वि वपुः प्रशान्तम् अपि तेरागं करोत्य् एव नः ॥",
-   "english": null
+   "english": "Thy well-combed hair, thy splendid eyes, with their arches curved almost to thine ear, thy two rows of teeth, entirely pure and regular, thy breasts adorned with beautiful flowers or necklaces of pearls — thus thy body, oh beautiful woman, inspires us with the liveliest emotion.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 12"
+   }
   },
   {
    "ref": "2.13",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "मुग्धे धानुष्कता केयम् अपूर्वा त्वयि दृश्यते ।\nयया विध्यसि चेतांसि गुणैर् एव न सायकैः ॥",
-   "english": null
+   "english": "Oh, thou most charming maiden, where hast thou acquired thy knowledge of archery? — a magnificent knowledge indeed; for thou canst pierce the hearts of others merely by touching the strings of the bow, without using a single shaft.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 13"
+   }
   },
   {
    "ref": "2.14",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "सति प्रदीपे सत्य् अग्नौ सत्सु तारारवीन्दुषु ।\nविना मे मृगशावाक्ष्या तमोभूतम् इदं जगत् ॥",
-   "english": null
+   "english": "Nothwithstanding the light from the bright lamps, the fires, the sun, the moon, and the stars, the whole world appears to me to be wrapped in the deepest gloom, because my fawn-eyed darling is no longer with me.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 14"
+   }
   },
   {
    "ref": "2.15",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "उद्वृत्तः स्तनभार एष तरले नेत्रे चले भ्रूलते\nरागाधिष्ठितम् ओष्ठपल्लवम् इदं कुर्वन्तु नाम व्यथाम् ।\nसौभाग्याक्षरमालिकेव लिखिता पुष्पायुधेन स्वयं\nमध्यस्थापि करोति तापम् अधिकं रोमावलिः केन सा ॥",
-   "english": null
+   "english": "It is but natural that the voluptuousness of thy rounded breasts, thy trembling eyes, thy ever-moving brows, and thy rosy lips, should arouse amorous emotions in a man; but why is it that that thin line of hair which we can just see peeping forth ex venire tuo should cause us so much more emotional discomfort? — that little line of hair that looks like a special mark of favour bestowed by the Gkxi of Love himself.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 15"
+   }
   },
   {
    "ref": "2.16",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "मुखेन चन्द्रकान्तेन महानीलैः शिरोरुहैः ।\nकराभ्यां पद्मरागाभ्यां रेजे रत्नमयीव सा ॥",
-   "english": null
+   "english": "That woman may indeed be said to be made up of precious jewels; for her face is like the moonstone, her dark hair like sapphires, and her hands like rubies, with their red palms.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 20"
+   }
   },
   {
    "ref": "2.17",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "गुरुणा स्तनभारेण मुखचन्द्रेण भास्वता ।\nशनैश्चराभ्यां पादाभ्यां रेजे ग्रहमयीव सा ॥",
-   "english": null
+   "english": "Behold the delicate form of that charming woman who is walking in the cool moonlight with slow and cautious step, resting now and then in the shade of the forest trees, and, with her shapely hand, drawing her veil over her face to shield herself from the rays of the moon.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 22"
+   }
   },
   {
    "ref": "2.18",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "तस्याः स्तनौ यदि घनौ जघनं च हारि\nवक्त्रं च चारु तव चित्त किम् आकुलत्वम् ।\nपुण्यं कुरुष्व यदि तेषु तवास्ति वाञ्छा\nपुण्यैर् विना न हि भवन्ति समीहितार्थाः ॥",
-   "english": null
+   "english": "If any emotion is aroused in thy soul at the sight of the firm breasts, the rounded hips, and adorable face of that young woman, and if your desire is all for the voluptuous sights on which you have cast your eye, then practise the virtues; for, without this practice, the fulfilment of your hopes can never come to pass.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 17"
+   }
   },
   {
    "ref": "2.19",
@@ -920,28 +974,40 @@
    "kind": "verse",
    "scope": "text",
    "sanskrit": "अदर्शने दर्शनमात्रकामा\nदृष्ट्वा परिष्वङ्गसुखैकलोला ।\nआलिङ्गितायां पुनर् आयताक्ष्यामाशास्महे\nविग्रहयोर् अभेदम् ॥",
-   "english": null
+   "english": "So long as we do not view women too closely, we wish merely to glance at their handsome figures. When once this wish is gratified, however, we want to have her whole body in a loving embrace. And when that boon has been vouchsafed us, we pray that our bodies may be.united for all eternity.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 23"
+   }
   },
   {
    "ref": "2.23",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "मालती शिरसि जृम्भणं मुखे\nचन्दनं वपुषि कुङ्कुमाविलम् ।\nवक्षसि प्रियतमा मदालसा\nस्वर्ग एष परिशिष्ट आगमः ॥",
-   "english": null
+   "english": "Who can truly be said to have secured a portion of ethereal bliss in this wretched world? Those, doubtless, who wear fragrant garlands of jasmine round their necks, rub the sweet saffron over their bodies, and press close to their hearts the adored form of their beloved.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 24"
+   }
   },
   {
    "ref": "2.24",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "प्राङ् माम् एति मनाग् अनागतरसं जाताभिलाषां ततः\nसव्रीडं तद् अनु श्लथोद्यमम् अथ प्रध्वस्तधैर्यं पुनः ।\nप्रेमार्द्रं स्पृहणीयनिर्भररहः क्रीडाप्रगल्भं ततो\nनिःसङ्गाङ्गविकर्षणाधिकसुखरम्यं कुलस्त्रीरतम् ॥",
-   "english": null
+   "english": "Our beloved one approaches us with lascivious movements and then shyly yields to our embraces. But, her desire once gratified, she sets aside all reserve, becomes more audacious, and gladly gives herself up to all the delicious pleasures of love.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 25"
+   }
   },
   {
    "ref": "2.25",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "उरसि निपतितानां स्रस्तधम्मिल्लकानां\nमुकुलितनयनानां किञ्चिदुन्मीलितानाम् ।\nउपरि सुरतखेदस्विन्नगण्डस्थलानामधर\nमधु वधूनां भाग्यवन्तः पिबन्ति ॥",
-   "english": null
+   "english": "What pleasure can be compared to that of drinking the nectar off the lips of our beloved mistresses as they lie with dishevelled hair and rosy cheeks, their bodies palpitating with the delights of love?",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 26"
+   }
   },
   {
    "ref": "2.26",
@@ -955,21 +1021,30 @@
    "kind": "verse",
    "scope": "text",
    "sanskrit": "इदम् अनुचितम् अक्रमश् च पुंसां\nयद् इह जरास्व् अपि मन्मथा विकाराः ।\nतद् अपि च न कृतं नितम्बिनीनां\nस्तनपतनावधि जीवितं रतं वा ॥",
-   "english": null
+   "english": "Impotence is an unworthy thing that results in men, when they have become old, too old for the joys of love; but it never happens in the case of well-developed women: even when, in other respects, they have become old and enervated, they are still ready for pleasure.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 28"
+   }
   },
   {
    "ref": "2.28",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "राजस्तृष्णाम्बुराशेर् न हि जगति गतः कश्चिद् एवावसानं\nको वार्थो ऽर्थैः प्रभूतैः स्ववपुषि गलिते यौवने सानुरागे ।\nगच्छामः सद्म यावद् विकसितनयनेन्दीवरालोकिनीनामाक्रम्याक्रम्य\nरूपं झटिति न जरया लुप्यते प्रेयसीनाम् ॥",
-   "english": null
+   "english": "No one in this world, O king, has e\\'er succeeded in crossing his ocean of desires. Of what use to us are abundant riches if we must let our outh slip away from us without the enjoyment of our wives whom we adore? Let us therefore hasten to our homes so that we may be able to reach them before the beauty of our loved ones has been withered by the approach of age,",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 69"
+   }
   },
   {
    "ref": "2.29",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "रागस्यागारम् एकं नरकशतमहादुःखसम्प्राप्तिहेतुर्मोहस्योत्पत्ति\nबीजं जलधरपटलं ज्ञानताराधिपस्य ।\nकन्दर्पस्यैकमित्रं प्रकटितविविधस्पष्टदोषप्रबन्धं\nलोके ऽस्मिन् न ह्य् अर्थव्रजकुलभवनयौवनाद् अन्यद् अस्ति ॥",
-   "english": null
+   "english": "What greater calamity can a man suffer in this world than his own youth, which is at once the abiding-place of passion, the cause of dreadful agonies in hell, the seed of ignorance, the gatherings of clouds that hide the moon of knowledge, the great friend of the God of Love, and the chain that binds together innumerable sins.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 70"
+   }
   },
   {
    "ref": "2.30",
@@ -983,21 +1058,30 @@
    "kind": "verse",
    "scope": "text",
    "sanskrit": "संसारे ऽस्मिन्न् असारे कुनृपतिभवनद्वारसेवाकलङ्कव्यासङ्ग\nव्यस्तधैर्यं कथम् अमलधियो मानसं संविदध्युः ।\nयद्य् एताः प्रोद्यदिन्दुद्युतिनिचयभृतो न स्युर् अम्भोजनेत्राः\nप्रेङ्खत्काञ्चीकलापाः स्तनभरविनमन्मध्यभाजस् तरुण्यः ॥",
-   "english": null
+   "english": "Had there been no young women with eyes as beautiful as the lotus and faces outshining the beauty of the moon, whose waistbelts gave forth such joyful sounds and who were almost bent by the development of their breasts, how would it have been possible for men to have cast aside their natural wisdom and inclinations and entered the service of some cowardly king, passing their time near the gates of the palace?",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 66"
+   }
   },
   {
    "ref": "2.32",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "सिद्धाध्यासितकन्दरे हरवृषस्कन्धावरुग्णद्रुमे\nगङ्गाधौतशिलातले हिमवतः स्थाने स्थिते श्रेयसि ।\nकः कुर्वीत शिरः प्रणाममलिनं म्लानं मनस्वी जनो\nयद्वित्रस्तकुरङ्गशावनयना न स्युः स्मरास्त्रं स्त्रियः ॥",
-   "english": null
+   "english": "If there had been no beautiful women in the world, no wise man would have stained his head by devotional bows, particularly when he could have spent his time in some saintly cavern on the side of the Himalaas, whose rocks are washed by the waters of the Gauge.did whose trees have their roots in the shoulders of the Nandi, the divine Ox of Siva.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 67"
+   }
   },
   {
    "ref": "2.33",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "संसार तव पर्यन्तपदवी न दवीयसी ।\nअन्तरा दुस्तरा न स्युर् यदि ते मदिरेक्षणाम् ॥",
-   "english": null
+   "english": "It would have been an easy matter to pay for our passage over the ocean of existence if there had been no women with beautiful eyes to hinder our progress.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 68"
+   }
   },
   {
    "ref": "2.34",
@@ -1018,7 +1102,10 @@
    "kind": "verse",
    "scope": "text",
    "sanskrit": "एतत्कामफलो लोके यद् द्वयोर् एकचित्तता ।\nअन्यचित्तकृते कामे शवयोर् इव सङ्गमः ॥",
-   "english": null
+   "english": "The true object of amorous intercourse is the uniting of the hearts of the two K participanls in it; and when this end is not accomplished the union resembles merely the contact of corpses.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 29"
+   }
   },
   {
    "ref": "2.36",
@@ -1032,14 +1119,20 @@
    "kind": "verse",
    "scope": "text",
    "sanskrit": "संसारे स्वप्नसारे परिणतितरले द्वे गती पण्डितानां\nतत्त्वज्ञानामृताम्भःप्लवललितधियां यातु कालः कथञ्चित् ।\nनो चेन् मुग्धाङ्गनानां स्तनजघनघनाभोगसम्भोगिनीनां\nस्थूलोपस्थस्थलीषु स्थगितकरतलस्पर्शलीलोद्यमानाम् ॥",
-   "english": null
+   "english": "In this worthless world learned men have two alternative ways of enjoying themselves: they may either drink the ambrosia of knowledge and truth, or they may give themselves up to the society of charming women and of courtesans, whose amorous desires are awakened by the mere touch of the hand.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 19"
+   }
   },
   {
    "ref": "2.38",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "आवासः क्रियतां गङ्गे पापहारिणि वारिणि ।\nस्तनद्वये तरुण्या वा मनोहारिणि हारिणि ॥",
-   "english": null
+   "english": "You must make your choice of a habitation — either on the banks of the Ganges, the holy waters of which will wash away all your sins, or on the breast of a beautiful young woman adorned with a necklace of pearls.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 31"
+   }
   },
   {
    "ref": "2.39",
@@ -1053,7 +1146,10 @@
    "kind": "verse",
    "scope": "text",
    "sanskrit": "सत्यं जना वच्मि न पक्षपाताल्\nलोकेषु सप्तस्व् अपि तथ्यम् एतत् ।\nनान्यन् मनोहारि नितम्बिनीभ्यो\nदुःखैकहेतुर् न च कश्चिद् अन्यः ॥",
-   "english": null
+   "english": "Of what use are vain words and useless discourses? There are only two things in this world to which man should give himself,up. One is the youthful period of a beautiful woman, who is tired, so to speak, of carrying the weight of her lovely breasts and wishes for a new source of enjoyment, and the other is a forest where one can live as a hermit.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 53"
+   }
   },
   {
    "ref": "2.41",
@@ -1067,161 +1163,230 @@
    "kind": "verse",
    "scope": "text",
    "sanskrit": "स्मृता भवति तापाय दृष्टा चोन्मादकारिणी ।\nस्पृष्टा भवति मोहाय सा नाम दयिता कथम् ॥",
-   "english": null
+   "english": "How can we go on loving women when the thought of her warms our hearts, the sight of her intoxicates us, and a touch of her nearly drives us mad?",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 73"
+   }
   },
   {
    "ref": "2.43",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "तावद् एवामृतमयी यावल् लोचनगोचरा ।\nचक्षुष्पथाद् अतीता तु विषाद् अप्य् अतिरिच्यते ॥",
-   "english": null
+   "english": "A woman is indeed the very incarnation of the purest ambrosia so long as we have her within sight; but no sooner is she beyond the range of our vision than she becomes worse even than poison.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 74"
+   }
   },
   {
    "ref": "2.44",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "नामृतं न विषं किञ्चिद् एतां मुक्त्वा नितम्बिनीम् ।\nसैवामृतलता रक्ता विरक्ता विषवल्लरी ॥",
-   "english": null
+   "english": "Whatever young woman we may have in mind she is neither ambrosia nor poison — if she loves us she will be like an ambrosial creeper embracing us with its tendrils; but if she is indifferent she is like a poisonous plant.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 75"
+   }
   },
   {
    "ref": "2.45",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "आवर्तः संशयानाम् अविनयभुवनं पट्टणं साहसानां\nदोषाणां सन्निधानं कपटशतमयं क्षेत्रम् अप्रत्ययानाम् ।\nस्वर्गद्वारस्य विघ्नो नरकपुरमुख सर्वमायाकरण्डं\nस्त्रीयन्त्रं केन सृष्टं विषम् अमृतमयं प्राणिलोकस्य पाशः ॥",
-   "english": null
+   "english": "A whirlpool of.uncertainty, a palace of pride, a prison of punishment, a storehouse of sin, a fraud in a hundred different respects, an obstacle placed for us before the gates of paradise, the field of deceit, a basket of illusion, the open throat of hell: such are some of the features of women, who change nectar into poison and are as a chain by which man is attached to the chariot of folly.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 76"
+   }
   },
   {
    "ref": "2.46",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "नो सत्येन मृगाङ्क एष वदनीभूतो न चेन्दीवरद्वन्द्वं\nलोचनतां गत न कनकैर् अप्य् अङ्गयष्टिः कृता ।\nकिन्त्व् एवं कविभिः प्रतारितमनास् तत्त्वं विजानन्न् अपि\nत्वङ्मांसास्थिमयं वपुर् मृगदृशां मन्दो जनः सेवते ॥",
-   "english": null
+   "english": "It is certain enough that the face of a woman is not made up of the moon, that her eyes are not twin lotuses, and that her limbs are not really gold. Why, alas, have poets been led to deceive us in this manner? Men are capable of distinguishing; but nevertheless, deceived by the poets, they none the less adore those fawneyed women, even though they know well enough that their bodies are composed of nothing more than skin, flesh, and bone.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 77"
+   }
   },
   {
    "ref": "2.47",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "लीलावतीनां सहजा विलासास्त\nएव मूढस्य हृदि स्फुरन्ति ।\nरागो नलिन्या हि निसर्गसिद्धस्तत्र\nभ्रम्त्य् एव वृथा षडङ्घ्रिः ॥",
-   "english": null
+   "english": "Redness is a natural feature of the lotus; but the beesmistake it for a sign of its love for them, so they continually hover around the flower. Similarly, though flirtations and amorous actions are natural to women, they yet make deep impressions on the hearts of foolish men, who mistake these things for real tokens of love.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 78"
+   }
   },
   {
    "ref": "2.47*1",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "संमोहयन्ति मदयन्ति विडम्बयन्ति\nनिर्भर्त्स्यन्ति रमयन्ति विषादयन्ति ।\nएताः प्रविश्य सदयं हृदयं नराणां\nकिं नाम वामनयना न समाचरन्ति ॥",
-   "english": null
+   "english": "What cannot clever women do when once they take possession of the hearts of men? They can drive them mad, intoxicate or stupefy them with sympathy and love, mock them, threaten them, please them, and likewise worry them in a thousand different ways.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 21"
+   }
   },
   {
    "ref": "2.48",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "यद् एतत् पूर्णेन्दुद्युतिहरम् उदाराकृति परं\nमुखाब्जं तन्वङ्ग्याः किल वसति यत्राधरमधु ।\nइदं तत् किं पाकद्रुमफलम् इदानीम् अतिरसव्यतीते ऽस्मिन्\nकाले विषम् इव भविष्य्त्य् असुखदम् ॥",
-   "english": null
+   "english": "We behold a young girl with a lotuseyed face resembling the splendour of the moon, and we remark the ambrosia on her lips. Too soon this face, like a rotten piece of fruit, will lose all its flavour, and dll begin to taste like bitter poison.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 79"
+   }
   },
   {
    "ref": "2.49",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "उन्मीलत्त्रिवलीतरङ्गनिलया प्रोत्तुङ्गपीनस्तनद्वन्द्वेनोद्गत\nचक्रवाकयुगला वक्त्राम्बुजोद्भासिनी ।\nकान्ताकारधरा नदीयम् अभितः क्रूरात्र नापेक्षते\nसंसारार्णवमज्जनं यदि तदा दूरेण सन्त्यज्यताम् ॥",
-   "english": null
+   "english": "A young woman is like a river; for the lines of her body resemble the waves; her breasts represent the ducks swimming on the surface, the nymphs are seen in the brilliant colours of her face: but the bed of the river is dangerous, its course is difficult to perceive and leads rapidly to the ocean; so let men turn aside from it if they do not wish to be drowned.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 80"
+   }
   },
   {
    "ref": "2.50",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "जल्पन्ति सार्धम् अन्येन पश्यन्त्य् अन्यं सविभ्रमाः ।\nहृद्गतं चिन्तयन्त्य् अन्यं प्रियः को नाम योषिताम् ॥",
-   "english": null
+   "english": "Women, being all of a flighty disposition, look at this man and talk to that man at one time — and think of yet a third person: Who can possibly be a lover of women?",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 81"
+   }
   },
   {
    "ref": "2.51",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "मधु तिष्ठति वाचि योषितां हृदि हालाहलम् एव केवलम् ।\nअतएव निपीयते ऽधरो हृदयं मुष्टिभिर् एव ताड्यते ॥",
-   "english": null
+   "english": "Women's words may be like honey, while their hearts may be filled with poison. What more natural, then, than we should clasp their breasts tightly while kissing their lips?",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 82"
+   }
   },
   {
    "ref": "2.52",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "अपसर सखे दूराद् अस्मात् कटाक्षविषानलात्\nप्रकृतिविषमाद् योषित्सर्पाद् विलासफणाभृतः ।\nइतरफणिना दष्टः शक्यश् चिकित्सितुम् औषधैश्चतुर्\nवनिताभोगिग्रस्तं हि मन्त्रिणः ॥",
-   "english": null
+   "english": "Oh my friend! Carefully avoid that form of serpent whom we know as woman. She wears the hood of amorous glances and actions while the looks she darts from her eyes are like stings of poison. Those who are bitten by ordinary snakes may be cured by medicines; but those who are wounded by the serpents in the form of woman cannot be cured even by the most famous charmers.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 83"
+   }
   },
   {
    "ref": "2.53",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "विस्तारितं मकरकेतनधीवरेण\nस्त्रीसंज्ञितं बडिशम् अत्र भवाम्बुराशौ ।\nयेनाचिरात् तदधरामिषलोलमर्त्य\nमत्स्यान् विकृष्य विपचत्य् अनुरागवह्नौ ॥",
-   "english": null
+   "english": "Cupid, in the guise of a fisherman, h has spread his net in the form of a woman; and the bait he offers is the nectar from her lips. Soon men are tempted by the attraction that is put before them and, when they are caught, they are roasted in the fire of love.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 84"
+   }
   },
   {
    "ref": "2.54",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "कामिनीकायकान्तारे कुचपर्वतदुर्गमे ।\nमा संचर मनः पान्थ तत्रास्ते स्मरतस्करः ॥",
-   "english": null
+   "english": "Never, oh my heart, venture into the dense forest of a pretty woman's body. The way through it is rendered difficult by the high mountains of her breasts, and the God of Love hovers round like a brigand.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 85"
+   }
   },
   {
    "ref": "2.55",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "व्यादीर्घेण चलेन वक्त्रगतिना तेजस्विना भोगिना\nनीलाब्जद्युतिनाहिना परम् अहं दृष्टो न तच्चक्षुषा ।\nदृष्टे सन्ति चिकित्सका दिशि दिशि प्रायेण दर्मार्थिनो\nमुग्धाक्ष्क्षणवीक्षितस्य न हि मे वैद्यो न चाप्य् औषधम् ॥",
-   "english": null
+   "english": "Woe is me! for I must one day be pierced by the large, swift, voluptuous eye of a woman, which follows one like a quickly-moving serpent, and finally strikes. In nearly every country there are charmers who can cure a snake bite; but, alas! for the man whose heart is pierced by the eye of a woman there is neither medicine nor doctor.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 86"
+   }
   },
   {
    "ref": "2.56",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "इह हि मधुरगीतं नृत्यम् एतद्रसो ऽयं\nस्फुरति परिमलो ऽसौ स्पर्श एष स्तनानाम् ।\nइति हतपरमार्थैर् इन्द्रियैर् भ्राम्यमाणः\nस्वहितकरणधूर्तैः पञ्चभिर् वञ्चितो ऽस्मि ॥",
-   "english": null
+   "english": "In one place we hear a melodious song, in another we see a well-executed dance or inhale a beautiful perfume; while again, somewhere else, we are intoxicated by touching a beautiful breast. In this way our senses ramble hither and thither and destroy the higher ideas of our minds — all of them workmen carrying o,ut useless tasks and all of them continually abused and deceived.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 87"
+   }
   },
   {
    "ref": "2.57",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "न गम्यो मन्त्राणां न च भवति भैषज्यविषयो\nन चापि प्रध्वंसं व्रजति विविधैः शान्तिकशतैः ।\nभ्रमावेशाद् अङ्गे कम् अपि विदधद् भङ्गम् असकृत्\nस्मरापस्मारो ऽयं भ्रमयति दृशं घूर्णयति च ॥",
-   "english": null
+   "english": "The disease of love cannot be healed by mantras or the customary medicines. The study of the divine texts is of little avail; and whenever the patient is attacked his eyes roll with pain, and his limbs assume a peculiar livid hue.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 88"
+   }
   },
   {
    "ref": "2.58",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "जात्यन्धाय च दुर्मुखाय च जराजीर्णा खिलाङ्गाय च\nग्रामीणाय च दुष्कुलाय च गलत्कुष्ठाभिभूताय च ।\nयच्छन्तीषु मनोहरं निजवपुलक्ष्मीलवश्रद्धया\nपण्यस्त्रीषु विवेककल्पलतिकाशस्त्रीषु राज्येत कः ॥",
-   "english": null
+   "english": "What wise man can possibly take delight in loving a prostitute — a woman who, for the mere hope of gaining a small sum of money, sells her lovely person even to a blind man, or a man who is indescribably ugly and worn out with age, or a man of low origin, or again a man who repels us by his leprosy. What man, I ask, can love a prostitute — this scythe who cuts down the divine shrub of wisdom, the roots of which are planted in paradise itself?",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 89"
+   }
   },
   {
    "ref": "2.59",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "वेश्यासौ मदनज्वाला\nरूपे ऽन्धनविवर्धिता ।\nकामिभिर् यत्र हूयन्ते\nयौवनानि धनानि च ॥",
-   "english": null
+   "english": "A prostitute is, so to speak, a fire of love, glowing from the fuel of beauty, and burning to ashes the youth and wealth of sensual persons.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 90"
+   }
   },
   {
    "ref": "2.60",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "कश् चुम्बति कुलपुरुषो वेश्याधरपल्लवं मनोज्ञम् अपि ।\nचारभटचोरचेटकनटविटनिष्ठीवनशरावम् ॥",
-   "english": null
+   "english": "However beautiful the lips of a prostitute may be, no man who respects himself can possibly kiss them — for what are they but a kind of vessel in which everyone is at \\y--t'- / ■■ liberty to spit, be he spy, soldier, thief, slave, actor, or cheat?",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 91"
+   }
   },
   {
    "ref": "2.61",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "धन्यास् त एव धवलायतलोचनानां\nतारुण्यदर्पघनपीनपयोधराणाम् ।\nक्षामोदरोपरि लसत्त्रिवलीलतानां\nदृष्ट्वाकृतिं विकृतिम् एति मनो न येषाम् ॥",
-   "english": null
+   "english": "Happy indeed are those men whose hearts are not inflamed by the sight of beautiful women with large eyes, firm breasts, and all the characteristics of youth about their delicate bodies.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 92"
+   }
   },
   {
    "ref": "2.62",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "बाले लीलामुकुलितम् अमी मन्थरा दृष्टिपाताः\nकिं क्षिप्यन्ते विरमविरम व्यर्थ एष श्रमस् ते ।\nसम्प्रत्य् अन्ये वयम् उपरतं बाल्यम् आस्था वनान्ते\nक्षीणो मोहस् तृणम् इव जगज्जालम् आलोकयामः ॥",
-   "english": null
+   "english": "My child, why dart coquettish glances from thy half-closed eyes? Cease! Cease! for thy labour is in vain. We have become different men; our youth is at an end. The world, so far as we are concerned, is in the middle of a forest. Folly is dead in our hearts, and this world, through which one's desires are inflamed, is to us nothing but a handful of grass.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 93"
+   }
   },
   {
    "ref": "2.63",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "इयं बाला मां प्रत्य् अनवरतम् इन्दीवरदलप्रभा\nचीरं चक्षुः क्षिपति किम् अभिप्रेतम् अनया ।\nगतो मोहो ऽस्माकं स्मरशबरबाणव्यतिकरज्वर\nज्वाला शान्ता तद् अपि न वराकी विरमति ॥",
-   "english": null
+   "english": "That charming young woman continually casts sparkling glances towards us; but what object can she have in doing so? Our desires have long since left us, and love, the tireless hunter, has put away his arrows which pierce our bodies with the pangs of pain. Yet that woman will not cease.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 94"
+   }
   },
   {
    "ref": "2.64",
@@ -1263,7 +1428,10 @@
    "kind": "verse",
    "scope": "text",
    "sanskrit": "यदासीद् अज्ञानं स्मरतिमिरसञ्चारजनितं\nतदा दृष्टनारीमयम् इदम् अशेषं जगद् इति ।\nइदानीम् अस्माकं पटुतरविवेकाञ्जनजुषां\nसमीभूता दृष्टिस् त्रिभुवनम् अपि ब्रह्म मनुते ॥",
-   "english": null
+   "english": "When I was ignorant and walking in darkness it appeared to me that the whole world was nothing but the body of a woman; but now that I have become more clearsighted, I recognise that the three worlds are comprised in Brahma himself.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 98"
+   }
   },
   {
    "ref": "2.70",
@@ -1284,42 +1452,60 @@
    "kind": "verse",
    "scope": "text",
    "sanskrit": "स्वपरप्रतारको ऽसौ\nनिन्दति यो ऽलीकपण्डितो युवतीः ।\nयस्मात् तपसो ऽपि फलं\nस्वर्गः स्वर्गे ऽपि चाप्सरसः ॥",
-   "english": null
+   "english": "That learned man who shuns the company oif beautiful Women is deceiving himself as well as deceiving others; for is it not the case that the enjoyment of apsaras is one of the most prominent rewards of Heaven?",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 57"
+   }
   },
   {
    "ref": "2.73",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "मत्तेभकुम्भदलने भुवि सन्ति धीराः\nकेचित् प्रचण्डमृगराजवधे ऽपि दक्षाः ।\nकिन्तु ब्रवीमि बलिनां पुरतः प्रसह्य\nकन्दर्पदर्पदलने विरला मनुष्याः ॥",
-   "english": null
+   "english": "There are many men on this earth who can cleave in the brow of a mad elephant, and there are others who do not hesitate to go out and slay a lion; but who among the bravest can I point to as having broken the onslaught of the God of Love? Men of this last type are undoubtedly few.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 58"
+   }
   },
   {
    "ref": "2.74",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "सन्मार्गे तावद् आस्ते प्रभवति च नरस् तावद् एवेन्द्रियाणां\nलज्जां तावद् विधत्ते विनयम् अपि समालम्बते तावद् एव ।\nभ्रूचापाकृष्टमुक्ताः श्रवणपथगता नीलपक्ष्माण एते\nयावल् लीलावतीनां हृदि न धृतिमुषो दृष्टिबाणाः पतन्ति ॥",
-   "english": null
+   "english": "A man may walk in the right path, retain control over himself, and behave with perfect propriety until at last he finds himself in the company of sparkling-eyed women who shoot arrows of love into his heart from the bows formed of their beautiful eyebrows.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 59"
+   }
   },
   {
    "ref": "2.75",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "उन्मत्तप्रेमसंरम्भाद्\nआरभन्ते यदङ्गनाः ।\nतत्र प्रत्यूहम् आधातुं\nब्रह्मापि खलु कातरः ॥",
-   "english": null
+   "english": "When women, inspired by the passions of love set about some task, even Brahma himself is afraid to place an obstacle in their way.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 60"
+   }
   },
   {
    "ref": "2.76",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "तावन् महत्त्वं पाण्डित्यं\nकुलीनत्वं विवेकिता ।\nयावज् ज्वलति नाङ्गेषु\nहतः पञ्चेषुपावकः ॥",
-   "english": null
+   "english": "A man will preserve his greatness, wdsdom, nobility, and learning until the God of Love causes his frame to tingle with the arrows of desire.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 61"
+   }
   },
   {
    "ref": "2.77",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "शास्त्रज्ञो ऽपि प्रगुणितनयो ऽत्यान्तबाधापि बाढं\nसंसारे ऽस्मिन् भवति विरलो भाजनं सद्गतीनाम् ।\nयेनैतस्मिन् निरयनगरद्वारम् उद्घाटयन्ती\nवामाक्षीणां भवति कुटिला भ्रूलता कुञ्चिकेव ॥",
-   "english": null
+   "english": "There are many profound students of the shastras, men who are famous for their morality and, indeed, for the knowledge they possess of their souls; but of the large number only a relatively small number can expect to reach eternal happiness; for the key of the arched brows of beautiful women opens a way for them leading to the gates of hell.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 62"
+   }
   },
   {
    "ref": "2.78",
@@ -1333,14 +1519,20 @@
    "kind": "verse",
    "scope": "text",
    "sanskrit": "स्त्रीमुद्रां कुसुमायुधस्य जयिनीं सर्वार्थसम्पत्करीं\nये मूढाः प्रविहाय यान्ति कुधियो मिथ्याफलान्वेषिणः ।\nते तेनैव निहत्य निर्दयतरं नग्नीकृता मुण्डिताः\nकेचित् पञ्चशिखीकृताश् च जटिलाः कापालिकाश् चापरे ॥",
-   "english": null
+   "english": "Foolish men have broken the divine seal of women. They have thrown it aside carelessly and now seek, but in vain, a substitute for this seal, which gives birth to love and brings everything to perfecting. But they have met with condign punishmeut at the hands of Cupid himself. He has condemned some of them to walk to and fro in a naked condition and with their heads shaved, while others, with matted beards, beg their bread from door to door, carrying in their hand a human skull.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 64"
+   }
   },
   {
    "ref": "2.80",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "विश्वामित्रपराशरप्रभृतयो वाताम्बुपर्णाशनास्ते ऽपि\nस्त्रीमुखपङ्कजं सुललितं दृष्ट्वैव मोहं गताः ।\nशाल्यन्नं सघृतं पयोदधियुतं ये भुञ्जते मानवास्तेषाम्\nइन्द्रियनिग्रहो यदि भवेद् विन्ध्यः प्लवेत् सागरे ॥",
-   "english": null
+   "english": "Even Visvamitra, Parashara, and innumerable other ascetics who had subsisted on little else than the winds of Heaven, dead leaves and water, were thrown into confusion at the mere sight of a woman as beautiful as the lotus; and how, then, is it possible for men living on luxuries such as rice, ghee, milk, and so forth, to control ' their senses? It would be as difficult for them to do so as it would be for Mount Vindhya to swim over the sea.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 65"
+   }
   },
   {
    "ref": "2.81",
@@ -1354,7 +1546,10 @@
    "kind": "verse",
    "scope": "text",
    "sanskrit": "मधुर् अयं मधुरैर् अपि कोकिला\nकलरवैर् मलयस्य च वायुभिः ।\nविरहिणः प्रहिणस्ति शरीरिणो\nविपदि हन्त सुधापि विषायते ॥",
-   "english": null
+   "english": "When lovers are separated from their sweethearts their feelings are made even sadder by the freshness of the spring, despite the songs of the birds and the magnificent breezes from the Malaya. In man's misfortunes even his nectar becomes poison for him.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 34"
+   }
   },
   {
    "ref": "2.83",
@@ -1389,77 +1584,110 @@
    "kind": "verse",
    "scope": "text",
    "sanskrit": "अच्छाच्छचन्दनरसार्द्रतरा मृगाक्ष्यो\nधारागृहाणि कुसुमानि च कौमुदी च ।\nमन्दो मरुत् सुमनसः शुचि हर्म्यपृष्ठं\nग्रीष्मे मदं च मदनं च विवर्धयन्ति ॥",
-   "english": null
+   "english": "Various things all help to strengthen, in the summer-time, the power of high spirits and love — the hand of a beautiful woman dripping with the moisture of sandal-wood, houses provided with artificial fountains of water, flowers, the rays of the moon, the mild and sweet-smelling breezes, and the beautiful roofs of the palaces.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 38"
+   }
   },
   {
    "ref": "2.88",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "स्रजो हृद्य् आमोदा व्यजनपवनश् चन्द्रकिरणाः\nपरागः कासारो मलयजरजः शीधु विशदम् ।\nशुचिः सौधोत्सङ्गः प्रतनु वसनं पङ्कजदृशो\nनिदाघर्ताव् एतद् विलसति लभन्ते सुकृतिनः ॥",
-   "english": null
+   "english": "When the privileged few are troubled by the excessive heat of summer they have remedies at hand — beautiful bunches of flowers, fans, the rays of the moon, pollen dust, charming lakes, sandal-powder, pure sidhou, light clothing, fine palaces, and loving women with voluptuous eyes.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 39"
+   }
   },
   {
    "ref": "2.89",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "सुधाशुभ्रं धाम स्फुरदमलरश्मिः शशधरः\nप्रियावक्त्राम्भोजं मलयजरजश् चातिसुरभिः ।\nस्रजो हृद्यामोदास् तद् इदम् अखिलं रागिणि जने\nकरोत्य् अन्तः क्षोभं न तु विषयसंसर्गविमुखे ॥",
-   "english": null
+   "english": "A well-cleaned house, the spotless rays of the moon, the lotus-like faces of our adored ones, sweet-smelling sandalwood dust, and beautiful flowers: all these things excite the hearts of the passionate, but they have no effect on the wise man who has turned his head away from the pleasures of love.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 40"
+   }
   },
   {
    "ref": "2.90",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "तरुणीवेषोद्दीपितकामा\nविकसज्जातीपुष्पसुगन्धिः ।\nउन्नतपीनपयोधरभारा\nप्रावृट् तनुते कस्य न हर्षम् ॥",
-   "english": null
+   "english": "Who is not delighted by the rainy season — those months of autumn that rouse the passions of men, almost as much as a youthful woman, by the jati flowers which it brings to their full growth, and the clouds, thick with rain, like a full-breasted woman.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 41"
+   }
   },
   {
    "ref": "2.91",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "वियदुपचितमेघं भूमयः कन्दलिन्यो\nनवकुटजकदम्बामोदिनो गन्धवाहाः ।\nशिखिकुलकलकेकारावरम्या वनान्ताः\nसुखिनम् असुखिनं वा सर्वम् उत्कण्ठयन्ति ॥",
-   "english": null
+   "english": "The feelings of everyone, whether happy or unhappy, are sure to be influenced and made somewhat melancholy by the sight of the cloudy autumn sky, the sprouting fields, and the fragrant breeze, heavy with the sweet odours of the kutaja and the kadambs and the peacocks that make the forest ring with their shrill cries.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 42"
+   }
   },
   {
    "ref": "2.92",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "उपरि घनं घनपटलं\nतिर्यग् गिरयो ऽपि नर्तितमयूराः ।\nक्षितिर् अपि कन्दलधवला\nदृष्टिं पथिकः क्व पातयति ॥",
-   "english": null
+   "english": "When the traveller looks up and finds that the rain-clouds cover his head like a canopy, that the amorous peacocks dance on the sides of the mountains and that the soil under his feet is beginning to be covered with budding flowers and roots, how can he refrain from uttering a sigh of melancholy pleasure?",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 43"
+   }
   },
   {
    "ref": "2.93",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "इतो विद्युद्वल्लीविलसितम् इतः केतकितरोः\nस्फुरन् गन्धः प्रोद्यज्जलदनिनदस्फूर्जितम् इतः ।\nइतः केकिक्रीडाकलकलरवः पक्ष्मलदृशां\nकथं यास्यन्त्य् एते विरहदिवसाः सम्भृतरसाः ॥",
-   "english": null
+   "english": "Consider the case of beautiful and passionate women when they are separated from their husbands in the autumn: how lonely their days will be! and how will it be possible for them to walk abroad and see here the brilliant flashes of lightning in the sky, and there the peacocks, with their passionate cries, while sweet breezes blow about them and the feel the strong scent of the flowers? — when, in short, everything about them stimulates amorous passion?",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 44"
+   }
   },
   {
    "ref": "2.94",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "असूचिसञ्चारे तमसि नभसि प्रौढजलदध्वनि\nप्राज्ञंमन्ये पतति पृषतानां च निचये ।\nइदं सौदामिन्याः कनककमनीयं विलसितं\nमुदं च म्लानिं च प्रथयति पथि स्वैरसुदृशाम् ॥",
-   "english": null
+   "english": "In the dark nights of Nabhas or Shravana, when the rain and the hail fall to the earth with a hideous noise, when the roads are flooded and the skies are continually illuminated with flashes of lightning: then women will be filled with miseries and fears and will long for the return of their loved ones.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 45"
+   }
   },
   {
    "ref": "2.95",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "आसारेण न हर्म्यतः प्रियतमैर् यातुं बहिः शक्यते\nशीतोत्कम्पनिमित्तम् आयतदृशा गाढं समालिङ्ग्यते ।\nजाताः शीकरशीतलाश् च मरुतोर् अत्यन्तखेदच्छिदो\nधन्यानां बत दुर्दिनं सुदिनतां याति प्रियासङ्गमे ॥",
-   "english": null
+   "english": "For happy husbands a rainy day is a time of pleasure and delight, for, not being able to go out on account of the wet, they gladly return to their wives, who, trembling with cold, take them into their embraces.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 46"
+   }
   },
   {
    "ref": "2.96",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "अर्धं सुप्त्वा निशायाः सरभससुरतायाससन्नश्लथाङ्गप्रोद्भूतासह्य\nतृष्णो मधुमदनिरतो हर्म्यपृष्ठे विविक्ते ।\nसम्भोगक्लान्तकान्ताशिथिलभुजलतावर्जितं कर्करीतो\nज्योत्स्नाभिन्नाच्छधारं पिबति न सलिलं शारदं मन्दपुण्यः ॥",
-   "english": null
+   "english": "He who is tired of the pleasures of love after part of the night has elapsed, and, his throat parched with unquenched thirst, sits on the lovely roof of a palace and yet refrains from the delight of drinking the clear autumnal water held to his lips in a pitcher by the hands of his beautiful sweetheart — she whose strength has also failed as the result of the pleasures of love — is without doubt a very unfortunate being.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 47"
+   }
   },
   {
    "ref": "2.97",
    "kind": "verse",
    "scope": "text",
    "sanskrit": "हेमन्ते दधिदुग्धसर्पिर् अशना माञ्जिष्ठवासोभृतः\nकाश्मीरद्रवसान्द्रदिग्धवपुषश् छिन्ना विचित्रै रतैः ।\nवृत्तोरुस्तनकामिनोजनकृताश्लेषा गृहाभ्यन्तरे\nताम्बूलीदलपूगपूरितमुखा धन्याः सुखं शेरते ॥",
-   "english": null
+   "english": "Those persons are indeed fortunate who, in the depths of winter, can afford to have plenty of milk and ghee on their tables, wear thick garments, enjoy the luxury of anointing their bodies with saffroti, tire themselves with a variety of sensual enjoyments, sleep in the embraces of beautiful women, and repose at their ease within their dwellings, chewing a leaf of piper-betel mixed with various spices.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 48"
+   }
   },
   {
    "ref": "2.98",
@@ -1494,7 +1722,10 @@
    "kind": "verse",
    "scope": "text",
    "sanskrit": "वैराग्ये संचरत्य् एको नीतौ भ्रमति चापरः ।\nशृङ्गारे रमते कश्चिद् भुवि भेदाः परस्परम् ॥",
-   "english": null
+   "english": "One man walks in the path of absolute renunciation, while another follows the way of moral obligations, and a third devotes himself to love.",
+   "meta": {
+    "english_source": "Kennedy 1913, Sringa Satakas verse 99"
+   }
   },
   {
    "ref": "3.1",
@@ -2288,5 +2519,5 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit: GRETIL IAST converted to Devanagari with tools/translit.py (hyphens dropped, compounds joined). English: Wortham 1886 (archive.org djvu OCR text, unproofread; stray OCR noise remains). Wortham translates only the Niti and Vairagya satakas, so all Shringarashataka units (2.x) have no English. Wortham follows Telang's order and numbering, which differs from GRETIL's, so units were paired by content (machine translation of each GRETIL verse compared with Wortham, then checked by hand against the Sanskrit); the pairing is MAP in tools/shataka_english.py. 215 of 324 units have English. Wortham verses with no GRETIL counterpart are unused, and GRETIL verses with no Wortham counterpart (1.39, 1.109, 3.40, 3.98, 3.100*2) have english null. ref = shataka.verse (1 Nitishataka, 2 Shringarashataka, 3 Vairagyashataka). [normalized: 0 empty heading-only units dropped, 2 repeated refs suffixed -2/-3 (the source repeats the number); a repeated unit never reuses the first unit's English.]"
+ "notes": "Sanskrit: GRETIL IAST converted to Devanagari with tools/translit.py (hyphens dropped, compounds joined). English: Wortham 1886 (archive.org djvu OCR text, unproofread; stray OCR noise remains). Wortham translates only the Niti and Vairagya satakas, so all Shringarashataka units (2.x) have no English. Wortham follows Telang's order and numbering, which differs from GRETIL's, so units were paired by content (machine translation of each GRETIL verse compared with Wortham, then checked by hand against the Sanskrit); the pairing is MAP in tools/shataka_english.py. 215 of 324 units have English. Wortham verses with no GRETIL counterpart are unused, and GRETIL verses with no Wortham counterpart (1.39, 1.109, 3.40, 3.98, 3.100*2) have english null. ref = shataka.verse (1 Nitishataka, 2 Shringarashataka, 3 Vairagyashataka). [normalized: 0 empty heading-only units dropped, 2 repeated refs suffixed -2/-3 (the source repeats the number); a repeated unit never reuses the first unit's English.] [Shringarashataka English from J. M. Kennedy, The Satakas or Wise Sayings of Bhartrihari (1913), OCR from archive.org, a free paraphrase; 77 of 104 units paired. Kennedy orders the verses differently from GRETIL, so units were paired by content (machine translation + TF-IDF to propose, then each pair read against the Sanskrit) and chains of constant offset were filled in; the MAP is in tools/shataka_kennedy.py. Units not in MAP have no counterpart found: Kennedy omits some verses, replaces some with Latin or a cross reference, and his verse 63 only points to Vairagya 18. meta.english_source names Kennedy on these units.]"
 }
