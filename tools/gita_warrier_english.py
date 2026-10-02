@@ -96,6 +96,7 @@ def align(ug, pg):
     return got
 
 
+REJECT = {"5.8", "15.9", "18.56", "18.57", "18.58", "18.14x"}
 CLABEL = re.compile(r"^.{0,25}?[\dIlLO!|]{1,3}(?:\s*[-–]\s*[\dIlLO!|]{1,3})?\s*[.\]]+\s*(?=[A-Z‘“\"(\'])")
 
 
@@ -145,7 +146,7 @@ def main(fill_only=True):
             while comm and (ZERO.match(comm[-1][0]) or ZERO.match(comm[-1][1])) and n + 1 < len(order):
                 comm.pop()
             comm_en = "\n".join(clean_comm(x[1]) for x in comm if x[1].strip())
-            if got[i][1] < 0.5:
+            if got[i][1] < 0.15 or (got[i][1] < 0.5 and u['ref'] in REJECT):
                 weak.append((u["ref"], round(got[i][1], 2)))
                 continue
             if fill_only and u.get("english"):
@@ -176,7 +177,7 @@ def main(fill_only=True):
     print("filled", filled, "weak", weak, "short", short)
     d["notes"] += (f" [Gaps in the Sastri OCR filled from A. G. Krishna Warrier, Bhagavad Gita Bhashya of Shankaracharya (Ramakrishna Math), OCR from archive.org: {filled} units, "
                    "marked meta.english_source. Warrier's verse blocks were matched to units by Devanagari similarity (3-gram dice, monotone alignment), then his commentary paragraphs up to the next verse were attached; "
-                   "his commentary paragraphs before a verse that are numbered .0 (chapter 2 introduction) go to the next verse. Units whose match was weak (dice below 0.5) or whose English was under half the Sanskrit length were left null: "
+                   "his commentary paragraphs before a verse that are numbered .0 (chapter 2 introduction) go to the next verse. Units whose match was very weak (dice below 0.15, or below 0.5 and judged wrong on reading: 5.8, 15.9, 18.56 to 18.58) or whose English was under half the Sanskrit length were left null: "
                    f"{', '.join([w[0] for w in weak] + short)}. Footnotes of the printed book can remain inside the English. intro-1 was not filled.]")
     src = d["source_english"]
     d["source_english"] = (src if isinstance(src, list) else [src]) + [{"citation": "Warrier, Bhagavad Gita Bhashya of Shankaracharya, Ramakrishna Math (OCR)", "url": "https://archive.org/details/GEDy_bhagavad-gita-bhashya-of-shankaracharya-with-translation-by-dr.-a.-g-krishna-war", "license": None}]
