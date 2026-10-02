@@ -5,6 +5,7 @@ ROLES = (("mula", "sanskrit_mula", "english_mula"), ("bhashya", "sanskrit_bhashy
 EXTRA = ("match_min", "align", "english_edits", "english_flags", "vedabase_texts")
 SUTRA_FILES = ("bsb_madhva", "bsb_shankara", "bsb_shankara_gretil", "sribhashya_ramanuja")
 TEXT_FILES = ("mbtn",)
+PROSE_FILES = ("bhattasangraha",)
 KEYS = ("ref", "kind", "scope", "sanskrit", "english", "parts", "meta")
 
 
@@ -39,6 +40,8 @@ def kind_of(u, name, scope):
         return "prose"
     if name in SUTRA_FILES and scope in ("mula", "mula+commentary"):
         return "sutra"
+    if name in PROSE_FILES:
+        return "prose"
     if u.get("kind") == "group":
         return "group"
     base = u.get("sanskrit_mula") or u.get("sanskrit") or ""

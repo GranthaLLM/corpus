@@ -9,7 +9,7 @@ ROWS = [
     ("3", "Sri Bhashya, Rāmānuja", ["philosophical/sribhashya_ramanuja"], "English Thibaut via wisdomlib; Sanskrit Bodhan OCR of the Annangaracharya scan (unproofread), aligned per sutra; 6 units hold two sutras"),
     ("4", "Brahmasutra, Madhva", ["philosophical/bsb_madhva"], "From project docx (Sarvam OCR English); 16 sutras have no English (missing book pages)"),
     ("5", "Tarkasaṃgraha", ["philosophical/tarkasamgraha"], "Mula only (Dipika dropped); Sanskrit + English from the 1876/1851 scan (Sarvam OCR), book numbering 1-70; 63 sections, 7 lost to OCR numbering"),
-    ("6", "Bhattasangraha", [], "Not started (Google Sites scans)"),
+    ("6", "Bhattasangraha", ["philosophical/bhattasangraha"], "Sanskrit archive.org OCR (adhyayas 1-12, one unit per adhikarana, unproofread); English is Pandurangi's adhikarana-wise exposition (a summary, not a translation) for adhyayas 1-3 and 7-12 only, paired by heading name; adhyayas 4-6 have none"),
     ("7", "Sarvadarshanasamgraha", ["philosophical/sarvadarshanasamgraha"], "Mitrasamgraha rows, bundled"),
     ("8", "Vimshatika/Trimshika", ["philosophical/vimshatika_trimshika"], "Mitrasamgraha rows; appears to be the Vimshatika only"),
     ("9", "Samkhyakarika", ["philosophical/samkhyakarika"], "Mitrasamgraha rows (Matharavritti)"),
