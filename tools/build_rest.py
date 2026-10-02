@@ -41,8 +41,21 @@ def write_sri_bhashya(u):
     print("sribhashya", len(u))
 
 
+def fix_kushalava(u):
+    i = next((k for k, x in enumerate(u) if x["ref"].endswith("कुशलवयोरुत्पत्तिः") and not x["english"]), None)
+    if i is None:
+        return
+    tail = u[i + 2]["english"]
+    c1, c2 = tail.index("; With a powerful arrow"), tail.index("; In order to show Dharma")
+    u[i - 1]["english"] += "\n\n" + u[i + 1]["english"]
+    u[i]["english"] = tail[:c1].rstrip(";") + "."
+    u[i + 1]["english"] = tail[c1 + 1:c2].strip().rstrip(";") + "."
+    u[i + 2]["english"] = tail[c2 + 1:].strip()
+
+
 def write_mbtn(u):
     u, st = attach_english(u)
+    fix_kushalava(u)
     write("philosophical/mbtn.json", dict(
         id="10", text="Mahābhārata Tātparya Nirṇaya", tradition="Dvaita", commentator="Madhva", script="Devanagari", units=u,
         source_sanskrit={"citation": "Setutila/Sarvamula mbtn.json (Sanskrit, 32 adhyayas)", "url": SETU + "mbtn.json", "license": SETU_LIC},
