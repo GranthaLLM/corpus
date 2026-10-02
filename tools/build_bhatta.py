@@ -12,6 +12,23 @@ SRC_FILE = "bhatta_v{}.txt"
 RAWURL = "https://archive.org/stream/bhaatta-sangraha-ocr/Bhaatta-Sangraha_Volume_{}-compressed_OCR_djvu.txt"
 
 
+
+ORDS = [("प्रथम", 1), ("द्वितीय", 2), ("तृतीय", 3), ("तुरीय", 4), ("चतुर्थ", 4), ("पञ्चम", 5), ("पश्चम", 5), ("षष्ठ", 6), ("षष्ट", 6), ("सप्तम", 7), ("अष्टम", 8),
+        ("नवम", 9), ("नबम", 9), ("दशम", 10), ("एकादश", 11), ("द्वादश", 12), ("त्रयोदश", 13), ("चतुर्दश", 14), ("पञ्चदश", 15), ("पश्चदश", 15), ("षोडश", 16),
+        ("सप्तदश", 17), ("अष्टादश", 18), ("एकोनविंश", 19), ("एकोनबिंश", 19), ("विंश", 20), ("बिंश", 20), ("एकविंश", 21), ("एकबिंश", 21), ("द्वाविंश", 22)]
+ORDS.sort(key=lambda x: -len(x[0]))
+START2 = re.compile(r"^\s*अ[थध]([ाैौ]\S*)\s+(.*?\S*करणम्)")
+VOW = {"ा": "अ", "ै": "ए", "ौ": "ओ"}
+PADAS = {1: [(1, 4), (2, 4), (3, 8)], 2: [(4, 4), (5, 4), (6, 8)], 3: [(7, 4), (8, 4), (9, 4), (10, 8), (11, 4), (12, 4)]}
+PADA_END = re.compile(r"पादे\s+अधिकरणानि")
+SUMMARY = {"start": "brief summary of Chapter IV", "end": "above brief summary of the contents"}
+
+
+def ordnum(w):
+    w = w.replace("\u200c", "").replace("\u200d", "")
+    return next((v for k, v in ORDS if w.startswith(k)), None)
+
+
 def norm(s):
     s = s.translate(ZW)
     s = re.sub(r"[ंँ]", "म्", s).replace("ऽ", "")
@@ -37,15 +54,68 @@ def sanskrit_starts():
     out = []
     for v, (a, b, _, _) in VOLS.items():
         L = load(v)
-        pada = None
-        for i in range(a, b if b else len(L)):
-            pm = PADA.search(L[i])
-            if pm and L[i].strip().startswith("अथ"):
-                pada = L[i].strip()
-            m = STARTRE.match(L[i])
-            if m:
-                out.append({"vol": v, "line": i, "name": clean_name(m.group(2)), "ord": m.group(1), "pada": pada})
+        hi = b if b else len(L)
+        ends = [i for i in range(a, hi) if PADA_END.search(L[i])]
+        padas = [(ad, pd) for ad, n in PADAS[v] for pd in range(1, n + 1)]
+        lo = a
+        for k, e in enumerate(ends[:len(padas)]):
+            ad, pd = padas[k]
+            n = 0
+            for i in range(lo, e):
+                m = STARTRE.match(L[i])
+                nm = None
+                if m:
+                    nm = (ordnum(m.group(1)), m.group(2))
+                else:
+                    m = START2.match(L[i])
+                    if m:
+                        nm = (ordnum(VOW[m.group(1)[0]] + m.group(1)[1:]), m.group(2))
+                if nm:
+                    n = nm[0] if nm[0] else n + 1
+                    out.append({"vol": v, "line": i, "name": clean_name(nm[1]), "adh": ad, "pada": pd, "n": n, "ref": f"{ad}.{pd}.{n}"})
+            lo = e + 1
+    seen = {}
+    for s in out:
+        seen[s["ref"]] = seen.get(s["ref"], 0) + 1
+        if seen[s["ref"]] > 1:
+            s["ref"] += f"-{seen[s['ref']]}"
     return out
+
+
+def summary_items():
+    L = load(2)
+    a = next(i for i, l in enumerate(L) if SUMMARY["start"] in l)
+    b = next(i for i, l in enumerate(L) if SUMMARY["end"] in l)
+    item = re.compile(r"^\((\d+)([ab]?)((?:\s*,\s*\d+)*)\)\s*(.*)")
+    noise = re.compile(r"^\s*(?:[ivxl]+\s+Introduction|Introduction\s+[ivxlXx]+\w*|\d{1,2}|[A-Z]|1D|2A|3A|Introduction\s+\S{1,6})\s*$", re.I)
+    chap, sec, prev, items, cur = 4, 1, 0, [], None
+    for l in L[a:b]:
+        s = l.strip()
+        if not s or noise.match(s):
+            continue
+        m = re.match(r"^Chapter\s+(V|VI)\s+Section\s+I\b", s)
+        if m:
+            chap, sec, prev, cur = {"V": 5, "VI": 6}[m.group(1)], 1, 0, None
+            continue
+        if re.match(r"^(?:A brief summary of )?Chapter IV Section I", s) or re.match(r"^Section\s+(?:I{1,3}|IV|V|VI{1,3}|VIII)\s*$", s):
+            cur = None
+            continue
+        mi = item.match(s)
+        if mi:
+            n = int(mi.group(1))
+            if (n <= prev and not mi.group(2)) or (mi.group(2) and n < prev):
+                sec += 1
+            prev = n
+            cur = {"ref": f"{chap}.{sec}.{n}", "covers": [n] + [int(x) for x in re.findall(r"\d+", mi.group(3))], "text": mi.group(4)}
+            items.append(cur)
+        elif cur is not None:
+            cur["text"] += " " + s
+    out = {}
+    for it in items:
+        t = re.sub(r"\s*\(\s*[IVXlvx1]{1,4}\s*[-–]\s*(?:[IVXlvx1]{1,5}|\d)\s*[-–]?\s*\d+[ab]?(?:\s*,\s*\d+)*\s*\)\s*\.?\s*$", "", it["text"]).strip()
+        e = out.setdefault(it["ref"], {"text": [], "covers": it["covers"]})
+        e["text"].append(t)
+    return {k: {"text": "\n".join(v["text"]), "covers": v["covers"]} for k, v in out.items()}
 
 
 def expo_heads():
@@ -116,7 +186,8 @@ def main():
             continue
         for a, b, sc in dp([S13[x] for x in gi], [E[y] for y in gj], 0.45):
             pair[S13[gi[a]]["line"] + 100000 * S13[gi[a]]["vol"]] = (gj[b], sc)
-    units, seen = [], {}
+    units, seen, used = [], {}, set()
+    summ = summary_items()
     byvol = {v: load(v) for v in (1, 2, 3)}
     for k, s in enumerate(S):
         nxt = next((x for x in S[k + 1:] if x["vol"] == s["vol"]), None)
@@ -131,13 +202,21 @@ def main():
             nxt_e = next((x for x in E[j + 1:] if x["vol"] == e["vol"]), None)
             eend = nxt_e["line"] if nxt_e else min(len(byvol[e["vol"]]), 21050 if e["vol"] == 1 else len(byvol[3]))
             en = block(byvol[e["vol"]], e["line"] + 1, eend) or None
-        ref = f"v{s['vol']}.{s['line']}"
-        units.append({"ref": ref, "kind": None, "sanskrit": text or None, "english": en, "_name": s["name"]})
-    return units, len(S), len(E), len(pair)
+        meta_cov = None
+        if s["vol"] == 2 and s["ref"] in summ:
+            en = summ[s["ref"]]["text"] or None
+            cov = summ[s["ref"]]["covers"]
+            meta_cov = f"{cov[0]}-{cov[-1]}" if len(cov) > 1 else None
+            used.add(s["ref"])
+        u = {"ref": s["ref"], "kind": None, "sanskrit": text or None, "english": en, "_name": s["name"]}
+        if meta_cov:
+            u["english_covers"] = meta_cov
+        units.append(u)
+    return units, len(S), len(E), len(pair), len(summ), len(used)
 
 
 if __name__ == "__main__":
-    units, ns, ne, npair = main()
+    units, ns, ne, npair, nsum, nused = main()
     for u in units:
         del u["_name"]
     write("philosophical/bhattasangraha.json", dict(
@@ -145,5 +224,5 @@ if __name__ == "__main__":
         source_sanskrit={"citation": "Raghavendra Tirtha, Bhatta Sangraha (Purvamimamsa), ed. K.T. Pandurangi, Dvaita Vedanta Studies and Research Foundation, Bangalore 2004, vols 1-3 (archive.org djvu OCR)", "url": RAWURL.format("1") + " (also volumes 2 and 3)", "license": None},
         source_english={"citation": "K.T. Pandurangi, 'Exposition of Bhatta Sangraha in English', adhikarana-wise summaries printed in volumes 1 and 3 of the same edition", "url": RAWURL.format("1"), "license": None},
         bundled=False, needs_ocr=False, alignment="by_ref",
-        notes=(f"Sanskrit: Raghavendra Tirtha's direct commentary on the Jaimini sutras, one unit per adhikarana (heading 'atha N ... adhikaranam' to the next heading), from archive.org djvu OCR of the three volumes (adhyayas 1-3, 4-6, 7-12); unproofread, Devanagari OCR noise remains. English: the exposition is a SUMMARY of each adhikarana (sangati, purvapaksa, siddhanta) by Pandurangi, not a translation, and it is printed only in volumes 1 and 3, so adhyayas 4-6 (volume 2) have no English. Each Sanskrit unit is paired with the exposition of the same adhikarana by matching the adhikarana names in order (OCR garbles many headings, so {npair} of {ns} units are paired and the rest have english null; {ne} exposition headings were found). The Kannada exposition is ignored. ref = volume.line of the heading in the djvu text, because the Sanskrit headings carry no reliable adhyaya.pada.number.")))
-    print("bhattasangraha", len(units), "paired", npair)
+        notes=(f"Sanskrit: Raghavendra Tirtha's direct commentary on the Jaimini sutras, one unit per adhikarana (heading 'atha N ... adhikaranam' to the next heading), from archive.org djvu OCR of the three volumes (adhyayas 1-3, 4-6, 7-12); unproofread, Devanagari OCR noise remains and some adhikarana headings were lost to OCR, so a few adhikaranas are missing or merged. ref = adhyaya.pada.n, with n read from the ordinal word in the heading (-2, -3 where OCR repeats one). English is NOT a translation: it is Pandurangi's summary of each adhikarana. Volumes 1 and 3 print it as an adhikarana-wise 'Exposition in English' (sangati, purvapaksa, siddhanta), paired to the Sanskrit by heading name in order; volume 2 prints it as a brief numbered summary in its introduction, paired by adhyaya.pada.number (a few items cover two adhikaranas and sit on the first, see english_covers; the summary skips some adhikaranas). Inline Sanskrit terms and quoted verses inside the English are left or stripped as in the other files. {npair} of {ns} units are paired in total in this run; the rest have english null. The Kannada exposition is ignored.")))
+    print("bhattasangraha", len(units), "paired", npair, "summary items", nsum, "used", nused)
