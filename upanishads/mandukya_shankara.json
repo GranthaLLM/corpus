@@ -131,17 +131,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "बहिःप्रज्ञो विभुर्विश्वो ह्यन्तःप्रज्ञस्तु तैजसः ।\nघनप्रज्ञस्तथा प्राज्ञ एक एव त्रिधा स्थितः ॥ १ ॥\nअत्रैते श्लोका भवन्ति —\nअत्र एतस्मिन्यथोक्तेऽर्थे एते श्लोका भवन्ति — बहिःप्रज्ञ इति । पर्यायेण त्रिस्थानत्वात् सोऽहमिति स्मृत्या प्रतिसन्धानाच्च स्थानत्रयव्यतिरिक्तत्वमेकत्वं शुद्धत्वमसङ्गत्वं च सिद्धमित्यभिप्रायः, महामत्स्यादिदृष्टान्तश्रुतेः ॥",
-   "english": null,
+   "english": "Viśva (the first quarter) is he who is all-pervading and who experiences the external (gross) objects. Taijasa (the second quarter) is he who cognizes the internal (the subtle) objects. Prājña is he who is a mass of consciousness. It is one alone who is thus known in the three states.\nThe implication of the passage is this:—That Ātman is (as witness) distinct from the three states (witnessed) and that he is pure1 and unrelated,2 is established by his moving in three states, in3 succession, and also on account of the knowledge, “I am. that,” resulting from the experience which unites4 through memory. The Śruti also corroborates it by the illustration5 of the ‘great fish’, etc.",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "बहिःप्रज्ञो विभुर्विश्वो ह्यन्तःप्रज्ञस्तु तैजसः ।\nघनप्रज्ञस्तथा प्राज्ञ एक एव त्रिधा स्थितः ॥ १ ॥"
+     "sanskrit": "बहिःप्रज्ञो विभुर्विश्वो ह्यन्तःप्रज्ञस्तु तैजसः ।\nघनप्रज्ञस्तथा प्राज्ञ एक एव त्रिधा स्थितः ॥ १ ॥",
+     "english": "Viśva (the first quarter) is he who is all-pervading and who experiences the external (gross) objects. Taijasa (the second quarter) is he who cognizes the internal (the subtle) objects. Prājña is he who is a mass of consciousness. It is one alone who is thus known in the three states."
     },
     {
      "role": "bhashya",
-     "sanskrit": "अत्रैते श्लोका भवन्ति —\nअत्र एतस्मिन्यथोक्तेऽर्थे एते श्लोका भवन्ति — बहिःप्रज्ञ इति । पर्यायेण त्रिस्थानत्वात् सोऽहमिति स्मृत्या प्रतिसन्धानाच्च स्थानत्रयव्यतिरिक्तत्वमेकत्वं शुद्धत्वमसङ्गत्वं च सिद्धमित्यभिप्रायः, महामत्स्यादिदृष्टान्तश्रुतेः ॥"
+     "sanskrit": "अत्रैते श्लोका भवन्ति —\nअत्र एतस्मिन्यथोक्तेऽर्थे एते श्लोका भवन्ति — बहिःप्रज्ञ इति । पर्यायेण त्रिस्थानत्वात् सोऽहमिति स्मृत्या प्रतिसन्धानाच्च स्थानत्रयव्यतिरिक्तत्वमेकत्वं शुद्धत्वमसङ्गत्वं च सिद्धमित्यभिप्रायः, महामत्स्यादिदृष्टान्तश्रुतेः ॥",
+     "english": "The implication of the passage is this:—That Ātman is (as witness) distinct from the three states (witnessed) and that he is pure1 and unrelated,2 is established by his moving in three states, in3 succession, and also on account of the knowledge, “I am. that,” resulting from the experience which unites4 through memory. The Śruti also corroborates it by the illustration5 of the ‘great fish’, etc."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (joined by karika number)"
+   }
   },
   {
    "ref": "1.K2",
@@ -333,17 +338,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "नात्मानं न परं चैव न सत्यं नापि चानृतम् ।\nप्राज्ञः किञ्चन संवेत्ति तुर्यं तत्सर्वदृक्सदा ॥ १२ ॥\nकथं पुनः कारणबद्धत्वं प्राज्ञस्य तुरीये वा तत्त्वाग्रहणान्यथाग्रहणलक्षणौ बन्धौ न सिध्यत इति ? यस्मात् — आत्मानम् , विलक्षणम् , अविद्याबीजप्रसूतं वेद्यं बाह्यं द्वैतम् — प्राज्ञो न किञ्चन संवेत्ति, यथा विश्वतैजसौ ; ततश्चासौ तत्त्वाग्रहणेन तमसा अन्यथाग्रहणबीजभूतेन बद्धो भवति । यस्मात् तुर्यं तत्सर्वदृक्सदा तुरीयादन्यस्याभावात् सर्वदा सदैव भवति, सर्वं च तद्दृक्चेति सर्वदृक् ; तस्मान्न तत्त्वाग्रहणलक्षणं बीजम् । तत्र तत्प्रसूतस्यान्यथाग्रहणस्याप्यत एवाभावः । न हि सवितरि सदाप्रकाशात्मके तद्विरुद्धमप्रकाशनमन्यथाप्रकाशनं वा सम्भवति, ‘न हि द्रष्टुर्दृष्टेर्विपरिलोपो विद्यते’(बृ. उ. ४ । ३ । २३) इति श्रुतेः । अथवा, जाग्रत्स्वप्नयोः सर्वभूतावस्थः सर्ववस्तुदृगाभासस्तुरीय एवेति सर्वदृक्सदा, ‘नान्यदतोऽस्ति द्रष्टृ’(बृ. उ. ३ । ८ । ११) इत्यादिश्रुतेः ॥",
-   "english": null,
+   "english": "Prājña does not know anything of the self or the non-self nor truth nor untruth. But Turīya is ever existent and ever all-seeing.\nHow is it that Prājña is conditioned by cause? And how is it, again, that the two conditions of non-apprehension and mis-apprehension of Reality do not exist in Turīya? It is because Prājña does not, like Viśva and Taijasa, perceive anything of the duality,1 external to and other2 than itself and born3 of the cause known as Avidyā. Therefore it is conditioned by darkness characterised by non-apprehension of Reality which is the cause of mis-apprehension. As Turīya exists always, ever all-seeing4, on account of the absence of anything other than Turīya, it is never associated with the causal condition characterised by non-apprehension of Reality. Consequently mis-apprehension of Reality winch is the result of non-apprehension is not found in Turīya. For, it is not possible to find in the sun, whose nature is to be ever-luminous, anything contrary to light, viz., darkness, or any other light different from itself. The Śruti also says: “The Knowledge of the seer is never absent.” Or the phrase may be explained thus: Turīya may be designated as ever all-seeing because it subsists in all, in dream and waking states and all the seers that cognize them (in those states) are Turīya alone. This is also borne out by the following Śruti passage, “There is no seer other than this.”",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "नात्मानं न परं चैव न सत्यं नापि चानृतम् ।\nप्राज्ञः किञ्चन संवेत्ति तुर्यं तत्सर्वदृक्सदा ॥ १२ ॥"
+     "sanskrit": "नात्मानं न परं चैव न सत्यं नापि चानृतम् ।\nप्राज्ञः किञ्चन संवेत्ति तुर्यं तत्सर्वदृक्सदा ॥ १२ ॥",
+     "english": "Prājña does not know anything of the self or the non-self nor truth nor untruth. But Turīya is ever existent and ever all-seeing."
     },
     {
      "role": "bhashya",
-     "sanskrit": "कथं पुनः कारणबद्धत्वं प्राज्ञस्य तुरीये वा तत्त्वाग्रहणान्यथाग्रहणलक्षणौ बन्धौ न सिध्यत इति ? यस्मात् — आत्मानम् , विलक्षणम् , अविद्याबीजप्रसूतं वेद्यं बाह्यं द्वैतम् — प्राज्ञो न किञ्चन संवेत्ति, यथा विश्वतैजसौ ; ततश्चासौ तत्त्वाग्रहणेन तमसा अन्यथाग्रहणबीजभूतेन बद्धो भवति । यस्मात् तुर्यं तत्सर्वदृक्सदा तुरीयादन्यस्याभावात् सर्वदा सदैव भवति, सर्वं च तद्दृक्चेति सर्वदृक् ; तस्मान्न तत्त्वाग्रहणलक्षणं बीजम् । तत्र तत्प्रसूतस्यान्यथाग्रहणस्याप्यत एवाभावः । न हि सवितरि सदाप्रकाशात्मके तद्विरुद्धमप्रकाशनमन्यथाप्रकाशनं वा सम्भवति, ‘न हि द्रष्टुर्दृष्टेर्विपरिलोपो विद्यते’(बृ. उ. ४ । ३ । २३) इति श्रुतेः । अथवा, जाग्रत्स्वप्नयोः सर्वभूतावस्थः सर्ववस्तुदृगाभासस्तुरीय एवेति सर्वदृक्सदा, ‘नान्यदतोऽस्ति द्रष्टृ’(बृ. उ. ३ । ८ । ११) इत्यादिश्रुतेः ॥"
+     "sanskrit": "कथं पुनः कारणबद्धत्वं प्राज्ञस्य तुरीये वा तत्त्वाग्रहणान्यथाग्रहणलक्षणौ बन्धौ न सिध्यत इति ? यस्मात् — आत्मानम् , विलक्षणम् , अविद्याबीजप्रसूतं वेद्यं बाह्यं द्वैतम् — प्राज्ञो न किञ्चन संवेत्ति, यथा विश्वतैजसौ ; ततश्चासौ तत्त्वाग्रहणेन तमसा अन्यथाग्रहणबीजभूतेन बद्धो भवति । यस्मात् तुर्यं तत्सर्वदृक्सदा तुरीयादन्यस्याभावात् सर्वदा सदैव भवति, सर्वं च तद्दृक्चेति सर्वदृक् ; तस्मान्न तत्त्वाग्रहणलक्षणं बीजम् । तत्र तत्प्रसूतस्यान्यथाग्रहणस्याप्यत एवाभावः । न हि सवितरि सदाप्रकाशात्मके तद्विरुद्धमप्रकाशनमन्यथाप्रकाशनं वा सम्भवति, ‘न हि द्रष्टुर्दृष्टेर्विपरिलोपो विद्यते’(बृ. उ. ४ । ३ । २३) इति श्रुतेः । अथवा, जाग्रत्स्वप्नयोः सर्वभूतावस्थः सर्ववस्तुदृगाभासस्तुरीय एवेति सर्वदृक्सदा, ‘नान्यदतोऽस्ति द्रष्टृ’(बृ. उ. ३ । ८ । ११) इत्यादिश्रुतेः ॥",
+     "english": "How is it that Prājña is conditioned by cause? And how is it, again, that the two conditions of non-apprehension and mis-apprehension of Reality do not exist in Turīya? It is because Prājña does not, like Viśva and Taijasa, perceive anything of the duality,1 external to and other2 than itself and born3 of the cause known as Avidyā. Therefore it is conditioned by darkness characterised by non-apprehension of Reality which is the cause of mis-apprehension. As Turīya exists always, ever all-seeing4, on account of the absence of anything other than Turīya, it is never associated with the causal condition characterised by non-apprehension of Reality. Consequently mis-apprehension of Reality winch is the result of non-apprehension is not found in Turīya. For, it is not possible to find in the sun, whose nature is to be ever-luminous, anything contrary to light, viz., darkness, or any other light different from itself. The Śruti also says: “The Knowledge of the seer is never absent.” Or the phrase may be explained thus: Turīya may be designated as ever all-seeing because it subsists in all, in dream and waking states and all the seers that cognize them (in those states) are Turīya alone. This is also borne out by the following Śruti passage, “There is no seer other than this.”"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (joined by karika number)"
+   }
   },
   {
    "ref": "1.K13",
@@ -654,17 +664,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "ओङ्कारं पादशो विद्यात्पादा मात्रा न संशयः ।\nओङ्कारं पादशो ज्ञात्वा न किञ्चिदपि चिन्तयेत् ॥ २४ ॥\nइति माण्डूक्योपनिषत्समाप्ता ॥\nअत्रैते श्लोका भवन्ति —\nपूर्ववदत्रैते श्लोका भवन्ति । यथोक्तैः सामान्यैः पादा एव मात्राः, मात्राश्च पादाः ; तस्मात् ओङ्कारं पादशः विद्यात् इत्यर्थः । एवमोङ्कारे ज्ञाते दृष्टार्थमदृष्टार्थं वा न किञ्चिदपि प्रयोजनं चिन्तयेत् , कृतार्थत्वादित्यर्थः ॥",
-   "english": null,
+   "english": "(The meaning of) Aumkāra should he known quarter by quarter. There is no doubt that quarters are the same sounds (letters). Having grasped the (meaning of) Aumkāra nothing else should be thought of.\nHere are, as before, the following verses:—\nAumkāra should be known along with the quarters; for the quarters1 are identical with sounds (letters) because of their common features described before. Having2 thus understood Aumkāra, no other object, seen or unseen, should be thought of; for, the knower of Aumkāra has all his desires fulfilled.",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "ओङ्कारं पादशो विद्यात्पादा मात्रा न संशयः ।\nओङ्कारं पादशो ज्ञात्वा न किञ्चिदपि चिन्तयेत् ॥ २४ ॥"
+     "sanskrit": "ओङ्कारं पादशो विद्यात्पादा मात्रा न संशयः ।\nओङ्कारं पादशो ज्ञात्वा न किञ्चिदपि चिन्तयेत् ॥ २४ ॥",
+     "english": "(The meaning of) Aumkāra should he known quarter by quarter. There is no doubt that quarters are the same sounds (letters). Having grasped the (meaning of) Aumkāra nothing else should be thought of."
     },
     {
      "role": "bhashya",
-     "sanskrit": "इति माण्डूक्योपनिषत्समाप्ता ॥\nअत्रैते श्लोका भवन्ति —\nपूर्ववदत्रैते श्लोका भवन्ति । यथोक्तैः सामान्यैः पादा एव मात्राः, मात्राश्च पादाः ; तस्मात् ओङ्कारं पादशः विद्यात् इत्यर्थः । एवमोङ्कारे ज्ञाते दृष्टार्थमदृष्टार्थं वा न किञ्चिदपि प्रयोजनं चिन्तयेत् , कृतार्थत्वादित्यर्थः ॥"
+     "sanskrit": "इति माण्डूक्योपनिषत्समाप्ता ॥\nअत्रैते श्लोका भवन्ति —\nपूर्ववदत्रैते श्लोका भवन्ति । यथोक्तैः सामान्यैः पादा एव मात्राः, मात्राश्च पादाः ; तस्मात् ओङ्कारं पादशः विद्यात् इत्यर्थः । एवमोङ्कारे ज्ञाते दृष्टार्थमदृष्टार्थं वा न किञ्चिदपि प्रयोजनं चिन्तयेत् , कृतार्थत्वादित्यर्थः ॥",
+     "english": "Here are, as before, the following verses:—\nAumkāra should be known along with the quarters; for the quarters1 are identical with sounds (letters) because of their common features described before. Having2 thus understood Aumkāra, no other object, seen or unseen, should be thought of; for, the knower of Aumkāra has all his desires fulfilled."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (joined by karika number)"
+   }
   },
   {
    "ref": "1.K25",
@@ -849,17 +864,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "स्वप्नजागरिते स्थाने ह्येकमाहुर्मनीषिणः ।\nभेदानां हि समत्वेन प्रसिद्धेनैव हेतुना ॥ ५ ॥\nप्रसिद्धेनैव भेदानां ग्राह्यत्वेन हेतुना समत्वेन स्वप्नजागरितस्थानयोरेकत्वमाहुर्विवेकिन इति पूर्वप्रमाणसिद्धस्यैव फलम् ॥",
-   "english": null,
+   "english": "The thoughtful persons speak of the sameness of the waking and dream states on account of similarity of objects (perceived in both the states) on grounds already described.\nThe identity1 (of the experiences) of the dream and waking states is declared by the wise on account of the reason, already stated, i.e., the experience of objects (in both the states) is associated with subject-object2 relationship. This Kārikā enunciates the conclusion that has already been arrived at in the previous inference by the wise.",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "स्वप्नजागरिते स्थाने ह्येकमाहुर्मनीषिणः ।\nभेदानां हि समत्वेन प्रसिद्धेनैव हेतुना ॥ ५ ॥"
+     "sanskrit": "स्वप्नजागरिते स्थाने ह्येकमाहुर्मनीषिणः ।\nभेदानां हि समत्वेन प्रसिद्धेनैव हेतुना ॥ ५ ॥",
+     "english": "The thoughtful persons speak of the sameness of the waking and dream states on account of similarity of objects (perceived in both the states) on grounds already described."
     },
     {
      "role": "bhashya",
-     "sanskrit": "प्रसिद्धेनैव भेदानां ग्राह्यत्वेन हेतुना समत्वेन स्वप्नजागरितस्थानयोरेकत्वमाहुर्विवेकिन इति पूर्वप्रमाणसिद्धस्यैव फलम् ॥"
+     "sanskrit": "प्रसिद्धेनैव भेदानां ग्राह्यत्वेन हेतुना समत्वेन स्वप्नजागरितस्थानयोरेकत्वमाहुर्विवेकिन इति पूर्वप्रमाणसिद्धस्यैव फलम् ॥",
+     "english": "The identity1 (of the experiences) of the dream and waking states is declared by the wise on account of the reason, already stated, i.e., the experience of objects (in both the states) is associated with subject-object2 relationship. This Kārikā enunciates the conclusion that has already been arrived at in the previous inference by the wise."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (joined by karika number)"
+   }
   },
   {
    "ref": "2.K6",
@@ -919,40 +939,26 @@
    ]
   },
   {
-   "ref": "2.K9",
+   "ref": "2.K9-10",
    "kind": "verse",
    "scope": "mula+commentary",
-   "sanskrit": "स्वप्नवृत्तावपि त्वन्तश्चेतसा कल्पितं त्वसत् ।\nबहिश्चेतो गृहीतं सद्दृष्टं वैतथ्यमेतयोः ॥ ९ ॥\nअपूर्वत्वाशङ्कां निराकृत्य स्वप्नदृष्टान्तस्य पुनः स्वप्नतुल्यतां जाग्रद्भेदानां प्रपञ्चयन्नाह — स्वप्नवृत्तावपि स्वप्नस्थानेऽपि अन्तश्चेतसा मनोरथसङ्कल्पितमसत् ; सङ्कल्पानन्तरसमकालमेवादर्शनात् । तत्रैव स्वप्ने बहिश्चेतसा गृहीतं चक्षुरादिद्वारेणोपलब्धं घटादि सदित्येवमसत्यमिति निश्चितेऽपि सदसद्विभागो दृष्टः । उभयोरप्यन्तर्बहिश्चेतः कल्पितयोर्वैतथ्यमेव दृष्टम् ॥",
-   "english": "9-10. In dream, also, what is imagined within by the mind is illusory and what is cognized outside (by the mind) appears to be real. But (in truth) both these are known to be unreal. Similarly, in the waking state, also, what is imagined within by the mind is illusory; and what is experienced outside (by the mind) appears to be real. But in fact, both should be rationally held to be unreal.\nHaving refuted the contention of the opponent that there exists no similarity between objects of the waking state and the abnormal (unusual) objects seen in dream, (the text proceeds to point out) the truth of the objects of waking state being (unreal) like those of dream. In the dream state also those which are mere modifications of the mind, cognized within, are illusory. For, such internal objects vanish the moment after they are cognized. In that very dream such objects as pot, etc., cognized by the mind and perceived by the sense-organs, eyes, etc., as existing outside, are1 held to be real. Thus, though all the dream experiences are, without doubt, known2 to be unreal, yet they arrange themselves as3 real and unreal. Both kinds of objects (in dream), imagined by the mind internally and externally, are found to be unreal. Similarly in the waking experience objects known as real and imaginary (mental) should be rationally held to be unreal. Objects, internal and external, are creations of the mind (whether they be-in the dream or in the waking state). Other matters have already been explained.\nAnandagiri Tika (glossary)\n1 Are held to be real— That is, by the subject in the dream.\n2 Known, etc.—We know the illusoriness of the dream experiences from the waking state.\n3 As, etc.—i.e., at the time of dreaming.\nThis is another ground for proving the similarity of the dream and the waking states and the consequent unreality of the latter. It may be contended that in the waking state we make a distinction, between “real” and “unreal” and that the latter corresponds to all dream objects. To this the reply of the Vedāntist is: In dreams also we make a distinction between “real” and “unreal We see unreal objects in dream and feel surprised when the picture wears off, which impression we consider unreal in dream itself. Therefore there exists a sense of distinction between the “real” and the “unreal” in the one state as in the other. For, while the dream lasts, to the dreamer not only are dream objects real but also is the dream state a waking one. The whole of dream experiences is known to be illusory only from the waking standpoint. Similarly the whole of waking experiences, including its so-called subjective imaginations and objective realities, is equally unreal, from the standpoint of true knowledge.",
+   "sanskrit": "स्वप्नवृत्तावपि त्वन्तश्चेतसा कल्पितं त्वसत् ।\nबहिश्चेतो गृहीतं सद्दृष्टं वैतथ्यमेतयोः ॥ ९ ॥\nजाग्रद्वृत्तावपि त्वन्तश्चेतसा कल्पितं त्वसत् ।\nबहिश्चेतोगृहीतं सद्युक्तं वैतथ्यमेतयोः ॥ १० ॥\nअपूर्वत्वाशङ्कां निराकृत्य स्वप्नदृष्टान्तस्य पुनः स्वप्नतुल्यतां जाग्रद्भेदानां प्रपञ्चयन्नाह — स्वप्नवृत्तावपि स्वप्नस्थानेऽपि अन्तश्चेतसा मनोरथसङ्कल्पितमसत् ; सङ्कल्पानन्तरसमकालमेवादर्शनात् । तत्रैव स्वप्ने बहिश्चेतसा गृहीतं चक्षुरादिद्वारेणोपलब्धं घटादि सदित्येवमसत्यमिति निश्चितेऽपि सदसद्विभागो दृष्टः । उभयोरप्यन्तर्बहिश्चेतः कल्पितयोर्वैतथ्यमेव दृष्टम् ॥\nसदसतोर्वैतथ्यं युक्तम् , अन्तर्बहिश्चेतःकल्पितत्वाविशेषादिति । व्याख्यातमन्यत् ॥",
+   "english": "In dream, also, what is imagined within by the mind is illusory and what is cognized outside (by the mind) appears to be real. But (in truth) both these are known to be unreal. Similarly, in the waking state, also, what is imagined within by the mind is illusory; and what is experienced outside (by the mind) appears to be real. But in fact, both should be rationally held to be unreal.\nHaving refuted the contention of the opponent that there exists no similarity between objects of the waking state and the abnormal (unusual) objects seen in dream, (the text proceeds to point out) the truth of the objects of waking state being (unreal) like those of dream. In the dream state also those which are mere modifications of the mind, cognized within, are illusory. For, such internal objects vanish the moment after they are cognized. In that very dream such objects as pot, etc., cognized by the mind and perceived by the sense-organs, eyes, etc., as existing outside, are1 held to be real. Thus, though all the dream experiences are, without doubt, known2 to be unreal, yet they arrange themselves as3 real and unreal. Both kinds of objects (in dream), imagined by the mind internally and externally, are found to be unreal. Similarly in the waking experience objects known as real and imaginary (mental) should be rationally held to be unreal. Objects, internal and external, are creations of the mind (whether they be-in the dream or in the waking state). Other matters have already been explained.",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "स्वप्नवृत्तावपि त्वन्तश्चेतसा कल्पितं त्वसत् ।\nबहिश्चेतो गृहीतं सद्दृष्टं वैतथ्यमेतयोः ॥ ९ ॥",
-     "english": "9-10. In dream, also, what is imagined within by the mind is illusory and what is cognized outside (by the mind) appears to be real. But (in truth) both these are known to be unreal. Similarly, in the waking state, also, what is imagined within by the mind is illusory; and what is experienced outside (by the mind) appears to be real. But in fact, both should be rationally held to be unreal."
+     "sanskrit": "स्वप्नवृत्तावपि त्वन्तश्चेतसा कल्पितं त्वसत् ।\nबहिश्चेतो गृहीतं सद्दृष्टं वैतथ्यमेतयोः ॥ ९ ॥\nजाग्रद्वृत्तावपि त्वन्तश्चेतसा कल्पितं त्वसत् ।\nबहिश्चेतोगृहीतं सद्युक्तं वैतथ्यमेतयोः ॥ १० ॥",
+     "english": "In dream, also, what is imagined within by the mind is illusory and what is cognized outside (by the mind) appears to be real. But (in truth) both these are known to be unreal. Similarly, in the waking state, also, what is imagined within by the mind is illusory; and what is experienced outside (by the mind) appears to be real. But in fact, both should be rationally held to be unreal."
     },
     {
      "role": "bhashya",
-     "sanskrit": "अपूर्वत्वाशङ्कां निराकृत्य स्वप्नदृष्टान्तस्य पुनः स्वप्नतुल्यतां जाग्रद्भेदानां प्रपञ्चयन्नाह — स्वप्नवृत्तावपि स्वप्नस्थानेऽपि अन्तश्चेतसा मनोरथसङ्कल्पितमसत् ; सङ्कल्पानन्तरसमकालमेवादर्शनात् । तत्रैव स्वप्ने बहिश्चेतसा गृहीतं चक्षुरादिद्वारेणोपलब्धं घटादि सदित्येवमसत्यमिति निश्चितेऽपि सदसद्विभागो दृष्टः । उभयोरप्यन्तर्बहिश्चेतः कल्पितयोर्वैतथ्यमेव दृष्टम् ॥",
-     "english": "Having refuted the contention of the opponent that there exists no similarity between objects of the waking state and the abnormal (unusual) objects seen in dream, (the text proceeds to point out) the truth of the objects of waking state being (unreal) like those of dream. In the dream state also those which are mere modifications of the mind, cognized within, are illusory. For, such internal objects vanish the moment after they are cognized. In that very dream such objects as pot, etc., cognized by the mind and perceived by the sense-organs, eyes, etc., as existing outside, are1 held to be real. Thus, though all the dream experiences are, without doubt, known2 to be unreal, yet they arrange themselves as3 real and unreal. Both kinds of objects (in dream), imagined by the mind internally and externally, are found to be unreal. Similarly in the waking experience objects known as real and imaginary (mental) should be rationally held to be unreal. Objects, internal and external, are creations of the mind (whether they be-in the dream or in the waking state). Other matters have already been explained.\nAnandagiri Tika (glossary)\n1 Are held to be real— That is, by the subject in the dream.\n2 Known, etc.—We know the illusoriness of the dream experiences from the waking state.\n3 As, etc.—i.e., at the time of dreaming.\nThis is another ground for proving the similarity of the dream and the waking states and the consequent unreality of the latter. It may be contended that in the waking state we make a distinction, between “real” and “unreal” and that the latter corresponds to all dream objects. To this the reply of the Vedāntist is: In dreams also we make a distinction between “real” and “unreal We see unreal objects in dream and feel surprised when the picture wears off, which impression we consider unreal in dream itself. Therefore there exists a sense of distinction between the “real” and the “unreal” in the one state as in the other. For, while the dream lasts, to the dreamer not only are dream objects real but also is the dream state a waking one. The whole of dream experiences is known to be illusory only from the waking standpoint. Similarly the whole of waking experiences, including its so-called subjective imaginations and objective realities, is equally unreal, from the standpoint of true knowledge."
+     "sanskrit": "अपूर्वत्वाशङ्कां निराकृत्य स्वप्नदृष्टान्तस्य पुनः स्वप्नतुल्यतां जाग्रद्भेदानां प्रपञ्चयन्नाह — स्वप्नवृत्तावपि स्वप्नस्थानेऽपि अन्तश्चेतसा मनोरथसङ्कल्पितमसत् ; सङ्कल्पानन्तरसमकालमेवादर्शनात् । तत्रैव स्वप्ने बहिश्चेतसा गृहीतं चक्षुरादिद्वारेणोपलब्धं घटादि सदित्येवमसत्यमिति निश्चितेऽपि सदसद्विभागो दृष्टः । उभयोरप्यन्तर्बहिश्चेतः कल्पितयोर्वैतथ्यमेव दृष्टम् ॥\nसदसतोर्वैतथ्यं युक्तम् , अन्तर्बहिश्चेतःकल्पितत्वाविशेषादिति । व्याख्यातमन्यत् ॥",
+     "english": "Having refuted the contention of the opponent that there exists no similarity between objects of the waking state and the abnormal (unusual) objects seen in dream, (the text proceeds to point out) the truth of the objects of waking state being (unreal) like those of dream. In the dream state also those which are mere modifications of the mind, cognized within, are illusory. For, such internal objects vanish the moment after they are cognized. In that very dream such objects as pot, etc., cognized by the mind and perceived by the sense-organs, eyes, etc., as existing outside, are1 held to be real. Thus, though all the dream experiences are, without doubt, known2 to be unreal, yet they arrange themselves as3 real and unreal. Both kinds of objects (in dream), imagined by the mind internally and externally, are found to be unreal. Similarly in the waking experience objects known as real and imaginary (mental) should be rationally held to be unreal. Objects, internal and external, are creations of the mind (whether they be-in the dream or in the waking state). Other matters have already been explained."
     }
-   ]
-  },
-  {
-   "ref": "2.K10",
-   "kind": "verse",
-   "scope": "mula+commentary",
-   "sanskrit": "जाग्रद्वृत्तावपि त्वन्तश्चेतसा कल्पितं त्वसत् ।\nबहिश्चेतोगृहीतं सद्युक्तं वैतथ्यमेतयोः ॥ १० ॥\nसदसतोर्वैतथ्यं युक्तम् , अन्तर्बहिश्चेतःकल्पितत्वाविशेषादिति । व्याख्यातमन्यत् ॥",
-   "english": null,
-   "parts": [
-    {
-     "role": "mula",
-     "sanskrit": "जाग्रद्वृत्तावपि त्वन्तश्चेतसा कल्पितं त्वसत् ।\nबहिश्चेतोगृहीतं सद्युक्तं वैतथ्यमेतयोः ॥ १० ॥"
-    },
-    {
-     "role": "bhashya",
-     "sanskrit": "सदसतोर्वैतथ्यं युक्तम् , अन्तर्बहिश्चेतःकल्पितत्वाविशेषादिति । व्याख्यातमन्यत् ॥"
-    }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (range page)"
+   }
   },
   {
    "ref": "2.K11",
@@ -1555,17 +1561,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "यथैकस्मिन्घटाकाशे रजोधूमादिभिर्युते ।\nन सर्वे सम्प्रयुज्यन्ते तद्वज्जीवाः सुखादिभिः ॥ ५ ॥\nसर्वदेहेष्वात्मैकत्वे एकस्मिन् जननमरणसुखदुःखादिमत्यात्मनि सर्वात्मनां तत्सम्बन्धः क्रियाफलसाङ्कर्यं च स्यादिति ये त्वाहुर्द्वैतिनः, तान्प्रतीदमुच्यते — यथा एकस्मिन् घटाकाशे रजोधूमादिभिः युते संयुक्ते, न सर्वे घटाकाशादयः तद्रजोधूमादिभिः संयुज्यन्ते, तद्वत् जीवाः सुखादिभिः । ननु, एक एवात्मा ; बाढम् ; ननु न श्रुतं त्वया आकाशवत्सर्वसङ्घातेष्वेक एवात्मेति ? यद्येक एवात्मा, तर्हि सर्वत्र सुखी दुःखी च स्यात् ; न चेदं साङ्ख्यस्य चोद्यं सम्भवति ; न हि साङ्ख्य आत्मनः सुखदुःखादिमत्त्वमिच्छति, बुद्धिसमवायाभ्युपगमात्सुखदुःखादीनाम् ; न चोपलब्धिस्वरूपस्यात्मनो भेदकल्पनायां प्रमाणमस्ति । भेदाभावे प्रधानस्य पारार्थ्यानुपपत्तिरिति चेत् , न ; प्रधानकृतस्यार्थस्यात्मन्यसमवायात् ; यदि हि प्रधानकृतो बन्धो मोक्षो वा अर्थः पुरुषेषु भेदेन समवैति, ततः प्रधानस्य पारार्थ्यमात्मैकत्वे नोपपद्यत इति युक्ता पुरुषभेदकल्पना ; न च साङ्ख्यैर्बन्धो मोक्षो वार्थः पुरुषसमवेतोऽभ्युपगम्यते, निर्विशेषाश्च चेतनमात्रा आत्मानोऽभ्युपगम्यन्ते ; अतः पुरुषसत्तामात्रप्रयुक्तमेव प्रधानस्य पारार्थ्यं सिद्धम् , न तु पुरुषभेदप्रयुक्तमिति ; अतः पुरुषभेदकल्पनायां न प्रधानस्य पारार्थ्यं हेतुः ; न चान्यत्पुरुषभेदकल्पनायां प्रमाणमस्ति साङ्‍ख्यानाम् । परसत्तामात्रमेव चैतन्निमित्तीकृत्य स्वयं बध्यते मुच्यते च प्रधानम् ; परश्चोपलब्धिमात्रसत्तास्वरूपेण प्रधानप्रवृत्तौ हेतुः, न केनचिद्विशेषेणेति, केवलमूढतयैव पुरुषभेदकल्पना वेदार्थपरित्यागश्च । ये त्वाहुर्वैशेषिकादयः इच्छादय आत्मसमवायिन इति ; तदप्यसत् , स्मृतिहेतूनां संस्काराणामप्रदेशवत्यात्मन्यसमवायात् , आत्ममनःसंयोगाच्च स्मृत्युत्पत्तेः स्मृतिनियमानुपपत्तिः, युगपद्वा सर्वस्मृत्युत्पत्तिप्रसङ्गः । न च भिन्नजातीयानां स्पर्शादिहीनानामात्मनां मनआदिभिः सम्बन्धो युक्तः । न च द्रव्याद्रूपादयो गुणाः कर्मसामान्यविशेषसमवाया वा भिन्नाः सन्ति । परेषां यदि ह्यत्यन्तभिन्ना एव द्रव्यात्स्युः इच्छादयश्चात्मनः, तथा सति द्रव्येण तेषां सम्बन्धानुपपत्तिः । अयुतसिद्धानां समवायलक्षणः सम्बन्धो न विरुध्यत इति चेत् , न ; इच्छादिभ्योऽनित्येभ्य आत्मनो नित्यस्य पूर्वसिद्धत्वान्नायुतसिद्धत्वोपपत्तिः । आत्मना अयुतसिद्धत्वे च इच्छादीनामात्मगतमहत्त्ववन्नित्यत्वप्रसङ्गः । स चानिष्टः, आत्मनोऽनिर्मोक्षप्रसङ्गात् । समवायस्य च द्रव्यादन्यत्वे सति द्रव्येण सम्बन्धान्तरं वाच्यम् , यथा द्रव्यगुणयोः । समवायो नित्यसम्बन्ध एवेति न वाच्यमिति चेत् , तथा सति समवायसम्बन्धवतां नित्यसम्बन्धप्रसङ्गात्पृथक्त्वानुपपत्तिः । अत्यन्तपृथक्त्वे च द्रव्यादीनां स्पर्शवदस्पर्शद्रव्ययोरिव षष्ठ्यर्थानुपपत्तिः । इच्छाद्युपजनापायवद्गुणवत्त्वे च आत्मनोऽनित्यत्वप्रसङ्गः । देहफलादिवत्सावयवत्वं विक्रियावत्त्वं च देहादिवदेवेति दोषावपरिहार्यौ । यथा त्वाकाशस्य अविद्याध्यारोपितघटाद्युपाधिकृतरजोधूममलवत्त्वादिदोषवत्त्वम् , तथा आत्मनः अविद्याध्यारोपितबुद्ध्याद्युपाधिकृतसुखदुःखादिदोषवत्त्वे बन्धमोक्षादयो व्यावहारिका न विरुध्यन्ते ; सर्ववादिभिरविद्याकृतव्यवहाराभ्युपगमात् परमार्थानभ्युपगमाच्च । तस्मादात्मभेदपरिकल्पना वृथैव तार्किकैः क्रियत इति ॥",
-   "english": null,
+   "english": "As any portion of Ākāśa enclosed in a pot being soiled by dust, smoke, etc., all such other portions of Ākāśa enclosed in other pots are not soiled, so is the happiness, etc., of the Jīvas, i.e., the happiness, misery, etc., of one Jīva do not affect other Jīvas.\nThe dualists contend that if one Ātman exists in all bodies then the birth, death, happiness, etc., of one Ātman (as Jīva) must affect all and, further, there1 must follow a confusion regarding the results of the action (done by individuals). This contention is,thus refuted:—As2 the Ākāśa enclosed within one jar being soiled by dust, smoke, etc., does not make the Ākāśa enclosed in other jars soiled with the dust and the1 smoke, so all created beings are not affected by the happiness, etc. (of one Jīva).\n(Objection)3—Is it not your contention that there is only one Ātman?\n(Reply)—Yes, we admit it. Have you not heard that there is only one Ātman like the all-pervading space, in all bodies?\n(Objection)—If4 there be only one Ātman then it must always and everywhere feel misery and happiness.\n(Reply)—This objection cannot be raised by the Sāṃkhyas. For,5 the Sāṃkhyas do not admit that misery, happiness, etc., ever cling to the Ātman; for they assert that happiness, misery, etc., belong inseparably to Buddhi.6 Further, there is no evidence for imagining multiplicity of Ātman which is of the very nature of knowledge.\n(Objection)—In the absence of the multiplicity of Ātman the theory that the Pradhāna or Prakṛti acts for the sake of others7 does not hold good.\n(Reply)—No, this argument is not valid; for whatever the Pradhāna or Prakṛti may be supposed to accomplish by itself for another cannot inseparably inhere in Ātman. If bondage8 and liberation accomplished by the Pradhāna inseparably inhered in the multiple Puruṣas, then the theory that the Pradhāna (Prakṛti) always acts for the sake of others would not be consistent with the unity of Ātman existing everywhere. And the theory of the Sāṃkhyas regarding the multiplicity of Ātman would be reasonable. But the Sāṃkhyas do not admit that the purpose of bondage or liberation can ever be inseparably associated with the Puruṣa. For, they admit that the Puruṣas are attributeless and are centres of Pure Consciousness. Therefore,9 the very existence of the Puruṣa is their support for the theory that the action of Pradhāna is directed to serve the purpose of others (the Puruṣas). But the supposition of the multiplicity of Puruṣas need not be made for this purpose. Therefore the theory of the Pradhāna seeking to serve the purpose of others cannot be an argument for the supposition of the multiplicity of Ātman. The Sāṃkhyas have no other argument in support of their supposition regarding the multiplicity of Ātman. The Pradhāna takes upon itself bondage and liberation only through the instrumentality10 of the existence of the other (the Puruṣa). The Puruṣa which is of the very nature of knowledge, is the cause of the activity of the Pradhāna by the fact of its very existence and not on account of its any specific11 qualities. So it is through ignorance alone that people imagine the Puruṣa (Ātman) to be many and also thereby give up the real12 import of the Vedas.\nThe Vaiśeṣikas 13 and others assert that attributes such as desire, etc., are inseparably related to Ātman. This14 view is also not correct. For, the Samskāras (the impressions) which are the cause of memory cannot have any inseparable relation with Ātman which has no15 parts. Further, if16 it be contended that the origin of memory lies in the contact of Ātman with the mind, we say that this contention is not valid; for, in that case there will be no principle regarding memory. Memory of all things will come simultaneously. Besides17 mind can never be related to the Ātman which is devoid of all sensations such as touch, etc., and which belongs to a class other than that of the mind. Further the Vaiśeṣikas do not admit that the attributes (Guṇa) such as forms, etc. (Rūpas), action (Karma), generality (Sāmānya), particularity (Viśeṣa) and inherence (Samavāya), can exist independently of the substance (Dravya). If these are totally independent of one another, the contact between the Ātman and desire, etc., and also between the attributes (Guṇa) and the substance (Dravya) will be an absurdity.\n(Objection)—The contact characterised by an inseparable inherence is possible in the case of entities where such relation is proved to be innate.\n(Reply)—This18 objection is not valid; for such innate relationship cannot be reasonable, as the Ātman, the ever permanent, is antecedent to the desires, etc., which are transitory. And if desires, etc., be admitted to have inseparable innate relationship with Ātman, then19 the former would be as permanent as such innate attributes of Ātman as greatness, etc. That is not desirable, for then there would be no room for liberation of the Ātman. Further, if inseparable relationship (Samavāya) were something separate from the substance, then another factor must be stated which can bring about the relationship between Samavāya and the substance,—as in the case of the substance and the attributes. Nor can it be stated that Samavāya is a constant inseparable relationship with Ātman; for, in that case, the Ātman and Samavāya on account of their constant and inseparable relationship can never be different from one another. If, on the other hand, the relationship of Samavāya be totally different from the Ātman, and the attributes also be different from the substance, then the possessive case cannot be used to indicate their mutual relation which is possible only when the two terms connected by the possessive are not totally different. If Ātman be inseparably connected with such categories as desires, etc., which have both “beginning” and “end,” then it would itself be impermanent. If Ātman be considered to have parts and undergo changes, like the body, etc., then, these two defects always associated with the body, etc., would be inevitable in the case of the Ātman. (Therefore the conclusion is that) as the Ākāśa (ether), on account of the superimposition of ignorance (Avidyā), is regarded as soiled by dust and smoke, in like manner, the Ātman also, on account of the limiting condition of the mind caused by the erroneous attribution of Avidyā, appears to be associated with the contamination of misery, happiness, etc. And such being the case, the idea of bondage and liberation, being empirical in nature, does not contradict (the permanent nature of Ātman from the standpoint of Truth). For, all the disputants admit the relative experience to be caused by Avidyā and deny its existence from the standpoint of the Supreme Reality. Hence it follows that the supposition of the multiplicity of Ātman made by the logicians is without basis and superfluous.",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "यथैकस्मिन्घटाकाशे रजोधूमादिभिर्युते ।\nन सर्वे सम्प्रयुज्यन्ते तद्वज्जीवाः सुखादिभिः ॥ ५ ॥"
+     "sanskrit": "यथैकस्मिन्घटाकाशे रजोधूमादिभिर्युते ।\nन सर्वे सम्प्रयुज्यन्ते तद्वज्जीवाः सुखादिभिः ॥ ५ ॥",
+     "english": "As any portion of Ākāśa enclosed in a pot being soiled by dust, smoke, etc., all such other portions of Ākāśa enclosed in other pots are not soiled, so is the happiness, etc., of the Jīvas, i.e., the happiness, misery, etc., of one Jīva do not affect other Jīvas."
     },
     {
      "role": "bhashya",
-     "sanskrit": "सर्वदेहेष्वात्मैकत्वे एकस्मिन् जननमरणसुखदुःखादिमत्यात्मनि सर्वात्मनां तत्सम्बन्धः क्रियाफलसाङ्कर्यं च स्यादिति ये त्वाहुर्द्वैतिनः, तान्प्रतीदमुच्यते — यथा एकस्मिन् घटाकाशे रजोधूमादिभिः युते संयुक्ते, न सर्वे घटाकाशादयः तद्रजोधूमादिभिः संयुज्यन्ते, तद्वत् जीवाः सुखादिभिः । ननु, एक एवात्मा ; बाढम् ; ननु न श्रुतं त्वया आकाशवत्सर्वसङ्घातेष्वेक एवात्मेति ? यद्येक एवात्मा, तर्हि सर्वत्र सुखी दुःखी च स्यात् ; न चेदं साङ्ख्यस्य चोद्यं सम्भवति ; न हि साङ्ख्य आत्मनः सुखदुःखादिमत्त्वमिच्छति, बुद्धिसमवायाभ्युपगमात्सुखदुःखादीनाम् ; न चोपलब्धिस्वरूपस्यात्मनो भेदकल्पनायां प्रमाणमस्ति । भेदाभावे प्रधानस्य पारार्थ्यानुपपत्तिरिति चेत् , न ; प्रधानकृतस्यार्थस्यात्मन्यसमवायात् ; यदि हि प्रधानकृतो बन्धो मोक्षो वा अर्थः पुरुषेषु भेदेन समवैति, ततः प्रधानस्य पारार्थ्यमात्मैकत्वे नोपपद्यत इति युक्ता पुरुषभेदकल्पना ; न च साङ्ख्यैर्बन्धो मोक्षो वार्थः पुरुषसमवेतोऽभ्युपगम्यते, निर्विशेषाश्च चेतनमात्रा आत्मानोऽभ्युपगम्यन्ते ; अतः पुरुषसत्तामात्रप्रयुक्तमेव प्रधानस्य पारार्थ्यं सिद्धम् , न तु पुरुषभेदप्रयुक्तमिति ; अतः पुरुषभेदकल्पनायां न प्रधानस्य पारार्थ्यं हेतुः ; न चान्यत्पुरुषभेदकल्पनायां प्रमाणमस्ति साङ्‍ख्यानाम् । परसत्तामात्रमेव चैतन्निमित्तीकृत्य स्वयं बध्यते मुच्यते च प्रधानम् ; परश्चोपलब्धिमात्रसत्तास्वरूपेण प्रधानप्रवृत्तौ हेतुः, न केनचिद्विशेषेणेति, केवलमूढतयैव पुरुषभेदकल्पना वेदार्थपरित्यागश्च । ये त्वाहुर्वैशेषिकादयः इच्छादय आत्मसमवायिन इति ; तदप्यसत् , स्मृतिहेतूनां संस्काराणामप्रदेशवत्यात्मन्यसमवायात् , आत्ममनःसंयोगाच्च स्मृत्युत्पत्तेः स्मृतिनियमानुपपत्तिः, युगपद्वा सर्वस्मृत्युत्पत्तिप्रसङ्गः । न च भिन्नजातीयानां स्पर्शादिहीनानामात्मनां मनआदिभिः सम्बन्धो युक्तः । न च द्रव्याद्रूपादयो गुणाः कर्मसामान्यविशेषसमवाया वा भिन्नाः सन्ति । परेषां यदि ह्यत्यन्तभिन्ना एव द्रव्यात्स्युः इच्छादयश्चात्मनः, तथा सति द्रव्येण तेषां सम्बन्धानुपपत्तिः । अयुतसिद्धानां समवायलक्षणः सम्बन्धो न विरुध्यत इति चेत् , न ; इच्छादिभ्योऽनित्येभ्य आत्मनो नित्यस्य पूर्वसिद्धत्वान्नायुतसिद्धत्वोपपत्तिः । आत्मना अयुतसिद्धत्वे च इच्छादीनामात्मगतमहत्त्ववन्नित्यत्वप्रसङ्गः । स चानिष्टः, आत्मनोऽनिर्मोक्षप्रसङ्गात् । समवायस्य च द्रव्यादन्यत्वे सति द्रव्येण सम्बन्धान्तरं वाच्यम् , यथा द्रव्यगुणयोः । समवायो नित्यसम्बन्ध एवेति न वाच्यमिति चेत् , तथा सति समवायसम्बन्धवतां नित्यसम्बन्धप्रसङ्गात्पृथक्त्वानुपपत्तिः । अत्यन्तपृथक्त्वे च द्रव्यादीनां स्पर्शवदस्पर्शद्रव्ययोरिव षष्ठ्यर्थानुपपत्तिः । इच्छाद्युपजनापायवद्गुणवत्त्वे च आत्मनोऽनित्यत्वप्रसङ्गः । देहफलादिवत्सावयवत्वं विक्रियावत्त्वं च देहादिवदेवेति दोषावपरिहार्यौ । यथा त्वाकाशस्य अविद्याध्यारोपितघटाद्युपाधिकृतरजोधूममलवत्त्वादिदोषवत्त्वम् , तथा आत्मनः अविद्याध्यारोपितबुद्ध्याद्युपाधिकृतसुखदुःखादिदोषवत्त्वे बन्धमोक्षादयो व्यावहारिका न विरुध्यन्ते ; सर्ववादिभिरविद्याकृतव्यवहाराभ्युपगमात् परमार्थानभ्युपगमाच्च । तस्मादात्मभेदपरिकल्पना वृथैव तार्किकैः क्रियत इति ॥"
+     "sanskrit": "सर्वदेहेष्वात्मैकत्वे एकस्मिन् जननमरणसुखदुःखादिमत्यात्मनि सर्वात्मनां तत्सम्बन्धः क्रियाफलसाङ्कर्यं च स्यादिति ये त्वाहुर्द्वैतिनः, तान्प्रतीदमुच्यते — यथा एकस्मिन् घटाकाशे रजोधूमादिभिः युते संयुक्ते, न सर्वे घटाकाशादयः तद्रजोधूमादिभिः संयुज्यन्ते, तद्वत् जीवाः सुखादिभिः । ननु, एक एवात्मा ; बाढम् ; ननु न श्रुतं त्वया आकाशवत्सर्वसङ्घातेष्वेक एवात्मेति ? यद्येक एवात्मा, तर्हि सर्वत्र सुखी दुःखी च स्यात् ; न चेदं साङ्ख्यस्य चोद्यं सम्भवति ; न हि साङ्ख्य आत्मनः सुखदुःखादिमत्त्वमिच्छति, बुद्धिसमवायाभ्युपगमात्सुखदुःखादीनाम् ; न चोपलब्धिस्वरूपस्यात्मनो भेदकल्पनायां प्रमाणमस्ति । भेदाभावे प्रधानस्य पारार्थ्यानुपपत्तिरिति चेत् , न ; प्रधानकृतस्यार्थस्यात्मन्यसमवायात् ; यदि हि प्रधानकृतो बन्धो मोक्षो वा अर्थः पुरुषेषु भेदेन समवैति, ततः प्रधानस्य पारार्थ्यमात्मैकत्वे नोपपद्यत इति युक्ता पुरुषभेदकल्पना ; न च साङ्ख्यैर्बन्धो मोक्षो वार्थः पुरुषसमवेतोऽभ्युपगम्यते, निर्विशेषाश्च चेतनमात्रा आत्मानोऽभ्युपगम्यन्ते ; अतः पुरुषसत्तामात्रप्रयुक्तमेव प्रधानस्य पारार्थ्यं सिद्धम् , न तु पुरुषभेदप्रयुक्तमिति ; अतः पुरुषभेदकल्पनायां न प्रधानस्य पारार्थ्यं हेतुः ; न चान्यत्पुरुषभेदकल्पनायां प्रमाणमस्ति साङ्‍ख्यानाम् । परसत्तामात्रमेव चैतन्निमित्तीकृत्य स्वयं बध्यते मुच्यते च प्रधानम् ; परश्चोपलब्धिमात्रसत्तास्वरूपेण प्रधानप्रवृत्तौ हेतुः, न केनचिद्विशेषेणेति, केवलमूढतयैव पुरुषभेदकल्पना वेदार्थपरित्यागश्च । ये त्वाहुर्वैशेषिकादयः इच्छादय आत्मसमवायिन इति ; तदप्यसत् , स्मृतिहेतूनां संस्काराणामप्रदेशवत्यात्मन्यसमवायात् , आत्ममनःसंयोगाच्च स्मृत्युत्पत्तेः स्मृतिनियमानुपपत्तिः, युगपद्वा सर्वस्मृत्युत्पत्तिप्रसङ्गः । न च भिन्नजातीयानां स्पर्शादिहीनानामात्मनां मनआदिभिः सम्बन्धो युक्तः । न च द्रव्याद्रूपादयो गुणाः कर्मसामान्यविशेषसमवाया वा भिन्नाः सन्ति । परेषां यदि ह्यत्यन्तभिन्ना एव द्रव्यात्स्युः इच्छादयश्चात्मनः, तथा सति द्रव्येण तेषां सम्बन्धानुपपत्तिः । अयुतसिद्धानां समवायलक्षणः सम्बन्धो न विरुध्यत इति चेत् , न ; इच्छादिभ्योऽनित्येभ्य आत्मनो नित्यस्य पूर्वसिद्धत्वान्नायुतसिद्धत्वोपपत्तिः । आत्मना अयुतसिद्धत्वे च इच्छादीनामात्मगतमहत्त्ववन्नित्यत्वप्रसङ्गः । स चानिष्टः, आत्मनोऽनिर्मोक्षप्रसङ्गात् । समवायस्य च द्रव्यादन्यत्वे सति द्रव्येण सम्बन्धान्तरं वाच्यम् , यथा द्रव्यगुणयोः । समवायो नित्यसम्बन्ध एवेति न वाच्यमिति चेत् , तथा सति समवायसम्बन्धवतां नित्यसम्बन्धप्रसङ्गात्पृथक्त्वानुपपत्तिः । अत्यन्तपृथक्त्वे च द्रव्यादीनां स्पर्शवदस्पर्शद्रव्ययोरिव षष्ठ्यर्थानुपपत्तिः । इच्छाद्युपजनापायवद्गुणवत्त्वे च आत्मनोऽनित्यत्वप्रसङ्गः । देहफलादिवत्सावयवत्वं विक्रियावत्त्वं च देहादिवदेवेति दोषावपरिहार्यौ । यथा त्वाकाशस्य अविद्याध्यारोपितघटाद्युपाधिकृतरजोधूममलवत्त्वादिदोषवत्त्वम् , तथा आत्मनः अविद्याध्यारोपितबुद्ध्याद्युपाधिकृतसुखदुःखादिदोषवत्त्वे बन्धमोक्षादयो व्यावहारिका न विरुध्यन्ते ; सर्ववादिभिरविद्याकृतव्यवहाराभ्युपगमात् परमार्थानभ्युपगमाच्च । तस्मादात्मभेदपरिकल्पना वृथैव तार्किकैः क्रियत इति ॥",
+     "english": "The dualists contend that if one Ātman exists in all bodies then the birth, death, happiness, etc., of one Ātman (as Jīva) must affect all and, further, there1 must follow a confusion regarding the results of the action (done by individuals). This contention is,thus refuted:—As2 the Ākāśa enclosed within one jar being soiled by dust, smoke, etc., does not make the Ākāśa enclosed in other jars soiled with the dust and the1 smoke, so all created beings are not affected by the happiness, etc. (of one Jīva).\n(Objection)3—Is it not your contention that there is only one Ātman?\n(Reply)—Yes, we admit it. Have you not heard that there is only one Ātman like the all-pervading space, in all bodies?\n(Objection)—If4 there be only one Ātman then it must always and everywhere feel misery and happiness.\n(Reply)—This objection cannot be raised by the Sāṃkhyas. For,5 the Sāṃkhyas do not admit that misery, happiness, etc., ever cling to the Ātman; for they assert that happiness, misery, etc., belong inseparably to Buddhi.6 Further, there is no evidence for imagining multiplicity of Ātman which is of the very nature of knowledge.\n(Objection)—In the absence of the multiplicity of Ātman the theory that the Pradhāna or Prakṛti acts for the sake of others7 does not hold good.\n(Reply)—No, this argument is not valid; for whatever the Pradhāna or Prakṛti may be supposed to accomplish by itself for another cannot inseparably inhere in Ātman. If bondage8 and liberation accomplished by the Pradhāna inseparably inhered in the multiple Puruṣas, then the theory that the Pradhāna (Prakṛti) always acts for the sake of others would not be consistent with the unity of Ātman existing everywhere. And the theory of the Sāṃkhyas regarding the multiplicity of Ātman would be reasonable. But the Sāṃkhyas do not admit that the purpose of bondage or liberation can ever be inseparably associated with the Puruṣa. For, they admit that the Puruṣas are attributeless and are centres of Pure Consciousness. Therefore,9 the very existence of the Puruṣa is their support for the theory that the action of Pradhāna is directed to serve the purpose of others (the Puruṣas). But the supposition of the multiplicity of Puruṣas need not be made for this purpose. Therefore the theory of the Pradhāna seeking to serve the purpose of others cannot be an argument for the supposition of the multiplicity of Ātman. The Sāṃkhyas have no other argument in support of their supposition regarding the multiplicity of Ātman. The Pradhāna takes upon itself bondage and liberation only through the instrumentality10 of the existence of the other (the Puruṣa). The Puruṣa which is of the very nature of knowledge, is the cause of the activity of the Pradhāna by the fact of its very existence and not on account of its any specific11 qualities. So it is through ignorance alone that people imagine the Puruṣa (Ātman) to be many and also thereby give up the real12 import of the Vedas.\nThe Vaiśeṣikas 13 and others assert that attributes such as desire, etc., are inseparably related to Ātman. This14 view is also not correct. For, the Samskāras (the impressions) which are the cause of memory cannot have any inseparable relation with Ātman which has no15 parts. Further, if16 it be contended that the origin of memory lies in the contact of Ātman with the mind, we say that this contention is not valid; for, in that case there will be no principle regarding memory. Memory of all things will come simultaneously. Besides17 mind can never be related to the Ātman which is devoid of all sensations such as touch, etc., and which belongs to a class other than that of the mind. Further the Vaiśeṣikas do not admit that the attributes (Guṇa) such as forms, etc. (Rūpas), action (Karma), generality (Sāmānya), particularity (Viśeṣa) and inherence (Samavāya), can exist independently of the substance (Dravya). If these are totally independent of one another, the contact between the Ātman and desire, etc., and also between the attributes (Guṇa) and the substance (Dravya) will be an absurdity.\n(Objection)—The contact characterised by an inseparable inherence is possible in the case of entities where such relation is proved to be innate.\n(Reply)—This18 objection is not valid; for such innate relationship cannot be reasonable, as the Ātman, the ever permanent, is antecedent to the desires, etc., which are transitory. And if desires, etc., be admitted to have inseparable innate relationship with Ātman, then19 the former would be as permanent as such innate attributes of Ātman as greatness, etc. That is not desirable, for then there would be no room for liberation of the Ātman. Further, if inseparable relationship (Samavāya) were something separate from the substance, then another factor must be stated which can bring about the relationship between Samavāya and the substance,—as in the case of the substance and the attributes. Nor can it be stated that Samavāya is a constant inseparable relationship with Ātman; for, in that case, the Ātman and Samavāya on account of their constant and inseparable relationship can never be different from one another. If, on the other hand, the relationship of Samavāya be totally different from the Ātman, and the attributes also be different from the substance, then the possessive case cannot be used to indicate their mutual relation which is possible only when the two terms connected by the possessive are not totally different. If Ātman be inseparably connected with such categories as desires, etc., which have both “beginning” and “end,” then it would itself be impermanent. If Ātman be considered to have parts and undergo changes, like the body, etc., then, these two defects always associated with the body, etc., would be inevitable in the case of the Ātman. (Therefore the conclusion is that) as the Ākāśa (ether), on account of the superimposition of ignorance (Avidyā), is regarded as soiled by dust and smoke, in like manner, the Ātman also, on account of the limiting condition of the mind caused by the erroneous attribution of Avidyā, appears to be associated with the contamination of misery, happiness, etc. And such being the case, the idea of bondage and liberation, being empirical in nature, does not contradict (the permanent nature of Ātman from the standpoint of Truth). For, all the disputants admit the relative experience to be caused by Avidyā and deny its existence from the standpoint of the Supreme Reality. Hence it follows that the supposition of the multiplicity of Ātman made by the logicians is without basis and superfluous."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (joined by karika number)"
+   }
   },
   {
    "ref": "3.K6",
@@ -1629,34 +1640,44 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "मरणे सम्भवे चैव गत्यागमनयोरपि ।\nस्थितौ सर्वशरीरेषु चाकाशेनाविलक्षणः ॥ ९ ॥\nपुनरप्युक्तमेवार्थं प्रपञ्चयति — घटाकाशजन्मनाशगमनागमनस्थितिवत्सर्वशरीरेष्वात्मनो जन्ममरणादिराकाशेनाविलक्षणः प्रत्येतव्य इत्यर्थः ॥",
-   "english": null,
+   "english": "Ātman, in regard to its birth, death, going and coming (i.e., transmigration) and its existing in different bodies, is not dissimilar to the Ākāśa (i.e., the Ghaṭākāśa or the ether portioned off by a jar).\nThe point which has been just stated is again thus developed:—Birth, death, etc., of the Ātman as seen in all bodies is like the creation, destruction, coming, going and existence of the Ghaṭākāśa (or ether enclosed within a jar).",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "मरणे सम्भवे चैव गत्यागमनयोरपि ।\nस्थितौ सर्वशरीरेषु चाकाशेनाविलक्षणः ॥ ९ ॥"
+     "sanskrit": "मरणे सम्भवे चैव गत्यागमनयोरपि ।\nस्थितौ सर्वशरीरेषु चाकाशेनाविलक्षणः ॥ ९ ॥",
+     "english": "Ātman, in regard to its birth, death, going and coming (i.e., transmigration) and its existing in different bodies, is not dissimilar to the Ākāśa (i.e., the Ghaṭākāśa or the ether portioned off by a jar)."
     },
     {
      "role": "bhashya",
-     "sanskrit": "पुनरप्युक्तमेवार्थं प्रपञ्चयति — घटाकाशजन्मनाशगमनागमनस्थितिवत्सर्वशरीरेष्वात्मनो जन्ममरणादिराकाशेनाविलक्षणः प्रत्येतव्य इत्यर्थः ॥"
+     "sanskrit": "पुनरप्युक्तमेवार्थं प्रपञ्चयति — घटाकाशजन्मनाशगमनागमनस्थितिवत्सर्वशरीरेष्वात्मनो जन्ममरणादिराकाशेनाविलक्षणः प्रत्येतव्य इत्यर्थः ॥",
+     "english": "The point which has been just stated is again thus developed:—Birth, death, etc., of the Ātman as seen in all bodies is like the creation, destruction, coming, going and existence of the Ghaṭākāśa (or ether enclosed within a jar)."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (joined by karika number)"
+   }
   },
   {
    "ref": "3.K10",
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "सङ्घाताः स्वप्नवत्सर्व आत्ममायाविसर्जिताः ।\nआधिक्ये सर्वसाम्ये वा नोपपत्तिर्हि विद्यते ॥ १० ॥\nघटादिस्थानीयास्तु देहादिसङ्घाताः स्वप्नदृश्यदेहादिवन्मायाविकृतदेहादिवच्च आत्ममायाविसर्जिताः, आत्मनो माया अविद्या, तया प्रत्युपस्थापिताः, न परमार्थतः सन्तीत्यर्थः । यदि आधिक्यमधिकभावः तिर्यग्देहाद्यपेक्षया देवादिकार्यकरणसङ्घातानाम् , यदि वा सर्वेषां समतैव, तेषां न ह्युपपत्तिसम्भवः, सम्भवप्रतिपादको हेतुः न विद्यते नास्ति ; हि यस्मात् , तस्मादविद्याकृता एव, न परमार्थतः सन्तीत्यर्थः ॥",
-   "english": null,
+   "english": "All aggregates (such as body, etc.) are produced by the illusion of the Ātman (i.e., the perceiver) as in a dream. No rational arguments can be adduced to establish their reality, whether they be equal or superior (to one another).\nThe aggregates of body, etc., answering to the pots, etc., in the illustration, are produced,—like the body, etc., seen in dream or conjured up by the magician—by the illusion1 of the Ātman, i.e., the Avidyā (ignorance) which is in the perceiver. That2 is to say, they do not exist from the standpoint of the ultimate Reality. If3 it be argued, in order to establish their reality, that there is a superiority (among the created beings),—as in the case of the aggregates of cause and effect constituting gods who are superior to lower beings, such as birds and beasts—or that there is an equality (of all created beings), yet no cause4 can be set forth regarding their creation or reality. As there is no cause therefore all these are due to Avidyā or ignorance; they have no real existence.",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "सङ्घाताः स्वप्नवत्सर्व आत्ममायाविसर्जिताः ।\nआधिक्ये सर्वसाम्ये वा नोपपत्तिर्हि विद्यते ॥ १० ॥"
+     "sanskrit": "सङ्घाताः स्वप्नवत्सर्व आत्ममायाविसर्जिताः ।\nआधिक्ये सर्वसाम्ये वा नोपपत्तिर्हि विद्यते ॥ १० ॥",
+     "english": "All aggregates (such as body, etc.) are produced by the illusion of the Ātman (i.e., the perceiver) as in a dream. No rational arguments can be adduced to establish their reality, whether they be equal or superior (to one another)."
     },
     {
      "role": "bhashya",
-     "sanskrit": "घटादिस्थानीयास्तु देहादिसङ्घाताः स्वप्नदृश्यदेहादिवन्मायाविकृतदेहादिवच्च आत्ममायाविसर्जिताः, आत्मनो माया अविद्या, तया प्रत्युपस्थापिताः, न परमार्थतः सन्तीत्यर्थः । यदि आधिक्यमधिकभावः तिर्यग्देहाद्यपेक्षया देवादिकार्यकरणसङ्घातानाम् , यदि वा सर्वेषां समतैव, तेषां न ह्युपपत्तिसम्भवः, सम्भवप्रतिपादको हेतुः न विद्यते नास्ति ; हि यस्मात् , तस्मादविद्याकृता एव, न परमार्थतः सन्तीत्यर्थः ॥"
+     "sanskrit": "घटादिस्थानीयास्तु देहादिसङ्घाताः स्वप्नदृश्यदेहादिवन्मायाविकृतदेहादिवच्च आत्ममायाविसर्जिताः, आत्मनो माया अविद्या, तया प्रत्युपस्थापिताः, न परमार्थतः सन्तीत्यर्थः । यदि आधिक्यमधिकभावः तिर्यग्देहाद्यपेक्षया देवादिकार्यकरणसङ्घातानाम् , यदि वा सर्वेषां समतैव, तेषां न ह्युपपत्तिसम्भवः, सम्भवप्रतिपादको हेतुः न विद्यते नास्ति ; हि यस्मात् , तस्मादविद्याकृता एव, न परमार्थतः सन्तीत्यर्थः ॥",
+     "english": "The aggregates of body, etc., answering to the pots, etc., in the illustration, are produced,—like the body, etc., seen in dream or conjured up by the magician—by the illusion1 of the Ātman, i.e., the Avidyā (ignorance) which is in the perceiver. That2 is to say, they do not exist from the standpoint of the ultimate Reality. If3 it be argued, in order to establish their reality, that there is a superiority (among the created beings),—as in the case of the aggregates of cause and effect constituting gods who are superior to lower beings, such as birds and beasts—or that there is an equality (of all created beings), yet no cause4 can be set forth regarding their creation or reality. As there is no cause therefore all these are due to Avidyā or ignorance; they have no real existence."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (joined by karika number)"
+   }
   },
   {
    "ref": "3.K11",
@@ -1929,17 +1950,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "सम्भूतेरपवादाच्च सम्भवः प्रतिषिध्यते ।\nको न्वेनं जनयेदिति कारणं प्रतिषिध्यते ॥ २५ ॥\n‘अन्धं तमः प्रविशन्ति ये सम्भूतिमुपासते’(ई. मा. ९) इति सम्भूतेरुपास्यत्वापवादात्सम्भवः प्रतिषिध्यते ; न हि परमार्थसद्भूतायां सम्भूतौ तदपवाद उपपद्यते । ननु विनाशेन सम्भूतेः समुच्चयविधानार्थः सम्भूत्यपवादः, यथा ‘अन्धं तमः प्रविशन्ति येऽविद्यामुपासते’(ई. मा. १२) इति । सत्यमेव, देवतादर्शनस्य सम्भूतिविषयस्य विनाशशब्दवाच्यस्य च कर्मणः समुच्चयविधानार्थः सम्भूत्यपवादः ; तथापि विनाशाख्यस्य कर्मणः स्वाभाविकाज्ञानप्रवृत्तिरूपस्य मृत्योरतितरणार्थत्ववत् देवतादर्शनकर्मसमुच्चयस्य पुरुषसंस्कारार्थस्य कर्मफलरागप्रवृत्तिरूपस्य साध्यसाधनैषणाद्वयलक्षणस्य मृत्योरतितरणार्थत्वम् । एवं ह्येषणाद्वयरूपान्मृत्योरशुद्धेर्वियुक्तः पुरुषः संस्कृतः स्यात् । अतो मृत्योरतितरणार्था देवतादर्शनकर्मसमुच्चयलक्षणा ह्यविद्या । एवमेव एषणाद्वयलक्षणाविद्याया मृत्योरतितीर्णस्य विरक्तस्योपनिषच्छास्त्रार्थालोचनपरस्य नान्तरीयिका परमात्मैकत्वविद्योत्पत्तिरिति पूर्वभाविनीमविद्यामपेक्ष्य पश्चाद्भाविनी ब्रह्मविद्या अमृतत्वसाधना एकेन पुरुषेण सम्बध्यमाना अविद्यया समुच्चीयत इत्युच्यते । अतः अन्यार्थत्वादमृतत्वसाधनं ब्रह्मविद्यामपेक्ष्य, निन्दार्थ एव भवति सम्भूत्यपवादः यद्यप्यशुद्धिवियोगहेतुः अतन्निष्ठत्वात् । अत एव सम्भूतेरपवादात्सम्भूतेरापेक्षिकमेव सत्त्वमिति परमार्थसदात्मैकत्वमपेक्ष्य अमृताख्यः सम्भवः प्रतिषिध्यते । एवं मायानिर्मितस्यैव जीवस्य अविद्यया प्रत्युपस्थापितस्य अविद्यानाशे स्वभावरूपत्वात्परमार्थतः को न्वेनं जनयेत् ? न हि रज्ज्वामविद्याध्यारोपितं सर्पं पुनर्विवेकतो नष्टं जनयेत्कश्चित् ; तथा न कश्चिदेनं जनयेदिति । को न्वित्याक्षेपार्थत्वात्कारणं प्रतिषिध्यते । अविद्योद्भूतस्य नष्टस्य जनयितृ कारणं न किञ्चिदस्तीत्यभिप्रायः ; ‘नायं कुतश्चिन्न बभूव कश्चित्’(क. उ. १ । २ । १८) इति श्रुतेः ॥",
-   "english": null,
+   "english": "Again, by the negation of creation (Sambhūti) the passing into birth is refuted. Causality (in respect of Ātman) is denied by such a statement as, “who can cause it to pass into birth?”\nBy the condemnation of Sambhūti 1 (i.e., Hiraṇyagarbha) as something fit to be meditated upon, in such Śruti2 passage as, “They enter into blind darkness who worship Sambhūti,” the whole3 creation (evolution) is negatived. For, if Sambhūti were absolutely real, then its condemnation, in such manner, would not be reasonable.\n(Objection)—The4 condemnation of Sambhūti is meant here for co-ordinating Sambhūti with Vināśa 5 as is the case with the Śruti passage,6 “They enter into blind darkness who worship Avidyā”.\n(Reply)—Yes, it is indeed true that the condemnation of the exclusive worship of Sambhūti is made for the purpose of co-ordinating the meditation regarding Sambhūti with the Karma (ritual) known as Vināśa. Still it should not be forgotten that as the purpose of the Karma known as Vināśa is to transcend death,—whose nature is the desire consequent upon the inborn ignorance of man—so also the aim7 of the co-ordination of the meditation on Devatā (i.e., Sambhūti or Hiraṇyagarbha) with the Karma (called Vināśa) undertaken for the purpose of the purification of the mind of man, is to transcend death,—which8 is of the nature of the attachment to ritual and its results characterised by the dual hankering after the end and the means. For, thus alone man becomes free from death which is of the nature of impurity and is characterised by the dual impulse of end and means. Therefore the co-ordination of the meditation of Devatā and of Karma—which is Avidyā—leads to freedom from death. Thus9 the realisation of Vidyā (the highest knowledge), characterised by the identity of the Supreme Self and Jīva, is inevitable10 for one who has transcended death,—of the form of Avidyā and characterised by the dual impulses (of the means and the end),—and who is established in renunciation and also devoted to the meaning of the import of the Upaniṣad. It is therefore said thus11: Brahmavidyā (i.e., the knowledge of Brahman—which is the means for the attainment of Immortality and which is (from the relative standpoint) subsequent to the state of the antecedent Avidyā (ignorance) being related to the same person (who is still in the state of ignorance), is said to be coordinated with Avidyā. Hence the negation of Sambhūti is for the purpose of condemnation as it serves a purpose other12 than the knowledge of Brahman which (alone) is the means to the attainment of Immortality. Though it serves the purpose of removing impurity yet the devotion to Sambhūti does not enable one to realise (directly) immortality. (Therefore the condemnation of Sambhūti is reasonable.) Hence, Sambhūti, being thus negatived, it can be said to have only a relative existence. Having regard to the unity of Ātman, the ultimate Reality, creation (symbolised by Hiraṇyagarbha) which is known as immortal13 (only from the relative standpoint) is negated. Such14 being the case, who can bring into being the Jīva who is seen as created only through illusion (Māyā) and who exists only while ignorance (Avidyā) lasts? This Jīva reverts to its original nature (of Brahman) with the disappearance of Avidvā, For, no one can verily bring into being the snake (falsely) superimposed upon the rope through Avidyā and which disappears when one knows (the true nature of the rope). Therefore no one can produce or create the Jīva. The words “Ko nu” (“who can?”) in the text, being in the form of interrogation refute the idea of causality. The purport of the Kārikā is that there can be no cause for a thing which is seen to be born only through ignorance and which disappears with the destruction of the said ignorance. The Śruti also says, “This15 Ātman is not born from any cause nor is anything born from it.”",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "सम्भूतेरपवादाच्च सम्भवः प्रतिषिध्यते ।\nको न्वेनं जनयेदिति कारणं प्रतिषिध्यते ॥ २५ ॥"
+     "sanskrit": "सम्भूतेरपवादाच्च सम्भवः प्रतिषिध्यते ।\nको न्वेनं जनयेदिति कारणं प्रतिषिध्यते ॥ २५ ॥",
+     "english": "Again, by the negation of creation (Sambhūti) the passing into birth is refuted. Causality (in respect of Ātman) is denied by such a statement as, “who can cause it to pass into birth?”"
     },
     {
      "role": "bhashya",
-     "sanskrit": "‘अन्धं तमः प्रविशन्ति ये सम्भूतिमुपासते’(ई. मा. ९) इति सम्भूतेरुपास्यत्वापवादात्सम्भवः प्रतिषिध्यते ; न हि परमार्थसद्भूतायां सम्भूतौ तदपवाद उपपद्यते । ननु विनाशेन सम्भूतेः समुच्चयविधानार्थः सम्भूत्यपवादः, यथा ‘अन्धं तमः प्रविशन्ति येऽविद्यामुपासते’(ई. मा. १२) इति । सत्यमेव, देवतादर्शनस्य सम्भूतिविषयस्य विनाशशब्दवाच्यस्य च कर्मणः समुच्चयविधानार्थः सम्भूत्यपवादः ; तथापि विनाशाख्यस्य कर्मणः स्वाभाविकाज्ञानप्रवृत्तिरूपस्य मृत्योरतितरणार्थत्ववत् देवतादर्शनकर्मसमुच्चयस्य पुरुषसंस्कारार्थस्य कर्मफलरागप्रवृत्तिरूपस्य साध्यसाधनैषणाद्वयलक्षणस्य मृत्योरतितरणार्थत्वम् । एवं ह्येषणाद्वयरूपान्मृत्योरशुद्धेर्वियुक्तः पुरुषः संस्कृतः स्यात् । अतो मृत्योरतितरणार्था देवतादर्शनकर्मसमुच्चयलक्षणा ह्यविद्या । एवमेव एषणाद्वयलक्षणाविद्याया मृत्योरतितीर्णस्य विरक्तस्योपनिषच्छास्त्रार्थालोचनपरस्य नान्तरीयिका परमात्मैकत्वविद्योत्पत्तिरिति पूर्वभाविनीमविद्यामपेक्ष्य पश्चाद्भाविनी ब्रह्मविद्या अमृतत्वसाधना एकेन पुरुषेण सम्बध्यमाना अविद्यया समुच्चीयत इत्युच्यते । अतः अन्यार्थत्वादमृतत्वसाधनं ब्रह्मविद्यामपेक्ष्य, निन्दार्थ एव भवति सम्भूत्यपवादः यद्यप्यशुद्धिवियोगहेतुः अतन्निष्ठत्वात् । अत एव सम्भूतेरपवादात्सम्भूतेरापेक्षिकमेव सत्त्वमिति परमार्थसदात्मैकत्वमपेक्ष्य अमृताख्यः सम्भवः प्रतिषिध्यते । एवं मायानिर्मितस्यैव जीवस्य अविद्यया प्रत्युपस्थापितस्य अविद्यानाशे स्वभावरूपत्वात्परमार्थतः को न्वेनं जनयेत् ? न हि रज्ज्वामविद्याध्यारोपितं सर्पं पुनर्विवेकतो नष्टं जनयेत्कश्चित् ; तथा न कश्चिदेनं जनयेदिति । को न्वित्याक्षेपार्थत्वात्कारणं प्रतिषिध्यते । अविद्योद्भूतस्य नष्टस्य जनयितृ कारणं न किञ्चिदस्तीत्यभिप्रायः ; ‘नायं कुतश्चिन्न बभूव कश्चित्’(क. उ. १ । २ । १८) इति श्रुतेः ॥"
+     "sanskrit": "‘अन्धं तमः प्रविशन्ति ये सम्भूतिमुपासते’(ई. मा. ९) इति सम्भूतेरुपास्यत्वापवादात्सम्भवः प्रतिषिध्यते ; न हि परमार्थसद्भूतायां सम्भूतौ तदपवाद उपपद्यते । ननु विनाशेन सम्भूतेः समुच्चयविधानार्थः सम्भूत्यपवादः, यथा ‘अन्धं तमः प्रविशन्ति येऽविद्यामुपासते’(ई. मा. १२) इति । सत्यमेव, देवतादर्शनस्य सम्भूतिविषयस्य विनाशशब्दवाच्यस्य च कर्मणः समुच्चयविधानार्थः सम्भूत्यपवादः ; तथापि विनाशाख्यस्य कर्मणः स्वाभाविकाज्ञानप्रवृत्तिरूपस्य मृत्योरतितरणार्थत्ववत् देवतादर्शनकर्मसमुच्चयस्य पुरुषसंस्कारार्थस्य कर्मफलरागप्रवृत्तिरूपस्य साध्यसाधनैषणाद्वयलक्षणस्य मृत्योरतितरणार्थत्वम् । एवं ह्येषणाद्वयरूपान्मृत्योरशुद्धेर्वियुक्तः पुरुषः संस्कृतः स्यात् । अतो मृत्योरतितरणार्था देवतादर्शनकर्मसमुच्चयलक्षणा ह्यविद्या । एवमेव एषणाद्वयलक्षणाविद्याया मृत्योरतितीर्णस्य विरक्तस्योपनिषच्छास्त्रार्थालोचनपरस्य नान्तरीयिका परमात्मैकत्वविद्योत्पत्तिरिति पूर्वभाविनीमविद्यामपेक्ष्य पश्चाद्भाविनी ब्रह्मविद्या अमृतत्वसाधना एकेन पुरुषेण सम्बध्यमाना अविद्यया समुच्चीयत इत्युच्यते । अतः अन्यार्थत्वादमृतत्वसाधनं ब्रह्मविद्यामपेक्ष्य, निन्दार्थ एव भवति सम्भूत्यपवादः यद्यप्यशुद्धिवियोगहेतुः अतन्निष्ठत्वात् । अत एव सम्भूतेरपवादात्सम्भूतेरापेक्षिकमेव सत्त्वमिति परमार्थसदात्मैकत्वमपेक्ष्य अमृताख्यः सम्भवः प्रतिषिध्यते । एवं मायानिर्मितस्यैव जीवस्य अविद्यया प्रत्युपस्थापितस्य अविद्यानाशे स्वभावरूपत्वात्परमार्थतः को न्वेनं जनयेत् ? न हि रज्ज्वामविद्याध्यारोपितं सर्पं पुनर्विवेकतो नष्टं जनयेत्कश्चित् ; तथा न कश्चिदेनं जनयेदिति । को न्वित्याक्षेपार्थत्वात्कारणं प्रतिषिध्यते । अविद्योद्भूतस्य नष्टस्य जनयितृ कारणं न किञ्चिदस्तीत्यभिप्रायः ; ‘नायं कुतश्चिन्न बभूव कश्चित्’(क. उ. १ । २ । १८) इति श्रुतेः ॥",
+     "english": "By the condemnation of Sambhūti 1 (i.e., Hiraṇyagarbha) as something fit to be meditated upon, in such Śruti2 passage as, “They enter into blind darkness who worship Sambhūti,” the whole3 creation (evolution) is negatived. For, if Sambhūti were absolutely real, then its condemnation, in such manner, would not be reasonable.\n(Objection)—The4 condemnation of Sambhūti is meant here for co-ordinating Sambhūti with Vināśa 5 as is the case with the Śruti passage,6 “They enter into blind darkness who worship Avidyā”.\n(Reply)—Yes, it is indeed true that the condemnation of the exclusive worship of Sambhūti is made for the purpose of co-ordinating the meditation regarding Sambhūti with the Karma (ritual) known as Vināśa. Still it should not be forgotten that as the purpose of the Karma known as Vināśa is to transcend death,—whose nature is the desire consequent upon the inborn ignorance of man—so also the aim7 of the co-ordination of the meditation on Devatā (i.e., Sambhūti or Hiraṇyagarbha) with the Karma (called Vināśa) undertaken for the purpose of the purification of the mind of man, is to transcend death,—which8 is of the nature of the attachment to ritual and its results characterised by the dual hankering after the end and the means. For, thus alone man becomes free from death which is of the nature of impurity and is characterised by the dual impulse of end and means. Therefore the co-ordination of the meditation of Devatā and of Karma—which is Avidyā—leads to freedom from death. Thus9 the realisation of Vidyā (the highest knowledge), characterised by the identity of the Supreme Self and Jīva, is inevitable10 for one who has transcended death,—of the form of Avidyā and characterised by the dual impulses (of the means and the end),—and who is established in renunciation and also devoted to the meaning of the import of the Upaniṣad. It is therefore said thus11: Brahmavidyā (i.e., the knowledge of Brahman—which is the means for the attainment of Immortality and which is (from the relative standpoint) subsequent to the state of the antecedent Avidyā (ignorance) being related to the same person (who is still in the state of ignorance), is said to be coordinated with Avidyā. Hence the negation of Sambhūti is for the purpose of condemnation as it serves a purpose other12 than the knowledge of Brahman which (alone) is the means to the attainment of Immortality. Though it serves the purpose of removing impurity yet the devotion to Sambhūti does not enable one to realise (directly) immortality. (Therefore the condemnation of Sambhūti is reasonable.) Hence, Sambhūti, being thus negatived, it can be said to have only a relative existence. Having regard to the unity of Ātman, the ultimate Reality, creation (symbolised by Hiraṇyagarbha) which is known as immortal13 (only from the relative standpoint) is negated. Such14 being the case, who can bring into being the Jīva who is seen as created only through illusion (Māyā) and who exists only while ignorance (Avidyā) lasts? This Jīva reverts to its original nature (of Brahman) with the disappearance of Avidvā, For, no one can verily bring into being the snake (falsely) superimposed upon the rope through Avidyā and which disappears when one knows (the true nature of the rope). Therefore no one can produce or create the Jīva. The words “Ko nu” (“who can?”) in the text, being in the form of interrogation refute the idea of causality. The purport of the Kārikā is that there can be no cause for a thing which is seen to be born only through ignorance and which disappears with the destruction of the said ignorance. The Śruti also says, “This15 Ātman is not born from any cause nor is anything born from it.”"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (joined by karika number)"
+   }
   },
   {
    "ref": "3.K26",
@@ -2079,17 +2105,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "अकल्पकमजं ज्ञानं ज्ञेयाभिन्नं प्रचक्षते ।\nब्रह्म ज्ञेयमजं नित्यमजेनाजं विबुध्यते ॥ ३३ ॥\nयद्यसदिदं द्वैतम् , केन समञ्जसमात्मतत्त्वं विबुध्यत इति, उच्यते — अकल्पकं सर्वकल्पनावर्जितम् , अत एव अजं ज्ञानं ज्ञप्तिमात्रं ज्ञेयेन परमार्थसता ब्रह्मणा अभिन्नं प्रचक्षते कथयन्ति ब्रह्मविदः । ‘न हि विज्ञातुर्विज्ञातेर्विपरिलोपो विद्यते’(बृ. उ. ४ । ३ । ३०) अग्न्युष्णवत् , ‘विज्ञानमानन्दं ब्रह्म’(बृ. उ. ३ । ९ । २८) ‘सत्यं ज्ञानमनन्तं ब्रह्म’(तै. उ. २ । १ । १) इत्यादिश्रुतिभ्यः । तस्यैव विशेषणम् — ब्रह्म ज्ञेयं यस्य, स्वस्थं तदिदं ब्रह्म ज्ञेयम् औष्ण्यस्येवाग्निवदभिन्नम् , तेन आत्मस्वरूपेण अजेन ज्ञानेन अजं ज्ञेयमात्मतत्त्वं स्वयमेव विबुध्यते अवगच्छति । नित्यप्रकाशस्वरूप इव सविता नित्यविज्ञानैकरसघनत्वान्न ज्ञानान्तरमपेक्षत इत्यर्थः ॥",
-   "english": null,
+   "english": "The knowledge (Jñānam) which is unborn and free from all imaginations is ever inseparable from the knowable. The immutable and birthless Brahman is the sole object of knowledge. The birthless is known by the birthless.\nIf all this duality be illusory, how is the knowledge of the Self to be realised? It is thus replied:—The Knowers of Brahman describe knowledge, i.e., the mere essence of thought, which is unborn and free from all imaginations as1 non-different from Brahman, the ultimate Reality, which is also the object of knowledge. This is supported by such Scriptural passages as, “Like heat from fire, knowledge (Jñānam) is never absent from the knower (Ātman),” “Brahman is Knowledge and Bliss,” “Brahman is Reality, Knowledge and Infinity,” etc. The knowledge of which Brahman is the object, is non-different from (the know-able) Brahman, as is the heat from the fire. The Essence of the Self, which is the object of knowledge, verily knows itself by means of unborn knowledge, which is of the very nature of Ātman. Brahman which is of the nature of one homogeneous mass of eternal consciousness, does not depend upon another2 instrument of knowledge (for its illumination), as is the case with the sun, which being of the nature of continuous light (does not require any instrument to illumine itself).\n1 As non-different, etc.—The Jñānam or knowledge is the same as Brahman; otherwise no knowledge would be able to tell us what Brahman is. Darkness cannot illumine the sun. Only the light of the sun which is the sun itself, can illumine the sun.\n2 Another instrument—Such as scripture, etc., which only tell us what is not self.\nTo the Jñāni, even when he acts in this empirical world, the knower, the knowledge and the object of knowledge are all Brahman. And yet all these, being of the nature of Brahman, are without birth (Aja).",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "अकल्पकमजं ज्ञानं ज्ञेयाभिन्नं प्रचक्षते ।\nब्रह्म ज्ञेयमजं नित्यमजेनाजं विबुध्यते ॥ ३३ ॥"
+     "sanskrit": "अकल्पकमजं ज्ञानं ज्ञेयाभिन्नं प्रचक्षते ।\nब्रह्म ज्ञेयमजं नित्यमजेनाजं विबुध्यते ॥ ३३ ॥",
+     "english": "The knowledge (Jñānam) which is unborn and free from all imaginations is ever inseparable from the knowable. The immutable and birthless Brahman is the sole object of knowledge. The birthless is known by the birthless."
     },
     {
      "role": "bhashya",
-     "sanskrit": "यद्यसदिदं द्वैतम् , केन समञ्जसमात्मतत्त्वं विबुध्यत इति, उच्यते — अकल्पकं सर्वकल्पनावर्जितम् , अत एव अजं ज्ञानं ज्ञप्तिमात्रं ज्ञेयेन परमार्थसता ब्रह्मणा अभिन्नं प्रचक्षते कथयन्ति ब्रह्मविदः । ‘न हि विज्ञातुर्विज्ञातेर्विपरिलोपो विद्यते’(बृ. उ. ४ । ३ । ३०) अग्न्युष्णवत् , ‘विज्ञानमानन्दं ब्रह्म’(बृ. उ. ३ । ९ । २८) ‘सत्यं ज्ञानमनन्तं ब्रह्म’(तै. उ. २ । १ । १) इत्यादिश्रुतिभ्यः । तस्यैव विशेषणम् — ब्रह्म ज्ञेयं यस्य, स्वस्थं तदिदं ब्रह्म ज्ञेयम् औष्ण्यस्येवाग्निवदभिन्नम् , तेन आत्मस्वरूपेण अजेन ज्ञानेन अजं ज्ञेयमात्मतत्त्वं स्वयमेव विबुध्यते अवगच्छति । नित्यप्रकाशस्वरूप इव सविता नित्यविज्ञानैकरसघनत्वान्न ज्ञानान्तरमपेक्षत इत्यर्थः ॥"
+     "sanskrit": "यद्यसदिदं द्वैतम् , केन समञ्जसमात्मतत्त्वं विबुध्यत इति, उच्यते — अकल्पकं सर्वकल्पनावर्जितम् , अत एव अजं ज्ञानं ज्ञप्तिमात्रं ज्ञेयेन परमार्थसता ब्रह्मणा अभिन्नं प्रचक्षते कथयन्ति ब्रह्मविदः । ‘न हि विज्ञातुर्विज्ञातेर्विपरिलोपो विद्यते’(बृ. उ. ४ । ३ । ३०) अग्न्युष्णवत् , ‘विज्ञानमानन्दं ब्रह्म’(बृ. उ. ३ । ९ । २८) ‘सत्यं ज्ञानमनन्तं ब्रह्म’(तै. उ. २ । १ । १) इत्यादिश्रुतिभ्यः । तस्यैव विशेषणम् — ब्रह्म ज्ञेयं यस्य, स्वस्थं तदिदं ब्रह्म ज्ञेयम् औष्ण्यस्येवाग्निवदभिन्नम् , तेन आत्मस्वरूपेण अजेन ज्ञानेन अजं ज्ञेयमात्मतत्त्वं स्वयमेव विबुध्यते अवगच्छति । नित्यप्रकाशस्वरूप इव सविता नित्यविज्ञानैकरसघनत्वान्न ज्ञानान्तरमपेक्षत इत्यर्थः ॥",
+     "english": "If all this duality be illusory, how is the knowledge of the Self to be realised? It is thus replied:—The Knowers of Brahman describe knowledge, i.e., the mere essence of thought, which is unborn and free from all imaginations as1 non-different from Brahman, the ultimate Reality, which is also the object of knowledge. This is supported by such Scriptural passages as, “Like heat from fire, knowledge (Jñānam) is never absent from the knower (Ātman),” “Brahman is Knowledge and Bliss,” “Brahman is Reality, Knowledge and Infinity,” etc. The knowledge of which Brahman is the object, is non-different from (the know-able) Brahman, as is the heat from the fire. The Essence of the Self, which is the object of knowledge, verily knows itself by means of unborn knowledge, which is of the very nature of Ātman. Brahman which is of the nature of one homogeneous mass of eternal consciousness, does not depend upon another2 instrument of knowledge (for its illumination), as is the case with the sun, which being of the nature of continuous light (does not require any instrument to illumine itself).\n1 As non-different, etc.—The Jñānam or knowledge is the same as Brahman; otherwise no knowledge would be able to tell us what Brahman is. Darkness cannot illumine the sun. Only the light of the sun which is the sun itself, can illumine the sun.\n2 Another instrument—Such as scripture, etc., which only tell us what is not self.\nTo the Jñāni, even when he acts in this empirical world, the knower, the knowledge and the object of knowledge are all Brahman. And yet all these, being of the nature of Brahman, are without birth (Aja)."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (joined by karika number)"
+   }
   },
   {
    "ref": "3.K34",
@@ -2134,17 +2165,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "अजमनिद्रमस्वप्नमनामकमरूपकम् ।\nसकृद्विभातं सर्वज्ञं नोपचारः कथञ्चन ॥ ३६ ॥\nजन्मनिमित्ताभावात्सबाह्याभ्यन्तरम् अजम् ; अविद्यानिमित्तं हि जन्म रज्जुसर्पवदित्यवोचाम । सा चाविद्या आत्मसत्यानुबोधेन निरुद्धा यतः, अतः अजम् , अत एव अनिद्रम् अविद्यालक्षणानादिर्मायानिद्रास्वापात्प्रबुद्धम् अद्वयस्वरूपेणात्मना ; अतः अस्वप्नम् । अप्रबोधकृते ह्यस्य नामरूपे ; प्रबोधाच्च ते रज्जुसर्पवद्विनष्टे । न नाम्नाभिधीयते ब्रह्म, रूप्यते वा न केनचित्प्रकारेण इति अनामकम् अरूपकं च तत् , ‘यतो वाचो निवर्तन्ते’(तै. उ. २ । ४ । १) इत्यादिश्रुतेः । किञ्च, सकृद्विभातं सदैव विभातं सदा भारूपम् , अग्रहणान्यथाग्रहणाविर्भावतिरोभाववर्जितत्वात् । ग्रहणाग्रहणे हि रात्र्यहनी ; तमश्चाविद्यालक्षणं सदा अप्रभातत्वे कारणम् ; तदभावान्नित्यचैतन्यभारूपत्वाच्च युक्तं सकृद्विभातमिति । अत एव सर्वं च तत् ज्ञप्तिस्वरूपं चेति सर्वज्ञम् । नेह ब्रह्मण्येवंविधे उपचरणमुपचारः कर्तव्यः, यथा अन्येषामात्मस्वरूपव्यतिरेकेण समाधानाद्युपचारः । नित्यशुद्धबुद्धमुक्तस्वभावत्वाद्ब्रह्मणः कथञ्चन न कथञ्चिदपि कर्तव्यसम्भवः अविद्यानाशे इत्यर्थः ॥",
-   "english": null,
+   "english": "(This Brahman is) birthless, free from sleep and dream, without name and form, ever-effulgent and omniscient. Nothing has to be done in any way (with respect to Brahman).\nBrahman is both within and without as well as unborn, as there is no cause for its passing into birth. For, we have already stated that (the phenomenon of) birth is seen on account of the ignorance (of the real nature of a thing), as1 is the case with the rope giving birth to the (illusion of the) snake. It is birthless because all ignorance is destroyed by the knowledge of Truth which is the Ātman. Hence it is free from sleep2; for, Ātman, which is, by nature, non-dual, is always free from sleep the nature of which is that of beginningless delusion characterised by ignorance. Therefore it is free from dream.3 Names and forms which are ascribed to it are due to the ignorance of its real nature. These names and forms are destroyed by Knowledge. It is like the (destruction of the illusion of the) snake seen in the rope. Hence Brahman cannot be described by any name, nor can it be in any manner described to be of any form. To support this, there are such Śruti passages as, “From which words come back,” etc. Moreover, it4 is ever effulgent or it is of the very nature of effulgence. For,5 it is free from (the ideas of) manifestation and non-manifestation characterised by wrong apprehension and non-apprehension. Apprehension and nonapprehension are (as inseparable) as day and night. Darkness is the characteristic of ignorance. These are the causes of the non-manifestation (of the real nature of Ātman). These6 are absent in Ātman. Moreover, Ātman is always of the nature of consciousness and effulgence. Therefore it is reasonable to speak of Ātman as ever-effulgent. It is all-knowing, that is to say, Ātman is all that exists and Ātman is consciousness (awareness) itself. As regards such Brahman (i.e., the one that knows such\nBrahman) no action can be enjoined, as may be in the case of others, who (on account of their ignorance of the real nature of Brahman) are asked to practise concentration, etc., on the nature of Ātman. The7 purport is that besides the destruction of ignorance it is not possible to prescribe any disciplinary action (for the knowledge of Brahman), as Brahman is always of the nature of purity, knowledge and freedom. The nature of Brahman, which is the subject-matter under discussion is thus described in other ways. The purport of the Kārikā is that apart from the realisation of one’s identity with the attributeless Brahman no effort is to be made by him. The categorical imperative of Kant has no meaning for a knower of Ātman. Yogic Samādhi is not the same as the goal of Jñāna Yoga as described in the philosophy of Advaita Vedānta or the Kārikā.",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "अजमनिद्रमस्वप्नमनामकमरूपकम् ।\nसकृद्विभातं सर्वज्ञं नोपचारः कथञ्चन ॥ ३६ ॥"
+     "sanskrit": "अजमनिद्रमस्वप्नमनामकमरूपकम् ।\nसकृद्विभातं सर्वज्ञं नोपचारः कथञ्चन ॥ ३६ ॥",
+     "english": "(This Brahman is) birthless, free from sleep and dream, without name and form, ever-effulgent and omniscient. Nothing has to be done in any way (with respect to Brahman)."
     },
     {
      "role": "bhashya",
-     "sanskrit": "जन्मनिमित्ताभावात्सबाह्याभ्यन्तरम् अजम् ; अविद्यानिमित्तं हि जन्म रज्जुसर्पवदित्यवोचाम । सा चाविद्या आत्मसत्यानुबोधेन निरुद्धा यतः, अतः अजम् , अत एव अनिद्रम् अविद्यालक्षणानादिर्मायानिद्रास्वापात्प्रबुद्धम् अद्वयस्वरूपेणात्मना ; अतः अस्वप्नम् । अप्रबोधकृते ह्यस्य नामरूपे ; प्रबोधाच्च ते रज्जुसर्पवद्विनष्टे । न नाम्नाभिधीयते ब्रह्म, रूप्यते वा न केनचित्प्रकारेण इति अनामकम् अरूपकं च तत् , ‘यतो वाचो निवर्तन्ते’(तै. उ. २ । ४ । १) इत्यादिश्रुतेः । किञ्च, सकृद्विभातं सदैव विभातं सदा भारूपम् , अग्रहणान्यथाग्रहणाविर्भावतिरोभाववर्जितत्वात् । ग्रहणाग्रहणे हि रात्र्यहनी ; तमश्चाविद्यालक्षणं सदा अप्रभातत्वे कारणम् ; तदभावान्नित्यचैतन्यभारूपत्वाच्च युक्तं सकृद्विभातमिति । अत एव सर्वं च तत् ज्ञप्तिस्वरूपं चेति सर्वज्ञम् । नेह ब्रह्मण्येवंविधे उपचरणमुपचारः कर्तव्यः, यथा अन्येषामात्मस्वरूपव्यतिरेकेण समाधानाद्युपचारः । नित्यशुद्धबुद्धमुक्तस्वभावत्वाद्ब्रह्मणः कथञ्चन न कथञ्चिदपि कर्तव्यसम्भवः अविद्यानाशे इत्यर्थः ॥"
+     "sanskrit": "जन्मनिमित्ताभावात्सबाह्याभ्यन्तरम् अजम् ; अविद्यानिमित्तं हि जन्म रज्जुसर्पवदित्यवोचाम । सा चाविद्या आत्मसत्यानुबोधेन निरुद्धा यतः, अतः अजम् , अत एव अनिद्रम् अविद्यालक्षणानादिर्मायानिद्रास्वापात्प्रबुद्धम् अद्वयस्वरूपेणात्मना ; अतः अस्वप्नम् । अप्रबोधकृते ह्यस्य नामरूपे ; प्रबोधाच्च ते रज्जुसर्पवद्विनष्टे । न नाम्नाभिधीयते ब्रह्म, रूप्यते वा न केनचित्प्रकारेण इति अनामकम् अरूपकं च तत् , ‘यतो वाचो निवर्तन्ते’(तै. उ. २ । ४ । १) इत्यादिश्रुतेः । किञ्च, सकृद्विभातं सदैव विभातं सदा भारूपम् , अग्रहणान्यथाग्रहणाविर्भावतिरोभाववर्जितत्वात् । ग्रहणाग्रहणे हि रात्र्यहनी ; तमश्चाविद्यालक्षणं सदा अप्रभातत्वे कारणम् ; तदभावान्नित्यचैतन्यभारूपत्वाच्च युक्तं सकृद्विभातमिति । अत एव सर्वं च तत् ज्ञप्तिस्वरूपं चेति सर्वज्ञम् । नेह ब्रह्मण्येवंविधे उपचरणमुपचारः कर्तव्यः, यथा अन्येषामात्मस्वरूपव्यतिरेकेण समाधानाद्युपचारः । नित्यशुद्धबुद्धमुक्तस्वभावत्वाद्ब्रह्मणः कथञ्चन न कथञ्चिदपि कर्तव्यसम्भवः अविद्यानाशे इत्यर्थः ॥",
+     "english": "Brahman is both within and without as well as unborn, as there is no cause for its passing into birth. For, we have already stated that (the phenomenon of) birth is seen on account of the ignorance (of the real nature of a thing), as1 is the case with the rope giving birth to the (illusion of the) snake. It is birthless because all ignorance is destroyed by the knowledge of Truth which is the Ātman. Hence it is free from sleep2; for, Ātman, which is, by nature, non-dual, is always free from sleep the nature of which is that of beginningless delusion characterised by ignorance. Therefore it is free from dream.3 Names and forms which are ascribed to it are due to the ignorance of its real nature. These names and forms are destroyed by Knowledge. It is like the (destruction of the illusion of the) snake seen in the rope. Hence Brahman cannot be described by any name, nor can it be in any manner described to be of any form. To support this, there are such Śruti passages as, “From which words come back,” etc. Moreover, it4 is ever effulgent or it is of the very nature of effulgence. For,5 it is free from (the ideas of) manifestation and non-manifestation characterised by wrong apprehension and non-apprehension. Apprehension and nonapprehension are (as inseparable) as day and night. Darkness is the characteristic of ignorance. These are the causes of the non-manifestation (of the real nature of Ātman). These6 are absent in Ātman. Moreover, Ātman is always of the nature of consciousness and effulgence. Therefore it is reasonable to speak of Ātman as ever-effulgent. It is all-knowing, that is to say, Ātman is all that exists and Ātman is consciousness (awareness) itself. As regards such Brahman (i.e., the one that knows such\nBrahman) no action can be enjoined, as may be in the case of others, who (on account of their ignorance of the real nature of Brahman) are asked to practise concentration, etc., on the nature of Ātman. The7 purport is that besides the destruction of ignorance it is not possible to prescribe any disciplinary action (for the knowledge of Brahman), as Brahman is always of the nature of purity, knowledge and freedom. The nature of Brahman, which is the subject-matter under discussion is thus described in other ways. The purport of the Kārikā is that apart from the realisation of one’s identity with the attributeless Brahman no effort is to be made by him. The categorical imperative of Kant has no meaning for a knower of Ātman. Yogic Samādhi is not the same as the goal of Jñāna Yoga as described in the philosophy of Advaita Vedānta or the Kārikā."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (joined by karika number)"
+   }
   },
   {
    "ref": "3.K37",
@@ -2284,17 +2320,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "लये सम्बोधयेच्चित्तं विक्षिप्तं शमयेत्पुनः ।\nसकषायं विजानीयात्समप्राप्तं न चालयेत् ॥ ४४ ॥\nएवमनेन ज्ञानाभ्यासवैराग्यद्वयोपायेन लये सुषुप्ते लीनं सम्बोधयेत् मनः आत्मविवेकदर्शनेन योजयेत् । चित्तं मन इत्यनर्थान्तरम् । विक्षिप्तं च कामभोगेषु शमयेत्पुनः । एवं पुनः पुनरभ्यासतो लयात्सम्बोधितं विषयेभ्यश्च व्यावर्तितम् , नापि साम्यापन्नमन्तरालावस्थं सकषायं सरागं बीजसंयुक्तं मन इति विजानीयात् । ततोऽपि यत्नतः साम्यमापादयेत् । यदा तु समप्राप्तं भवति, समप्राप्त्यभिमुखीभवतीत्यर्थः ; ततः तत् न चालयेत् , विषयाभिमुखं न कुर्यादित्यर्थः ॥",
-   "english": null,
+   "english": "If the mind becomes inactive in a state of oblivion awaken it again. If it is distracted,, bring it back to the state of tranquillity. (In the intermediary state) know the mind containing within it desires in potential form. If the mind has attained to the state of equilibrium, then do not disturb it again.\nWhen1 the mind is immersed in oblivion, i.e., in Suṣupti, then rouse it up by means of knowledge and by detachment. That is to say, turn the mind to the exercise of discrimination which leads to the knowledge of the Self. The word “Chitta” in the text bears the same meaning as “Manas” or mind. Bring2 the mind back to the state of tranquillity if it is distracted by the various objects of desires. When the mind is thus, by constant practice, awakened from the state of inactivity and also turned back from all objects, but not yet established in equilibrium,3 that is to say, when the mind still dwells in an intermediary state,—then know4 the mind to be possessed of attachment. Then the mind contains within it the seeds of desires for enjoyment and inactivity. From5 that state also, bring the mind, with care, to the realisation of equilibrium. Once the mind hás realised the state of equilibrium, that is, when it is on the way to realise that state, then do not disturb it again. In other words, do not turn it to (by attachment) external objects.",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "लये सम्बोधयेच्चित्तं विक्षिप्तं शमयेत्पुनः ।\nसकषायं विजानीयात्समप्राप्तं न चालयेत् ॥ ४४ ॥"
+     "sanskrit": "लये सम्बोधयेच्चित्तं विक्षिप्तं शमयेत्पुनः ।\nसकषायं विजानीयात्समप्राप्तं न चालयेत् ॥ ४४ ॥",
+     "english": "If the mind becomes inactive in a state of oblivion awaken it again. If it is distracted,, bring it back to the state of tranquillity. (In the intermediary state) know the mind containing within it desires in potential form. If the mind has attained to the state of equilibrium, then do not disturb it again."
     },
     {
      "role": "bhashya",
-     "sanskrit": "एवमनेन ज्ञानाभ्यासवैराग्यद्वयोपायेन लये सुषुप्ते लीनं सम्बोधयेत् मनः आत्मविवेकदर्शनेन योजयेत् । चित्तं मन इत्यनर्थान्तरम् । विक्षिप्तं च कामभोगेषु शमयेत्पुनः । एवं पुनः पुनरभ्यासतो लयात्सम्बोधितं विषयेभ्यश्च व्यावर्तितम् , नापि साम्यापन्नमन्तरालावस्थं सकषायं सरागं बीजसंयुक्तं मन इति विजानीयात् । ततोऽपि यत्नतः साम्यमापादयेत् । यदा तु समप्राप्तं भवति, समप्राप्त्यभिमुखीभवतीत्यर्थः ; ततः तत् न चालयेत् , विषयाभिमुखं न कुर्यादित्यर्थः ॥"
+     "sanskrit": "एवमनेन ज्ञानाभ्यासवैराग्यद्वयोपायेन लये सुषुप्ते लीनं सम्बोधयेत् मनः आत्मविवेकदर्शनेन योजयेत् । चित्तं मन इत्यनर्थान्तरम् । विक्षिप्तं च कामभोगेषु शमयेत्पुनः । एवं पुनः पुनरभ्यासतो लयात्सम्बोधितं विषयेभ्यश्च व्यावर्तितम् , नापि साम्यापन्नमन्तरालावस्थं सकषायं सरागं बीजसंयुक्तं मन इति विजानीयात् । ततोऽपि यत्नतः साम्यमापादयेत् । यदा तु समप्राप्तं भवति, समप्राप्त्यभिमुखीभवतीत्यर्थः ; ततः तत् न चालयेत् , विषयाभिमुखं न कुर्यादित्यर्थः ॥",
+     "english": "When1 the mind is immersed in oblivion, i.e., in Suṣupti, then rouse it up by means of knowledge and by detachment. That is to say, turn the mind to the exercise of discrimination which leads to the knowledge of the Self. The word “Chitta” in the text bears the same meaning as “Manas” or mind. Bring2 the mind back to the state of tranquillity if it is distracted by the various objects of desires. When the mind is thus, by constant practice, awakened from the state of inactivity and also turned back from all objects, but not yet established in equilibrium,3 that is to say, when the mind still dwells in an intermediary state,—then know4 the mind to be possessed of attachment. Then the mind contains within it the seeds of desires for enjoyment and inactivity. From5 that state also, bring the mind, with care, to the realisation of equilibrium. Once the mind hás realised the state of equilibrium, that is, when it is on the way to realise that state, then do not disturb it again. In other words, do not turn it to (by attachment) external objects."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (joined by karika number)"
+   }
   },
   {
    "ref": "3.K45",
@@ -2441,17 +2482,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "भूतं न जायते किञ्चिदभूतं नैव जायते ।\nविवदन्तोऽद्वया ह्येवमजातिं ख्यापयन्ति ते ॥ ४ ॥\nतैरेवं विरुद्धवदनेन अन्योन्यपक्षप्रतिषेधं कुर्वद्भिः किं ख्यापितं भवतीति, उच्यते — भूतं विद्यमानं वस्तु न जायते किञ्चिद्विद्यमानत्वादेव आत्मवत् इत्येवं वदन् असद्वादी साङ्ख्यपक्षं प्रतिषेधति सज्जन्म । तथा अभूतम् अविद्यमानम् अविद्यमानत्वान्नैव जायते शशविषाणवत् इत्येवं वदन्साङ्ख्योऽपि असद्वादिपक्षमसज्जन्म प्रतिषेधति । विवदन्तः विरुद्धं वदन्तः अद्वयाः अद्वैतिनो ह्येते अन्योन्यस्य पक्षौ सदसतोर्जन्मनी प्रतिषेधन्तः अजातिम् अनुत्पत्तिमर्थात्ख्यापयन्ति प्रकाशयन्ति ते ॥",
-   "english": null,
+   "english": "The existent cannot (again) pass into (birth) existence. Nor can the non-existent be born or come into being as existent. Thus disputing among themselves, they, as a matter of fact, tend to establish the Advaita view and support the Ajāti or the absolute non-evolution (of what exists).\nWhat do they, by refuting each other’s conclusions and quarrelling among themselves, really establish? It is thūs replied:—No1 entity which is already in existence can again pass into birth. The reason is that as entity, it already exists. Ft is just like the Ātman, which already being in existence, cannot be born again as a new entity. Thus argues the supporter of evolution from non-ens (i.e., from a non-existing cause) and refutes the Sāṃkhya theory that an existing cause is born again as an effect. Similarly, the follower of the Sāṃkhya theory refutes the supporter of the non-ens view regarding creation by a non-existing cause. He declares that a non-existing2 cause, on account of its very non-existence, cannot, like the horns of a hare, produce an effect. Thus3 quarrelling among themselves, by supporting “existent” and “non-existent” causes, they refute theirs respective opponent’s views and declare, in effect, the truth that there is no creation at all.",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "भूतं न जायते किञ्चिदभूतं नैव जायते ।\nविवदन्तोऽद्वया ह्येवमजातिं ख्यापयन्ति ते ॥ ४ ॥"
+     "sanskrit": "भूतं न जायते किञ्चिदभूतं नैव जायते ।\nविवदन्तोऽद्वया ह्येवमजातिं ख्यापयन्ति ते ॥ ४ ॥",
+     "english": "The existent cannot (again) pass into (birth) existence. Nor can the non-existent be born or come into being as existent. Thus disputing among themselves, they, as a matter of fact, tend to establish the Advaita view and support the Ajāti or the absolute non-evolution (of what exists)."
     },
     {
      "role": "bhashya",
-     "sanskrit": "तैरेवं विरुद्धवदनेन अन्योन्यपक्षप्रतिषेधं कुर्वद्भिः किं ख्यापितं भवतीति, उच्यते — भूतं विद्यमानं वस्तु न जायते किञ्चिद्विद्यमानत्वादेव आत्मवत् इत्येवं वदन् असद्वादी साङ्ख्यपक्षं प्रतिषेधति सज्जन्म । तथा अभूतम् अविद्यमानम् अविद्यमानत्वान्नैव जायते शशविषाणवत् इत्येवं वदन्साङ्ख्योऽपि असद्वादिपक्षमसज्जन्म प्रतिषेधति । विवदन्तः विरुद्धं वदन्तः अद्वयाः अद्वैतिनो ह्येते अन्योन्यस्य पक्षौ सदसतोर्जन्मनी प्रतिषेधन्तः अजातिम् अनुत्पत्तिमर्थात्ख्यापयन्ति प्रकाशयन्ति ते ॥"
+     "sanskrit": "तैरेवं विरुद्धवदनेन अन्योन्यपक्षप्रतिषेधं कुर्वद्भिः किं ख्यापितं भवतीति, उच्यते — भूतं विद्यमानं वस्तु न जायते किञ्चिद्विद्यमानत्वादेव आत्मवत् इत्येवं वदन् असद्वादी साङ्ख्यपक्षं प्रतिषेधति सज्जन्म । तथा अभूतम् अविद्यमानम् अविद्यमानत्वान्नैव जायते शशविषाणवत् इत्येवं वदन्साङ्ख्योऽपि असद्वादिपक्षमसज्जन्म प्रतिषेधति । विवदन्तः विरुद्धं वदन्तः अद्वयाः अद्वैतिनो ह्येते अन्योन्यस्य पक्षौ सदसतोर्जन्मनी प्रतिषेधन्तः अजातिम् अनुत्पत्तिमर्थात्ख्यापयन्ति प्रकाशयन्ति ते ॥",
+     "english": "What do they, by refuting each other’s conclusions and quarrelling among themselves, really establish? It is thūs replied:—No1 entity which is already in existence can again pass into birth. The reason is that as entity, it already exists. Ft is just like the Ātman, which already being in existence, cannot be born again as a new entity. Thus argues the supporter of evolution from non-ens (i.e., from a non-existing cause) and refutes the Sāṃkhya theory that an existing cause is born again as an effect. Similarly, the follower of the Sāṃkhya theory refutes the supporter of the non-ens view regarding creation by a non-existing cause. He declares that a non-existing2 cause, on account of its very non-existence, cannot, like the horns of a hare, produce an effect. Thus3 quarrelling among themselves, by supporting “existent” and “non-existent” causes, they refute theirs respective opponent’s views and declare, in effect, the truth that there is no creation at all."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (joined by karika number)"
+   }
   },
   {
    "ref": "4.K5",
@@ -2934,39 +2980,26 @@
    ]
   },
   {
-   "ref": "4.K31",
-   "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "आदावन्ते च यन्नास्ति वर्तमानेऽपि तत्तथा ।\nवितथैः सदृशाः सन्तोऽवितथा इव लक्षिताः ॥ ३१ ॥",
-   "english": "31. That which is non-existent at the beginning and in the end, is necessarily so (non-existent) in the middle. The objects we see are illusions, still they are regarded as if real.\n32. The serving of some purpose by them (i.e., the objects of waking experience) is contradicted in dream. Therefore they are doubtlessly recognised to be illusory (by the wise) on account of their having a beginning and an end.",
-   "parts": [
-    {
-     "role": "mula",
-     "sanskrit": "आदावन्ते च यन्नास्ति वर्तमानेऽपि तत्तथा ।\nवितथैः सदृशाः सन्तोऽवितथा इव लक्षिताः ॥ ३१ ॥",
-     "english": "31. That which is non-existent at the beginning and in the end, is necessarily so (non-existent) in the middle. The objects we see are illusions, still they are regarded as if real.\n32. The serving of some purpose by them (i.e., the objects of waking experience) is contradicted in dream. Therefore they are doubtlessly recognised to be illusory (by the wise) on account of their having a beginning and an end."
-    },
-    {
-     "role": "bhashya",
-     "english": "These two verses have been explained before in the chapter on Illusion (Chapter II. 6, 7). They are quoted here again in connection with the topics which are discussed in relation to the unreality of the universe and liberation.\nAnandagiri Tika (glossary)\nThe opponent may contend thus:—Let the state of liberation have a beginning and an end. What is the harm in thus conceiving the state of liberation? The reply is that if a thing has a beginning and an end. it does not exist in the middle also. That is to say, it has no existence whatsoever. That we see its existence is due to our ignorance. The familiar instance is that of the mirage. The mirage has no existence prior to its vision by the deluded and it does not exist when the illusion vanishes. That we see the mirage at all is due to our ignorance. Therefore if we accept the idea of liberation as conceived by the opponent then it would be nonexistent. The opponent may again contend that one cannot quench his thirst with the water of the mirage. But liberation is conducive to our infinite happiness. The reply to this contention is that liberation as conceived by the opponent, being illusory, serves no purpose whatsoever. If liberation should have both beginning and end, then it would be like our dream or waking experiences. In the waking state a man may feel that he has enjoyed a hearty feast, but immediately after going to sleep he may experience in dream ravenous hunger. In that case the waking experiences do not serve him a lasting purpose. Any experience which has a beginning or an end is illusory from the standpoint of Reality."
-    }
-   ]
-  },
-  {
-   "ref": "4.K32",
+   "ref": "4.K31-32",
    "kind": "verse",
    "scope": "mula+commentary",
-   "sanskrit": "सप्रयोजनता तेषां स्वप्ने विप्रतिपद्यते ।\nतस्मादाद्यन्तवत्त्वेन मिथ्यैव खलु ते स्मृताः ॥ ३२ ॥\nवैतथ्ये कृतव्याख्यानौ श्लोकाविह संसारमोक्षाभावप्रसङ्गेन पठितौ ॥",
-   "english": null,
+   "sanskrit": "आदावन्ते च यन्नास्ति वर्तमानेऽपि तत्तथा ।\nवितथैः सदृशाः सन्तोऽवितथा इव लक्षिताः ॥ ३१ ॥\nसप्रयोजनता तेषां स्वप्ने विप्रतिपद्यते ।\nतस्मादाद्यन्तवत्त्वेन मिथ्यैव खलु ते स्मृताः ॥ ३२ ॥\n\nवैतथ्ये कृतव्याख्यानौ श्लोकाविह संसारमोक्षाभावप्रसङ्गेन पठितौ ॥",
+   "english": "That which is non-existent at the beginning and in the end, is necessarily so (non-existent) in the middle. The objects we see are illusions, still they are regarded as if real. The serving of some purpose by them (i.e., the objects of waking experience) is contradicted in dream. Therefore they are doubtlessly recognised to be illusory (by the wise) on account of their having a beginning and an end.\nThese two verses have been explained before in the chapter on Illusion (Chapter II. 6, 7). They are quoted here again in connection with the topics which are discussed in relation to the unreality of the universe and liberation.",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "सप्रयोजनता तेषां स्वप्ने विप्रतिपद्यते ।\nतस्मादाद्यन्तवत्त्वेन मिथ्यैव खलु ते स्मृताः ॥ ३२ ॥"
+     "sanskrit": "आदावन्ते च यन्नास्ति वर्तमानेऽपि तत्तथा ।\nवितथैः सदृशाः सन्तोऽवितथा इव लक्षिताः ॥ ३१ ॥\nसप्रयोजनता तेषां स्वप्ने विप्रतिपद्यते ।\nतस्मादाद्यन्तवत्त्वेन मिथ्यैव खलु ते स्मृताः ॥ ३२ ॥",
+     "english": "That which is non-existent at the beginning and in the end, is necessarily so (non-existent) in the middle. The objects we see are illusions, still they are regarded as if real. The serving of some purpose by them (i.e., the objects of waking experience) is contradicted in dream. Therefore they are doubtlessly recognised to be illusory (by the wise) on account of their having a beginning and an end."
     },
     {
      "role": "bhashya",
-     "sanskrit": "वैतथ्ये कृतव्याख्यानौ श्लोकाविह संसारमोक्षाभावप्रसङ्गेन पठितौ ॥"
+     "sanskrit": "\nवैतथ्ये कृतव्याख्यानौ श्लोकाविह संसारमोक्षाभावप्रसङ्गेन पठितौ ॥",
+     "english": "These two verses have been explained before in the chapter on Illusion (Chapter II. 6, 7). They are quoted here again in connection with the topics which are discussed in relation to the unreality of the universe and liberation."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (range page)"
+   }
   },
   {
    "ref": "4.K33",
@@ -3311,39 +3344,26 @@
    ]
   },
   {
-   "ref": "4.K51",
-   "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "विज्ञाने स्पन्दमाने वै नाभासा अन्यतोभुवः ।\nन ततोऽन्यत्र निःस्पन्दान्न विज्ञानं विशन्ति ते ॥ ५१ ॥",
-   "english": "51-52. When Consciousness is associated with the idea of activity (as in the dream and waking states), the appearances (that are seen in it) do not come from elsewhere. When Consciousness is inactive (as in deep sleep) appearances do not go elsewhere from the inactive Consciousness. Further, appearances do not enter into it. The appearances do not emerge from Consciousness because they are not of the nature of a substance. These are always beyond our comprehension on account of their not being subject to the relation of cause and effect.",
-   "parts": [
-    {
-     "role": "mula",
-     "sanskrit": "विज्ञाने स्पन्दमाने वै नाभासा अन्यतोभुवः ।\nन ततोऽन्यत्र निःस्पन्दान्न विज्ञानं विशन्ति ते ॥ ५१ ॥",
-     "english": "51-52. When Consciousness is associated with the idea of activity (as in the dream and waking states), the appearances (that are seen in it) do not come from elsewhere. When Consciousness is inactive (as in deep sleep) appearances do not go elsewhere from the inactive Consciousness. Further, appearances do not enter into it. The appearances do not emerge from Consciousness because they are not of the nature of a substance. These are always beyond our comprehension on account of their not being subject to the relation of cause and effect."
-    },
-    {
-     "role": "bhashya",
-     "english": "How are the two appearances similar? It is thus replied:—The fire-brand and Consciousness are alike in all respects. The only special feature of Consciousness is that it always remains immutable.1 What is the cause of such appearances as birth, etc., in Consciousness which is ever immutable? In2 the absence of causality, it is not reasonable to establish the relationship of the producer and the produced (between Consciousness and appearances). The appearances, being illusory, are ever unthinkable.3 The purport of the whole thing is this:—As the fire-brand (which is merely a point) is associated with forms straight, crooked, etc., though, in reality, such crooked or straight forms are ever non-existent, so also, pure Consciousness is associated with the ideas of birth, etc., though such ideas as birth, etc., are ever non-existent. Hence these ideas of birth, etc., associated with Consciousness are illusory.\nAnandagiri Tika (glossary)\nWhen Consciousness is said to be active as in the waking and the dream states, the forms of birth, etc., that are cognised in those: states do not come from elsewhere outside Consciousness. For, such forms are not seen to exist elsewhere outside one’s own. consciousness. Again, when, as in deep sleep, Consciousness remains inactive, the forms of birth, death, etc., do not go elsewhere from the Consciousness in which they were perceived during the waking and the dream states. For, no one is conscious of such a happening. No one ever knows the existence of anything outside one’s own consciousness. Further, when Consciousness remains, inactive, as in deep sleep, the forms, etc., perceived in the waking,, and the dream states, do not seem to merge in Consciousness. For, Consciousness which is non-dual and beyond the ideas of time, space, etc., cannot be the cause of multiple objects existing in time and space. The objects seen in the dream and the waking states, being ever unreal, cannot be said to emerge from or merge in Consciousness.\n1 Immutable—Consciousness is called immutable as it is free from the idea of space and time.\n2 In the, etc.—The idea of causality is due to Avidyā.\n3 Ever unthinkable—The ideas seen in the dream and the waking states cannot be said to be non-existent because they are perceived. Nor can they be said to exist because they are not perceived in deep sleep. Therefore it is impossible to determine their real nature. Hence they are as illusory as the snake seen in the rope."
-    }
-   ]
-  },
-  {
-   "ref": "4.K52",
+   "ref": "4.K51-52",
    "kind": "verse",
    "scope": "mula+commentary",
-   "sanskrit": "न निर्गतास्ते विज्ञानाद्द्रव्यत्वाभावयोगतः ।\nकार्यकारणताभावाद्यतोऽचिन्त्याः सदैव ते ॥ ५२ ॥\nकथं तुल्यत्वमित्याह — अलातेन समानं सर्वं विज्ञानस्य ; सदा अचलत्वं तु विज्ञानस्य विशेषः । जात्याद्याभासा विज्ञाने अचले किङ्कृता इत्याह — कार्यकारणताभावात् जन्यजनकत्वानुपपत्तेरभावरूपत्वात् अचिन्त्याः ते यतः सदैव । यथा असत्सु ऋज्वाद्याभासेषु ऋज्वादिबुद्धिर्दृष्टा अलातमात्रे, तथा असत्स्वेव जात्यादिषु विज्ञानमात्रे जात्यादिबुद्धिर्मृषैवेति समुदायार्थः ॥",
-   "english": null,
+   "sanskrit": "विज्ञाने स्पन्दमाने वै नाभासा अन्यतोभुवः ।\nन ततोऽन्यत्र निःस्पन्दान्न विज्ञानं विशन्ति ते ॥ ५१ ॥\nन निर्गतास्ते विज्ञानाद्द्रव्यत्वाभावयोगतः ।\nकार्यकारणताभावाद्यतोऽचिन्त्याः सदैव ते ॥ ५२ ॥\n\nकथं तुल्यत्वमित्याह — अलातेन समानं सर्वं विज्ञानस्य ; सदा अचलत्वं तु विज्ञानस्य विशेषः । जात्याद्याभासा विज्ञाने अचले किङ्कृता इत्याह — कार्यकारणताभावात् जन्यजनकत्वानुपपत्तेरभावरूपत्वात् अचिन्त्याः ते यतः सदैव । यथा असत्सु ऋज्वाद्याभासेषु ऋज्वादिबुद्धिर्दृष्टा अलातमात्रे, तथा असत्स्वेव जात्यादिषु विज्ञानमात्रे जात्यादिबुद्धिर्मृषैवेति समुदायार्थः ॥",
+   "english": "When Consciousness is associated with the idea of activity (as in the dream and waking states), the appearances (that are seen in it) do not come from elsewhere. When Consciousness is inactive (as in deep sleep) appearances do not go elsewhere from the inactive Consciousness. Further, appearances do not enter into it. The appearances do not emerge from Consciousness because they are not of the nature of a substance. These are always beyond our comprehension on account of their not being subject to the relation of cause and effect.\nHow are the two appearances similar? It is thus replied:—The fire-brand and Consciousness are alike in all respects. The only special feature of Consciousness is that it always remains immutable.1 What is the cause of such appearances as birth, etc., in Consciousness which is ever immutable? In2 the absence of causality, it is not reasonable to establish the relationship of the producer and the produced (between Consciousness and appearances). The appearances, being illusory, are ever unthinkable.3 The purport of the whole thing is this:—As the fire-brand (which is merely a point) is associated with forms straight, crooked, etc., though, in reality, such crooked or straight forms are ever non-existent, so also, pure Consciousness is associated with the ideas of birth, etc., though such ideas as birth, etc., are ever non-existent. Hence these ideas of birth, etc., associated with Consciousness are illusory.",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "न निर्गतास्ते विज्ञानाद्द्रव्यत्वाभावयोगतः ।\nकार्यकारणताभावाद्यतोऽचिन्त्याः सदैव ते ॥ ५२ ॥"
+     "sanskrit": "विज्ञाने स्पन्दमाने वै नाभासा अन्यतोभुवः ।\nन ततोऽन्यत्र निःस्पन्दान्न विज्ञानं विशन्ति ते ॥ ५१ ॥\nन निर्गतास्ते विज्ञानाद्द्रव्यत्वाभावयोगतः ।\nकार्यकारणताभावाद्यतोऽचिन्त्याः सदैव ते ॥ ५२ ॥",
+     "english": "When Consciousness is associated with the idea of activity (as in the dream and waking states), the appearances (that are seen in it) do not come from elsewhere. When Consciousness is inactive (as in deep sleep) appearances do not go elsewhere from the inactive Consciousness. Further, appearances do not enter into it. The appearances do not emerge from Consciousness because they are not of the nature of a substance. These are always beyond our comprehension on account of their not being subject to the relation of cause and effect."
     },
     {
      "role": "bhashya",
-     "sanskrit": "कथं तुल्यत्वमित्याह — अलातेन समानं सर्वं विज्ञानस्य ; सदा अचलत्वं तु विज्ञानस्य विशेषः । जात्याद्याभासा विज्ञाने अचले किङ्कृता इत्याह — कार्यकारणताभावात् जन्यजनकत्वानुपपत्तेरभावरूपत्वात् अचिन्त्याः ते यतः सदैव । यथा असत्सु ऋज्वाद्याभासेषु ऋज्वादिबुद्धिर्दृष्टा अलातमात्रे, तथा असत्स्वेव जात्यादिषु विज्ञानमात्रे जात्यादिबुद्धिर्मृषैवेति समुदायार्थः ॥"
+     "sanskrit": "\nकथं तुल्यत्वमित्याह — अलातेन समानं सर्वं विज्ञानस्य ; सदा अचलत्वं तु विज्ञानस्य विशेषः । जात्याद्याभासा विज्ञाने अचले किङ्कृता इत्याह — कार्यकारणताभावात् जन्यजनकत्वानुपपत्तेरभावरूपत्वात् अचिन्त्याः ते यतः सदैव । यथा असत्सु ऋज्वाद्याभासेषु ऋज्वादिबुद्धिर्दृष्टा अलातमात्रे, तथा असत्स्वेव जात्यादिषु विज्ञानमात्रे जात्यादिबुद्धिर्मृषैवेति समुदायार्थः ॥",
+     "english": "How are the two appearances similar? It is thus replied:—The fire-brand and Consciousness are alike in all respects. The only special feature of Consciousness is that it always remains immutable.1 What is the cause of such appearances as birth, etc., in Consciousness which is ever immutable? In2 the absence of causality, it is not reasonable to establish the relationship of the producer and the produced (between Consciousness and appearances). The appearances, being illusory, are ever unthinkable.3 The purport of the whole thing is this:—As the fire-brand (which is merely a point) is associated with forms straight, crooked, etc., though, in reality, such crooked or straight forms are ever non-existent, so also, pure Consciousness is associated with the ideas of birth, etc., though such ideas as birth, etc., are ever non-existent. Hence these ideas of birth, etc., associated with Consciousness are illusory."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (range page)"
+   }
   },
   {
    "ref": "4.K53",
@@ -3498,39 +3518,26 @@
    ]
   },
   {
-   "ref": "4.K61",
-   "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "यथा स्वप्ने द्वयाभासं चित्तं चलति मायया ।\nतथा जाग्रद्द्वयाभासं चित्तं चलति मायया ॥ ६१ ॥",
-   "english": "61-62. As in dream, the mind is seen to act through Māyā manifesting the appearance of duality, so also in the waking state the mind is seen to act, through Māyā, producing the appearance of duality.\nThere is no doubt that the mind which is, in fact, non-dual, appears as dual in dream; in like manner, undoubtedly, the waking state, which is non-dual, appears as dual.",
-   "parts": [
-    {
-     "role": "mula",
-     "sanskrit": "यथा स्वप्ने द्वयाभासं चित्तं चलति मायया ।\nतथा जाग्रद्द्वयाभासं चित्तं चलति मायया ॥ ६१ ॥",
-     "english": "61-62. As in dream, the mind is seen to act through Māyā manifesting the appearance of duality, so also in the waking state the mind is seen to act, through Māyā, producing the appearance of duality.\nThere is no doubt that the mind which is, in fact, non-dual, appears as dual in dream; in like manner, undoubtedly, the waking state, which is non-dual, appears as dual."
-    },
-    {
-     "role": "bhashya",
-     "english": "That pure consciousness which is non-dual (from the standpoint of the Supreme Reality) is sought to be described by words, is due to the active condition of the mind (which is due to Avidyā). This description (of the non-dual Ātman by words) has no meaning from the standpoint of the Ultimate Truth. These1 verses have already been explained.\nAnandagiri Tika (glossary)\nIt may be contended that if Ātman cannot be described by words, why then should the scholars have taken the pains to use words to denote Ātman. In reply it is said that what is described by words by scholars is not the non-dual Ātman but a duality, perceived on account of the activity of the mind, associated with the subject-object relationship which is the characteristic of the relative plane of existence. The Ultimate Reality is the essence of everything, including ideas or descriptions.\n1 The verses, etc.—Vide Chapter III, 29-30."
-    }
-   ]
-  },
-  {
-   "ref": "4.K62",
+   "ref": "4.K61-62",
    "kind": "verse",
    "scope": "mula+commentary",
-   "sanskrit": "अद्वयं च द्वयाभासं चित्तं स्वप्ने न संशयः ।\nअद्वयं च द्वयाभासं तथा जाग्रन्न संशयः ॥ ६२ ॥\nयत्पुनर्वाग्गोचरत्वं परमार्थतः अद्वयस्य विज्ञानमात्रस्य, तन्मनसः स्पन्दनमात्रम् , न परमार्थतः इत्युक्तार्थौ श्लोकौ ॥",
-   "english": null,
+   "sanskrit": "यथा स्वप्ने द्वयाभासं चित्तं चलति मायया ।\nतथा जाग्रद्द्वयाभासं चित्तं चलति मायया ॥ ६१ ॥\nअद्वयं च द्वयाभासं चित्तं स्वप्ने न संशयः ।\nअद्वयं च द्वयाभासं तथा जाग्रन्न संशयः ॥ ६२ ॥\n\nयत्पुनर्वाग्गोचरत्वं परमार्थतः अद्वयस्य विज्ञानमात्रस्य, तन्मनसः स्पन्दनमात्रम् , न परमार्थतः इत्युक्तार्थौ श्लोकौ ॥",
+   "english": "As in dream, the mind is seen to act through Māyā manifesting the appearance of duality, so also in the waking state the mind is seen to act, through Māyā, producing the appearance of duality. There is no doubt that the mind which is, in fact, non-dual, appears as dual in dream; in like manner, undoubtedly, the waking state, which is non-dual, appears as dual.\nThat pure consciousness which is non-dual (from the standpoint of the Supreme Reality) is sought to be described by words, is due to the active condition of the mind (which is due to Avidyā). This description (of the non-dual Ātman by words) has no meaning from the standpoint of the Ultimate Truth. These1 verses have already been explained.",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "अद्वयं च द्वयाभासं चित्तं स्वप्ने न संशयः ।\nअद्वयं च द्वयाभासं तथा जाग्रन्न संशयः ॥ ६२ ॥"
+     "sanskrit": "यथा स्वप्ने द्वयाभासं चित्तं चलति मायया ।\nतथा जाग्रद्द्वयाभासं चित्तं चलति मायया ॥ ६१ ॥\nअद्वयं च द्वयाभासं चित्तं स्वप्ने न संशयः ।\nअद्वयं च द्वयाभासं तथा जाग्रन्न संशयः ॥ ६२ ॥",
+     "english": "As in dream, the mind is seen to act through Māyā manifesting the appearance of duality, so also in the waking state the mind is seen to act, through Māyā, producing the appearance of duality. There is no doubt that the mind which is, in fact, non-dual, appears as dual in dream; in like manner, undoubtedly, the waking state, which is non-dual, appears as dual."
     },
     {
      "role": "bhashya",
-     "sanskrit": "यत्पुनर्वाग्गोचरत्वं परमार्थतः अद्वयस्य विज्ञानमात्रस्य, तन्मनसः स्पन्दनमात्रम् , न परमार्थतः इत्युक्तार्थौ श्लोकौ ॥"
+     "sanskrit": "\nयत्पुनर्वाग्गोचरत्वं परमार्थतः अद्वयस्य विज्ञानमात्रस्य, तन्मनसः स्पन्दनमात्रम् , न परमार्थतः इत्युक्तार्थौ श्लोकौ ॥",
+     "english": "That pure consciousness which is non-dual (from the standpoint of the Supreme Reality) is sought to be described by words, is due to the active condition of the mind (which is due to Avidyā). This description (of the non-dual Ātman by words) has no meaning from the standpoint of the Ultimate Truth. These1 verses have already been explained."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (range page)"
+   }
   },
   {
    "ref": "4.K63",
@@ -3571,28 +3578,26 @@
    ]
   },
   {
-   "ref": "4.K65",
-   "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "चरञ्जागरिते जाग्रद्दिक्षु वै दशसु स्थितान् ।\nअण्डजान्स्वेदजान्वापि जीवान्पश्यति यान्सदा ॥ ६५ ॥",
-   "english": null
-  },
-  {
-   "ref": "4.K66",
+   "ref": "4.K65-66",
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "जाग्रच्चित्तेक्षणीयास्ते न विद्यन्ते ततः पृथक् ।\nतथा तद्दृश्यमेवेदं जाग्रतश्चित्तमिष्यते ॥ ६६ ॥\nजाग्रतो दृश्या जीवाः तच्चित्ताव्यतिरिक्ताः, चित्तेक्षणीयत्वात् , स्वप्नदृक्चित्तेक्षणीयजीववत् । तच्च जीवेक्षणात्मकं चित्तं द्रष्टुरव्यतिरिक्तं द्रष्टृदृश्यत्वात् स्वप्नचित्तवत् । उक्तार्थमन्यत् ॥",
-   "english": null,
+   "english": "The whole variety of Jīvas, born of eggs, moisture, etc., always seen by the waking man when he goes about (in his waking condition) in all ten directions, is only the object of the mind of the waking man. These Jīvas are in no way apart from the waking mind. Similarly, the mind of the waking man is admitted to be the object of perception of the waking person only. (Therefore the mind is not separate from the perceiver.)\nThe Jīvas, perceived in the waking state, do not exist anywhere except in the mind of the perceiver, for, they are not seen independent of the mind. These Jīvas are similar to the Jīvas, perceived in the dream, which are cognized by the mind of the dreaming person alone. That mind again, having the characteristic of perception of Jīvas is non different from the perceiver of the wakings condition, because1 it is seen by the perceiver, as2 is the case with the mind which perceives the dream. The rest has already been interpreted (in the previous verses).",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "जाग्रच्चित्तेक्षणीयास्ते न विद्यन्ते ततः पृथक् ।\nतथा तद्दृश्यमेवेदं जाग्रतश्चित्तमिष्यते ॥ ६६ ॥"
+     "sanskrit": "जाग्रच्चित्तेक्षणीयास्ते न विद्यन्ते ततः पृथक् ।\nतथा तद्दृश्यमेवेदं जाग्रतश्चित्तमिष्यते ॥ ६६ ॥",
+     "english": "The whole variety of Jīvas, born of eggs, moisture, etc., always seen by the waking man when he goes about (in his waking condition) in all ten directions, is only the object of the mind of the waking man. These Jīvas are in no way apart from the waking mind. Similarly, the mind of the waking man is admitted to be the object of perception of the waking person only. (Therefore the mind is not separate from the perceiver.)"
     },
     {
      "role": "bhashya",
-     "sanskrit": "जाग्रतो दृश्या जीवाः तच्चित्ताव्यतिरिक्ताः, चित्तेक्षणीयत्वात् , स्वप्नदृक्चित्तेक्षणीयजीववत् । तच्च जीवेक्षणात्मकं चित्तं द्रष्टुरव्यतिरिक्तं द्रष्टृदृश्यत्वात् स्वप्नचित्तवत् । उक्तार्थमन्यत् ॥"
+     "sanskrit": "जाग्रतो दृश्या जीवाः तच्चित्ताव्यतिरिक्ताः, चित्तेक्षणीयत्वात् , स्वप्नदृक्चित्तेक्षणीयजीववत् । तच्च जीवेक्षणात्मकं चित्तं द्रष्टुरव्यतिरिक्तं द्रष्टृदृश्यत्वात् स्वप्नचित्तवत् । उक्तार्थमन्यत् ॥",
+     "english": "The Jīvas, perceived in the waking state, do not exist anywhere except in the mind of the perceiver, for, they are not seen independent of the mind. These Jīvas are similar to the Jīvas, perceived in the dream, which are cognized by the mind of the dreaming person alone. That mind again, having the characteristic of perception of Jīvas is non different from the perceiver of the wakings condition, because1 it is seen by the perceiver, as2 is the case with the mind which perceives the dream. The rest has already been interpreted (in the previous verses)."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (range page)"
+   }
   },
   {
    "ref": "4.K67",
@@ -3614,46 +3619,26 @@
    ]
   },
   {
-   "ref": "4.K68",
-   "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "यथा स्वप्नमयो जीवो जायते म्रियतेऽपि च ।\nतथा जीवा अमी सर्वे भवन्ति न भवन्ति च ॥ ६८ ॥",
-   "english": "68-70. As the dream-Jīva . comes into being and disappears, so also all Jīvas (perceived in the waking condition) appear and disappear.\nAs the magician’s Jīva cames into being and passes away, so also all Jīvas (perceived in the waking condition) appear and disappear.\nAs the artificial Jīva (brought into existence by incantation, medicinal herb, etc.) comes info being and passes away, so also all the Jīvas (perceived in the waking condition) appear ana disappear.",
-   "parts": [
-    {
-     "role": "mula",
-     "sanskrit": "यथा स्वप्नमयो जीवो जायते म्रियतेऽपि च ।\nतथा जीवा अमी सर्वे भवन्ति न भवन्ति च ॥ ६८ ॥",
-     "english": "68-70. As the dream-Jīva . comes into being and disappears, so also all Jīvas (perceived in the waking condition) appear and disappear.\nAs the magician’s Jīva cames into being and passes away, so also all Jīvas (perceived in the waking condition) appear and disappear.\nAs the artificial Jīva (brought into existence by incantation, medicinal herb, etc.) comes info being and passes away, so also all the Jīvas (perceived in the waking condition) appear ana disappear."
-    },
-    {
-     "role": "bhashya",
-     "english": "The “magician’s Jīva” means that which is conjured up before our vision by the feat of a magician. The “artificial Jīva” is that which is brought into existence by means of incantation, medicinal herb, etc.\nAs the Jīvas born of egg, etc., and created in dream, are seen to come into existence and then to pass away, so also the Jīvas such as human beings, etc., seen in the waking state, though really non-existent (appear to come into existence and then pass away). These1 are merely the imagination of the mind.\nAnandagiri Tika (glossary)\nIt may be contended that if the Jīvas perceived in the waking state be unreal, then their birth and death, which are objects of common experience, become an impossibility. This Kārikā says in reply that as in the case of dream-beings, etc., really non-existent birth and death are possible, so also the appearance of birth, etc., is possible in the case of beings that are perceived in the waking state.\n1 There are, etc.—In other words, the Jīvas, perceived in the waking state, with all concomitant appearance of birth, death etc., are mere results of the objectifying tendency of the mind, and. nothing more."
-    }
-   ]
-  },
-  {
-   "ref": "4.K69",
-   "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "यथा मायामयो जीवो जायते म्रियतेऽपि च ।\nतथा जीवा अमी सर्वे भवन्ति न भवन्ति च ॥ ६९ ॥",
-   "english": null
-  },
-  {
-   "ref": "4.K70",
+   "ref": "4.K68-70",
    "kind": "verse",
    "scope": "mula+commentary",
-   "sanskrit": "यथा निर्मितको जीवो जायते म्रियतेऽपि च ।\nतथा जीवा अमी सर्वे भवन्ति न भवन्ति च ॥ ७० ॥\nमायामयः मायाविना यः कृतो निर्मितकः मन्त्रौषध्यादिभिर्निष्पादितः । स्वप्नमायानिर्मितका अण्डजादयो जीवा यथा जायन्ते म्रियन्ते च, तथा मनुष्यादिलक्षणा अविद्यमाना एव चित्तविकल्पनामात्रा इत्यर्थः ॥",
-   "english": null,
+   "sanskrit": "यथा स्वप्नमयो जीवो जायते म्रियतेऽपि च ।\nतथा जीवा अमी सर्वे भवन्ति न भवन्ति च ॥ ६८ ॥\nयथा निर्मितको जीवो जायते म्रियतेऽपि च ।\nतथा जीवा अमी सर्वे भवन्ति न भवन्ति च ॥ ७० ॥\n\nमायामयः मायाविना यः कृतो निर्मितकः मन्त्रौषध्यादिभिर्निष्पादितः । स्वप्नमायानिर्मितका अण्डजादयो जीवा यथा जायन्ते म्रियन्ते च, तथा मनुष्यादिलक्षणा अविद्यमाना एव चित्तविकल्पनामात्रा इत्यर्थः ॥",
+   "english": "As the dream-Jīva . comes into being and disappears, so also all Jīvas (perceived in the waking condition) appear and disappear. As the magician’s Jīva cames into being and passes away, so also all Jīvas (perceived in the waking condition) appear and disappear. As the artificial Jīva (brought into existence by incantation, medicinal herb, etc.) comes info being and passes away, so also all the Jīvas (perceived in the waking condition) appear ana disappear.\nThe “magician’s Jīva” means that which is conjured up before our vision by the feat of a magician. The “artificial Jīva” is that which is brought into existence by means of incantation, medicinal herb, etc.\nAs the Jīvas born of egg, etc., and created in dream, are seen to come into existence and then to pass away, so also the Jīvas such as human beings, etc., seen in the waking state, though really non-existent (appear to come into existence and then pass away). These1 are merely the imagination of the mind.",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "यथा निर्मितको जीवो जायते म्रियतेऽपि च ।\nतथा जीवा अमी सर्वे भवन्ति न भवन्ति च ॥ ७० ॥"
+     "sanskrit": "यथा स्वप्नमयो जीवो जायते म्रियतेऽपि च ।\nतथा जीवा अमी सर्वे भवन्ति न भवन्ति च ॥ ६८ ॥\nयथा निर्मितको जीवो जायते म्रियतेऽपि च ।\nतथा जीवा अमी सर्वे भवन्ति न भवन्ति च ॥ ७० ॥",
+     "english": "As the dream-Jīva . comes into being and disappears, so also all Jīvas (perceived in the waking condition) appear and disappear. As the magician’s Jīva cames into being and passes away, so also all Jīvas (perceived in the waking condition) appear and disappear. As the artificial Jīva (brought into existence by incantation, medicinal herb, etc.) comes info being and passes away, so also all the Jīvas (perceived in the waking condition) appear ana disappear."
     },
     {
      "role": "bhashya",
-     "sanskrit": "मायामयः मायाविना यः कृतो निर्मितकः मन्त्रौषध्यादिभिर्निष्पादितः । स्वप्नमायानिर्मितका अण्डजादयो जीवा यथा जायन्ते म्रियन्ते च, तथा मनुष्यादिलक्षणा अविद्यमाना एव चित्तविकल्पनामात्रा इत्यर्थः ॥"
+     "sanskrit": "\nमायामयः मायाविना यः कृतो निर्मितकः मन्त्रौषध्यादिभिर्निष्पादितः । स्वप्नमायानिर्मितका अण्डजादयो जीवा यथा जायन्ते म्रियन्ते च, तथा मनुष्यादिलक्षणा अविद्यमाना एव चित्तविकल्पनामात्रा इत्यर्थः ॥",
+     "english": "The “magician’s Jīva” means that which is conjured up before our vision by the feat of a magician. The “artificial Jīva” is that which is brought into existence by means of incantation, medicinal herb, etc.\nAs the Jīvas born of egg, etc., and created in dream, are seen to come into existence and then to pass away, so also the Jīvas such as human beings, etc., seen in the waking state, though really non-existent (appear to come into existence and then pass away). These1 are merely the imagination of the mind."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (range page)"
+   }
   },
   {
    "ref": "4.K71",
@@ -3679,17 +3664,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "चित्तस्पन्दितमेवेदं ग्राह्यग्राहकवद्द्वयम् ।\nचित्तं निर्विषयं नित्यमसङ्गं तेन कीर्तितम् ॥ ७२ ॥\nसर्वं ग्राह्यग्राहकवच्चित्तस्पन्दितमेव द्वयम् । चित्तं परमार्थत आत्मैवेति निर्विषयम् । तेन निर्विषयत्वेन नित्यम् असङ्गं कीर्तितम् । ‘असङ्गो ह्ययं पुरुषः’(बृ. उ. ४ । ३ । १५) इति श्रुतेः । सविषयस्य हि विषये सङ्गः । निर्विषयत्वाच्चित्तमसङ्गमित्यर्थः ॥",
-   "english": null,
+   "english": "This perceived world of duality, characterised by the subject-object relationship, is verily an act of the mind. The mind, again, (from the standpoint of Reality) is without touch with any object (as it is of the nature of Ātman). Hence it is declared to be eternal and unattached.\nThe whole world of duality consisting of the subject and the object is, verily, an act of the mind. But from the standpoint of the Ultimate Reality, the mind, which is verily Ātman, is1 unrelated to any object. On account of the absence of relation (with any object), the mind is declared as eternal and unattached. The Śruti also says, “The Puruṣa is always free from relation.” That which perceives objects outside of it, is related to such objects. But the mind, having no such external object, is free from all relations.",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "चित्तस्पन्दितमेवेदं ग्राह्यग्राहकवद्द्वयम् ।\nचित्तं निर्विषयं नित्यमसङ्गं तेन कीर्तितम् ॥ ७२ ॥"
+     "sanskrit": "चित्तस्पन्दितमेवेदं ग्राह्यग्राहकवद्द्वयम् ।\nचित्तं निर्विषयं नित्यमसङ्गं तेन कीर्तितम् ॥ ७२ ॥",
+     "english": "This perceived world of duality, characterised by the subject-object relationship, is verily an act of the mind. The mind, again, (from the standpoint of Reality) is without touch with any object (as it is of the nature of Ātman). Hence it is declared to be eternal and unattached."
     },
     {
      "role": "bhashya",
-     "sanskrit": "सर्वं ग्राह्यग्राहकवच्चित्तस्पन्दितमेव द्वयम् । चित्तं परमार्थत आत्मैवेति निर्विषयम् । तेन निर्विषयत्वेन नित्यम् असङ्गं कीर्तितम् । ‘असङ्गो ह्ययं पुरुषः’(बृ. उ. ४ । ३ । १५) इति श्रुतेः । सविषयस्य हि विषये सङ्गः । निर्विषयत्वाच्चित्तमसङ्गमित्यर्थः ॥"
+     "sanskrit": "सर्वं ग्राह्यग्राहकवच्चित्तस्पन्दितमेव द्वयम् । चित्तं परमार्थत आत्मैवेति निर्विषयम् । तेन निर्विषयत्वेन नित्यम् असङ्गं कीर्तितम् । ‘असङ्गो ह्ययं पुरुषः’(बृ. उ. ४ । ३ । १५) इति श्रुतेः । सविषयस्य हि विषये सङ्गः । निर्विषयत्वाच्चित्तमसङ्गमित्यर्थः ॥",
+     "english": "The whole world of duality consisting of the subject and the object is, verily, an act of the mind. But from the standpoint of the Ultimate Reality, the mind, which is verily Ātman, is1 unrelated to any object. On account of the absence of relation (with any object), the mind is declared as eternal and unattached. The Śruti also says, “The Puruṣa is always free from relation.” That which perceives objects outside of it, is related to such objects. But the mind, having no such external object, is free from all relations."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (joined by karika number)"
+   }
   },
   {
    "ref": "4.K73",
@@ -3905,17 +3895,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "कोट्यश्चतस्र एतास्तु ग्रहैर्यासां सदावृतः ।\nभगवानाभिरस्पृष्टो येन दृष्टः स सर्वदृक् ॥ ८४ ॥\nकीदृक्पुनः परमार्थतत्त्वम् , यदवबोधादबालिशः पण्डितो भवतीत्याह — कोट्यः प्रावादुकशास्त्रनिर्णयान्ताः एताः उक्ता अस्ति नास्तीत्याद्याः चतस्रः, यासां कोटीनां ग्रहैः ग्रहणैः उपलब्धिनिश्चयैः सदा सर्वदा आवृतः आच्छादितः तेषामेव प्रावादुकानां यः, स भगवान् आभिः अस्ति नास्तीत्यादिकोटिभिः चतसृभिरपि अस्पृष्टः अस्त्यादिविकल्पनावर्जित इत्येतत् । येन मुनिना दृष्टो ज्ञातः वेदान्तेष्वौपनिषदः पुरुषः, स सर्वदृक् सर्वज्ञः ; परमार्थपण्डित इत्यर्थः ॥",
-   "english": null,
+   "english": "These are the four alternative theories regarding (the nature of) Ātman, on account of attachment to which It always remains covered (from one’s view). He who has known that Ātman is ever-untouched by any of these (predicates) indeed sees all.\nWhat is the nature of the essence, i.e., the Ultimate Reality, by knowing which people are purged of their stupidity and are really made to attain to wisdom?\nIt is thus replied:—There are four alternate theories regarding Ātman such as, It exists, It does not exist, etc., mentioned in the works of those who are fond of disputations. The Ātman always remains covered and hidden from these vain talkers on account of their attachment to their theories. The thoughtful person who has realised the Ātman, known only by the (correct understanding of) Upaniṣads, as ever-untouched by any of the four alternative predicates such as It exists,. It does not exist, etc., is the seer1 of all, the omniscient and the real knower of the Ultimate Reality.",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "कोट्यश्चतस्र एतास्तु ग्रहैर्यासां सदावृतः ।\nभगवानाभिरस्पृष्टो येन दृष्टः स सर्वदृक् ॥ ८४ ॥"
+     "sanskrit": "कोट्यश्चतस्र एतास्तु ग्रहैर्यासां सदावृतः ।\nभगवानाभिरस्पृष्टो येन दृष्टः स सर्वदृक् ॥ ८४ ॥",
+     "english": "These are the four alternative theories regarding (the nature of) Ātman, on account of attachment to which It always remains covered (from one’s view). He who has known that Ātman is ever-untouched by any of these (predicates) indeed sees all."
     },
     {
      "role": "bhashya",
-     "sanskrit": "कीदृक्पुनः परमार्थतत्त्वम् , यदवबोधादबालिशः पण्डितो भवतीत्याह — कोट्यः प्रावादुकशास्त्रनिर्णयान्ताः एताः उक्ता अस्ति नास्तीत्याद्याः चतस्रः, यासां कोटीनां ग्रहैः ग्रहणैः उपलब्धिनिश्चयैः सदा सर्वदा आवृतः आच्छादितः तेषामेव प्रावादुकानां यः, स भगवान् आभिः अस्ति नास्तीत्यादिकोटिभिः चतसृभिरपि अस्पृष्टः अस्त्यादिविकल्पनावर्जित इत्येतत् । येन मुनिना दृष्टो ज्ञातः वेदान्तेष्वौपनिषदः पुरुषः, स सर्वदृक् सर्वज्ञः ; परमार्थपण्डित इत्यर्थः ॥"
+     "sanskrit": "कीदृक्पुनः परमार्थतत्त्वम् , यदवबोधादबालिशः पण्डितो भवतीत्याह — कोट्यः प्रावादुकशास्त्रनिर्णयान्ताः एताः उक्ता अस्ति नास्तीत्याद्याः चतस्रः, यासां कोटीनां ग्रहैः ग्रहणैः उपलब्धिनिश्चयैः सदा सर्वदा आवृतः आच्छादितः तेषामेव प्रावादुकानां यः, स भगवान् आभिः अस्ति नास्तीत्यादिकोटिभिः चतसृभिरपि अस्पृष्टः अस्त्यादिविकल्पनावर्जित इत्येतत् । येन मुनिना दृष्टो ज्ञातः वेदान्तेष्वौपनिषदः पुरुषः, स सर्वदृक् सर्वज्ञः ; परमार्थपण्डित इत्यर्थः ॥",
+     "english": "What is the nature of the essence, i.e., the Ultimate Reality, by knowing which people are purged of their stupidity and are really made to attain to wisdom?\nIt is thus replied:—There are four alternate theories regarding Ātman such as, It exists, It does not exist, etc., mentioned in the works of those who are fond of disputations. The Ātman always remains covered and hidden from these vain talkers on account of their attachment to their theories. The thoughtful person who has realised the Ātman, known only by the (correct understanding of) Upaniṣads, as ever-untouched by any of the four alternative predicates such as It exists,. It does not exist, etc., is the seer1 of all, the omniscient and the real knower of the Ultimate Reality."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (joined by karika number)"
+   }
   },
   {
    "ref": "4.K85",
@@ -4131,17 +4126,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "अजेष्वजमसङ्क्रान्तं धर्मेषु ज्ञानमिष्यते ।\nयतो न क्रमते ज्ञानमसङ्गं तेन कीर्तितम् ॥ ९६ ॥\nकथं महाज्ञानत्वमित्याह — अजेषु अनुत्पन्नेषु अचलेषु धर्मेषु आत्मसु अजमचलं च ज्ञानमिष्यते सवितरीव औष्ण्यं प्रकाशश्च यतः, तस्मात् असङ्क्रान्तम् अर्थान्तरे ज्ञानमजमिष्यते । यस्मान्न क्रमते अर्थान्तरे ज्ञानम् , तेन कारणेन असङ्गं तत् कीर्तितम् आकाशकल्पमित्युक्तम् ॥",
-   "english": null,
+   "english": "Knowledge (consciousness), the essence of the Jīvas (who are unborn), is admitted to be itself unborn and unrelated (to any external object). This knowledge is proclaimed to be unconditioned as it is not related to any other object (which, really speaking, does not exist).\nWhat constitutes the highest Wisdom (i.e., the wisdom of the knower of the non-dual Ātman)? This is thus explained: Knowledge which constitutes the essence of the Dhūrmas (Jīvas), unborn, immutable and identical with Ātman, is also admitted to be unborn1 and immutable. It is just like the light and the heat belonging to the sun. Knowledge, being ever unrelated to other2 objects, is said to be unborn. As knowledge is, thus, unrelated to other objects, it is like the Ākāśa, called unconditioned or absolute.",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "अजेष्वजमसङ्क्रान्तं धर्मेषु ज्ञानमिष्यते ।\nयतो न क्रमते ज्ञानमसङ्गं तेन कीर्तितम् ॥ ९६ ॥"
+     "sanskrit": "अजेष्वजमसङ्क्रान्तं धर्मेषु ज्ञानमिष्यते ।\nयतो न क्रमते ज्ञानमसङ्गं तेन कीर्तितम् ॥ ९६ ॥",
+     "english": "Knowledge (consciousness), the essence of the Jīvas (who are unborn), is admitted to be itself unborn and unrelated (to any external object). This knowledge is proclaimed to be unconditioned as it is not related to any other object (which, really speaking, does not exist)."
     },
     {
      "role": "bhashya",
-     "sanskrit": "कथं महाज्ञानत्वमित्याह — अजेषु अनुत्पन्नेषु अचलेषु धर्मेषु आत्मसु अजमचलं च ज्ञानमिष्यते सवितरीव औष्ण्यं प्रकाशश्च यतः, तस्मात् असङ्क्रान्तम् अर्थान्तरे ज्ञानमजमिष्यते । यस्मान्न क्रमते अर्थान्तरे ज्ञानम् , तेन कारणेन असङ्गं तत् कीर्तितम् आकाशकल्पमित्युक्तम् ॥"
+     "sanskrit": "कथं महाज्ञानत्वमित्याह — अजेषु अनुत्पन्नेषु अचलेषु धर्मेषु आत्मसु अजमचलं च ज्ञानमिष्यते सवितरीव औष्ण्यं प्रकाशश्च यतः, तस्मात् असङ्क्रान्तम् अर्थान्तरे ज्ञानमजमिष्यते । यस्मान्न क्रमते अर्थान्तरे ज्ञानम् , तेन कारणेन असङ्गं तत् कीर्तितम् आकाशकल्पमित्युक्तम् ॥",
+     "english": "What constitutes the highest Wisdom (i.e., the wisdom of the knower of the non-dual Ātman)? This is thus explained: Knowledge which constitutes the essence of the Dhūrmas (Jīvas), unborn, immutable and identical with Ātman, is also admitted to be unborn1 and immutable. It is just like the light and the heat belonging to the sun. Knowledge, being ever unrelated to other2 objects, is said to be unborn. As knowledge is, thus, unrelated to other objects, it is like the Ākāśa, called unconditioned or absolute."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Nikhilananda 1949 (joined by karika number)"
+   }
   },
   {
    "ref": "4.K97",
@@ -4241,5 +4241,5 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/mandukya-karika-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Nikhilananda 1949), joined by Devanagari verse text (202) or number-checked ref (1): 203 of 227 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [11 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 2.K20, 2.K21, 2.K22, 2.K23, 2.K24, 2.K26, 2.K27, 4.K31, 4.K51, 4.K61, 4.K68]"
+ "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/mandukya-karika-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Nikhilananda 1949), joined by Devanagari verse text (202) or number-checked ref (1): 203 of 227 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [11 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 2.K20, 2.K21, 2.K22, 2.K23, 2.K24, 2.K26, 2.K27, 4.K31, 4.K51, 4.K61, 4.K68] [Range pages: units 2.K9-10, 4.K31-32, 4.K51-52, 4.K61-62, 4.K65-66, 4.K68-70 were merged because wisdomlib translates those karikas and their commentary together. 15 more units joined by karika number from the wisdomlib page of the same number, the earlier text-based join having failed on variant readings; parked (range pages or no page): 2.K10, 4.K16, 4.K32, 4.K52, 4.K62, 4.K65, 4.K66, 4.K69, 4.K70.]"
 }
