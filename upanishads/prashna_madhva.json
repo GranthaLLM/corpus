@@ -41,42 +41,108 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "अथ कबन्धी कात्यायन उपेत्य पप्रच्छ। भगवन् कुतो ह वा इमाः प्रजा प्रजायन्त इति॥ १/३॥",
-   "english": "3. Then Kabandhī of the clan Kātyāyana having approached him said. O Master, from whom indeed these creatures are produced.—3.\nNote.—The two particles “ha” and “vai” indicate the well-known fact that creatures are born -the fact of the production of beings is well-known: one being reproduces another. There is no instance to the contrary, i.e., one being produces another similar to itself. The cause cannot be an insentient thing; for an insentient object is not seen to work unless moved by some sentient being. The Jīva cannot be the Supreme Ruler, because he is not independent. Nor is Īśvara, as He is not an object of perception or apprehension. This is then the doubt. Pippalāda removes this doubt, by showing that though the Lord does not create beings in the presence of aU, like a potter making his pot, yet He has produced Prāṇa and the Rayi, and has entered into them and though these are the direct causes of creation, they are, however, the instruments used by the Lord, and with them He creates all these creatures. Though Kabandhī is enumerated last among these six Seekers and questioners, yet he opens the discourse, because his question is the most comprehensive of all. They become more and more specialised as we proceed further. The occult teaching proceeds from the most general to the particular."
+   "english": "3. Then Kabandhī of the clan Kātyāyana having approached him said. O Master, from whom indeed these creatures are produced.—3.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "अथ कबन्धी कात्यायन उपेत्य पप्रच्छ। भगवन् कुतो ह वा इमाः प्रजा प्रजायन्त इति॥ १/३॥",
+     "english": "3. Then Kabandhī of the clan Kātyāyana having approached him said. O Master, from whom indeed these creatures are produced.—3."
+    },
+    {
+     "role": "bhashya",
+     "english": "Note.—The two particles “ha” and “vai” indicate the well-known fact that creatures are born -the fact of the production of beings is well-known: one being reproduces another. There is no instance to the contrary, i.e., one being produces another similar to itself. The cause cannot be an insentient thing; for an insentient object is not seen to work unless moved by some sentient being. The Jīva cannot be the Supreme Ruler, because he is not independent. Nor is Īśvara, as He is not an object of perception or apprehension. This is then the doubt. Pippalāda removes this doubt, by showing that though the Lord does not create beings in the presence of aU, like a potter making his pot, yet He has produced Prāṇa and the Rayi, and has entered into them and though these are the direct causes of creation, they are, however, the instruments used by the Lord, and with them He creates all these creatures. Though Kabandhī is enumerated last among these six Seekers and questioners, yet he opens the discourse, because his question is the most comprehensive of all. They become more and more specialised as we proceed further. The occult teaching proceeds from the most general to the particular."
+    }
+   ]
   },
   {
    "ref": "1/4",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "तस्मै स होवाच प्रजाकामो ह वै प्रजापतिः स तपोऽतप्यत स मिथुनमुत्पादयते। रयिं च प्राणं चेति।\nएतौ मे बहुधा प्रजाः करिष्यत इति॥ १/४॥",
-   "english": "4. He said to him, “the Lord of beings wishing to create, performed meditation: He then produced the two, Prāṇa and Rayi (thinking) these two would form for him the manifold creation.—4.\nViṣṇu is called the Prajāpati because He protects (pati) all creatures (prajā). He, the Supreme Spirit, the Highest Person sends out, in the beginning of every Kalpa, Vāyu called also the Sūrya (the sun) and Sarasvatī called also the moon. He makes these Vāyu and Sarasvatī take their abode in the Sun and the Moon. Then entering these two, Viṣṇu Himself the Unborn creates all this Universe. He dwelling in Vāyu, is formless (amūrta.) He dwelling in Sarasvatī is with form.\nNote.—He (Pippalāda) then said to him (Kabandhī) “The Lord of creatures once more desired to have creatures (in the beginning of a kalpa). He revolved over the plan. Having settled the plan, He produced a couple—the Rayi and the Prāṇa: (and said) “these two will produce manifold creatures for me.”"
+   "english": "4. He said to him, “the Lord of beings wishing to create, performed meditation: He then produced the two, Prāṇa and Rayi (thinking) these two would form for him the manifold creation.—4.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "तस्मै स होवाच प्रजाकामो ह वै प्रजापतिः स तपोऽतप्यत स मिथुनमुत्पादयते। रयिं च प्राणं चेति।\nएतौ मे बहुधा प्रजाः करिष्यत इति॥ १/४॥",
+     "english": "4. He said to him, “the Lord of beings wishing to create, performed meditation: He then produced the two, Prāṇa and Rayi (thinking) these two would form for him the manifold creation.—4."
+    },
+    {
+     "role": "bhashya",
+     "english": "Viṣṇu is called the Prajāpati because He protects (pati) all creatures (prajā). He, the Supreme Spirit, the Highest Person sends out, in the beginning of every Kalpa, Vāyu called also the Sūrya (the sun) and Sarasvatī called also the moon. He makes these Vāyu and Sarasvatī take their abode in the Sun and the Moon. Then entering these two, Viṣṇu Himself the Unborn creates all this Universe. He dwelling in Vāyu, is formless (amūrta.) He dwelling in Sarasvatī is with form.\nNote.—He (Pippalāda) then said to him (Kabandhī) “The Lord of creatures once more desired to have creatures (in the beginning of a kalpa). He revolved over the plan. Having settled the plan, He produced a couple—the Rayi and the Prāṇa: (and said) “these two will produce manifold creatures for me.”"
+    }
+   ]
   },
   {
    "ref": "1/5",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "आदित्यो ह वै प्राणो रयिरेव चन्द्रमाः। रयिर्वा एतत् सर्वं यन्मूर्तं चामूर्तं च।\nतस्मान्मूर्तिरेव रयिः॥ १/५॥",
-   "english": "5. The Prāṇa verily entered the Sun and the Rayi entered the Moon. All this verily is well-known as matter (Rayi) whether it is subtle or dense. Among these, (the dense) is the form (and) is alone called matter; (while the subtle acts as the indwelling life of the dense.)—5.\n[Note.—Tasmāt, therefore, the material cause of the whole universe is thus two-fold, subtle and dense. Amongst these two, the dense or form is matter, the subtle acts as life. The subtle kind of matter always animates the visible dense form: “from that”—other than that called or classified as subtle, namely the gross is called matter, because it alone has a form]\nNote.—This verse is differently interpreted by Śaṅkara and Rāmānuja schools. These are given below Prāṇa entered into Adītya [Āditya?], the Sun, hence sun itself is called the Prāṇa. The Lord created the Sun, and the Prāṇa entered into it. Or Āditya literally means “created in the beginning”—ādi, beginning. The “first creation.” Prāṇa is the first creation of the Lord, and hence called Āditya.\nThe enjoyer is verily the Spirit and the matter alone is the (joy-giver). Matter verily is this all, whatever is gross or subtle. Out of these (two) the form alone is generally called matter, the subtle is not so termed (Ramanuja School.)\nThe Sun is verily the Prāṇa, and Moon is the Rayi. The Rayi certainly is this all—whatever is visible or invisible. (Different) from that classified as (invisible), the form, (or the visible) alone is (however generally called) Rayi (Śaṅkara)."
+   "english": "5. The Prāṇa verily entered the Sun and the Rayi entered the Moon. All this verily is well-known as matter (Rayi) whether it is subtle or dense. Among these, (the dense) is the form (and) is alone called matter; (while the subtle acts as the indwelling life of the dense.)—5.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "आदित्यो ह वै प्राणो रयिरेव चन्द्रमाः। रयिर्वा एतत् सर्वं यन्मूर्तं चामूर्तं च।\nतस्मान्मूर्तिरेव रयिः॥ १/५॥",
+     "english": "5. The Prāṇa verily entered the Sun and the Rayi entered the Moon. All this verily is well-known as matter (Rayi) whether it is subtle or dense. Among these, (the dense) is the form (and) is alone called matter; (while the subtle acts as the indwelling life of the dense.)—5."
+    },
+    {
+     "role": "bhashya",
+     "english": "[Note.—Tasmāt, therefore, the material cause of the whole universe is thus two-fold, subtle and dense. Amongst these two, the dense or form is matter, the subtle acts as life. The subtle kind of matter always animates the visible dense form: “from that”—other than that called or classified as subtle, namely the gross is called matter, because it alone has a form]\nNote.—This verse is differently interpreted by Śaṅkara and Rāmānuja schools. These are given below Prāṇa entered into Adītya [Āditya?], the Sun, hence sun itself is called the Prāṇa. The Lord created the Sun, and the Prāṇa entered into it. Or Āditya literally means “created in the beginning”—ādi, beginning. The “first creation.” Prāṇa is the first creation of the Lord, and hence called Āditya.\nThe enjoyer is verily the Spirit and the matter alone is the (joy-giver). Matter verily is this all, whatever is gross or subtle. Out of these (two) the form alone is generally called matter, the subtle is not so termed (Ramanuja School.)\nThe Sun is verily the Prāṇa, and Moon is the Rayi. The Rayi certainly is this all—whatever is visible or invisible. (Different) from that classified as (invisible), the form, (or the visible) alone is (however generally called) Rayi (Śaṅkara)."
+    }
+   ]
   },
   {
    "ref": "1/6",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "अथादित्य उदयन् यत् प्राची दिशं प्रविशति तेन प्राच्यान् प्राणान् रश्मिषु सन्निधत्ते। यद् दक्षिणां यत्प् रतीचीं यदुदीचीं यदधो यदूर्ध्वं यदन्तरा दिशो यत् सर्वं प्रकाशयति तेन सर्वान् प्राणान् रश्मिषु सन्निधत्ते॥ १/६॥",
-   "english": "6. Now (when the Prāṇa in the) Sun on rising illumines the eastern quarter, it upholds in its rays the wardens of the eastern quarter (Agni and Indra with their consorts), when it enters the south, then it upholds the wardens of the south (Yama and Nirṛti with their respective consorts), when it enters the west, it upholds the wardens of the west (Varuṇa and Vāyu and their respective consorts), when it enters the north, then it upholds the wardens of the North (Soma and Īśāna with their respective consorts), when it enters the nadir, it upholds the wardens of the nether world (Śeṣa and Mitra and their consorts), when it enters the zenith it upholds the wardens of the upper world (Vīndra, and Kāma and their consorts); when it enters the middle quarters (the intermediate between the above) then it upholds the Prāṇas of those quarters. It upholds all Prāṇas in its rays.—6.\nNote.—Because the Sun, on rising, enters the eastern quarter, therefore by that pervasion he draws up into (his) rays the eastern Prāṇas, because he illumines the south, because west, because north, because above, because middle, because all quarters he illumines, therefore, by that (illumination) he draws into his rays all Prāṇas (Śaṅkara.)\nNow because the Soul, on awaking, enters the frontal sense organs (eyes, etc.) thereby (it) directs or brings into activity, these senses (that perceive the objects) in front (of one) through its rays (of consciousness); because it enters the senses on the right side, thereby it directs those senses to apprehend objects on one’s right hand, because it enters the organs in the back, on the left, in the down, on the above, the middle, in all parts, thereby, it brings into activity through its rays (of life) the various organs (Rāmānuja school).\nFor when the sun on rising enters the eastern quarter then he supports by his rays the creatures in the east, when he enters the south, the west, the north, the upper and the middle quarters, he illumines thereby all portions and supports by his rays, all life."
+   "english": "6. Now (when the Prāṇa in the) Sun on rising illumines the eastern quarter, it upholds in its rays the wardens of the eastern quarter (Agni and Indra with their consorts), when it enters the south, then it upholds the wardens of the south (Yama and Nirṛti with their respective consorts), when it enters the west, it upholds the wardens of the west (Varuṇa and Vāyu and their respective consorts), when it enters the north, then it upholds the wardens of the North (Soma and Īśāna with their respective consorts), when it enters the nadir, it upholds the wardens of the nether world (Śeṣa and Mitra and their consorts), when it enters the zenith it upholds the wardens of the upper world (Vīndra, and Kāma and their consorts); when it enters the middle quarters (the intermediate between the above) then it upholds the Prāṇas of those quarters. It upholds all Prāṇas in its rays.—6.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "अथादित्य उदयन् यत् प्राची दिशं प्रविशति तेन प्राच्यान् प्राणान् रश्मिषु सन्निधत्ते। यद् दक्षिणां यत्प् रतीचीं यदुदीचीं यदधो यदूर्ध्वं यदन्तरा दिशो यत् सर्वं प्रकाशयति तेन सर्वान् प्राणान् रश्मिषु सन्निधत्ते॥ १/६॥",
+     "english": "6. Now (when the Prāṇa in the) Sun on rising illumines the eastern quarter, it upholds in its rays the wardens of the eastern quarter (Agni and Indra with their consorts), when it enters the south, then it upholds the wardens of the south (Yama and Nirṛti with their respective consorts), when it enters the west, it upholds the wardens of the west (Varuṇa and Vāyu and their respective consorts), when it enters the north, then it upholds the wardens of the North (Soma and Īśāna with their respective consorts), when it enters the nadir, it upholds the wardens of the nether world (Śeṣa and Mitra and their consorts), when it enters the zenith it upholds the wardens of the upper world (Vīndra, and Kāma and their consorts); when it enters the middle quarters (the intermediate between the above) then it upholds the Prāṇas of those quarters. It upholds all Prāṇas in its rays.—6."
+    },
+    {
+     "role": "bhashya",
+     "english": "Note.—Because the Sun, on rising, enters the eastern quarter, therefore by that pervasion he draws up into (his) rays the eastern Prāṇas, because he illumines the south, because west, because north, because above, because middle, because all quarters he illumines, therefore, by that (illumination) he draws into his rays all Prāṇas (Śaṅkara.)\nNow because the Soul, on awaking, enters the frontal sense organs (eyes, etc.) thereby (it) directs or brings into activity, these senses (that perceive the objects) in front (of one) through its rays (of consciousness); because it enters the senses on the right side, thereby it directs those senses to apprehend objects on one’s right hand, because it enters the organs in the back, on the left, in the down, on the above, the middle, in all parts, thereby, it brings into activity through its rays (of life) the various organs (Rāmānuja school).\nFor when the sun on rising enters the eastern quarter then he supports by his rays the creatures in the east, when he enters the south, the west, the north, the upper and the middle quarters, he illumines thereby all portions and supports by his rays, all life."
+    }
+   ]
   },
   {
    "ref": "1/7",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "स एष वैश्वानरो विश्वरूपः प्राणोऽग्निरुदयते॥ १/७॥",
-   "english": "7. He, called, Vaiśvānara, tbe All-form, the Life, arises as Fire: this is described in the following verse.—7.\nNote.—That (Invisible) is this (Visible) sun, the Self or totality of all jīvas and of all forms; the life, the death. He arises. He by this hymn has been described (Śaṅkara).\nHe (Prajāpati) is tins Leader of all men, pervades all bodies, is the Prāṇa and the Agni. He arises. He is described by this (following) hymn. (Rāmānuja School.)\nThat (Invisible) is this (Visible) Sun, the Self or totality of all jīvas and of all forms: the life, the death. He arises. He by this hymn has been described. (Śaṅkara.)\nHe (Prājāpati [Prajāpati?]) is this Leader of all men, pervades all bodies, is the Prāṇa and the Agni. He rises. He is described by this (following) hymn. (Rāmānuja School).\nThe sun illumines the whole world and thus, is in a way, the Lord of creatures, a Prajāpati. Moreover the Sun is the abode of the All-form, the great Agni, namely, the Prāṇa. The Sun is called Vaiśvanara, because he is connected with the activities of all men—all the activities such as heating, cooking, drying, etc., are possible, because of the Sun. He verily is the Life of the world."
+   "english": "7. He, called, Vaiśvānara, tbe All-form, the Life, arises as Fire: this is described in the following verse.—7.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "स एष वैश्वानरो विश्वरूपः प्राणोऽग्निरुदयते॥ १/७॥",
+     "english": "7. He, called, Vaiśvānara, tbe All-form, the Life, arises as Fire: this is described in the following verse.—7."
+    },
+    {
+     "role": "bhashya",
+     "english": "Note.—That (Invisible) is this (Visible) sun, the Self or totality of all jīvas and of all forms; the life, the death. He arises. He by this hymn has been described (Śaṅkara).\nHe (Prajāpati) is tins Leader of all men, pervades all bodies, is the Prāṇa and the Agni. He arises. He is described by this (following) hymn. (Rāmānuja School.)\nThat (Invisible) is this (Visible) Sun, the Self or totality of all jīvas and of all forms: the life, the death. He arises. He by this hymn has been described. (Śaṅkara.)\nHe (Prājāpati [Prajāpati?]) is this Leader of all men, pervades all bodies, is the Prāṇa and the Agni. He rises. He is described by this (following) hymn. (Rāmānuja School).\nThe sun illumines the whole world and thus, is in a way, the Lord of creatures, a Prajāpati. Moreover the Sun is the abode of the All-form, the great Agni, namely, the Prāṇa. The Sun is called Vaiśvanara, because he is connected with the activities of all men—all the activities such as heating, cooking, drying, etc., are possible, because of the Sun. He verily is the Life of the world."
+    }
+   ]
   },
   {
    "ref": "1/8",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "तदेतदृचाऽभ्युक्तम्-\nविश्वरूपं करिणं जातवेदसं परायणं ज्योतिरेकं तपन्तम्।\nसहस्ररश्मिः शतधा वर्तमानः प्राणः प्रजानामुदयत्येष सूर्यः॥ १/८॥",
-   "english": "8. He, this Sun, arises, the Self of all forms, full of rays, the omniscient, the final end, the light, the one, the heat-giver, the thousand-rayed, the life of all beings, existing in a hundred ways.—8.\nThe Vāyu dwelling in the Sun takes up all the spirits of various Quarters and makes them enter into his rays. The spirits or the Prāṇas of the East are Indra and the rest, of the South, are the Yama and the rest, of the West, are the Varuṇa, and the rest, of the North, are the Soma, and the rest: Śeṣa and Mitra are the prāṇas of the Nadir, Vīndra and Kāma of the Zenith. Four are in each quarter, counting their consorts and the intermediate quarters.\n(Note.—Thus Indra and his consort, and the ruler of the Intermediate quarter and his consort are in the east. So on with other quarters).\nThe All-form, the radiant, the omniscient, the highest goal, the one-light, the heat-giver, the thousand-rayed, existing in hundred ways, the life of (all) creatures, (behold!) this Sun arises. (Rāmanuja School).\nIn obedience to Hari, the Omnipresent, the Omniscient, the Supremely desired, the Light, the Second-less, the all-nourisher, (behold) this (jīva) the (real) life in all creatures of hundreds of kinds, having thousand rays (of intelligence) arises (from its Suṣupti or Pralayic sleep) (like another) Sun. (Rāmānuja School)."
+   "english": "8. He, this Sun, arises, the Self of all forms, full of rays, the omniscient, the final end, the light, the one, the heat-giver, the thousand-rayed, the life of all beings, existing in a hundred ways.—8.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "तदेतदृचाऽभ्युक्तम्-\nविश्वरूपं करिणं जातवेदसं परायणं ज्योतिरेकं तपन्तम्।\nसहस्ररश्मिः शतधा वर्तमानः प्राणः प्रजानामुदयत्येष सूर्यः॥ १/८॥",
+     "english": "8. He, this Sun, arises, the Self of all forms, full of rays, the omniscient, the final end, the light, the one, the heat-giver, the thousand-rayed, the life of all beings, existing in a hundred ways.—8."
+    },
+    {
+     "role": "bhashya",
+     "english": "The Vāyu dwelling in the Sun takes up all the spirits of various Quarters and makes them enter into his rays. The spirits or the Prāṇas of the East are Indra and the rest, of the South, are the Yama and the rest, of the West, are the Varuṇa, and the rest, of the North, are the Soma, and the rest: Śeṣa and Mitra are the prāṇas of the Nadir, Vīndra and Kāma of the Zenith. Four are in each quarter, counting their consorts and the intermediate quarters.\n(Note.—Thus Indra and his consort, and the ruler of the Intermediate quarter and his consort are in the east. So on with other quarters).\nThe All-form, the radiant, the omniscient, the highest goal, the one-light, the heat-giver, the thousand-rayed, existing in hundred ways, the life of (all) creatures, (behold!) this Sun arises. (Rāmanuja School).\nIn obedience to Hari, the Omnipresent, the Omniscient, the Supremely desired, the Light, the Second-less, the all-nourisher, (behold) this (jīva) the (real) life in all creatures of hundreds of kinds, having thousand rays (of intelligence) arises (from its Suṣupti or Pralayic sleep) (like another) Sun. (Rāmānuja School)."
+    }
+   ]
   },
   {
    "ref": "1/9",
@@ -104,7 +170,18 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "मासौ वै प्रजापतिः। तस्य कृष्णपक्ष एव रयिः। शुक्लः प्राणः। तस्मादेते ऋषयः शुक्ल इष्टिं कुर्वन्ति। इतर इतरस्मिन्॥१/१२॥",
-   "english": "12. The month is verily the Lord of creatures; its dark half indeed is Rayi, its bright half is Prāṇa. Therefore these seers perforin all auspicious works in the bright half; the ignorant others, in the dark other half.—12.\nNote.— The Lord of Beings is as the month: the dark fortnight of it is as Prakṛti, the light fortnight is as Puruṣa. Hence wise ones perform sacrifices in the light half, others in the other half.\nMadhva’s commentary called the Bhāṣya:\nThe Lord dwells in the year: in the winter half dwells His Sarasvatī aspect, in the northern or summer half, His Prāṇa aspect. The Lord dwells in the month. In the Bright fortnight is His Prāṇa aspect, in the Dark fortnight, is His Sarasvatī aspect. The Lord dwells in the day and night. His Prāṇa aspect is in the day, His Sarasvatī aspect is in the night."
+   "english": "12. The month is verily the Lord of creatures; its dark half indeed is Rayi, its bright half is Prāṇa. Therefore these seers perforin all auspicious works in the bright half; the ignorant others, in the dark other half.—12.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "मासौ वै प्रजापतिः। तस्य कृष्णपक्ष एव रयिः। शुक्लः प्राणः। तस्मादेते ऋषयः शुक्ल इष्टिं कुर्वन्ति। इतर इतरस्मिन्॥१/१२॥",
+     "english": "12. The month is verily the Lord of creatures; its dark half indeed is Rayi, its bright half is Prāṇa. Therefore these seers perforin all auspicious works in the bright half; the ignorant others, in the dark other half.—12."
+    },
+    {
+     "role": "bhashya",
+     "english": "Note.— The Lord of Beings is as the month: the dark fortnight of it is as Prakṛti, the light fortnight is as Puruṣa. Hence wise ones perform sacrifices in the light half, others in the other half.\nMadhva’s commentary called the Bhāṣya:\nThe Lord dwells in the year: in the winter half dwells His Sarasvatī aspect, in the northern or summer half, His Prāṇa aspect. The Lord dwells in the month. In the Bright fortnight is His Prāṇa aspect, in the Dark fortnight, is His Sarasvatī aspect. The Lord dwells in the day and night. His Prāṇa aspect is in the day, His Sarasvatī aspect is in the night."
+    }
+   ]
   },
   {
    "ref": "1/13",
@@ -205,14 +282,36 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "(२)॥\nप्रजापतिश्चरसि गर्भे त्वमेव प्रतिजायसे।\nतुभ्यं प्राण प्रजास्त्विमाः यत् प्राणैः प्रतितिष्ठसि॥ २/७॥",
-   "english": "7. As the creator-of-beings thou quickenest (the foetus) in the womb, and thou alone expellest (it from the womb when grown). Thine, O Prāṇa! are these creatures and they bring offering (for thee), who with the (other) life-currents dwellest (in the body).—23.\nNote.—In the previous two mantras, the Prāṇa has been eulogised in the third person. Now he is directly addressed. Thou, O Prāṇa! art the Prajāpati such as Dakṣa, etc. Thou movest in the womb and quicknest the foetus: and thou helpest the coming out of the Jīva from the womb. Thine are all these Devas and other creatures, because thou dwellest in the body and supportest it through the subordinate prāṇas, like the Devas of the eyes, etc.\nThe reading in Madhva’s text is slightly different. In the second line there is “tubhyaṃ prāṇa prajās tvimāḥ yat prāṇaiḥ pratitiṣṭhasi”—“O Prāṇa! these creatures are thine, because thou\ndwellest in and supportest the body through the other prāṇas.”"
+   "english": "7. As the creator-of-beings thou quickenest (the foetus) in the womb, and thou alone expellest (it from the womb when grown). Thine, O Prāṇa! are these creatures and they bring offering (for thee), who with the (other) life-currents dwellest (in the body).—23.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "(२)॥\nप्रजापतिश्चरसि गर्भे त्वमेव प्रतिजायसे।\nतुभ्यं प्राण प्रजास्त्विमाः यत् प्राणैः प्रतितिष्ठसि॥ २/७॥",
+     "english": "7. As the creator-of-beings thou quickenest (the foetus) in the womb, and thou alone expellest (it from the womb when grown). Thine, O Prāṇa! are these creatures and they bring offering (for thee), who with the (other) life-currents dwellest (in the body).—23."
+    },
+    {
+     "role": "bhashya",
+     "english": "Note.—In the previous two mantras, the Prāṇa has been eulogised in the third person. Now he is directly addressed. Thou, O Prāṇa! art the Prajāpati such as Dakṣa, etc. Thou movest in the womb and quicknest the foetus: and thou helpest the coming out of the Jīva from the womb. Thine are all these Devas and other creatures, because thou dwellest in the body and supportest it through the subordinate prāṇas, like the Devas of the eyes, etc.\nThe reading in Madhva’s text is slightly different. In the second line there is “tubhyaṃ prāṇa prajās tvimāḥ yat prāṇaiḥ pratitiṣṭhasi”—“O Prāṇa! these creatures are thine, because thou\ndwellest in and supportest the body through the other prāṇas.”"
+    }
+   ]
   },
   {
    "ref": "2/8",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "(३)॥\nदेवानामसि वह्नितमः पितॄणां प्रथमा स्वधा।\nऋषीणां चरितं सत्यमथर्वाऽङ्गिरसामपि॥ २/८॥",
-   "english": "8. Thou art the best carrier (of havis, oblations) to the Devas (in the Svarga) and of the Svadhā, oblation to the Pitṛs (in the Pitṛloka); thou art the good conduct and the true speech of the Riṣis Atharva-Aṅgiras (on earth)—(or thou art the carrier of true impressions to the senses of the body of the etheric-life-fluid on earth)—24.\nNote.—Thou art the best carrier, as the Prāṇic mental atom, the thought-impressions called Svāhā, to the Devas in Devacan, thou art the best carrier as the Prāṇic astral atom the desire impressions called the Primeval Svadhā to the Pitṛs in the astral world, thou art the best carrier of the impressions of the true events on the physical Plane to the astro-etheric senses of man on the earth."
+   "english": "8. Thou art the best carrier (of havis, oblations) to the Devas (in the Svarga) and of the Svadhā, oblation to the Pitṛs (in the Pitṛloka); thou art the good conduct and the true speech of the Riṣis Atharva-Aṅgiras (on earth)—(or thou art the carrier of true impressions to the senses of the body of the etheric-life-fluid on earth)—24.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "(३)॥\nदेवानामसि वह्नितमः पितॄणां प्रथमा स्वधा।\nऋषीणां चरितं सत्यमथर्वाऽङ्गिरसामपि॥ २/८॥",
+     "english": "8. Thou art the best carrier (of havis, oblations) to the Devas (in the Svarga) and of the Svadhā, oblation to the Pitṛs (in the Pitṛloka); thou art the good conduct and the true speech of the Riṣis Atharva-Aṅgiras (on earth)—(or thou art the carrier of true impressions to the senses of the body of the etheric-life-fluid on earth)—24."
+    },
+    {
+     "role": "bhashya",
+     "english": "Note.—Thou art the best carrier, as the Prāṇic mental atom, the thought-impressions called Svāhā, to the Devas in Devacan, thou art the best carrier as the Prāṇic astral atom the desire impressions called the Primeval Svadhā to the Pitṛs in the astral world, thou art the best carrier of the impressions of the true events on the physical Plane to the astro-etheric senses of man on the earth."
+    }
+   ]
   },
   {
    "ref": "2/9",
@@ -301,7 +400,18 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "यथा सम्राडेवाधिकृतान् विनियुङ्क्त एतान् ग्रामानधितिष्ठस्वैतान् ग्रामानधितिष्ठस्वेत्येवमेवैष प्राण इतरान् प्राणान् पृथक् पृथगेव सन्निधत्ते॥ ३/४॥",
-   "english": "4. As a king appoints his officers (telling them) “Rule ye over these particular territories,” so indeed this Prāṇa directs the inferior prāṇas of the senses to their separate objects.—33.\nNote.—The pentad called Prāṇa is of two kinds, the Higher Prāṇa pentad and the Lower Prāṇa pentad. From the Principal Prāṇa are born, as His children, the Lower Prāṇa pentad. They are separate from the Prāṇa as individual entities. The Higher Prāṇa pentad is the five-fold aspect of the one and the same Prāṇa. As they are aspects of the chief Prāṇa, they are not separate and distinct from Him. The chief Prāṇa (which always means the Higher pentad) appoints these Lower Prāṇa pentads—prāṇa, apāṇa [apāna?], vyāna, samāna and udāna—each to his respective organ and function, and Himself guides them. Thus the Apāna aspect of the chief Prāṇa presides over the apāna of the Lower pentad; and so on."
+   "english": "4. As a king appoints his officers (telling them) “Rule ye over these particular territories,” so indeed this Prāṇa directs the inferior prāṇas of the senses to their separate objects.—33.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "यथा सम्राडेवाधिकृतान् विनियुङ्क्त एतान् ग्रामानधितिष्ठस्वैतान् ग्रामानधितिष्ठस्वेत्येवमेवैष प्राण इतरान् प्राणान् पृथक् पृथगेव सन्निधत्ते॥ ३/४॥",
+     "english": "4. As a king appoints his officers (telling them) “Rule ye over these particular territories,” so indeed this Prāṇa directs the inferior prāṇas of the senses to their separate objects.—33."
+    },
+    {
+     "role": "bhashya",
+     "english": "Note.—The pentad called Prāṇa is of two kinds, the Higher Prāṇa pentad and the Lower Prāṇa pentad. From the Principal Prāṇa are born, as His children, the Lower Prāṇa pentad. They are separate from the Prāṇa as individual entities. The Higher Prāṇa pentad is the five-fold aspect of the one and the same Prāṇa. As they are aspects of the chief Prāṇa, they are not separate and distinct from Him. The chief Prāṇa (which always means the Higher pentad) appoints these Lower Prāṇa pentads—prāṇa, apāṇa [apāna?], vyāna, samāna and udāna—each to his respective organ and function, and Himself guides them. Thus the Apāna aspect of the chief Prāṇa presides over the apāna of the Lower pentad; and so on."
+    }
+   ]
   },
   {
    "ref": "3/5",
@@ -327,14 +437,36 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "अत्रैतदेकशतं नाडीनाम्। तासां शतमेकैकस्यां द्वासप्ततिं प्रतिशाखानाडीसहस्राण्यासु व्यानश्चरति॥ ३/६॥",
-   "english": "6. In the heart verily is this Jīvātma. Here arise one hundred and one uadis. Each one of them has a hundred sub-nāḍīs. Each sub-nāḍī has 72,000 branch nāḍīs. The Vyāna moves in them.—35.\nNote.—The phrase ‘hṛdi hy eṣa ātmā” is read by Madhva as part of the last verse, connected with the sentence “these are the seven flames or rays.” Does the Jīvātma perceive the external objects by directly coming in contact with them or through some intermediary? The verse answers this, by saying “the Jīvātma is in the heart”—it can never come in direct contact with an external object. The objects are, therefore, perceived through these seven rays or wires.\nThe remaining portion of the present mantra describes the vyāna. The description shows that it refers to the circulation of blood, and the nāḍīs are the arteries and capillaries. They are all connected with the heart.\nThe Vyāna would thus correspond to the circulatory function of the blood through the arteries and veins, and its oxygenation in the lungs."
+   "english": "6. In the heart verily is this Jīvātma. Here arise one hundred and one uadis. Each one of them has a hundred sub-nāḍīs. Each sub-nāḍī has 72,000 branch nāḍīs. The Vyāna moves in them.—35.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "अत्रैतदेकशतं नाडीनाम्। तासां शतमेकैकस्यां द्वासप्ततिं प्रतिशाखानाडीसहस्राण्यासु व्यानश्चरति॥ ३/६॥",
+     "english": "6. In the heart verily is this Jīvātma. Here arise one hundred and one uadis. Each one of them has a hundred sub-nāḍīs. Each sub-nāḍī has 72,000 branch nāḍīs. The Vyāna moves in them.—35."
+    },
+    {
+     "role": "bhashya",
+     "english": "Note.—The phrase ‘hṛdi hy eṣa ātmā” is read by Madhva as part of the last verse, connected with the sentence “these are the seven flames or rays.” Does the Jīvātma perceive the external objects by directly coming in contact with them or through some intermediary? The verse answers this, by saying “the Jīvātma is in the heart”—it can never come in direct contact with an external object. The objects are, therefore, perceived through these seven rays or wires.\nThe remaining portion of the present mantra describes the vyāna. The description shows that it refers to the circulation of blood, and the nāḍīs are the arteries and capillaries. They are all connected with the heart.\nThe Vyāna would thus correspond to the circulatory function of the blood through the arteries and veins, and its oxygenation in the lungs."
+    }
+   ]
   },
   {
    "ref": "3/7",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "अथैकयोर्ध्वं उदानः पुण्येन पुण्यं लोकं नयति पापेन पापमुभाभ्यामेव मनुष्यलोकम्॥ ३/७॥",
-   "english": "7. But by one (of these 101 nāḍīs) the up-going Udāna leads by virtue of good deeds to the worlds of the good, by sin to worlds of the sinful, by both to the world of the men indeed.—36.\nNote.—The udāna function, though a well recognised one, has no physiological centre ascribed to it by modern science. The existence of the suṣumnā is considered as mythical. But man goes to sleep every day, and the Jīva leaves the body in deep sleep as well as in death. The life-energy that takes the Jīva to the region of deep sleep and out of the body should be recognised as a form of Prāṇa. I have called it the hypnotic function of Prāṇa. It is a distinct and positive function and not a mere negative weariness of the nerves or exhaustion of vitality."
+   "english": "7. But by one (of these 101 nāḍīs) the up-going Udāna leads by virtue of good deeds to the worlds of the good, by sin to worlds of the sinful, by both to the world of the men indeed.—36.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "अथैकयोर्ध्वं उदानः पुण्येन पुण्यं लोकं नयति पापेन पापमुभाभ्यामेव मनुष्यलोकम्॥ ३/७॥",
+     "english": "7. But by one (of these 101 nāḍīs) the up-going Udāna leads by virtue of good deeds to the worlds of the good, by sin to worlds of the sinful, by both to the world of the men indeed.—36."
+    },
+    {
+     "role": "bhashya",
+     "english": "Note.—The udāna function, though a well recognised one, has no physiological centre ascribed to it by modern science. The existence of the suṣumnā is considered as mythical. But man goes to sleep every day, and the Jīva leaves the body in deep sleep as well as in death. The life-energy that takes the Jīva to the region of deep sleep and out of the body should be recognised as a form of Prāṇa. I have called it the hypnotic function of Prāṇa. It is a distinct and positive function and not a mere negative weariness of the nerves or exhaustion of vitality."
+    }
+   ]
   },
   {
    "ref": "3/8",
@@ -348,14 +480,36 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "तेजो ह वा उदानः। तस्मादुपशान्ततेजाः पुनर्भवमिन्द्रियैर्मनसि सम्पद्यमानैः॥ ३/९॥",
-   "english": "9. The Cosmic Fire verily is Udāna. (It helps the udāna in man), therefore, when a person becomes exhausted of energy, he goes to another birth, with his sense-faculties merged in the mind.—38.\nNote.—The five energies appear to be correlated with the five elements and the five planes. This is a tentative table of these correspondences.\nCosmic.\nMicro-cosmic.\nCosmic Plane.\nHuman Organ.\nElement.\nPrana\nPrāṇa\nAtmic or Solar...\nThe Light and other senses and optic and other centres of the senses in the brain and the whole brain.\nLight (ether or ākāśa).\nApana\nApāna\nEarth or physical\nThe intestines and other excretory organs.\nEarth.\nSamana\nSamāna\nAstral or antarīkṣa.\nThe assimilatory organs, e.g. stomach, liver, pancreas and lacteal circulatory vessels.\nWater.\nVyana\nVyāna\nBuddhic plane...\nThe heart and blood circulatory vessels.\nVāyu or Air.\nUdana\nUdāna\nMental plane...\nThe throat (?)\nFire\nThus the five physiological prāṇas may be translated as 1. Sensory, 2. Excretory, 3. Assimilative, 4. Circulatory, 5. Hypnotic and Respiratory, or ejectory functions."
+   "english": "9. The Cosmic Fire verily is Udāna. (It helps the udāna in man), therefore, when a person becomes exhausted of energy, he goes to another birth, with his sense-faculties merged in the mind.—38.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "तेजो ह वा उदानः। तस्मादुपशान्ततेजाः पुनर्भवमिन्द्रियैर्मनसि सम्पद्यमानैः॥ ३/९॥",
+     "english": "9. The Cosmic Fire verily is Udāna. (It helps the udāna in man), therefore, when a person becomes exhausted of energy, he goes to another birth, with his sense-faculties merged in the mind.—38."
+    },
+    {
+     "role": "bhashya",
+     "english": "Note.—The five energies appear to be correlated with the five elements and the five planes. This is a tentative table of these correspondences.\nCosmic.\nMicro-cosmic.\nCosmic Plane.\nHuman Organ.\nElement.\nPrana\nPrāṇa\nAtmic or Solar...\nThe Light and other senses and optic and other centres of the senses in the brain and the whole brain.\nLight (ether or ākāśa).\nApana\nApāna\nEarth or physical\nThe intestines and other excretory organs.\nEarth.\nSamana\nSamāna\nAstral or antarīkṣa.\nThe assimilatory organs, e.g. stomach, liver, pancreas and lacteal circulatory vessels.\nWater.\nVyana\nVyāna\nBuddhic plane...\nThe heart and blood circulatory vessels.\nVāyu or Air.\nUdana\nUdāna\nMental plane...\nThe throat (?)\nFire\nThus the five physiological prāṇas may be translated as 1. Sensory, 2. Excretory, 3. Assimilative, 4. Circulatory, 5. Hypnotic and Respiratory, or ejectory functions."
+    }
+   ]
   },
   {
    "ref": "3/10",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "यच्चित्तस्तेनैष प्राणमायाति। प्राणस्तेजसा युक्तः सहात्मना यथासङ्कल्पितं लोकं नयति॥ ३/१०॥",
-   "english": "10. As is one’s idea at the time of death, such is his next incarnation; for with that idea uppermost, the Jīva approaches the Prāṇa. Then the Prāṇa joined with the Udāna energy, together with the higher self, carries the Jīva to that particular world which is desired by it—39.\nNote.—The Jīva surrounded by the citta or mental body appears in the presence of the chief Prāṇa at the time of death. The Prāṇa joined with udāna and the Supreme Self carries the Jīva to the region desired and thought by it. The Jīva is endowed with a body appropriate to the plane where it goes. The udāna thus ejects the tenant soul from its house, the body. It may be called the ejectory function."
+   "english": "10. As is one’s idea at the time of death, such is his next incarnation; for with that idea uppermost, the Jīva approaches the Prāṇa. Then the Prāṇa joined with the Udāna energy, together with the higher self, carries the Jīva to that particular world which is desired by it—39.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "यच्चित्तस्तेनैष प्राणमायाति। प्राणस्तेजसा युक्तः सहात्मना यथासङ्कल्पितं लोकं नयति॥ ३/१०॥",
+     "english": "10. As is one’s idea at the time of death, such is his next incarnation; for with that idea uppermost, the Jīva approaches the Prāṇa. Then the Prāṇa joined with the Udāna energy, together with the higher self, carries the Jīva to that particular world which is desired by it—39."
+    },
+    {
+     "role": "bhashya",
+     "english": "Note.—The Jīva surrounded by the citta or mental body appears in the presence of the chief Prāṇa at the time of death. The Prāṇa joined with udāna and the Supreme Self carries the Jīva to the region desired and thought by it. The Jīva is endowed with a body appropriate to the plane where it goes. The udāna thus ejects the tenant soul from its house, the body. It may be called the ejectory function."
+    }
+   ]
   },
   {
    "ref": "3/11",
@@ -383,7 +537,18 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "अथ हैनं सौर्यायणी गार्ग्यः पप्रच्छ। भगवन्नेतस्मिन् पुरुषे कानि स्वपन्ति। कान्यस्मिन् जाग्रति। कतर एष देवः स्वप्नान् पश्यति। कस्यैतत् सुखं भवति। कस्मिन्नु सर्वे सम्प्रतिष्ठिता भवन्तीति॥ ४/१॥",
-   "english": "1. Next Sauryāyanī Gārgya asked him: “O Master! when this person sleeps, what Devas cease functioning and what continue to function. What deva out of these causes dreams to be dreamt? Whose is the experiencing of bliss in a dreamless sleep? In whom are all firmly established?—42.\nNote.—The word “sleep” includes both the ‘dream’ and deep dreamless sleep. The question relates to both states. Through the mediation of what deva of the senses does the Jīva dream, and whose is the happiness enjoyed in dreamless sleep: for then the Jīva is not in contact with any one of the organs of sensation, how does he feel happiness. The dream and the deep sleep are independent of the Jīva: nor are they subordinate to the Chief Prāṇa, for He also is a Jīva. On whom then do these states depend? The Devas, of course, never sleep. The question “What Deva dreams dream?” therefore, means ‘What deva causes the Jīva to dream dream,’ for the devas never dream. Though there are many devas in the human body, they are not independent of each other, but act in co-ordination.\nIn the previous praśnas, the entire universe has been proved to be under the Lord. All beings are under Him, not only in their waking state, but in the dreaming and sleeping states also. This chapter enunciates this truth. It is the Jīva that goes to sleep, that dreams dreams or enjoys the rest of the dreamless sleep. The Devas that carry on the functions of the body, never sleep -they only cease to function. Some, however, never cease to function even,"
+   "english": "1. Next Sauryāyanī Gārgya asked him: “O Master! when this person sleeps, what Devas cease functioning and what continue to function. What deva out of these causes dreams to be dreamt? Whose is the experiencing of bliss in a dreamless sleep? In whom are all firmly established?—42.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "अथ हैनं सौर्यायणी गार्ग्यः पप्रच्छ। भगवन्नेतस्मिन् पुरुषे कानि स्वपन्ति। कान्यस्मिन् जाग्रति। कतर एष देवः स्वप्नान् पश्यति। कस्यैतत् सुखं भवति। कस्मिन्नु सर्वे सम्प्रतिष्ठिता भवन्तीति॥ ४/१॥",
+     "english": "1. Next Sauryāyanī Gārgya asked him: “O Master! when this person sleeps, what Devas cease functioning and what continue to function. What deva out of these causes dreams to be dreamt? Whose is the experiencing of bliss in a dreamless sleep? In whom are all firmly established?—42."
+    },
+    {
+     "role": "bhashya",
+     "english": "Note.—The word “sleep” includes both the ‘dream’ and deep dreamless sleep. The question relates to both states. Through the mediation of what deva of the senses does the Jīva dream, and whose is the happiness enjoyed in dreamless sleep: for then the Jīva is not in contact with any one of the organs of sensation, how does he feel happiness. The dream and the deep sleep are independent of the Jīva: nor are they subordinate to the Chief Prāṇa, for He also is a Jīva. On whom then do these states depend? The Devas, of course, never sleep. The question “What Deva dreams dream?” therefore, means ‘What deva causes the Jīva to dream dream,’ for the devas never dream. Though there are many devas in the human body, they are not independent of each other, but act in co-ordination.\nIn the previous praśnas, the entire universe has been proved to be under the Lord. All beings are under Him, not only in their waking state, but in the dreaming and sleeping states also. This chapter enunciates this truth. It is the Jīva that goes to sleep, that dreams dreams or enjoys the rest of the dreamless sleep. The Devas that carry on the functions of the body, never sleep -they only cease to function. Some, however, never cease to function even,"
+    }
+   ]
   },
   {
    "ref": "4/2",
@@ -409,14 +574,36 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "प्राणाग्नय एवैतस्मिन् पुरे जाग्रति गार्हपत्यो ह वा एषोऽपानो व्यानोऽन्वाहार्यपचनो यद् गार्हपत्यात् प्रणीयते। प्रणयनादाहवनीयः प्राणः॥ ४/३॥",
-   "english": "3. The Prāṇa-fires alone are awake in this town. The Apāna is the Gārhapatya fire. The Vyāna is the Dakṣināgni [Dakṣiṇāgni?]. The Prāṇa by reason of its Praṇayana is the Āhavaniya fire, because it is obtained (praṇīyate) from the Gārhapatya.—44.\n[Note.—Apānaḥ, the Apāna. The similarity between the Apāna and Gārhapatya is that both are situated west, as Gārthapatya fire is lighted on the western hearth of the house, so the Apāna is the west or downward going function, the excretory function.]\n[Note.—Anvāhārya pacana Dakṣiṇāgni (south or right-hand fire). The similarity consists in the both burn up oblations or homa.]\nNote.—The western gate of the human body is the alimentary canal and as the Apāna has its seat in it, it is analogically said to be the Gārhapatya fire. Perhaps it is also so called because it cooks all food—all food is digested in the alimentary canal, beginning with the saliva of the mouth and ending with the large intestines. Gārhapatya is the fire of the household, the kitchen fire. The food when digested goes to nourish the organs by becoming blood, so Prāṇa, by which blood also is meant, is extracted from the Apāna. The arterial circulation is Vyāna."
+   "english": "3. The Prāṇa-fires alone are awake in this town. The Apāna is the Gārhapatya fire. The Vyāna is the Dakṣināgni [Dakṣiṇāgni?]. The Prāṇa by reason of its Praṇayana is the Āhavaniya fire, because it is obtained (praṇīyate) from the Gārhapatya.—44.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "प्राणाग्नय एवैतस्मिन् पुरे जाग्रति गार्हपत्यो ह वा एषोऽपानो व्यानोऽन्वाहार्यपचनो यद् गार्हपत्यात् प्रणीयते। प्रणयनादाहवनीयः प्राणः॥ ४/३॥",
+     "english": "3. The Prāṇa-fires alone are awake in this town. The Apāna is the Gārhapatya fire. The Vyāna is the Dakṣināgni [Dakṣiṇāgni?]. The Prāṇa by reason of its Praṇayana is the Āhavaniya fire, because it is obtained (praṇīyate) from the Gārhapatya.—44."
+    },
+    {
+     "role": "bhashya",
+     "english": "[Note.—Apānaḥ, the Apāna. The similarity between the Apāna and Gārhapatya is that both are situated west, as Gārthapatya fire is lighted on the western hearth of the house, so the Apāna is the west or downward going function, the excretory function.]\n[Note.—Anvāhārya pacana Dakṣiṇāgni (south or right-hand fire). The similarity consists in the both burn up oblations or homa.]\nNote.—The western gate of the human body is the alimentary canal and as the Apāna has its seat in it, it is analogically said to be the Gārhapatya fire. Perhaps it is also so called because it cooks all food—all food is digested in the alimentary canal, beginning with the saliva of the mouth and ending with the large intestines. Gārhapatya is the fire of the household, the kitchen fire. The food when digested goes to nourish the organs by becoming blood, so Prāṇa, by which blood also is meant, is extracted from the Apāna. The arterial circulation is Vyāna."
+    }
+   ]
   },
   {
    "ref": "4/4",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "यदुच्छ्वासनिःश्वासवेतावाहुती समं नयति स समानो मनो ह वाव यजमान इष्टफलमेवोदानः। स एनं यजमानमहरहर्ब्रह्म गमयति॥ ४/४॥",
-   "english": "4. Because he equally distributes these two oblations—the expiration and inspiration, therefore, he is called Samāna. The mind alone verily is the sacrificer. The fruit of the sacrifice is indeed the Udāna. He carries this sacrificer daily to Brahman that dwelleth in the Suṣumnā—45.\nNote.—The Samāna or the same-maker is thus connected with the Respiratory function also. It constantly establishes the equipoise between expiration and inspiration. It would correspond to the priest in a fire-sacrifice, while manas is the yajamāna for whom the sacrifice is made—and Udāna or hypnotic function is like the fruit of the action—that manifests in some future time. It is the upward carrying function—the function by which the Jīva is separated from one vehicle after another: by which the self projects himself. The joy of the dreamless sleep depends upon Udāna."
+   "english": "4. Because he equally distributes these two oblations—the expiration and inspiration, therefore, he is called Samāna. The mind alone verily is the sacrificer. The fruit of the sacrifice is indeed the Udāna. He carries this sacrificer daily to Brahman that dwelleth in the Suṣumnā—45.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "यदुच्छ्वासनिःश्वासवेतावाहुती समं नयति स समानो मनो ह वाव यजमान इष्टफलमेवोदानः। स एनं यजमानमहरहर्ब्रह्म गमयति॥ ४/४॥",
+     "english": "4. Because he equally distributes these two oblations—the expiration and inspiration, therefore, he is called Samāna. The mind alone verily is the sacrificer. The fruit of the sacrifice is indeed the Udāna. He carries this sacrificer daily to Brahman that dwelleth in the Suṣumnā—45."
+    },
+    {
+     "role": "bhashya",
+     "english": "Note.—The Samāna or the same-maker is thus connected with the Respiratory function also. It constantly establishes the equipoise between expiration and inspiration. It would correspond to the priest in a fire-sacrifice, while manas is the yajamāna for whom the sacrifice is made—and Udāna or hypnotic function is like the fruit of the action—that manifests in some future time. It is the upward carrying function—the function by which the Jīva is separated from one vehicle after another: by which the self projects himself. The joy of the dreamless sleep depends upon Udāna."
+    }
+   ]
   },
   {
    "ref": "4/5",
@@ -505,7 +692,18 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "स यद्येकमात्रमभिध्यायीत स तेनैव संवेदितस्तूर्णमेव जगत्यामभिसम्पद्यते। तमृचो मनुष्यलोकमुपनयन्ते। स तत्र तपसा ब्रह्मचर्येण श्रद्धया सम्पन्नो महिमानमनुभवति॥ ५/३॥",
-   "english": "3. If he meditates on one measure (realises Brahman in His one aspect only) then by that meditation alone, (after death) he is welcomed by (the Supreme), and soon obtains another birth on this earth. The Devās of the Rig-veda lead him to a human body. He in that (birth) endowed with austerity, celibacy, and faith, realises the greatness (of the fruit of these).—55.\nNote.—If he meditates on one (of the Measures of praṇava), being illumined by such meditation alone, he quickly and surely attains all prosperity on this earth. Him the Ṛks (verses) give (all) human joys. He then being endowed with austerity, celibacy and faith, realises the greatness (of his humanity)—Śaṅkara.\nIf he meditates on one Mātrā (the Apara Brahman), being purified by that alone, soon he attains a high state on this earth. The Ṛk (Mantras) lead him to the Man-birth. Being born as a man, if he be endowed with austerity, celibacy and faith, he experiences the greatness (of meditating on Para Brahman)—Rāmānuja."
+   "english": "3. If he meditates on one measure (realises Brahman in His one aspect only) then by that meditation alone, (after death) he is welcomed by (the Supreme), and soon obtains another birth on this earth. The Devās of the Rig-veda lead him to a human body. He in that (birth) endowed with austerity, celibacy, and faith, realises the greatness (of the fruit of these).—55.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "स यद्येकमात्रमभिध्यायीत स तेनैव संवेदितस्तूर्णमेव जगत्यामभिसम्पद्यते। तमृचो मनुष्यलोकमुपनयन्ते। स तत्र तपसा ब्रह्मचर्येण श्रद्धया सम्पन्नो महिमानमनुभवति॥ ५/३॥",
+     "english": "3. If he meditates on one measure (realises Brahman in His one aspect only) then by that meditation alone, (after death) he is welcomed by (the Supreme), and soon obtains another birth on this earth. The Devās of the Rig-veda lead him to a human body. He in that (birth) endowed with austerity, celibacy, and faith, realises the greatness (of the fruit of these).—55."
+    },
+    {
+     "role": "bhashya",
+     "english": "Note.—If he meditates on one (of the Measures of praṇava), being illumined by such meditation alone, he quickly and surely attains all prosperity on this earth. Him the Ṛks (verses) give (all) human joys. He then being endowed with austerity, celibacy and faith, realises the greatness (of his humanity)—Śaṅkara.\nIf he meditates on one Mātrā (the Apara Brahman), being purified by that alone, soon he attains a high state on this earth. The Ṛk (Mantras) lead him to the Man-birth. Being born as a man, if he be endowed with austerity, celibacy and faith, he experiences the greatness (of meditating on Para Brahman)—Rāmānuja."
+    }
+   ]
   },
   {
    "ref": "5/4",
@@ -526,7 +724,18 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "स एतस्माज्जीवघनात् परात् परं पुरिशयं पुरुषमीक्षते॥ ५/६॥",
-   "english": "6. The three notes become fatal, when uttered either singly or in couples, and without harmony. But when properly uttered in high, or low, or middle tones, there is no fear to the wise.—58.\n[Note.—Anyonyasaktāḥ (“another-another-related, joined in couples or pairs or chords of two”).—Each connected with the other. Interdependent. One clinging to the other, one sound merged in the other owing to the too rapid utterance.]\n[Note.—Anaviprayuktāḥ, properly used. Those who are one-pointed at the time of meditation, too much distinct or separated).—Singly, “viprayukta” means separated, detached. Aviprayukta [aviprayuktaḥ]—“Not separated, not detached”. Anaviprayukta [anaviprayuktaḥ] means not-not-separated, i.e., separated, the same as viprayuktāḥ. When the letters are very quickly pronounced, there takes place a blurring and indistinctness of utterance, one sound becomes merged in the other, this should be avoided. But if each letter be pronounced separately and with not a proper but a long interval between each, then one goes to the other extreme, the inter-connection of syllables is broken up. The AUM should be pronounced with the inter-connection of syllables kept intact, but each syllable uttered distinctly. According to Madhva this word means: “not related to each other:” one who knows them separately, but does not know their harmony. Anyonyasaktaḥ means joined with each other in couples. He who knows them in couples—“a” and “u”, or “a” and “m”, etc. The high or shrill tone or treble, the low tone or bass and the middle are the three octaves. The three syllables should be pronounced in these notes.]\n[Note.—Bāhyābhyantaramadhyamāsu, external, internal, and intermediate (waking, dreaming, and deep sleep, or external sacrifices, internal regulation of breath, etc., and the intermediate mental japa, etc.). High, low, and middle tone]\nNote.—The three measures are all temporary (in their effect) when separately employed. But each in conjunction with the other, and not separately but conjointly employed, in actions external, internal and intermediate—(produces immortal effect)—that knower does not tremble. (Śaṅkara School).\nThe three measures (notes) are fatal when uttered (with too much rapidity) one note intermingling with the other; or too separately, one note sounded after a long interval from the other. But when properly uttered, in all actions, whether external, internal or intermediate—the wise (need) not tremble. (Rāmānuja School)."
+   "english": "6. The three notes become fatal, when uttered either singly or in couples, and without harmony. But when properly uttered in high, or low, or middle tones, there is no fear to the wise.—58.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "स एतस्माज्जीवघनात् परात् परं पुरिशयं पुरुषमीक्षते॥ ५/६॥",
+     "english": "6. The three notes become fatal, when uttered either singly or in couples, and without harmony. But when properly uttered in high, or low, or middle tones, there is no fear to the wise.—58."
+    },
+    {
+     "role": "bhashya",
+     "english": "[Note.—Anyonyasaktāḥ (“another-another-related, joined in couples or pairs or chords of two”).—Each connected with the other. Interdependent. One clinging to the other, one sound merged in the other owing to the too rapid utterance.]\n[Note.—Anaviprayuktāḥ, properly used. Those who are one-pointed at the time of meditation, too much distinct or separated).—Singly, “viprayukta” means separated, detached. Aviprayukta [aviprayuktaḥ]—“Not separated, not detached”. Anaviprayukta [anaviprayuktaḥ] means not-not-separated, i.e., separated, the same as viprayuktāḥ. When the letters are very quickly pronounced, there takes place a blurring and indistinctness of utterance, one sound becomes merged in the other, this should be avoided. But if each letter be pronounced separately and with not a proper but a long interval between each, then one goes to the other extreme, the inter-connection of syllables is broken up. The AUM should be pronounced with the inter-connection of syllables kept intact, but each syllable uttered distinctly. According to Madhva this word means: “not related to each other:” one who knows them separately, but does not know their harmony. Anyonyasaktaḥ means joined with each other in couples. He who knows them in couples—“a” and “u”, or “a” and “m”, etc. The high or shrill tone or treble, the low tone or bass and the middle are the three octaves. The three syllables should be pronounced in these notes.]\n[Note.—Bāhyābhyantaramadhyamāsu, external, internal, and intermediate (waking, dreaming, and deep sleep, or external sacrifices, internal regulation of breath, etc., and the intermediate mental japa, etc.). High, low, and middle tone]\nNote.—The three measures are all temporary (in their effect) when separately employed. But each in conjunction with the other, and not separately but conjointly employed, in actions external, internal and intermediate—(produces immortal effect)—that knower does not tremble. (Śaṅkara School).\nThe three measures (notes) are fatal when uttered (with too much rapidity) one note intermingling with the other; or too separately, one note sounded after a long interval from the other. But when properly uttered, in all actions, whether external, internal or intermediate—the wise (need) not tremble. (Rāmānuja School)."
+    }
+   ]
   },
   {
    "ref": "5/7",
@@ -561,14 +770,36 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "तस्मै स होवाच। इहैवान्तःशरीरे सोम्य स पुरुषो यस्मिन्नेताः षोडशकलाः प्रभवन्तीति॥ ६/२॥",
-   "english": "2. To him he said: O dear! In this heart, verily indeed, is that Puruṣa, in whom originate and subsist these sixteen parts.—61.\nNote.—Viṣṇu is the Puruṣa, from whom arise these sixteen parts, of a Jīva organism, they subsist in Him; and even in the state of mukti, they depend upon Him. That Puruṣa, is always sixteen-membered, in this sense.\nO Saumya! that person from whom these sixteen parts of a Jīva’s body originate is here indeed in the body—is indeed in the interior of the body. One need not go out or far to find Him. And as the Jīva with his sixteen parts has his origin from Him, it follows that he can never lose his identity even in the state of mukti: for He is always with him even now, much more so in the state of mukti.\nO Saumya! in what person these sixteen parts (of a Jīva’s body) arise (from whom they originate and by whom they are sustained, and in whom they exist and are never dissolved, namely, even in muktas, these 16 kalās exist though in latency, for how can there be the dissolution of this 16 kalās of the Jīva which is its very essence) that Puruṣa is here indeed in the body—is indeed in the interior of the body. One need not go out or far to search Him in order to find Him."
+   "english": "2. To him he said: O dear! In this heart, verily indeed, is that Puruṣa, in whom originate and subsist these sixteen parts.—61.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "तस्मै स होवाच। इहैवान्तःशरीरे सोम्य स पुरुषो यस्मिन्नेताः षोडशकलाः प्रभवन्तीति॥ ६/२॥",
+     "english": "2. To him he said: O dear! In this heart, verily indeed, is that Puruṣa, in whom originate and subsist these sixteen parts.—61."
+    },
+    {
+     "role": "bhashya",
+     "english": "Note.—Viṣṇu is the Puruṣa, from whom arise these sixteen parts, of a Jīva organism, they subsist in Him; and even in the state of mukti, they depend upon Him. That Puruṣa, is always sixteen-membered, in this sense.\nO Saumya! that person from whom these sixteen parts of a Jīva’s body originate is here indeed in the body—is indeed in the interior of the body. One need not go out or far to find Him. And as the Jīva with his sixteen parts has his origin from Him, it follows that he can never lose his identity even in the state of mukti: for He is always with him even now, much more so in the state of mukti.\nO Saumya! in what person these sixteen parts (of a Jīva’s body) arise (from whom they originate and by whom they are sustained, and in whom they exist and are never dissolved, namely, even in muktas, these 16 kalās exist though in latency, for how can there be the dissolution of this 16 kalās of the Jīva which is its very essence) that Puruṣa is here indeed in the body—is indeed in the interior of the body. One need not go out or far to search Him in order to find Him."
+    }
+   ]
   },
   {
    "ref": "6/3",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "स ईक्षाञ्चक्रे। कस्मिन् न्वहमुत्क्रान्त उत्क्रान्तो भविष्यामि कस्मिन् वा प्रतिष्ठिते प्रतिष्ठास्यामीति॥ ६/३॥",
-   "english": "3. He reflected “what going out, I shall go out, what remaining I shall remain?”—62.\n[Note.—Kasmin, in whom (in what Tattva, or agent or body) case absolute; what is that Puruṣa, on whose leaving the body, I shall leave the body, on whose remaining in that body, I shall remain therein, and so on.]\nNote.—In the beginning of a new creation, the Lord meditated as to the best agent who would help Him in creation. He thought “Who is that Being who can, by his extreme devotion and love and wisdom, keep me, as if it were, under his control, whom must I make my instrument in this act of creation?” He found that Prāṇa was such an agent, who by his devotion and wisdom, was fitted to be the co-worker with God. He is the Hiraṇya-garbha—the Golden Child, the First-born."
+   "english": "3. He reflected “what going out, I shall go out, what remaining I shall remain?”—62.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "स ईक्षाञ्चक्रे। कस्मिन् न्वहमुत्क्रान्त उत्क्रान्तो भविष्यामि कस्मिन् वा प्रतिष्ठिते प्रतिष्ठास्यामीति॥ ६/३॥",
+     "english": "3. He reflected “what going out, I shall go out, what remaining I shall remain?”—62."
+    },
+    {
+     "role": "bhashya",
+     "english": "[Note.—Kasmin, in whom (in what Tattva, or agent or body) case absolute; what is that Puruṣa, on whose leaving the body, I shall leave the body, on whose remaining in that body, I shall remain therein, and so on.]\nNote.—In the beginning of a new creation, the Lord meditated as to the best agent who would help Him in creation. He thought “Who is that Being who can, by his extreme devotion and love and wisdom, keep me, as if it were, under his control, whom must I make my instrument in this act of creation?” He found that Prāṇa was such an agent, who by his devotion and wisdom, was fitted to be the co-worker with God. He is the Hiraṇya-garbha—the Golden Child, the First-born."
+    }
+   ]
   },
   {
    "ref": "6/4",
@@ -594,7 +825,18 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "स यथेमाः नद्यः स्यन्दमानाः समुद्रायणाः समुद्रं प्राप्यास्तं गच्छन्ति भिद्येते तासां नामरूपे समुद्र इत्येवं प्रोच्यते। एवमेवास्य परिद्रष्टुरिमाः षोडशकलाः पुरुषायणाः पुरुषं प्राप्यास्तं गच्छन्ति भिद्येते चासां नामरूपे पुरुष इत्येवं प्रोच्यते। स एषोऽकलोऽमृतो भवति॥ ६/५॥",
-   "english": "5. As the rapid ocean-going rivers, on reaching the ocean, go to rest, but do not lose their name and form, and are said “they are in the ocean”; so indeed of the Great Beholder, these sixteen Puruṣa-going Principles, on reaching the Puruṣa, go to rest, without losing their name and form, and men say, “They are in the bosom of the Lord,”—He is this above all Principles, the Immortal. About it is this verse.—64.\n[Note.—Akalaḥ, non-part; above all principles. “The Kalā Devas having attained liberation”.]\n[Note.—Amṛtaḥ, immortal. Becomes one whose insentient principles are lost, and therefore “deathless:” for the death of the Jīva is caused by the kalās or principles, i.e., the Jīva stands stripped of all principles.]\nMadhva’s commentary called the Bhāṣya:\nThe word is ‘samudre’ in the locative case, and not ‘samudraḥ’ in the nominative case, similarly it is “puruṣe” and not “puruṣaḥ.” If they are taken in the nominative case, then the meaning would be that the rivers and the Jīvas become identical with the ocean and the Puruṣa: and thus would contradict the next sentence which says “they do not lose but retain their name and form.” Though the ignorant do not perceive the names and forms of the rivers, when they rest in the ocean, yet the names and forms persist, so the Released souls, the Muktas, resting in Viṣṇu retain their names and forms intact. The word “bhidyate” comes from the root “bhid,” which nowhere has the sense of ‘to lose;’ ‘to destroy.’ Even when applied to pots, jars, etc., by ‘bheda’ is meant breaking into several parts. That is the primary meaning of ‘bheda’ ‘Division.’ It is only in the secondary sense that we say “the pot is lost,” when it is broken. But in this verse the secondary sense cannot even be taken. The name and form cannot be scattered in different places, like unto the fragments of a pot. Therefore, the word “bhidyate” must mean “remain divided from each other, and from the ocean or Puruṣa, by their names and forms.” These two keep each separate. Moreover in the next verse, it is clearly declared that the kalās are not lost in the Person, but remain steadfast in Him. Therefore, the sense of the whole verse is that in that Puruṣa, every Jīva retains his separate name and form each; and so also the kalā devatās. The setting mentioned here is like the setting of the sun, an illusion to the ignorant, who think that the sun has set, because they do not see him. So also in the Sattatva we read:—“Salutation to Him in whom exist Prāṇa and the other kalās, in Mukti, separate from each other, retaining their name and form.” Moreover in the sentence “nama-rupād vimukhtaḥ” generally translated “free from name and form,” the word vimukta [vi-mukta] dees not mean “freed,” but “not freed” for such is the force of the particle vi, as vipriya [vi-priya]=“not loved,” viyoga [vi-yoga]=not united, i.e., separation. Similarly in the sentence “nama-rūpa vihāya,” the word is not vihāya but avihāya, as we have already explained before. Moreover the Śruti says “Verily the name is eternal, the Viśvedevas are eternal.” (Note: Viśvedevas denote form). So also there are numerous texts showing that identity is not lost in Mukti. Thus the Rig Veda X.90-16 speaks of Devas who had attained Mokṣa (perfection) in the past kalpas and came out of the primeval Puruṣa [puruṣaḥ] in the beginning of this creation co-operate with Him. “The Devas who had worshipped Viṣṇu (Yajña) in the past kalpa, with the yajña consisting of knowledge and action, become the First upholders of the cosmos in this kalpa; they, in that world, where the Perfected Devas of the past Kalpa, like Brahmā and the rest reside, enjoy beatitude and greatness be-fitting them.” The plural number in purve sādhyāḥ shows that the Muktas retain their separate identity. So also in the Chāndogya Upaniṣad VIII.12.3, we find the Muktas retaining their consciousness. “He wanders about there eating, sporting, delighting, etc.” So also the Taitt. Up. II.1-1. declares that the knowers of Brahman enjoy all desirable objects, along with the Omniscient Brahman. So also the Rig Veda X.71.11. shows that even after Mukti, the sages perform certain functions: Some sages devote themselves to the maintenance and preservation of the Ṛcas (Cosmic Physical Laws): other sages similarly maintain and preserve the Yajus (Cosmic Astral Laws); a third class of sages after Mukti, preserve the sciences of humanity and teach them to the mankind, etc.” All this shows that the final Release is not a state of the loss of identity, nor one-ness with Viṣṇu in the sense of identity. He is the best, higher than all the Muktas, the All-full Nārāyaṇa.\nNote:—The sentence “nāmarūpe vihāya” is analysed as “nāmarūpe avihāya”. If there be no elided “a”, then the phrase would mean “losing name and form:” Otherwise it would mean “not losing name and form”—a diametrically opposed meaning. But to the elision of “a” there is this objection, that the word nama-rūpe [nāma-rūpe?] is in dual case and no sandhi can take place after a dual case ending in “ī, ū and e” and because it is pragṛhya. (Panini “[??????]” and [?????????] I.1.11 and VI.1.125. This rule of Pragṛhya, however, is not of universal application, “saṃjñāpūrvako vidhiranityaḥ”)."
+   "english": "5. As the rapid ocean-going rivers, on reaching the ocean, go to rest, but do not lose their name and form, and are said “they are in the ocean”; so indeed of the Great Beholder, these sixteen Puruṣa-going Principles, on reaching the Puruṣa, go to rest, without losing their name and form, and men say, “They are in the bosom of the Lord,”—He is this above all Principles, the Immortal. About it is this verse.—64.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "स यथेमाः नद्यः स्यन्दमानाः समुद्रायणाः समुद्रं प्राप्यास्तं गच्छन्ति भिद्येते तासां नामरूपे समुद्र इत्येवं प्रोच्यते। एवमेवास्य परिद्रष्टुरिमाः षोडशकलाः पुरुषायणाः पुरुषं प्राप्यास्तं गच्छन्ति भिद्येते चासां नामरूपे पुरुष इत्येवं प्रोच्यते। स एषोऽकलोऽमृतो भवति॥ ६/५॥",
+     "english": "5. As the rapid ocean-going rivers, on reaching the ocean, go to rest, but do not lose their name and form, and are said “they are in the ocean”; so indeed of the Great Beholder, these sixteen Puruṣa-going Principles, on reaching the Puruṣa, go to rest, without losing their name and form, and men say, “They are in the bosom of the Lord,”—He is this above all Principles, the Immortal. About it is this verse.—64."
+    },
+    {
+     "role": "bhashya",
+     "english": "[Note.—Akalaḥ, non-part; above all principles. “The Kalā Devas having attained liberation”.]\n[Note.—Amṛtaḥ, immortal. Becomes one whose insentient principles are lost, and therefore “deathless:” for the death of the Jīva is caused by the kalās or principles, i.e., the Jīva stands stripped of all principles.]\nMadhva’s commentary called the Bhāṣya:\nThe word is ‘samudre’ in the locative case, and not ‘samudraḥ’ in the nominative case, similarly it is “puruṣe” and not “puruṣaḥ.” If they are taken in the nominative case, then the meaning would be that the rivers and the Jīvas become identical with the ocean and the Puruṣa: and thus would contradict the next sentence which says “they do not lose but retain their name and form.” Though the ignorant do not perceive the names and forms of the rivers, when they rest in the ocean, yet the names and forms persist, so the Released souls, the Muktas, resting in Viṣṇu retain their names and forms intact. The word “bhidyate” comes from the root “bhid,” which nowhere has the sense of ‘to lose;’ ‘to destroy.’ Even when applied to pots, jars, etc., by ‘bheda’ is meant breaking into several parts. That is the primary meaning of ‘bheda’ ‘Division.’ It is only in the secondary sense that we say “the pot is lost,” when it is broken. But in this verse the secondary sense cannot even be taken. The name and form cannot be scattered in different places, like unto the fragments of a pot. Therefore, the word “bhidyate” must mean “remain divided from each other, and from the ocean or Puruṣa, by their names and forms.” These two keep each separate. Moreover in the next verse, it is clearly declared that the kalās are not lost in the Person, but remain steadfast in Him. Therefore, the sense of the whole verse is that in that Puruṣa, every Jīva retains his separate name and form each; and so also the kalā devatās. The setting mentioned here is like the setting of the sun, an illusion to the ignorant, who think that the sun has set, because they do not see him. So also in the Sattatva we read:—“Salutation to Him in whom exist Prāṇa and the other kalās, in Mukti, separate from each other, retaining their name and form.” Moreover in the sentence “nama-rupād vimukhtaḥ” generally translated “free from name and form,” the word vimukta [vi-mukta] dees not mean “freed,” but “not freed” for such is the force of the particle vi, as vipriya [vi-priya]=“not loved,” viyoga [vi-yoga]=not united, i.e., separation. Similarly in the sentence “nama-rūpa vihāya,” the word is not vihāya but avihāya, as we have already explained before. Moreover the Śruti says “Verily the name is eternal, the Viśvedevas are eternal.” (Note: Viśvedevas denote form). So also there are numerous texts showing that identity is not lost in Mukti. Thus the Rig Veda X.90-16 speaks of Devas who had attained Mokṣa (perfection) in the past kalpas and came out of the primeval Puruṣa [puruṣaḥ] in the beginning of this creation co-operate with Him. “The Devas who had worshipped Viṣṇu (Yajña) in the past kalpa, with the yajña consisting of knowledge and action, become the First upholders of the cosmos in this kalpa; they, in that world, where the Perfected Devas of the past Kalpa, like Brahmā and the rest reside, enjoy beatitude and greatness be-fitting them.” The plural number in purve sādhyāḥ shows that the Muktas retain their separate identity. So also in the Chāndogya Upaniṣad VIII.12.3, we find the Muktas retaining their consciousness. “He wanders about there eating, sporting, delighting, etc.” So also the Taitt. Up. II.1-1. declares that the knowers of Brahman enjoy all desirable objects, along with the Omniscient Brahman. So also the Rig Veda X.71.11. shows that even after Mukti, the sages perform certain functions: Some sages devote themselves to the maintenance and preservation of the Ṛcas (Cosmic Physical Laws): other sages similarly maintain and preserve the Yajus (Cosmic Astral Laws); a third class of sages after Mukti, preserve the sciences of humanity and teach them to the mankind, etc.” All this shows that the final Release is not a state of the loss of identity, nor one-ness with Viṣṇu in the sense of identity. He is the best, higher than all the Muktas, the All-full Nārāyaṇa.\nNote:—The sentence “nāmarūpe vihāya” is analysed as “nāmarūpe avihāya”. If there be no elided “a”, then the phrase would mean “losing name and form:” Otherwise it would mean “not losing name and form”—a diametrically opposed meaning. But to the elision of “a” there is this objection, that the word nama-rūpe [nāma-rūpe?] is in dual case and no sandhi can take place after a dual case ending in “ī, ū and e” and because it is pragṛhya. (Panini “[??????]” and [?????????] I.1.11 and VI.1.125. This rule of Pragṛhya, however, is not of universal application, “saṃjñāpūrvako vidhiranityaḥ”)."
+    }
+   ]
   },
   {
    "ref": "6/6",
@@ -674,5 +916,5 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit from Setutila/Sarvamula JSON/shatprashna_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. Joins rejected because the wisdomlib translation number differs from the ref: [('6/6', '7')]. English from wisdomlib matched by ref: 61 of 77 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [1 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 6/8]"
+ "notes": "Sanskrit from Setutila/Sarvamula JSON/shatprashna_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. Joins rejected because the wisdomlib translation number differs from the ref: [('6/6', '7')]. English from wisdomlib matched by ref: 61 of 77 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [1 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 6/8] [22 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 1/3, 1/4, 1/5, 1/6, 1/7, 1/8, 1/12, 2/7, 2/8, 3/4, 3/6, 3/7, 3/9, 3/10, 4/1, 4/3, 4/4, 5/3, 5/6, 6/2, 6/3, 6/5]"
 }

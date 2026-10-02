@@ -193,7 +193,18 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "विद्यां चाविद्यां च यस्तद्वेदोभयं सह।\nअविद्यया मृत्युं तीर्त्वा विद्ययाऽमृतमश्नुते॥ ११॥",
-   "english": "11. Of these two, Vidyā and Avidyā, by a knowledge of Avidyā alone death is overcome; but knowing, both these together, by a knowledge of Vidyā also, he obtains liberation.\n(English translation of Madhva’s 13th-century commentary called the Īśāvāsyopaniṣadbhāṣya or Īśopaniṣadbhāṣya)\nThese mantras are thus explained in the Kūrma Purāṇa:—“Undoubtedly the worshippers of other deities than Viṣṇu go to blinding darkness, but undoubtedly to greater darkness they go who do not censure and condemn such persons (and fail to??????????? their mistakes). Therefore those, who know the Lord Narayana, in His true form as free from all evils and who also condemn the worshippers of false deities, are truly the good people.\nSuch persons by condemning the falsehood, whose nature is grief and ignorance, cross over grief and ignorance, and by knowing the truth, whose nature is joy and knowledge, attain such joy and knowledge."
+   "english": "11. Of these two, Vidyā and Avidyā, by a knowledge of Avidyā alone death is overcome; but knowing, both these together, by a knowledge of Vidyā also, he obtains liberation.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "विद्यां चाविद्यां च यस्तद्वेदोभयं सह।\nअविद्यया मृत्युं तीर्त्वा विद्ययाऽमृतमश्नुते॥ ११॥",
+     "english": "11. Of these two, Vidyā and Avidyā, by a knowledge of Avidyā alone death is overcome; but knowing, both these together, by a knowledge of Vidyā also, he obtains liberation."
+    },
+    {
+     "role": "bhashya",
+     "english": "(English translation of Madhva’s 13th-century commentary called the Īśāvāsyopaniṣadbhāṣya or Īśopaniṣadbhāṣya)\nThese mantras are thus explained in the Kūrma Purāṇa:—“Undoubtedly the worshippers of other deities than Viṣṇu go to blinding darkness, but undoubtedly to greater darkness they go who do not censure and condemn such persons (and fail to??????????? their mistakes). Therefore those, who know the Lord Narayana, in His true form as free from all evils and who also condemn the worshippers of false deities, are truly the good people.\nSuch persons by condemning the falsehood, whose nature is grief and ignorance, cross over grief and ignorance, and by knowing the truth, whose nature is joy and knowledge, attain such joy and knowledge."
+    }
+   ]
   },
   {
    "ref": "12",
@@ -233,7 +244,18 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम्।\nतत् त्वं पूषन्नपा वृणु सत्यधर्माय दृष्टये॥ १५॥",
-   "english": "15. The entrance to the True is covered by a shining disk, that (disk) do thou, O Pūṣan, remove, for me who is devoted to the True, that I may see Thee.\n(English translation of Madhva’s 13th-century commentary called the Īśāvāsyopaniṣadbhāṣya or Īśopaniṣadbhāṣya)\nThe phrase ‘By the golden disk’ means by ‘the solar orb.’ The phrase ‘Of the true’ denotes ‘of Viṣṇu.’ By this solar photosphere is constantly hidden the body of the Lord. Pūṣan, the Full Lord Viṣṇu, reveals that form Himself to His devotees, called here Satya-dharmas—the Lover of the True.\nNote.—The word hiraṇmaya means “like a golden,” i.e., full of light, effulgent. The word pātra means that which drinks (pā) the water and saves (tra) the world. Therefore the whole phrase hiranmayeṇa pātreṇa means “by the solar disk” which is refulgent as gold, and which saves the world by evaporating waters and raining them back. The word satyasya means of him who is full of “sat” or good qualities. He is inside the solar orb and His body is covered by the solar disk. O Pūṣan, remove the veil from Thy face that I may see Thee. I who am a Satya-dharma—who constantly meditate on Thee the Satya."
+   "english": "15. The entrance to the True is covered by a shining disk, that (disk) do thou, O Pūṣan, remove, for me who is devoted to the True, that I may see Thee.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम्।\nतत् त्वं पूषन्नपा वृणु सत्यधर्माय दृष्टये॥ १५॥",
+     "english": "15. The entrance to the True is covered by a shining disk, that (disk) do thou, O Pūṣan, remove, for me who is devoted to the True, that I may see Thee."
+    },
+    {
+     "role": "bhashya",
+     "english": "(English translation of Madhva’s 13th-century commentary called the Īśāvāsyopaniṣadbhāṣya or Īśopaniṣadbhāṣya)\nThe phrase ‘By the golden disk’ means by ‘the solar orb.’ The phrase ‘Of the true’ denotes ‘of Viṣṇu.’ By this solar photosphere is constantly hidden the body of the Lord. Pūṣan, the Full Lord Viṣṇu, reveals that form Himself to His devotees, called here Satya-dharmas—the Lover of the True.\nNote.—The word hiraṇmaya means “like a golden,” i.e., full of light, effulgent. The word pātra means that which drinks (pā) the water and saves (tra) the world. Therefore the whole phrase hiranmayeṇa pātreṇa means “by the solar disk” which is refulgent as gold, and which saves the world by evaporating waters and raining them back. The word satyasya means of him who is full of “sat” or good qualities. He is inside the solar orb and His body is covered by the solar disk. O Pūṣan, remove the veil from Thy face that I may see Thee. I who am a Satya-dharma—who constantly meditate on Thee the Satya."
+    }
+   ]
   },
   {
    "ref": "16",
@@ -330,5 +352,5 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit from Setutila/Sarvamula JSON/ishavasya_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. English from wisdomlib matched by ref: 18 of 21 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null."
+ "notes": "Sanskrit from Setutila/Sarvamula JSON/ishavasya_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. English from wisdomlib matched by ref: 18 of 21 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [2 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 11, 15]"
 }

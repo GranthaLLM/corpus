@@ -1130,35 +1130,90 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "प्राण इति प्राणविदो भूतानीति च तद्विदः ।\nगुणा इति गुणविदस्तत्त्वानीति च तद्विदः ॥ २० ॥",
-   "english": "20. Those1 that know only Prāṇa,2 call It (Ātman), Prāṇa, those3 that know Bhūtas call It Bhūtas,4 those5 knowing Guṇas call It Guṇas,6  those7 knowing Tattvas, call It Tattvas.8\n1 Those—e.g., the Vaiśeṣikas and the worshippers of Hiraṇya garbha, etc.\n2  Prāṇa—They hold Prāṇa, i.e., Hiraṇyagarbha or extra-cosmic God, to be the cause of the universe. This is mere imagination of the mind. There is no rational proof of the reality of an extra-cosmic God or Person as the cause of the world.\n3 Those, etc.—e.g., the Cārvākas or the atheists.\n4 Bhūtas—They designate the four elements, such as, earth, water, fire and air, which are directly perceived by them, as the cause of the universe. The insentient elements cannot be the cause of the sentient beings. Therefore, this theory also is an imagination.\n5 Those, etc.—e.g., the Sāṃkhyas.\n6 Guṇas—According to the Sāṃkhyas, the state of equilibrium of the three Guṇas, viz., Sattva, Rajas and Tamas, produces Mahat, etc., and through them the universe. This is also mere idea.\n7 Those, etc.—i.e., the Śaivas.\n8 Tattvas—The Śaivas enumerate three Tattvas or categories,. viz., Ātmā, Avidyā and Śiva as the cause of the universe. This is also an imagination and hence untenable. For, Śiva being an entity separated from Ātman, becomes an object like a pot, etc.\nMandukya Karika, verse 2.21:\nSanskrit text, IAST transliteration and English translation"
+   "english": "20. Those1 that know only Prāṇa,2 call It (Ātman), Prāṇa, those3 that know Bhūtas call It Bhūtas,4 those5 knowing Guṇas call It Guṇas,6  those7 knowing Tattvas, call It Tattvas.8",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "प्राण इति प्राणविदो भूतानीति च तद्विदः ।\nगुणा इति गुणविदस्तत्त्वानीति च तद्विदः ॥ २० ॥",
+     "english": "20. Those1 that know only Prāṇa,2 call It (Ātman), Prāṇa, those3 that know Bhūtas call It Bhūtas,4 those5 knowing Guṇas call It Guṇas,6  those7 knowing Tattvas, call It Tattvas.8"
+    },
+    {
+     "role": "bhashya",
+     "english": "1 Those—e.g., the Vaiśeṣikas and the worshippers of Hiraṇya garbha, etc.\n2  Prāṇa—They hold Prāṇa, i.e., Hiraṇyagarbha or extra-cosmic God, to be the cause of the universe. This is mere imagination of the mind. There is no rational proof of the reality of an extra-cosmic God or Person as the cause of the world.\n3 Those, etc.—e.g., the Cārvākas or the atheists.\n4 Bhūtas—They designate the four elements, such as, earth, water, fire and air, which are directly perceived by them, as the cause of the universe. The insentient elements cannot be the cause of the sentient beings. Therefore, this theory also is an imagination.\n5 Those, etc.—e.g., the Sāṃkhyas.\n6 Guṇas—According to the Sāṃkhyas, the state of equilibrium of the three Guṇas, viz., Sattva, Rajas and Tamas, produces Mahat, etc., and through them the universe. This is also mere idea.\n7 Those, etc.—i.e., the Śaivas.\n8 Tattvas—The Śaivas enumerate three Tattvas or categories,. viz., Ātmā, Avidyā and Śiva as the cause of the universe. This is also an imagination and hence untenable. For, Śiva being an entity separated from Ātman, becomes an object like a pot, etc.\nMandukya Karika, verse 2.21:\nSanskrit text, IAST transliteration and English translation"
+    }
+   ]
   },
   {
    "ref": "2.K21",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "पादा इति पादविदो विषया इति तद्विदः ।\nलोका इति लोकविदो देवा इति च तद्विदः ॥ २१ ॥",
-   "english": "21. Those acquainted with the quarters1 (Pādas) call It quarters; those2 with objects, the objects3; those4  with Lokas, the Lokas5; those6 with Devas, the Devas.7\nThese different conceptions of Ātman are nothing but imaginations of the mind.\n1  Quarters—e.g., Viśva, Taijasa and Prājña. Ātman, being, without parts and also unrelated, cannot be really divided into quarters or parts.\n2  Those, etc.—i.e., thinkers like Vātsyāyana, etc.\n3 Objects—Such as, sound, colour, etc., i.e., the objects perceived by the different sense-organs. The objects, on account of their changeable and negatable nature, cannot be the Ultimate Reality.\n4 Those, etc.—i.e., the Paurāṇikas or the believers in Mythology.\n5 Lokas— Such as Bhūh, Bhuvah and Svah. These being three in number are limited.\n6 Those, etc.—i.e., the Karma Mimāmsakas or the believers in the Karma portions of the Vedas.\n7 Devas—Such as Agni (Fire), Indra, etc. According to this theory, Agni, Indra, etc., the various conscious deities, though not occupying the actual position of God (Īśvara), apportion the results of our various works. The conception of a separate God is not necessary. They cannot be the Ultimate Reality.\nMandukya Karika, verse 2.22:\nSanskrit text, IAST transliteration and English translation"
+   "english": "21. Those acquainted with the quarters1 (Pādas) call It quarters; those2 with objects, the objects3; those4  with Lokas, the Lokas5; those6 with Devas, the Devas.7",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "पादा इति पादविदो विषया इति तद्विदः ।\nलोका इति लोकविदो देवा इति च तद्विदः ॥ २१ ॥",
+     "english": "21. Those acquainted with the quarters1 (Pādas) call It quarters; those2 with objects, the objects3; those4  with Lokas, the Lokas5; those6 with Devas, the Devas.7"
+    },
+    {
+     "role": "bhashya",
+     "english": "These different conceptions of Ātman are nothing but imaginations of the mind.\n1  Quarters—e.g., Viśva, Taijasa and Prājña. Ātman, being, without parts and also unrelated, cannot be really divided into quarters or parts.\n2  Those, etc.—i.e., thinkers like Vātsyāyana, etc.\n3 Objects—Such as, sound, colour, etc., i.e., the objects perceived by the different sense-organs. The objects, on account of their changeable and negatable nature, cannot be the Ultimate Reality.\n4 Those, etc.—i.e., the Paurāṇikas or the believers in Mythology.\n5 Lokas— Such as Bhūh, Bhuvah and Svah. These being three in number are limited.\n6 Those, etc.—i.e., the Karma Mimāmsakas or the believers in the Karma portions of the Vedas.\n7 Devas—Such as Agni (Fire), Indra, etc. According to this theory, Agni, Indra, etc., the various conscious deities, though not occupying the actual position of God (Īśvara), apportion the results of our various works. The conception of a separate God is not necessary. They cannot be the Ultimate Reality.\nMandukya Karika, verse 2.22:\nSanskrit text, IAST transliteration and English translation"
+    }
+   ]
   },
   {
    "ref": "2.K22",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "वेदा इति वेदविदो यज्ञा इति च तद्विदः ।\nभोक्तेति च भोक्तृविदो भोज्यमिति च तद्विदः ॥ २२ ॥",
-   "english": "22. Those knowing the Vedas call It the Vedas1; those2 acquainted with the sacrifices, call It the sacrifices3 (Yagna); those4 conversant with the enjoyer, designate It as the enjoyer5  and those6 with the object of enjoyment, call It such.\n1 Vedas—e.g., the four Vedas, Rig, Yajus, Sāma and Atharva. These Vedas cannot be the Ultimate Reality inasmuch as they are sounds.\n2 Those, etc.—i.e., sages such as Bodhāyana and others who are adept in the performance of sacrifices.\n3 Sacrifices—The upholders of sacrifices and rituals like the Yagnas think that sacrifices, such as Jyotiṣṭoma, etc., constitute the Highest Reality. But this is also an illusion. For, according to them, the sacrifice signifies the object (offered), the deity and the act of offering. Any one of these, singly, does not constitute sacrifice. Again three of them, combined together, do not constitute any real entity.\n4 Those, etc.—viz., the Sāṃkhyas.\n5 Enjoyer— According to the Sāṃkhyas the Ultimate Reality as the Puruṣa who is not the agent or doer but a mere enjoyer. This theory is not rational; for enjoyment means some change in the enjoyer which thus Contradicts the idea of his being eternal and changeless. If enjoyment be predicated as the inherent nature of Puruṣa, then the conception of extraneous objects, conducive to its enjoyments, is inconsistent.\n6 Those, etc.—That is, the cook, to whom the only reality appears to be delicious dishes.\nMandukya Karika, verse 2.23:\nSanskrit text, IAST transliteration and English translation"
+   "english": "22. Those knowing the Vedas call It the Vedas1; those2 acquainted with the sacrifices, call It the sacrifices3 (Yagna); those4 conversant with the enjoyer, designate It as the enjoyer5  and those6 with the object of enjoyment, call It such.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "वेदा इति वेदविदो यज्ञा इति च तद्विदः ।\nभोक्तेति च भोक्तृविदो भोज्यमिति च तद्विदः ॥ २२ ॥",
+     "english": "22. Those knowing the Vedas call It the Vedas1; those2 acquainted with the sacrifices, call It the sacrifices3 (Yagna); those4 conversant with the enjoyer, designate It as the enjoyer5  and those6 with the object of enjoyment, call It such."
+    },
+    {
+     "role": "bhashya",
+     "english": "1 Vedas—e.g., the four Vedas, Rig, Yajus, Sāma and Atharva. These Vedas cannot be the Ultimate Reality inasmuch as they are sounds.\n2 Those, etc.—i.e., sages such as Bodhāyana and others who are adept in the performance of sacrifices.\n3 Sacrifices—The upholders of sacrifices and rituals like the Yagnas think that sacrifices, such as Jyotiṣṭoma, etc., constitute the Highest Reality. But this is also an illusion. For, according to them, the sacrifice signifies the object (offered), the deity and the act of offering. Any one of these, singly, does not constitute sacrifice. Again three of them, combined together, do not constitute any real entity.\n4 Those, etc.—viz., the Sāṃkhyas.\n5 Enjoyer— According to the Sāṃkhyas the Ultimate Reality as the Puruṣa who is not the agent or doer but a mere enjoyer. This theory is not rational; for enjoyment means some change in the enjoyer which thus Contradicts the idea of his being eternal and changeless. If enjoyment be predicated as the inherent nature of Puruṣa, then the conception of extraneous objects, conducive to its enjoyments, is inconsistent.\n6 Those, etc.—That is, the cook, to whom the only reality appears to be delicious dishes.\nMandukya Karika, verse 2.23:\nSanskrit text, IAST transliteration and English translation"
+    }
+   ]
   },
   {
    "ref": "2.K23",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "सूक्ष्म इति सूक्ष्मविदः स्थूल इति च तद्विदः ।\nमूर्त इति मूर्तविदोऽमूर्त इति च तद्विदः ॥ २३ ॥",
-   "english": "23. The Knowers1 of the subtle designate It as the subtle,2 the Knowers3 of the gross call It the gross,4 Those5 that are familiar with a Personality (having form) call It a person,6 and those7  that do not believe in anything having a form call It a void.8\n1 Knowers—i.e., those who believe (or take) the Ātman to be subtle like an atom.\n2 Subtle—This theory is irrational: for, we feel consciousness simultaneously all over the body.\n3 Knowers—A sect of materialists who believe the gross body to be real.\n4 Gross—The gross body cannot be the Ultimate Reality as a dead or sleeping man, in spite of the body being in existence, is unconscious. Any single limb of the body is insentient. Therefore even their aggregate cannot constitute the conscious Reality.\n5 Those, etc.—i.e., the Āgamikas who believe a person, e.g., Śiva with a trident or Viṣṇu with a disc, to be the Ultimate Reality. These are also imaginary.\n6 Person—This is also an illusion.\n7 Those, etc.—i.e., The Buddhistic ritualists.\n8 Void—The idea that the Ultimate Reality is an absolute void is also an illusion, as a void also should have a knower, and so cannot be the substratum of the positive fact of the empirical universe.\nMandukya Karika, verse 2.24:\nSanskrit text, IAST transliteration and English translation"
+   "english": "23. The Knowers1 of the subtle designate It as the subtle,2 the Knowers3 of the gross call It the gross,4 Those5 that are familiar with a Personality (having form) call It a person,6 and those7  that do not believe in anything having a form call It a void.8",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "सूक्ष्म इति सूक्ष्मविदः स्थूल इति च तद्विदः ।\nमूर्त इति मूर्तविदोऽमूर्त इति च तद्विदः ॥ २३ ॥",
+     "english": "23. The Knowers1 of the subtle designate It as the subtle,2 the Knowers3 of the gross call It the gross,4 Those5 that are familiar with a Personality (having form) call It a person,6 and those7  that do not believe in anything having a form call It a void.8"
+    },
+    {
+     "role": "bhashya",
+     "english": "1 Knowers—i.e., those who believe (or take) the Ātman to be subtle like an atom.\n2 Subtle—This theory is irrational: for, we feel consciousness simultaneously all over the body.\n3 Knowers—A sect of materialists who believe the gross body to be real.\n4 Gross—The gross body cannot be the Ultimate Reality as a dead or sleeping man, in spite of the body being in existence, is unconscious. Any single limb of the body is insentient. Therefore even their aggregate cannot constitute the conscious Reality.\n5 Those, etc.—i.e., the Āgamikas who believe a person, e.g., Śiva with a trident or Viṣṇu with a disc, to be the Ultimate Reality. These are also imaginary.\n6 Person—This is also an illusion.\n7 Those, etc.—i.e., The Buddhistic ritualists.\n8 Void—The idea that the Ultimate Reality is an absolute void is also an illusion, as a void also should have a knower, and so cannot be the substratum of the positive fact of the empirical universe.\nMandukya Karika, verse 2.24:\nSanskrit text, IAST transliteration and English translation"
+    }
+   ]
   },
   {
    "ref": "2.K24",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "काल इति कालविदो दिश इति च तद्विदः ।\nवादा इति वादविदो भुवनानीति तद्विदः ॥ २४ ॥",
-   "english": "24. The Knowers1  of time call It time2; the Knowers of space (ether) call It space (ether). Those versed in disputation call It the problem in dispute and the Knowers of the worlds call It the worlds.3\n1 Knowers, etc,—Such as the astrologers (astronomers).\n2 Time—This theory is also fallacious as time is divided into various parts as moment, minute, hour, etc. Time is also an object (thought) of the perceiving mind.\n3 Worlds—This is also an illusory conception.\nMandukya Karika, verse 2.25:\nSanskrit text, IAST transliteration and English translation"
+   "english": "24. The Knowers1  of time call It time2; the Knowers of space (ether) call It space (ether). Those versed in disputation call It the problem in dispute and the Knowers of the worlds call It the worlds.3",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "काल इति कालविदो दिश इति च तद्विदः ।\nवादा इति वादविदो भुवनानीति तद्विदः ॥ २४ ॥",
+     "english": "24. The Knowers1  of time call It time2; the Knowers of space (ether) call It space (ether). Those versed in disputation call It the problem in dispute and the Knowers of the worlds call It the worlds.3"
+    },
+    {
+     "role": "bhashya",
+     "english": "1 Knowers, etc,—Such as the astrologers (astronomers).\n2 Time—This theory is also fallacious as time is divided into various parts as moment, minute, hour, etc. Time is also an object (thought) of the perceiving mind.\n3 Worlds—This is also an illusory conception.\nMandukya Karika, verse 2.25:\nSanskrit text, IAST transliteration and English translation"
+    }
+   ]
   },
   {
    "ref": "2.K25",
@@ -1172,14 +1227,36 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "पञ्चविंशक इत्येके षड्विंश इति चापरे ।\nएकत्रिंशक इत्याहुरनन्त इति चापरे ॥ २६ ॥",
-   "english": "26. Some1 say that the Reality consists of twenty-five categories, others2 twenty-six, while there are others3 who conceive It as consisting of thirty-one categories and lastly people are not wanting who think such categories to be infinite.\n1 Some—i.e., the Sāṃkhyas according to whom the Reality consists of twenty-five categories, viz., Prakṛti, Mahat, Ahaṃkāra, five Tanmātras (subtle elements), five organs of perception, five organs of action, five objects, mind and the Puruṣa.\n2 Others—i.e., the followers of Patañjali who add Īśvara to the categories of the Sāṃkhyas.\n3 Others—i.e., the Pāsupatas who add to the categories of Sāṃkhyas six more, viz., Rāga, Avidyā, Kāla, Kalā, Māyā and Niyati.\nThe mutual contradictions among these different schools prove the fallacious character of their theories. The difference of opinion is due to the ignorance of the nature of Reality.\nMandukya Karika, verse 2.27:\nSanskrit text, IAST transliteration and English translation"
+   "english": "26. Some1 say that the Reality consists of twenty-five categories, others2 twenty-six, while there are others3 who conceive It as consisting of thirty-one categories and lastly people are not wanting who think such categories to be infinite.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "पञ्चविंशक इत्येके षड्विंश इति चापरे ।\nएकत्रिंशक इत्याहुरनन्त इति चापरे ॥ २६ ॥",
+     "english": "26. Some1 say that the Reality consists of twenty-five categories, others2 twenty-six, while there are others3 who conceive It as consisting of thirty-one categories and lastly people are not wanting who think such categories to be infinite."
+    },
+    {
+     "role": "bhashya",
+     "english": "1 Some—i.e., the Sāṃkhyas according to whom the Reality consists of twenty-five categories, viz., Prakṛti, Mahat, Ahaṃkāra, five Tanmātras (subtle elements), five organs of perception, five organs of action, five objects, mind and the Puruṣa.\n2 Others—i.e., the followers of Patañjali who add Īśvara to the categories of the Sāṃkhyas.\n3 Others—i.e., the Pāsupatas who add to the categories of Sāṃkhyas six more, viz., Rāga, Avidyā, Kāla, Kalā, Māyā and Niyati.\nThe mutual contradictions among these different schools prove the fallacious character of their theories. The difference of opinion is due to the ignorance of the nature of Reality.\nMandukya Karika, verse 2.27:\nSanskrit text, IAST transliteration and English translation"
+    }
+   ]
   },
   {
    "ref": "2.K27",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "लोकांल्लोकविदः प्राहुराश्रमा इति तद्विदः ।\nस्त्रीपुंनपुंसकं लैङ्गाः परापरमथापरे ॥ २७ ॥",
-   "english": "27. Those1  who know only to please others call It (Reality) such2 pleasure; those3 who are cognizant of the Āśramas call It the Āśramas; the grammarians call It the male, female or the neuter, and others know It as the Parā4 and Aparā.\n1 Those, etc.—i.e., a sect of the atheists.\n2 Such, etc.—This is also a delusion as it is impossible to please everybody on account of the different tastes of the people.\n3 Those, etc.—i.e., men like Dakṣa, etc.\n4 Parā, etc.—i.e., the Brahman who is regarded as high and low. An entity, subject to division of any sort, can never be the Supreme Reality.\nMandukya Karika, verse 2.28:\nSanskrit text, IAST transliteration and English translation"
+   "english": "27. Those1  who know only to please others call It (Reality) such2 pleasure; those3 who are cognizant of the Āśramas call It the Āśramas; the grammarians call It the male, female or the neuter, and others know It as the Parā4 and Aparā.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "लोकांल्लोकविदः प्राहुराश्रमा इति तद्विदः ।\nस्त्रीपुंनपुंसकं लैङ्गाः परापरमथापरे ॥ २७ ॥",
+     "english": "27. Those1  who know only to please others call It (Reality) such2 pleasure; those3 who are cognizant of the Āśramas call It the Āśramas; the grammarians call It the male, female or the neuter, and others know It as the Parā4 and Aparā."
+    },
+    {
+     "role": "bhashya",
+     "english": "1 Those, etc.—i.e., a sect of the atheists.\n2 Such, etc.—This is also a delusion as it is impossible to please everybody on account of the different tastes of the people.\n3 Those, etc.—i.e., men like Dakṣa, etc.\n4 Parā, etc.—i.e., the Brahman who is regarded as high and low. An entity, subject to division of any sort, can never be the Supreme Reality.\nMandukya Karika, verse 2.28:\nSanskrit text, IAST transliteration and English translation"
+    }
+   ]
   },
   {
    "ref": "2.K28",
@@ -2861,7 +2938,18 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "आदावन्ते च यन्नास्ति वर्तमानेऽपि तत्तथा ।\nवितथैः सदृशाः सन्तोऽवितथा इव लक्षिताः ॥ ३१ ॥",
-   "english": "31. That which is non-existent at the beginning and in the end, is necessarily so (non-existent) in the middle. The objects we see are illusions, still they are regarded as if real.\n32. The serving of some purpose by them (i.e., the objects of waking experience) is contradicted in dream. Therefore they are doubtlessly recognised to be illusory (by the wise) on account of their having a beginning and an end.\nThese two verses have been explained before in the chapter on Illusion (Chapter II. 6, 7). They are quoted here again in connection with the topics which are discussed in relation to the unreality of the universe and liberation.\nAnandagiri Tika (glossary)\nThe opponent may contend thus:—Let the state of liberation have a beginning and an end. What is the harm in thus conceiving the state of liberation? The reply is that if a thing has a beginning and an end. it does not exist in the middle also. That is to say, it has no existence whatsoever. That we see its existence is due to our ignorance. The familiar instance is that of the mirage. The mirage has no existence prior to its vision by the deluded and it does not exist when the illusion vanishes. That we see the mirage at all is due to our ignorance. Therefore if we accept the idea of liberation as conceived by the opponent then it would be nonexistent. The opponent may again contend that one cannot quench his thirst with the water of the mirage. But liberation is conducive to our infinite happiness. The reply to this contention is that liberation as conceived by the opponent, being illusory, serves no purpose whatsoever. If liberation should have both beginning and end, then it would be like our dream or waking experiences. In the waking state a man may feel that he has enjoyed a hearty feast, but immediately after going to sleep he may experience in dream ravenous hunger. In that case the waking experiences do not serve him a lasting purpose. Any experience which has a beginning or an end is illusory from the standpoint of Reality."
+   "english": "31. That which is non-existent at the beginning and in the end, is necessarily so (non-existent) in the middle. The objects we see are illusions, still they are regarded as if real.\n32. The serving of some purpose by them (i.e., the objects of waking experience) is contradicted in dream. Therefore they are doubtlessly recognised to be illusory (by the wise) on account of their having a beginning and an end.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "आदावन्ते च यन्नास्ति वर्तमानेऽपि तत्तथा ।\nवितथैः सदृशाः सन्तोऽवितथा इव लक्षिताः ॥ ३१ ॥",
+     "english": "31. That which is non-existent at the beginning and in the end, is necessarily so (non-existent) in the middle. The objects we see are illusions, still they are regarded as if real.\n32. The serving of some purpose by them (i.e., the objects of waking experience) is contradicted in dream. Therefore they are doubtlessly recognised to be illusory (by the wise) on account of their having a beginning and an end."
+    },
+    {
+     "role": "bhashya",
+     "english": "These two verses have been explained before in the chapter on Illusion (Chapter II. 6, 7). They are quoted here again in connection with the topics which are discussed in relation to the unreality of the universe and liberation.\nAnandagiri Tika (glossary)\nThe opponent may contend thus:—Let the state of liberation have a beginning and an end. What is the harm in thus conceiving the state of liberation? The reply is that if a thing has a beginning and an end. it does not exist in the middle also. That is to say, it has no existence whatsoever. That we see its existence is due to our ignorance. The familiar instance is that of the mirage. The mirage has no existence prior to its vision by the deluded and it does not exist when the illusion vanishes. That we see the mirage at all is due to our ignorance. Therefore if we accept the idea of liberation as conceived by the opponent then it would be nonexistent. The opponent may again contend that one cannot quench his thirst with the water of the mirage. But liberation is conducive to our infinite happiness. The reply to this contention is that liberation as conceived by the opponent, being illusory, serves no purpose whatsoever. If liberation should have both beginning and end, then it would be like our dream or waking experiences. In the waking state a man may feel that he has enjoyed a hearty feast, but immediately after going to sleep he may experience in dream ravenous hunger. In that case the waking experiences do not serve him a lasting purpose. Any experience which has a beginning or an end is illusory from the standpoint of Reality."
+    }
+   ]
   },
   {
    "ref": "4.K32",
@@ -3227,7 +3315,18 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "विज्ञाने स्पन्दमाने वै नाभासा अन्यतोभुवः ।\nन ततोऽन्यत्र निःस्पन्दान्न विज्ञानं विशन्ति ते ॥ ५१ ॥",
-   "english": "51-52. When Consciousness is associated with the idea of activity (as in the dream and waking states), the appearances (that are seen in it) do not come from elsewhere. When Consciousness is inactive (as in deep sleep) appearances do not go elsewhere from the inactive Consciousness. Further, appearances do not enter into it. The appearances do not emerge from Consciousness because they are not of the nature of a substance. These are always beyond our comprehension on account of their not being subject to the relation of cause and effect.\nHow are the two appearances similar? It is thus replied:—The fire-brand and Consciousness are alike in all respects. The only special feature of Consciousness is that it always remains immutable.1 What is the cause of such appearances as birth, etc., in Consciousness which is ever immutable? In2 the absence of causality, it is not reasonable to establish the relationship of the producer and the produced (between Consciousness and appearances). The appearances, being illusory, are ever unthinkable.3 The purport of the whole thing is this:—As the fire-brand (which is merely a point) is associated with forms straight, crooked, etc., though, in reality, such crooked or straight forms are ever non-existent, so also, pure Consciousness is associated with the ideas of birth, etc., though such ideas as birth, etc., are ever non-existent. Hence these ideas of birth, etc., associated with Consciousness are illusory.\nAnandagiri Tika (glossary)\nWhen Consciousness is said to be active as in the waking and the dream states, the forms of birth, etc., that are cognised in those: states do not come from elsewhere outside Consciousness. For, such forms are not seen to exist elsewhere outside one’s own. consciousness. Again, when, as in deep sleep, Consciousness remains inactive, the forms of birth, death, etc., do not go elsewhere from the Consciousness in which they were perceived during the waking and the dream states. For, no one is conscious of such a happening. No one ever knows the existence of anything outside one’s own consciousness. Further, when Consciousness remains, inactive, as in deep sleep, the forms, etc., perceived in the waking,, and the dream states, do not seem to merge in Consciousness. For, Consciousness which is non-dual and beyond the ideas of time, space, etc., cannot be the cause of multiple objects existing in time and space. The objects seen in the dream and the waking states, being ever unreal, cannot be said to emerge from or merge in Consciousness.\n1 Immutable—Consciousness is called immutable as it is free from the idea of space and time.\n2 In the, etc.—The idea of causality is due to Avidyā.\n3 Ever unthinkable—The ideas seen in the dream and the waking states cannot be said to be non-existent because they are perceived. Nor can they be said to exist because they are not perceived in deep sleep. Therefore it is impossible to determine their real nature. Hence they are as illusory as the snake seen in the rope."
+   "english": "51-52. When Consciousness is associated with the idea of activity (as in the dream and waking states), the appearances (that are seen in it) do not come from elsewhere. When Consciousness is inactive (as in deep sleep) appearances do not go elsewhere from the inactive Consciousness. Further, appearances do not enter into it. The appearances do not emerge from Consciousness because they are not of the nature of a substance. These are always beyond our comprehension on account of their not being subject to the relation of cause and effect.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "विज्ञाने स्पन्दमाने वै नाभासा अन्यतोभुवः ।\nन ततोऽन्यत्र निःस्पन्दान्न विज्ञानं विशन्ति ते ॥ ५१ ॥",
+     "english": "51-52. When Consciousness is associated with the idea of activity (as in the dream and waking states), the appearances (that are seen in it) do not come from elsewhere. When Consciousness is inactive (as in deep sleep) appearances do not go elsewhere from the inactive Consciousness. Further, appearances do not enter into it. The appearances do not emerge from Consciousness because they are not of the nature of a substance. These are always beyond our comprehension on account of their not being subject to the relation of cause and effect."
+    },
+    {
+     "role": "bhashya",
+     "english": "How are the two appearances similar? It is thus replied:—The fire-brand and Consciousness are alike in all respects. The only special feature of Consciousness is that it always remains immutable.1 What is the cause of such appearances as birth, etc., in Consciousness which is ever immutable? In2 the absence of causality, it is not reasonable to establish the relationship of the producer and the produced (between Consciousness and appearances). The appearances, being illusory, are ever unthinkable.3 The purport of the whole thing is this:—As the fire-brand (which is merely a point) is associated with forms straight, crooked, etc., though, in reality, such crooked or straight forms are ever non-existent, so also, pure Consciousness is associated with the ideas of birth, etc., though such ideas as birth, etc., are ever non-existent. Hence these ideas of birth, etc., associated with Consciousness are illusory.\nAnandagiri Tika (glossary)\nWhen Consciousness is said to be active as in the waking and the dream states, the forms of birth, etc., that are cognised in those: states do not come from elsewhere outside Consciousness. For, such forms are not seen to exist elsewhere outside one’s own. consciousness. Again, when, as in deep sleep, Consciousness remains inactive, the forms of birth, death, etc., do not go elsewhere from the Consciousness in which they were perceived during the waking and the dream states. For, no one is conscious of such a happening. No one ever knows the existence of anything outside one’s own consciousness. Further, when Consciousness remains, inactive, as in deep sleep, the forms, etc., perceived in the waking,, and the dream states, do not seem to merge in Consciousness. For, Consciousness which is non-dual and beyond the ideas of time, space, etc., cannot be the cause of multiple objects existing in time and space. The objects seen in the dream and the waking states, being ever unreal, cannot be said to emerge from or merge in Consciousness.\n1 Immutable—Consciousness is called immutable as it is free from the idea of space and time.\n2 In the, etc.—The idea of causality is due to Avidyā.\n3 Ever unthinkable—The ideas seen in the dream and the waking states cannot be said to be non-existent because they are perceived. Nor can they be said to exist because they are not perceived in deep sleep. Therefore it is impossible to determine their real nature. Hence they are as illusory as the snake seen in the rope."
+    }
+   ]
   },
   {
    "ref": "4.K52",
@@ -3403,7 +3502,18 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "यथा स्वप्ने द्वयाभासं चित्तं चलति मायया ।\nतथा जाग्रद्द्वयाभासं चित्तं चलति मायया ॥ ६१ ॥",
-   "english": "61-62. As in dream, the mind is seen to act through Māyā manifesting the appearance of duality, so also in the waking state the mind is seen to act, through Māyā, producing the appearance of duality.\nThere is no doubt that the mind which is, in fact, non-dual, appears as dual in dream; in like manner, undoubtedly, the waking state, which is non-dual, appears as dual.\nThat pure consciousness which is non-dual (from the standpoint of the Supreme Reality) is sought to be described by words, is due to the active condition of the mind (which is due to Avidyā). This description (of the non-dual Ātman by words) has no meaning from the standpoint of the Ultimate Truth. These1 verses have already been explained.\nAnandagiri Tika (glossary)\nIt may be contended that if Ātman cannot be described by words, why then should the scholars have taken the pains to use words to denote Ātman. In reply it is said that what is described by words by scholars is not the non-dual Ātman but a duality, perceived on account of the activity of the mind, associated with the subject-object relationship which is the characteristic of the relative plane of existence. The Ultimate Reality is the essence of everything, including ideas or descriptions.\n1 The verses, etc.—Vide Chapter III, 29-30."
+   "english": "61-62. As in dream, the mind is seen to act through Māyā manifesting the appearance of duality, so also in the waking state the mind is seen to act, through Māyā, producing the appearance of duality.\nThere is no doubt that the mind which is, in fact, non-dual, appears as dual in dream; in like manner, undoubtedly, the waking state, which is non-dual, appears as dual.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "यथा स्वप्ने द्वयाभासं चित्तं चलति मायया ।\nतथा जाग्रद्द्वयाभासं चित्तं चलति मायया ॥ ६१ ॥",
+     "english": "61-62. As in dream, the mind is seen to act through Māyā manifesting the appearance of duality, so also in the waking state the mind is seen to act, through Māyā, producing the appearance of duality.\nThere is no doubt that the mind which is, in fact, non-dual, appears as dual in dream; in like manner, undoubtedly, the waking state, which is non-dual, appears as dual."
+    },
+    {
+     "role": "bhashya",
+     "english": "That pure consciousness which is non-dual (from the standpoint of the Supreme Reality) is sought to be described by words, is due to the active condition of the mind (which is due to Avidyā). This description (of the non-dual Ātman by words) has no meaning from the standpoint of the Ultimate Truth. These1 verses have already been explained.\nAnandagiri Tika (glossary)\nIt may be contended that if Ātman cannot be described by words, why then should the scholars have taken the pains to use words to denote Ātman. In reply it is said that what is described by words by scholars is not the non-dual Ātman but a duality, perceived on account of the activity of the mind, associated with the subject-object relationship which is the characteristic of the relative plane of existence. The Ultimate Reality is the essence of everything, including ideas or descriptions.\n1 The verses, etc.—Vide Chapter III, 29-30."
+    }
+   ]
   },
   {
    "ref": "4.K62",
@@ -3508,7 +3618,18 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "यथा स्वप्नमयो जीवो जायते म्रियतेऽपि च ।\nतथा जीवा अमी सर्वे भवन्ति न भवन्ति च ॥ ६८ ॥",
-   "english": "68-70. As the dream-Jīva . comes into being and disappears, so also all Jīvas (perceived in the waking condition) appear and disappear.\nAs the magician’s Jīva cames into being and passes away, so also all Jīvas (perceived in the waking condition) appear and disappear.\nAs the artificial Jīva (brought into existence by incantation, medicinal herb, etc.) comes info being and passes away, so also all the Jīvas (perceived in the waking condition) appear ana disappear.\nThe “magician’s Jīva” means that which is conjured up before our vision by the feat of a magician. The “artificial Jīva” is that which is brought into existence by means of incantation, medicinal herb, etc.\nAs the Jīvas born of egg, etc., and created in dream, are seen to come into existence and then to pass away, so also the Jīvas such as human beings, etc., seen in the waking state, though really non-existent (appear to come into existence and then pass away). These1 are merely the imagination of the mind.\nAnandagiri Tika (glossary)\nIt may be contended that if the Jīvas perceived in the waking state be unreal, then their birth and death, which are objects of common experience, become an impossibility. This Kārikā says in reply that as in the case of dream-beings, etc., really non-existent birth and death are possible, so also the appearance of birth, etc., is possible in the case of beings that are perceived in the waking state.\n1 There are, etc.—In other words, the Jīvas, perceived in the waking state, with all concomitant appearance of birth, death etc., are mere results of the objectifying tendency of the mind, and. nothing more."
+   "english": "68-70. As the dream-Jīva . comes into being and disappears, so also all Jīvas (perceived in the waking condition) appear and disappear.\nAs the magician’s Jīva cames into being and passes away, so also all Jīvas (perceived in the waking condition) appear and disappear.\nAs the artificial Jīva (brought into existence by incantation, medicinal herb, etc.) comes info being and passes away, so also all the Jīvas (perceived in the waking condition) appear ana disappear.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "यथा स्वप्नमयो जीवो जायते म्रियतेऽपि च ।\nतथा जीवा अमी सर्वे भवन्ति न भवन्ति च ॥ ६८ ॥",
+     "english": "68-70. As the dream-Jīva . comes into being and disappears, so also all Jīvas (perceived in the waking condition) appear and disappear.\nAs the magician’s Jīva cames into being and passes away, so also all Jīvas (perceived in the waking condition) appear and disappear.\nAs the artificial Jīva (brought into existence by incantation, medicinal herb, etc.) comes info being and passes away, so also all the Jīvas (perceived in the waking condition) appear ana disappear."
+    },
+    {
+     "role": "bhashya",
+     "english": "The “magician’s Jīva” means that which is conjured up before our vision by the feat of a magician. The “artificial Jīva” is that which is brought into existence by means of incantation, medicinal herb, etc.\nAs the Jīvas born of egg, etc., and created in dream, are seen to come into existence and then to pass away, so also the Jīvas such as human beings, etc., seen in the waking state, though really non-existent (appear to come into existence and then pass away). These1 are merely the imagination of the mind.\nAnandagiri Tika (glossary)\nIt may be contended that if the Jīvas perceived in the waking state be unreal, then their birth and death, which are objects of common experience, become an impossibility. This Kārikā says in reply that as in the case of dream-beings, etc., really non-existent birth and death are possible, so also the appearance of birth, etc., is possible in the case of beings that are perceived in the waking state.\n1 There are, etc.—In other words, the Jīvas, perceived in the waking state, with all concomitant appearance of birth, death etc., are mere results of the objectifying tendency of the mind, and. nothing more."
+    }
+   ]
   },
   {
    "ref": "4.K69",
@@ -4120,5 +4241,5 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit (verse + Shankara's bhashya, Devanagari) from Advaita Sharada /read/mandukya-karika-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Nikhilananda 1949), joined by Devanagari verse text (202) or number-checked ref (1): 203 of 227 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika)."
+ "notes": "Sanskrit (verse + Shankara's bhashya, Devanagari) from Advaita Sharada /read/mandukya-karika-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Nikhilananda 1949), joined by Devanagari verse text (202) or number-checked ref (1): 203 of 227 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [11 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 2.K20, 2.K21, 2.K22, 2.K23, 2.K24, 2.K26, 2.K27, 4.K31, 4.K51, 4.K61, 4.K68]"
 }
