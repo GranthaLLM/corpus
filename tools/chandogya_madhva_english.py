@@ -11,7 +11,7 @@ DEV = {"प्रथम": 1, "द्वितीय": 2, "तृतीय": 3, "
        "द्वादश": 12, "त्रयोदश": 13, "चतुर्दश": 14, "पञ्चदश": 15, "षोडश": 16, "सप्तदश": 17, "अष्टादश": 18, "एकोनविंश": 19, "विंश": 20}
 HEAD = re.compile(r"(?i)^(?:General commentary of\s+)?(\w+)\s+adhyaya,\s+(?:khandas\s+)?([\w-]+)(?:\s+(?:through|and|to)\s+([\w-]+))?")
 BHASYA = re.compile(r"^Madhva[’']s commentary called the Bh[āa]ṣya", re.I)
-MANTRA = re.compile(r"^Mantra\s+\d+\.\d+\.\d+")
+MANTRA = re.compile(r"^Mantra\s+(\d+)\.(\d+)\.(\d+)")
 NOTE = re.compile(r"^(?:\[?\s*Note\b|\[?Notes?\.)")
 
 
@@ -57,16 +57,28 @@ def pages():
     return out
 
 
-def commentary(lines, title=""):
-    out, on = [], title.lower().startswith("general")
-    for l in lines:
-        if MANTRA.match(l):
-            on = False
-        elif BHASYA.match(l):
-            on = True
-        elif on and not NOTE.match(l):
-            out.append(l)
-    return "\n".join(out) or None
+def entries(P):
+    out = []
+    for (a0, k0, k1), title, lines in P:
+        cur, on, buf = (a0, k0, 0), title.lower().startswith("general"), []
+        if on:
+            cur = (a0, 8, 0)
+
+        def flush():
+            if buf:
+                out.append((cur, "\n".join(buf)))
+                buf.clear()
+        for l in lines:
+            m = MANTRA.match(l)
+            if m:
+                flush()
+                cur, on = tuple(int(x) for x in m.groups()), False
+            elif BHASYA.match(l):
+                on = True
+            elif on and not NOTE.match(l):
+                buf.append(l)
+        flush()
+    return out
 
 
 def salutation(lines):
@@ -84,21 +96,20 @@ def main():
     for u in d["units"]:
         m = re.match(r"(\S+)ोऽध्यायः / (\S+?)(?:ः)? खण्डः", u["ref"])
         keys.append((dev_num(m.group(1)), dev_num(m.group(2))) if m else None)
+    E = entries(P)
     n = 0
     for i, u in enumerate(d["units"]):
         if u["ref"] == "preface":
             en = salutation(P[0][2])
         else:
-            def first(key):
-                return next((j for j, ((a, k0, k1), t, _) in enumerate(P) if key and a == key[0] and k0 <= key[1] <= k1 and not t.lower().startswith("general")), None)
-            lo = first(keys[i])
-            nxt = next((keys[j] for j in range(i + 1, len(keys)) if keys[j]), None)
-            hi = first(nxt) if nxt else len(P)
-            en = ("\n".join(filter(None, (commentary(P[j][2], P[j][1]) for j in range(lo, hi)))) or None) if lo is not None and hi is not None else None
+            nxt = next((keys[j] for j in range(i + 1, len(keys)) if keys[j] and keys[j][0] == keys[i][0]), None)
+            lo = (keys[i][0], keys[i][1], 0)
+            hi = (keys[i][0], nxt[1], 0) if nxt else (keys[i][0] + 1, 0, 0)
+            en = "\n".join(t for k, t in E if lo <= k < hi) or None
         u["english"] = en
         n += bool(en)
     d["alignment"] = "by_ref"
-    d["notes"] = (d["notes"] or "") + f" [English: Srisa Chandra Vasu 1909 via wisdomlib, only the translation of Madhva's commentary (the blocks after 'Madhva's commentary called the Bhashya'), without Vasu's notes and without the mantra translations. Setutila units start at a khanda and run to the next unit's khanda, so each unit's english joins the commentary blocks of every wisdomlib khanda page in that range. {n} of {len(d['units'])} units have english.]"
+    d["notes"] = (d["notes"] or "") + f" [English: Srisa Chandra Vasu 1909 via wisdomlib, only the translation of Madhva's commentary (the blocks after 'Madhva's commentary called the Bhashya'), without Vasu's notes and without the mantra translations. Setutila units start at a khanda and run to the next unit's khanda, so each unit's english joins the commentary blocks of every mantra from its khanda up to the next unit's khanda, or to the end of its adhyaya (a unit's Sanskrit ends at the adhyaya colophon). {n} of {len(d['units'])} units have english.]"
     p.write_text(json.dumps(d, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print("chandogya_madhva english", n, "of", len(d["units"]))
 
