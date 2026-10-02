@@ -1,39 +1,6 @@
 import re
 from common import *
 
-MARK_BBS = re.compile(r"\|\s*bbs_(\d+),(\d+)\.(\d+)\s*\|", re.I)
-HEAD = re.compile(r"^(\d+ .*(dhikaraṇam|dhikaraṇa).*|.*ādhyāye .*pādaḥ ?/?|\(atra .*\)|\(.*pāde.*\))\s*$")
-
-
-def brahmasutra():
-    body = gretil_body("sa_bAdarAyaNa-brahmasUtra-comm.txt")
-    ms = list(MARK_BBS.finditer(body))
-    head_end = re.compile(r"//\s*\d+\s*//")
-
-    def sutra_start(m):
-        ls = body.rfind("\n", 0, m.start()) + 1
-        seg = body[ls:m.start()]
-        last = None
-        for e in head_end.finditer(seg):
-            last = e
-        return ls + last.end() if last else ls
-
-    def clean(text):
-        ls = [l.strip() for l in text.split("\n")]
-        return [l for l in ls if l and not HEAD.match(l)]
-
-    starts = [sutra_start(m) for m in ms]
-    out = []
-    for i, m in enumerate(ms):
-        mula = body[starts[i]:m.start()].strip()
-        end = starts[i + 1] if i + 1 < len(ms) else len(body)
-        lines = clean(body[m.end():end])
-        bhs = "\n".join(lines) if lines else None
-        out.append({"ref": f"{m.group(1)}.{m.group(2)}.{m.group(3)}", "kind": "mula+bhashya",
-                    "sanskrit": mula + ("\n" + bhs if bhs else ""),
-                    "sanskrit_mula": mula, "sanskrit_bhashya": bhs, "english": None})
-    return out
-
 
 def ramanuja():
     body = gretil_body("sa_rAmAnuja-bhagavadgItAbhASya.txt")
@@ -97,14 +64,6 @@ def shataka():
 
 
 if __name__ == "__main__":
-    src = {"citation": "Bādarāyaṇa, Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya, GRETIL (Sansknet input, not proofread)",
-           "url": GRETIL + "sa_bAdarAyaNa-brahmasUtra-comm.txt", "license": GRETIL_LIC}
-    n = write("philosophical/bsb_shankara_gretil.json", dict(
-        id="bsb_shankara_gretil", text="Brahmasūtra Śāṃkarabhāṣya", tradition="Advaita", commentator="Śaṃkara",
-        units=brahmasutra(), source_sanskrit=src, source_english={"citation": "Gambhirananda, Brahma-Sutra Bhasya of Sankaracharya", "url": "https://archive.org/details/brahma-sutra-bhasya-of-sankaracharya-swami-gambhirananda", "license": None},
-        alignment="unaligned", notes="Sanskrit only in pass 1. English (Gambhirananda scan) pending OCR pass; english null for every unit. GRETIL text is unproofread and word boundaries may be irregular. ref = adhyaya.pada.sutra. sanskrit_mula = sutra, sanskrit_bhashya = Śaṃkara's commentary up to next sutra; adhikarana headings dropped."))
-    print("bsb_shankara", n)
-
     src = {"citation": "Rāmānuja, Bhagavadgītābhāṣya, GRETIL (input S. Ishitobi, analytic text)", "url": GRETIL + "sa_rAmAnuja-bhagavadgItAbhASya.txt", "license": GRETIL_LIC}
     n = write("philosophical/bg_ramanuja.json", dict(
         id="bg_ramanuja", text="Bhagavadgītā Rāmānujabhāṣya", tradition="Vishishtadvaita", commentator="Rāmānuja",

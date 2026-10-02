@@ -3,7 +3,7 @@ from common import ROOT
 
 ROLES = (("mula", "sanskrit_mula", "english_mula"), ("bhashya", "sanskrit_bhashya", "english_bhashya"), ("tatparya", "sanskrit_tatparya", "english_tatparya"))
 EXTRA = ("match_min", "align", "english_edits", "english_flags", "vedabase_texts", "english_covers")
-SUTRA_FILES = ("bsb_madhva", "bsb_shankara", "bsb_shankara_gretil", "sribhashya_ramanuja")
+SUTRA_FILES = ("bsb_madhva", "bsb_shankara", "sribhashya_ramanuja")
 TEXT_FILES = ("mbtn",)
 PROSE_FILES = ("bhattasangraha",)
 KEYS = ("ref", "kind", "scope", "sanskrit", "english", "parts", "meta")

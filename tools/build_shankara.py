@@ -139,5 +139,5 @@ if __name__ == "__main__":
         units=u, source_sanskrit={"citation": "Advaita Sharada (Vani Vilas Sri Shankara Granthavali edition)", "url": AS + "brahmasutra-bhashya/1", "license": AS_LIC},
         source_english={"citation": "Gambhirananda, Brahma-Sutra Bhasya of Sankaracharya", "url": "https://archive.org/details/brahma-sutra-bhasya-of-sankaracharya-swami-gambhirananda", "license": None},
         alignment="unaligned", needs_ocr=True,
-        notes="Sanskrit (sutra + Śaṃkara bhashya) from Advaita Sharada, chosen over GRETIL (bsb_shankara_gretil.json, unproofread Sansknet text) as the orthodox edition. English pending OCR pass 2 (Gambhirananda scan); null. ref = adhyaya.pada.sutra; avatarika paragraphs folded into sanskrit_bhashya."))
+        notes="Sanskrit (sutra + Śaṃkara bhashya) from Advaita Sharada, chosen over the unproofread GRETIL (Sansknet) text as the orthodox edition; the GRETIL file was dropped as a duplicate with no English. English pending OCR pass 2 (Gambhirananda scan); null. ref = adhyaya.pada.sutra; avatarika paragraphs folded into sanskrit_bhashya."))
     print("done")
