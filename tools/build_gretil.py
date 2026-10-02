@@ -1,5 +1,6 @@
 import re
 from common import *
+from translit import iast_to_dev
 
 MARK_BBS = re.compile(r"\|\s*bbs_(\d+),(\d+)\.(\d+)\s*\|", re.I)
 HEAD = re.compile(r"^(\d+ .*(dhikaraṇam|dhikaraṇa).*|.*ādhyāye .*pādaḥ ?/?|\(atra .*\)|\(.*pāde.*\))\s*$")
@@ -87,7 +88,7 @@ def shataka():
         if m:
             buf.append(re.sub(r"\s*\|\|\s*bharst_\S+\s*\|\|", " ||", s).strip())
             out.append({"ref": f"{m.group(1)}.{m.group(2)}{m.group(3) or ''}", "kind": "verse",
-                        "sanskrit": "\n".join(buf), "english": None})
+                        "sanskrit": iast_to_dev("\n".join(buf)), "english": None})
             buf = []
         elif re.search(r"(śatakam|śataka-m)", s) or s.startswith("bhatṛhari:") or s.startswith("bhartṛhareḥ"):
             buf = []
@@ -115,7 +116,7 @@ if __name__ == "__main__":
 
     src = {"citation": "Bhartṛhari, Śatakatraya, GRETIL (J. Brzezinski; 'needs critical reading', edition numberings vary)", "url": GRETIL + "sa_bhatRhari-zatakatraya.txt", "license": GRETIL_LIC}
     n = write("sahitya/shatakatraya.json", dict(
-        id="25", text="Śatakatraya", tradition=None, units=shataka(), source_sanskrit=src,
+        id="25", text="Śatakatraya", tradition=None, script="Devanagari", units=shataka(), source_sanskrit=src,
         source_english={"citation": "Wortham, The Satakas of Bhartrihari (1886)", "url": "https://archive.org/details/satakasofbhartri00bharuoft", "license": None},
         alignment="unaligned", notes="Sanskrit only in pass 1; Wortham English pending OCR. ref = shataka.verse (1 Nitishataka, 2 Shringarashataka, 3 Vairagyashataka). Verse numbering is GRETIL's and may differ from Wortham's."))
     print("shatakatraya", n)
