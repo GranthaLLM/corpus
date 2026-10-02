@@ -1,4 +1,5 @@
 import json, re, pathlib
+from translit import devanagari_units
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 import os
@@ -16,6 +17,7 @@ def write(rel, obj):
             "units": [], "source_sanskrit": None, "source_english": None, "bundled": False,
             "needs_ocr": False, "alignment": "not_applicable", "slice_of": None, "notes": None}
     full.update(obj)
+    devanagari_units(full)
     p.write_text(json.dumps(full, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     return len(full["units"])
 
