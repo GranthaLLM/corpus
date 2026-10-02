@@ -13,15 +13,14 @@ ROWS = [
     ("7", "Sarvadarshanasamgraha", ["philosophical/sarvadarshanasamgraha"], "Mitrasamgraha rows, bundled"),
     ("8", "Vimshatika/Trimshika", ["philosophical/vimshatika_trimshika"], "Mitrasamgraha rows; appears to be the Vimshatika only"),
     ("9", "Samkhyakarika", ["philosophical/samkhyakarika"], "Mitrasamgraha rows (Matharavritti)"),
-    ("10", "MBTN", ["philosophical/mbtn"], "Sanskrit Setutila; English Nellitheertha 2021, aligned per chapter by order (names, length, machine-translation similarity); units over 16 verses split into ~8-verse groups; 1 unit (a single unmarked verse in ch 9) has no English"),
-    ("11", "BTN", ["philosophical/btn"], "Sanskrit only (Setutila); translation not located"),
-    ("12-21 Shankara", "Upanishads, Shankara track", [f"upanishads/{u}_shankara" for u in ["isa", "kena", "katha", "prashna", "mundaka", "mandukya", "brihadaranyaka", "taittiriya", "aitareya"]] + ["upanishads/chandogya_shankara", "upanishads/chandogya_shankara_jha", "upanishads/kena_vakya_shankara"], "Sanskrit Advaita Sharada; English wisdomlib (Taittiriya none), Sastri scan (Aitareya, khanda level); Chandogya English only in the Jha file"),
-    ("12-21 Madhva", "Upanishads, Madhva track", [f"upanishads/{u}_madhva" for u in ["isa", "kena", "katha", "prashna", "mundaka", "mandukya", "taittiriya", "aitareya", "chandogya", "brihadaranyaka"]], "Sanskrit Setutila; English wisdomlib (Isa..Mandukya), Sonde+Sarvam OCR (Taittiriya), Pandurangi (Aitareya); Chandogya and Brihadaranyaka English missing"),
-    ("23a-c", "Mahabharata: Sanatsujatiya, Vidura Niti, Yaksha Prashna", ["sahitya/sanatsujatiya", "sahitya/vidura_niti", "sahitya/yaksha_prashna"], "Mitrasamgraha slices of the Ganguli file"),
-    ("24a-b", "Bhagavata: Kapila (3.25-33), Uddhava Gita (11.7-29)", ["sahitya/bhagavata_kapila", "sahitya/bhagavata_uddhava"], "Sanskrit Setutila; English Prabhupada via Vedabase (english_clean variant)"),
-    ("25", "Harivamsha", ["sahitya/harivamsha"], "Mitrasamgraha rows"),
-    ("26", "Kumarasambhava", ["sahitya/kumarasambhava"], "Mitrasamgraha rows; cantos 1-7 only (source ends there)"),
-    ("27", "Shatakatraya", ["sahitya/shatakatraya"], "Sanskrit only (GRETIL); Wortham English not joined (numbering differs)"),
+    ("10", "MBTN", ["philosophical/mbtn"], "Sanskrit Setutila; English Nellitheertha 2021, aligned per chapter by order (names, length, machine-translation similarity); units over 16 verses split into ~8-verse groups"),
+    ("11-20 Shankara", "Upanishads, Shankara track", [f"upanishads/{u}_shankara" for u in ["isa", "kena", "katha", "prashna", "mundaka", "mandukya", "brihadaranyaka", "taittiriya", "aitareya"]] + ["upanishads/chandogya_shankara", "upanishads/chandogya_shankara_jha", "upanishads/kena_vakya_shankara"], "Sanskrit Advaita Sharada; English wisdomlib (Taittiriya none), Sastri scan (Aitareya, khanda level); Chandogya English only in the Jha file"),
+    ("11-20 Madhva", "Upanishads, Madhva track", [f"upanishads/{u}_madhva" for u in ["isa", "kena", "katha", "prashna", "mundaka", "mandukya", "taittiriya", "aitareya", "chandogya", "brihadaranyaka"]], "Sanskrit Setutila; English wisdomlib (Isa..Mandukya), Sonde+Sarvam OCR (Taittiriya), Pandurangi (Aitareya); Chandogya and Brihadaranyaka English missing"),
+    ("21a-c", "Mahabharata: Sanatsujatiya, Vidura Niti, Yaksha Prashna", ["sahitya/sanatsujatiya", "sahitya/vidura_niti", "sahitya/yaksha_prashna"], "Mitrasamgraha slices of the Ganguli file"),
+    ("22a-b", "Bhagavata: Kapila (3.25-33), Uddhava Gita (11.7-29)", ["sahitya/bhagavata_kapila", "sahitya/bhagavata_uddhava"], "Sanskrit Setutila; English Prabhupada via Vedabase (english_clean variant)"),
+    ("23", "Harivamsha", ["sahitya/harivamsha"], "Mitrasamgraha rows"),
+    ("24", "Kumarasambhava", ["sahitya/kumarasambhava"], "Mitrasamgraha rows; cantos 1-7 only (source ends there)"),
+    ("25", "Shatakatraya", ["sahitya/shatakatraya"], "Sanskrit GRETIL; English Wortham 1886 (OCR, unproofread) paired by content, Niti and Vairagya only; Shringarashataka has no English"),
 ]
 
 
