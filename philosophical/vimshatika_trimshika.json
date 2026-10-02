@@ -7,973 +7,1135 @@
  "units": [
   {
    "ref": "1",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "माहायाने त्रैधातुकं विज्ञप्तिमात्रं व्यवस्थाप्यते ।",
    "english": "In the Great Vehicle, the three realms of existence¹ are determined as being perception-only."
   },
   {
    "ref": "2",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "चित्तमात्रं भो जिनपुत्रा यद् उत त्रैधातुकम् इति सूत्रात् ।",
    "english": "As it is said in the sutra, \"The three realms of existence are citta-only.\""
   },
   {
    "ref": "3",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "चित्तं मनो विज्ञानं विज्ञप्तिश् चेति पर्यायाः ।",
    "english": "Citta, manas, consciousness, and perception are synonyms."
   },
   {
    "ref": "4",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "चित्तम् अत्र ससंप्रयोगम् अभिप्रेतं ।",
    "english": "By the word \"citta\", citta along with its associations is intended here."
   },
   {
    "ref": "5",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "मत्रम् इत्य् अर्थप्रतिषेधार्थं ।",
    "english": "“Only” is said to rule out any (external) object of sense or understanding."
   },
   {
    "ref": "6",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "विज्ञप्तिमात्रम् एवेदम् असदर्थावभासनात् । यद्वत् तैमिरिकस्यासत् केशोण्डुकादिदर्शनं ॥",
    "english": "All this is perception-only, because of the appearance of non-existent objects, just as there may be the seeing of non-existent nets of hair by someone afflicted with an optical disorder."
   },
   {
    "ref": "7",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "अत्र चोद्यते । कश्चिद् अर्थो नास्ति । न देशकालनियमः संतानानियमो न च । न च कृत्यक्रिया युक्ता विज्ञप्तिर् यदि नार्थतः ॥",
    "english": "Here it is objected : \"If perception occurs without an object, any restriction as to place and time becomes illogical, as does non-restriction as to moment-series² and any activity which has been performed.”"
   },
   {
    "ref": "8",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "किम् उक्तं भवति ।",
    "english": "What is being said?"
   },
   {
    "ref": "9",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यदि विना रूपाद्यर्थेन रूपादिविज्ञप्तिर् उत्पद्यते न रूपाद्यर्थात् । कस्मात् क्वचिद् देश उत्पद्यते न सर्वत्र । तत्रैव च देशे कदाचिद् उत्पद्यते न सर्वदा ।",
    "english": "If the perception of visibles, etc. arises without any object of visibles, etc. why is it that it arises only in certain places, and not everywhere, and even in those places, why is it that it arises only sometimes, and not all the time ?"
   },
   {
    "ref": "10",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "तद्देशकालप्रतिष्ठितानां सर्वेषां संतानानियम उत्पद्यते न केवलम् एकस्य । यथा तैमिरिकाणां संताने केशाद्याभासो नान्येषां ।",
    "english": "And why is it that it arises in the moment-series of all that are situated in that time and place, and not just in the momentseries of one, just as the appearance of hair, etc. arises in the moment-series of those afflicted by an optical disorder, and not in the moment-series of others?"
   },
   {
    "ref": "11",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "कस्माद् यत् तैमिरिकैः केशभ्रमरादि दृश्यते तेन केशादिक्रिया न क्रियते न च तद् अन्यैर् न क्रियते ।",
    "english": "Why is it that the hair, bees, etc. seen by those afflicted by an optical disorder don't perform the functions of hair, etc. while it is not the case that other hair, etc. don't perform them?"
   },
   {
    "ref": "12",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यद् अन्नपानवस्त्रविषायुधादि स्वप्ने दृश्यते तेनान्नादिक्रिया न क्रियते न च तद् अन्यैर् न क्रियते ।",
    "english": "Food, drink, clothes, poison, weapons, etc. that are seen in a dream don't perform the functions of food, etc. while it is not the case that other food, etc. don't perform them."
   },
   {
    "ref": "13",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "गन्धर्वनगरेणासत्त्वान् नगरक्रिया न क्रियते न च तद् अन्यैर् न क्रियते ।",
    "english": "An illusory town does not perform the functions of a town, because of its non-existence, while it is not the case that other towns don't perform them."
   },
   {
    "ref": "14",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "तस्माद् असदभावावभासने देशकालनियमः संतानानियमः कृत्यक्रिया च न युज्यते ।",
    "english": "Therefore, with the non-being of an object, any restriction as to place and time, any non-restriction as to moment-series, and any activity which has been performed, would be illogical."
   },
   {
    "ref": "15",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "न खलु न युज्यते । यस्मात् । देशादिनियमः सिद्धः स्वप्नवत्",
    "english": "Reply: No, they are not illogical, because Restriction as to place, etc. is demonstrated as in a dream."
   },
   {
    "ref": "16",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "कथं तावत् ।",
    "english": "a Now how is this?"
   },
   {
    "ref": "17",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "स्वप्ने विनाप्य् अर्थेन क्वचिद् एव देशे किंचिद् भ्रमरारामस्त्रीपुरूषादिकं दृश्यते न सर्वत्र । तत्रैव च देशे कदाचिद् दृश्यते न सर्वकालम् इति सिद्धो विनाप्य् अर्थेन देशकालनियमः ।",
    "english": "In a dream, even without an (external) object of sense or understanding, only certain things are to be seen bees, gardens, women, men, etc. and these only in certain places, and not everywhere. And even there in those places, they are to be seen only sometimes, and not all the time."
   },
   {
    "ref": "18",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "प्रेतवत् पुनः । संतानानियमः सिद्ध इति वर्तते । प्रेतानाम् इव प्रेतवत् ।",
    "english": "And non-restriction as to moment-series is like with the pretas.³ b The phrase \"is demonstrated\" continues to apply here (to make the verse read: \"And non-restriction as to moment-series is demonstrated as with the pretas.\""
   },
   {
    "ref": "19",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "कथं सिद्धः समं ।",
    "english": "How is it demonstrated ?"
   },
   {
    "ref": "20",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "सर्वैः पूयनद्यादिदर्शने ॥",
    "english": "In the seeing of pus-rivers, etc. by all of them c all together."
   },
   {
    "ref": "21",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "पूयपूर्णा नदी पूयनदी ।",
    "english": "A \"pus-river\" is a river filled with pus."
   },
   {
    "ref": "22",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "घृतघटवत् ।",
    "english": "Just as one says \"a ghee pot\"."
   },
   {
    "ref": "23",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "तुल्यकर्मविपाकावस्था हि प्रेताः सर्वे ऽपि पूयपूर्णां नदीं पश्यन्ति नैक एव ।",
    "english": "For all the pretas who are in a similar situation due to a similar retribution for action, and not just one of them, see a river filled with pus."
   },
   {
    "ref": "24",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यथा पूयपूर्णाम् एवं मूत्रपुरीषादिपूर्णां दण्डासिधरैश् च पुरुषैर् अधिष्ठिताम् इत्य् आदिग्रहणेन ।",
    "english": "With the expression \"etc.\" rivers full of urine and feces, guarded by men holding clubs or swords, and other such perceptions, are included also."
   },
   {
    "ref": "25",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "एवं संतानानियमो विज्ञप्तिनाम् असत्य् अप्य् अर्थे सिद्धः ॥",
    "english": "Thus, nonrestriction as to moment-series in regard to perceptions is demonstrated even with an (external) object of sense or understanding being non-existent."
   },
   {
    "ref": "26",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "स्वप्नोपघातवत् कृत्यक्रिया",
    "english": "And activity which has been performed is just like being affected in a dream."
   },
   {
    "ref": "27",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यथा स्वप्ने द्वयसमापत्तिम् अन्तरेण शुक्रविसर्गलक्षणः स्वप्नोपघातः ।",
    "english": "a a A case of being affected in a dream is like where semen is released even without a couple's coming together."
   },
   {
    "ref": "28",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "एवं तावद् अन्यान्यैर् दृष्टान्तैर् देशकालनियमादिचतुष्टयं सिद्धं ।",
    "english": "So, by theseThe Twenty Verses and Their Commentary various examples, the four-fold restriction as to place and time, and so on, is demonstrated."
   },
   {
    "ref": "29",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "नरकवत् पुनः । सर्वं सिद्धम् इति वेदितव्यं । नरकेष्व् इव नरकवत् ।",
    "english": "And as in a hell-state, b all of these b are demonstrated. \"In a hell-state\" means \"among those experiencing a hell-state\"."
   },
   {
    "ref": "30",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "कथं सिद्धं ।",
    "english": "How are they demonstrated ?"
   },
   {
    "ref": "31",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "नरकपालादिदर्शने तैश् च बाधने ॥",
    "english": "In the seeing of hell-guardians, etc. and in being tormented by them."
   },
   {
    "ref": "32",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यथा हि नरकेषु नारकाणां नरकपालादिदर्शनं देशकालनियमेन सिद्धं ।",
    "english": "c Just as the seeing of hell-guardians, etc. by those experiencing a hell-state (and with the expression “etc.”"
   },
   {
    "ref": "33",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "श्ववायसायसपर्वताद्यागमनगमनदर्शनं चेत्य् आदिग्रहणेन । सर्वेषां च नैकस्यैव तैश् च तद्बाधनं सिद्धम् असत्स्व् अपि नरकपालादिषु समानस्वकर्मविपाकाधिपत्यात् ।",
    "english": "the seeing of dogs, crows, moving mountains, and so on, is included) is demonstrated with a restriction as to place and time for all of those experiencing a hell-state, and not just for one of them, and just as their torment inflicted by them is demonstrated through the sovereignty of the common retribution for their individual actions, even though the hell-guardians, and so on, are really non-existent."
   },
   {
    "ref": "34",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "तथान्यत्रापि सर्वम् एतद् देशकालनियमादिचतुष्तयं सिद्धम् इति वेदितव्यं ॥",
    "english": "So the four-fold restriction as to place and time is to be known as demonstrated in yet another way."
   },
   {
    "ref": "35",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "किं पुनः कारणं नरकपालास् ते च श्वानो वायसाश् च सत्त्वा नेष्यन्ते ।",
    "english": "Objection: But for what reason is the existence of hell-guardians, dogs, and crows (experienced in hell-states) not accepted ?"
   },
   {
    "ref": "36",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "अयोगात् । न हि ते नारका युज्यन्ते ।",
    "english": "Reply: Because they are illogical."
   },
   {
    "ref": "37",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "परस्परं यातयताम् इमे नारका इमे नरकपाला इति व्यवस्था न स्यात् ।",
    "english": "For to assume that these kinds of hell-beings have an external existence is not logical."
   },
   {
    "ref": "38",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "तुल्याकृतिप्रमाणबलानां च परस्परं यातयतां न तथा भयं स्यात् । दाहदुःखं च प्रदीप्तायाम् अयोमय्यां भूमाव् असहमानाः कथं तत्र परान् यातयेयुः ।",
    "english": "This is so because they don't feel the sufferings there themselves, or if they tormented each other mutually, there would be no difference in situation between those experiencing a hell-state and the hellguardians, and if they mutually tormented each other having equal make-ups, sizes, and strengths, there would be no fear in those experiencing a hell-state, and since they couldn't stand the burning suffering of standing on a ground made of heated iron, how could they be tormenting others?"
   },
   {
    "ref": "39",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "अनारकाणां वा नरके कुतः संभवः ।",
    "english": "And how could there be an arising of those not experiencing a hell-state, together with those who are ?"
   },
   {
    "ref": "40",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "कथं तावत् तिरश्चां स्वर्गसंभवः ।",
    "english": "Objection How is this?"
   },
   {
    "ref": "41",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "एवं नरकेषु तिर्यक्प्रेतविशेषाणां नरकपालादीनां संभवः स्यात् । तिरश्चां संभवः स्वर्गे यथा न नरके तथा ।",
    "english": "The arising of animals in a heaven-state may occur, so in the same way, there may be the arising of hell-guardians, etc. which have the distinct qualities of animals or pretas, in hell-states."
   },
   {
    "ref": "42",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "न प्रेतानां यतस् तज्जं दुःखं नानुभवन्ति ते ॥",
    "english": "Reply : There is no arising of animals in hell-states, as there is in heaven-states, nor is there any arising of pretas, since they don't experience the sufferings that are engendered there."
   },
   {
    "ref": "43",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "ये हि तिर्यञ्चः स्वर्गे संभवन्ति ते तद्भाजनलोकसुखसंवर्तनीयेन कर्मणा तत्र संभूतास् तज्जं सुखं प्रत्यनुभवन्ति ।",
    "english": "Those animals which arise in heaven-states experience all the pleasure that is engendered there because of (past) actions bringing pleasure to their environment."
   },
   {
    "ref": "44",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "न चैव नरकपालादयो नारकं दुःखं प्रत्यनुभवन्ति ।",
    "english": "But hell-guardians, etc. don't experience hellish suffering in the same way."
   },
   {
    "ref": "45",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "तस्मान् न तिरश्चां संभवो युक्तो नापि प्रेतानां ॥",
    "english": "So the arising of animals (in hell-states) is not logical, and neither is the arising of pretas there."
   },
   {
    "ref": "46",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "नारकाणां कर्मभिस् तत्र भूतविशेषाः संभवन्ति वर्णाकृतिप्रमाणबलविशिष्टा ये नरकपालादिसंज्ञां प्रतिलभन्ते । तथा च परिणमन्ति । यद् द्विधां हस्तविक्षेपादिक्रियां कुर्वन्तो दृश्यन्ते भयोत्पादनार्थं । यथा मेषाकृतयः पर्वता आगच्छन्तो गच्छन्तो ऽयःशाल्मलीवने च कण्टका अधोमुखीभवन्त ऊर्द्ध्वमुखीभवन्तश् चेति ।",
    "english": "An opinion: Then it's because of the actions of those experiencing a hell-state, that special material elements arise, which have special qualities as to color, make-up, size, and strength, and are cognized as hell-guardians, etc. That's why they are constantly transforming in various ways, and appear to be shaking their hands, etc. in order to instill fear, just as mountains that look like sheep appear to be coming and going, and just as thorns in forests of iron silk-cotton trees, appear to be bowing down and rising up again."
   },
   {
    "ref": "47",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "न ते न संभवन्त्य् एव ।",
    "english": "And yet it isn't that (these phenomena) aren't arising."
   },
   {
    "ref": "48",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "यदि तत्कर्मभिस् तत्र भूतानां संभवस् तथा । इष्यते परिणामश् च किं विज्ञानस्य नेष्यते ॥",
    "english": "Reply: If the arising and transformation of material elements due to the actions of those is accepted, why isn't (such arising and transformation) of a consciousness accepted ?"
   },
   {
    "ref": "49",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "विज्ञानस्यैव तत्कर्मभिस् तथा परिणामः कस्मान् नेष्यते किं पुनर् भूतानि कल्प्यन्ते ॥",
    "english": "Why is a transformation of consciousness itself due to (past) actions not accepted, and why instead are material elements constructed?"
   },
   {
    "ref": "50",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "कर्मणो वासनान्यत्र फलम् अन्यत्र कल्प्यते । तत्रैव नेष्यते यत्र वासना किं नु कारणं ॥",
    "english": "And furthermore, It's being constructed that the process of impressions from actions takes place elsewhere than does its effect, and it is not being accepted that it exists there where the impressions take place : Now what is your reason for this ?"
   },
   {
    "ref": "51",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "येन हि कर्मणा नारकाणां तत्र तादृशो भूतानां संभवः कल्प्यते परिणामश् च तस्य कर्मणो वासना तेषां विज्ञानसंतानसंनिविष्टा नान्यत्र यत्रैव च वासना तत्रैव तस्याः फलं तादृशो विज्ञानपरिणामः किं नेष्यते । यत्र वासना नास्ति तत्र तस्याः फलं कल्प्यत इति किम् अत्र कारणं ॥",
    "english": "Because it is through their action that such an arising and transformation of material elements is constructed for thoseThe Twenty Verses and Their Commentary experiencing a hell-state, and inasmuch as impressions through actions enter together into their consciousness-series, and not anywhere else, why is it that that effect is not accepted as .being such a transformation of consciousness taking place just where the impressions themselves do ? What is the reason for an effect being constructed where there is no process of impression ?"
   },
   {
    "ref": "52",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "आगमः कारणं ।",
    "english": "(You may say): By reason of scriptural authority."
   },
   {
    "ref": "53",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यदि विज्ञानम् एव रूपादिप्रतिभासं स्यान् न रूपादिको ऽर्थस् तदा रूपाद्यायतनास्तित्वं भगवता नोक्तं स्यात् ।",
    "english": "If consciousness were only the appearance of visibles, etc. and there were no (external) objects of visibles, etc. the existence of the sensefields of visibles, etc. would not have been spoken of by the Exalted One."
   },
   {
    "ref": "54",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "अकारणम् एतद् यस्मात् । रूपाद्यायतनास्तित्वं तद्विनेयजनं प्रति । अभिप्रायवशाद् उक्तम् उपपादुकसत्त्ववत् ॥",
    "english": "Reply: This is no reason, because Speaking of sense-fields of visibles, etc. was intended for those to be introduced to Dharma, just as in the case of spontaneously-generated beings.\""
   },
   {
    "ref": "55",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यथास्ति सत्त्व उपपादुक इत्य् उक्तं भगवता अभिप्रायवशाच् चित्तसंतत्यनुच्छेदम् आयत्याम् अभिप्रेत्य ।",
    "english": "It's just like in the case where spontaneously generated beings were discussed by the Exalted One. This was done with the intention of indicating the non-discontinuity of the citta-series in the future."
   },
   {
    "ref": "56",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "नास्तीह सत्त्व आत्मा वा धर्मास् त्व् एते सहेतुकाः इति वचनात् । एवं रूपाद्यायतनास्तित्वम् अप्य् उक्तं भगवता तद्देशनाविनेयजनम् अधिकृत्येत्य् आभिप्रायिकं तद् वचनं ॥",
    "english": "\"There is neither a sentient being, or a self, but only events along with their causes\", has been stated by the Exalted One. Thus, statements were made by the Exalted One regarding the existence of the sense-fields of visibles, etc. with an intention directed at people to be introduced to the Dharma."
   },
   {
    "ref": "57",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "को ऽत्र अभिप्रायः ।",
    "english": "And what was the intention there ?"
   },
   {
    "ref": "58",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "यतः स्वबीजाद् विज्ञप्तिर् यदाभासा प्रवर्तते । द्विविधायतनत्वेन ते तस्या मुनिर् अब्रवीत् ॥",
    "english": "Because their appearances continue as perceptions, because of (consciousnesses') own seeds, the Sage spoke in terms of states of two-fold sense-fields.\""
   },
   {
    "ref": "59",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "रूपप्रतिभासा विज्ञप्तिर् यतः स्वबीजात् परिणामविशेषप्राप्ताद् उत्पद्यते तच् च बीजं यत् प्रतिभासा च सा ते तस्या विज्ञप्तेश् चक्षूरूपायतनत्वेन यथाक्रमं भगवान् अब्रवीत् ।",
    "english": "A perception with the appearance of visibles arises through a special transformation (in the consciousness-series). In respect to such a perception, the Exalted One spoke in terms of the sense-field of the eye and of visibles, in respect to the seed and the appearance which arises, respectively."
   },
   {
    "ref": "60",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "एवं यावत् स्प्रष्टव्यप्रतिभासा विज्ञप्तिर् यतः स्वबीजात् परिणामविशेषप्राप्ताद् उत्पद्यते",
    "english": "In the same way, a perception with the appearance of tactile sensations arises."
   },
   {
    "ref": "61",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "तच् च बीजं यत् प्रतिभासा च सा ते तस्या कायस्प्रष्टव्यायतनत्वेन यथाक्रनं भगवान् अब्रवीद् इत्य् अयम् अभिप्रायः ॥",
    "english": "In respect to such a perception, the Exalted One spoke in terms of the sense-fields of the tactile body and tactile sensations, in respect to the seed and the appearance which arises, respectively.⁹ This is the intention."
   },
   {
    "ref": "62",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "एवं पुनर् अभिप्रायवशेन देशयित्वा को गुणाः ।",
    "english": "What is the advantage of teaching with such an intention ?"
   },
   {
    "ref": "63",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "तथा पुद्गलनैरात्म्यप्रवेशो हि",
    "english": "In this way, there is entry into the selflessness of personality."
   },
   {
    "ref": "64",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "तथा हि देश्यमाने पुद्गलनैरात्म्यं प्रविशन्ति ।",
    "english": "a If the sense-fields are taught in this way, people will enter into an understanding of the selflessness of personality."
   },
   {
    "ref": "65",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "द्वयाद् विज्ञानषट्कं प्रवर्तते ।",
    "english": "The group of six consciousnesses evolves because of duality."
   },
   {
    "ref": "66",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "न तु कश्चिद् एको द्रष्टास्ति न यावन् मन्तेत्य् एवं विदित्वा ये पुद्गलनैरात्म्यदेशनाविनेयास् ते पुद्गलनैरात्म्यं प्रविशन्ति ।",
    "english": "But when it is known that there is not any one seer, (any one hearer, any one smeller, any one taster, any one toucher), or any one thinker, those to be introduced to Dharma through the selflessness of personality will enter into an understanding of the selflessness of personality."
   },
   {
    "ref": "67",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "अन्यथा पुनः । देशना धर्मनैरात्म्यप्रवेशः",
    "english": "And in yet another way, this teaching is entry into the selflessness of events."
   },
   {
    "ref": "68",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "अन्यथेति विज्ञप्तिमात्रदेशना । कथं धर्मनैरात्म्यप्रवेशः । विज्ञप्तिमात्रम् इदं रूपादिधर्मप्रतिभासम् उत्पद्यते न तु रूपादिलक्षणो धर्मः को ऽप्य् अस्तीति विदित्वा । यदि तर्हि सर्वथा धर्मो नास्ति तद् अपि विज्ञप्तिमात्रं नास्तीति कथं तर्हि व्यवस्थाप्यते ।",
    "english": "b \"And in yet another way\", etc. is in reference to how the teaching of perception-only is entry into the selflessness of events, when it becomes known that this perception-only makes an appearance of visibles, etc. arise, and that there is no experienced event with the characteristics of visibles, etc. But if there isn't an event in any way, then perception-only also isn't, so how can it be demonstrated ?"
   },
   {
    "ref": "69",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "न खलु सर्वथा धर्मो नास्तीत्य् एवं धर्मनैरात्म्यप्रवेशो भवति । अपि तु ।",
    "english": "But it's not because there isn't an event in any way that there is entry into the selflessness of events."
   },
   {
    "ref": "70",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "कल्पितात्मना ॥",
    "english": "Rather, it's in regard to a constructed self."
   },
   {
    "ref": "71",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यो बालैर् धर्माणां स्वभावो ग्राह्यग्राहकादिः परिकल्पतस् तेन कल्पितेनात्मना तेषां नैरात्म्यं न त्व् अनभिलाप्येनात्मना यो बुद्धानां विषय इति । एवं विज्ञप्तिमात्रस्यापि विज्ञप्त्यन्तरपरिकल्पितेनात्मना नैरात्म्यप्रवेशात् विज्ञप्तिमात्रव्यवस्थापनया सर्वधर्माणां नैरात्म्यप्रवेशो भवति न तु तदस्तित्वापवादात् ।",
    "english": "all those things that constitute the \"own-being\" believed in by fools, that is the constructed with its \"objects apprehended” and \"subjects apprehendors\", etc. and not in reference to the ineffable Self, which is the scope of Buddhas.¹ In the same way, one penetrates the selflessness of perception-only itself inThe Twenty Verses and Their Commentary reference to a \"self\" constructed by another perception¹¹, and through this determination of perception-only, there is entry into the selflessness of all events, and not by a denial of their existence."
   },
   {
    "ref": "72",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "इतरथा हि विज्ञप्तेर् अपि विज्ञप्त्यन्तरम् अर्थः स्याद् इति विज्ञप्तिमात्रत्वं न सिध्येतार्थवतीत्वाद् विज्ञप्तीनां ॥",
    "english": "Otherwise, there would be an object for this other perception because of a perception itself (i.e. either \"perceptiononly\" or \"the perception of self\" would be a real object), there would be at least one perception which has an object consisting of another perception, and the state of perception-only wouldn't be demonstrated, because of the perception's state of having objects."
   },
   {
    "ref": "73",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "कथं पुनर् इदं प्रत्येतव्यम् अनेनाभिप्रायेण भगवता रूपाद्यायतनास्तित्वम् उक्तं न पुनः सन्त्य् एव तानि यानि रूपादिविज्ञप्तीनां प्रत्येकं विषयीभवन्ति इति । यस्मात् ।",
    "english": "But how is it to be understood that the existence of the sensefields of visibles, etc. was spoken of by the Exalted One not because those things which singly become sense-objects of the perceptions of visibles, etc. really exist, but rather with a hidden intention?"
   },
   {
    "ref": "74",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "न तद् एकं न चानेकं विषयः परमाणुशः । न च ते संहता यस्मात् परमाणुर् न सिध्यति ॥",
    "english": "Because A sense-object is neither a single thing, nor several things, from the atomic point of view, nor can it be an aggregate (of atoms), so atoms can't be demonstrated."
   },
   {
    "ref": "75",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "इति । किम् उक्तं भवति ।",
    "english": "What is being said?"
   },
   {
    "ref": "76",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यत् तद्रूपादिकम् आयतनं रूपादिविज्ञप्तीनां प्रत्येकं विषयः स्यात् तद् एकं वा स्याद् यथावयविरूपं कल्प्यते वैशेषिकैः । अनेकं वा परमाणुशः ।",
    "english": "The sense-field of visibles, etc. which consists (in a moment) of a single sense-object of a perception of visibles, etc. is either a unity, like the composite whole constructed by the Vaiśeșikas, or it is several things, from the atomic point of view, or it is an aggregation of atoms."
   },
   {
    "ref": "77",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "न तावद् एकं विषयो भवत्य् अवयवेभ्यो ऽन्यस्यावयविरूपस्य क्वचिद् अप्य् अग्रहणात् ।",
    "english": "Now, the senseobject can't be a single thing, because one can nowhere apprehend a composite whole which is different from its component parts."
   },
   {
    "ref": "78",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "नाप्य् अनेकं परमाणूनां (Vvs_) प्रत्येकम् अग्रहणात् । नापि ते संहता विषयीभवन्ति । यस्मात् परमाणुर् एकं द्रव्यं न सिध्यति ॥",
    "english": "Nor can it be plural, because of atoms, since they can't be apprehended singly.¹ Nor does an aggregation of atoms become a sense-object, because an atom as one entity can't be demonstrated, either."
   },
   {
    "ref": "79",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "कथं न सिध्यति । यस्मात् ।",
    "english": "How is it that it can't be demonstrated ?"
   },
   {
    "ref": "80",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "षट्केन युगपद् योगात् परमाणोः षडंशता । षड्भ्यो दिग्भ्यः षड्भिः परमाणुभिर् युगपद् योगे सति परमाणोः षडंशता प्राप्नोति ।",
    "english": "Because Through the simultaneous conjunction of six elements, the atom has six parts. If there is a simultaneous conjunction of six elements in six directions, the atom comes to have six parts."
   },
   {
    "ref": "81",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "एकस्य यो देशस् तत्रान्यस्यासंभवात् ।",
    "english": "For that which is the locus of one can't be the locus of another."
   },
   {
    "ref": "82",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "षण्णां समानदेशत्वात् पिण्डः स्याद्",
    "english": "If there were a common locus for the six, the agglomeration would only be one atom."
   },
   {
    "ref": "83",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "अथ य एवैकस्य परमाणोर् देशः स एव षण्णां ।",
    "english": "b It might be maintained that the locus for each single atom is the locus of all six elements."
   },
   {
    "ref": "84",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "तेन सर्वेषां समानदेशत्वात् सर्वः पिण्डः परमाणुमात्रः स्यात् परस्पराव्यतिरेकाद् इति न कश्चित् पिण्डो दृश्यः स्यात् ॥",
    "english": "But then, because of the common locus for all of them, the agglomeration would be only one atom, because of the mutual exclusion of occupants of a locus. And then, no agglomeration would become visible."
   },
   {
    "ref": "85",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "नैव हि परमाणवः संयुज्यन्ते निरवयवत्वात् ।",
    "english": "Nor, for that matter, can atoms join together at all, because of their state of having no parts."
   },
   {
    "ref": "86",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "संहतास् तु परस्परं संयुज्यन्त इति काश्मीरवैभाषिकास् त इदं प्रष्टव्याः ।",
    "english": "The Vaibhäşikas of Kashmir say, \"We aren't arguing such an absurdity. It's just when they're in aggregation, that they can join together.\""
   },
   {
    "ref": "87",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यः परमाणूनां संघातो न स तेभ्यो ऽर्थान्तरम् इति । परमाणोर् असंयोगात् तत्संघाते ऽस्ति कस्य सः ।",
    "english": "But the question must be asked: Is then an aggregation of atoms not an object different from the atoms themselves? When there is no conjunction of atoms, how can there be one for their aggregations ?"
   },
   {
    "ref": "88",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "न चानवयवत्वेन तत्संयोगो न सिध्यति ॥",
    "english": "Their conjunction is not demonstrated, for they also have no parts."
   },
   {
    "ref": "89",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "अथ संघाता अप्य् अन्योन्यं न संयुज्यन्ते ।",
    "english": "So the aggregations themselves can't mutually join together, either."
   },
   {
    "ref": "90",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "न तर्हि परमाणूनां निरवयवत्वात् संयोगो न सिध्यतीति वक्तव्यं ।",
    "english": "For there is no conjunction of atoms, because of their state of having no parts. That is to say, such a thing can't be demonstrated."
   },
   {
    "ref": "91",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "सावयवस्यापि हि संघातस्य संयोगानभ्युपगमात् ।",
    "english": "So even in the case of an aggregation, which does have parts, its conjunction becomes inadmissible (because there can be no aggregation of atoms unless individual atoms conjoin."
   },
   {
    "ref": "92",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "तस्मात् परमाणुर् एकं द्रव्यं न सिध्यति ।",
    "english": "And so the atoms as one entity can't be demonstrated."
   },
   {
    "ref": "93",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यदि च परमाणोः संयोग इष्यते यदि वा नेष्यते । दिग्भागभेदी यस्यास्ति तस्यैकत्वं न युज्यते ।",
    "english": "And whether the conjunction of atoms is accepted, or isn't (To assume) the singleness of that which has divisions as to directional dimensions, is illogical."
   },
   {
    "ref": "94",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "अन्यो हि परमाणोः पूर्वदिग्भागो यावद् अधोदिग्भाग इति दिग्भागभेदे सति कथं तदात्मकस्य परमाणोर् एकत्वं योक्ष्यते ।",
    "english": "a For one atom, there may be the directional dimension of being \"in front\", for another, of being \"on the bottom\", and if there are such divisions as to directional dimensions, how can theThe Twenty Verses and Their Commentary singleness of an atom, which partakes of such divisions, be logical ?"
   },
   {
    "ref": "95",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "छायावृती कथ वा",
    "english": "Or else, how could there be shade and blockage ?"
   },
   {
    "ref": "96",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यद्य् एकैकस्य परमाणोर् दिग्भागभेदो न स्याद् आदित्योदये कथम् अन्यत्र छाया भवत्य् अन्यत्रातपः ।",
    "english": "b If there were no divisions as to directional dimensions in an atom, how could there be shade in one place, light in another, when the sun is rising?"
   },
   {
    "ref": "97",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "न हि तस्यान्यः प्रदेशो ऽस्ति यत्रातपो न स्यात् ।",
    "english": "For there could be no other location for the atom where there would be no light."
   },
   {
    "ref": "98",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "आवरणं च कथं भवति परमाणोः परमाण्वन्तरेण यदि दिग्भागभेदो नेष्यते ।",
    "english": "And how could there be an obstruction of one atom by another, if divisions as to directional dimensions are not accepted ?"
   },
   {
    "ref": "99",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "न हि कश्चिद् अपि परमाणोः परभागो ऽस्ति यत्रागमनाद् अन्येनान्यस्य प्रतिघातः स्यात् ।",
    "english": "For there would be no other part for an atom, where, through the arrival of another atom, there would be a collision with this other atom."
   },
   {
    "ref": "100",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "असति च प्रतिघाते सर्वेषां समानदेशत्वात् सर्वः संघातः (Vvs_) परमाणुमात्रः स्याद् इत्य् उक्तं ।",
    "english": "And if there is no collision, then the whole aggregation of all the atoms would have the dimensions of only one atom, because of their common locus, as has been stated previously."
   },
   {
    "ref": "101",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "किम् एवं नेष्यते पिण्डस्य ते छायावृती न परमाणोर् इति ।",
    "english": "It may be argued: Why can't it be accepted that shade and blockage refer to an agglomeration, and not to a single atom ?"
   },
   {
    "ref": "102",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "किं खलु परमाणुभ्यो ऽन्यः पिण्ड इष्यते यस्य ते स्यातां । नेत्य् आह ।",
    "english": "Reply But in that case, is it being admitted that an agglomeration is something other than the atoms themselves?"
   },
   {
    "ref": "103",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "अन्यो न पिण्डश् चेन् न तस्य ते ॥ यदि नान्यः परमाणुभ्यः पिण्ड इष्यते न ते तस्येति सिद्धं भवति ।",
    "english": "If the agglomeration isn't something other, then they can't refer to it. c If it is not accepted that the agglomeration is something other than the atoms, then shade and blockage can't be demonstrated as occurring in reference to the agglomeration only."
   },
   {
    "ref": "104",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "संनिवेशपरिकल्प एषः परमाणुः संघात इति वा ॥ किम् अनया चिन्तया लक्षणं ।",
    "english": "This is simply an attachment to mental construction. “Atoms” or “aggregations\" what's the point of worrying with those, if “their basic characteristics of being visibles, etc.\""
   },
   {
    "ref": "105",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "तु रूपादि यदि न प्रतिषिध्यते ।",
    "english": "are not refuted ?"
   },
   {
    "ref": "106",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "किं पुनस् तेषां लक्षणं ।",
    "english": "What then is their characteristic ?"
   },
   {
    "ref": "107",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "चक्षुरादिविषयत्वं नीलादित्वं च । तद् एवेदं संप्रधार्यते ।",
    "english": "That they are in a state of being sense-objects of the eye etc., in a state of being blue, etc. It is just this which should be investigated."
   },
   {
    "ref": "108",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यत् तच् चक्षुरादीनां विषयो नीलपीतादिकम् इष्यते किं तद् एकं द्रव्यम् अथ वा तद् अनेकम् इति ।",
    "english": "If a sense-object for the eye, and so on, is accepted in the form of blue, yellow, etc. then are these one entity, or several ?"
   },
   {
    "ref": "109",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "किं चातः ।",
    "english": "Now what follows from this?"
   },
   {
    "ref": "110",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "अनेकत्वे दोष उक्तं ।",
    "english": "The flaw inherent in assuming their severalness has already been discussed (in relation to the arguments on atomic aggregation)."
   },
   {
    "ref": "111",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "एकत्वे न क्रमेणेतिर् युगपन् न ग्रहाग्रहौ । विच्छिन्नानेकवृत्तिश् च सूक्ष्मानीक्षा च नो भवेत् ॥",
    "english": "If their unity existed, one couldn't arrive at anything gradually, there couldn't be apprehension and non-apprehension simultaneously, there couldn't be separate, several, developments, and there would be no reason for the non-seeing of the very subtle."
   },
   {
    "ref": "112",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यदि यावद् विच्छिन्नं नानेकं चक्षुषो विषयस् तद् एकं द्रव्यं कल्प्यते पृथिव्यां क्रमेणेतिर् न स्याद् गमनम् इत्य् अर्थः ।",
    "english": "If one entity as a sense-object for the eye, with no separations, and no severalness, were constructed, then one couldn't arrive at anything gradually on the Earth: that is, there could be no act of going."
   },
   {
    "ref": "113",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "सकृत्पादक्षेपेण सर्वस्य गतत्वात् ।",
    "english": "For, even with placing down a foot once, one would go everywhere."
   },
   {
    "ref": "114",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "अर्वाग्भागस्य च ग्रहणं परभागस्य चाग्रहणं युगपन् न स्यात् ।",
    "english": "There could be no apprehension of a nearer \"part of something\" and a non-apprehension of a more removed \"part\", simultaneously."
   },
   {
    "ref": "115",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "न हि तस्यैव तदानीं ग्रहणं चाग्रहणं च युक्तम् ।",
    "english": "For a concurrent apprehension and non-apprehension of the same thing isn't logical."
   },
   {
    "ref": "116",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "विच्छिन्नस्य चानेकस्य हस्त्यश्वादिकस्यैकत्र वृत्तिर् न स्याद् यत्रैव ह्य् एकं तत्रैवापरम् इति कथं तयोर् विच्छेद इष्यते ।",
    "english": "There would be no special development for species that are separate, such as elephants, horses, etc. and since they would all be one in that case, how could their separation be accepted?"
   },
   {
    "ref": "117",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "कथं वा तद् एकं यत् प्राप्तं च ताभ्यां न च प्राप्तम् अन्तराले तच् छून्यग्रहणात् ।",
    "english": "And how can they be accepted as single, anyway, since there is the apprehension of an empty space between two of them?"
   },
   {
    "ref": "118",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "सूक्ष्माणां चौदकजन्तूनां स्थूलैः समानरूपाणाम् अनीक्षणं न स्याद् ।",
    "english": "And there would be no reason for the non-seeing of subtle water-beings, since they would be visible in common with the more apparent."
   },
   {
    "ref": "119",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यदि लक्षणभेदाद् एव द्रव्यान्तरत्वं कल्प्यते नान्यथा । तस्माद् अवश्यं परमाणुशो भेदः कल्पयितव्यः ।",
    "english": "An otherness in entities is constructed if there is a division of characteristics, and not otherwise, so when speaking from the atomic point of view, one must by necessity construct divisions, and it cannot be demonstrated that they (the atoms) are in any way of one kind."
   },
   {
    "ref": "120",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "तस्यासिद्धौ रूपादीनां चक्षुरादिविषयत्वम् असिद्धम् इति सिद्धं विज्ञप्तिमात्रं भवतीति ॥",
    "english": "With their unity undemonstrated, visibles', etc.'s state of being sense-objects of the eye, etc. is also undemonstrated, and thus perception-only is demonstrated."
   },
   {
    "ref": "121",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "प्रमाणवशाद् अस्तित्वं नास्तित्वं वा निर्धार्यते सर्वेषां च प्रमाणानां प्रत्यक्षं प्रमाणं गरिष्टम् इत्य् असत्य् अर्थे कथम् इयं बुद्धिर् भवति प्रत्यक्षम् इति ।",
    "english": "If the existence and non-existence of objects of sense or understanding are being investigated by force of the means-of-cognition (direct perception, inference, appeal to reliable authority), direct perception must be recognized as being the most weighty of all means-of-cognition. But with an object of sense or understanding not existing, how can there be any cognizing which can, be termed \"direct perception\" ?"
   },
   {
    "ref": "122",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "प्रत्यक्षबुद्धिः स्वप्नादौ यथा विनाप्य् अर्थेनेति पूर्वम् एव ज्ञापितं",
    "english": "Cognizing by direct perception is like in a dream, etc. a For it is without an object of sense or understanding, as has been made known previously."
   },
   {
    "ref": "123",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "न सो ऽर्थो दृश्यते तस्य प्रत्यक्षत्वं कथं मतं ॥",
    "english": "And when it occurs, the object is already not seen, so how can it be considered a state of direct perception ?"
   },
   {
    "ref": "124",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यदा च सा प्रत्यक्षबुद्धिर् भवतीदं मे प्रत्यक्षम् इति तदा न सो ऽर्थो दृश्यते मनोविज्ञानेनैव परिच्छेदाच् चक्षुर्विज्ञानस्य च तदा निरुद्धत्वाद् इति कथं तस्य प्रत्यक्षत्वम् इष्टं ।",
    "english": "bThe Twenty Verses and Their Commentary When a cognition through direct perception arises in the form \"This is my direct perception\", the object itself is already not seen, since this distinguishing takes place only through a mental consciousness, and the visual consciousness has already ceased by that time, so how can its being a direct perception be accepted?"
   },
   {
    "ref": "125",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "विशेषेण तु क्षणिकस्य विषयस्य तदानीं (Vvs_) निरुद्धम् एवं तद् रूपं रसादिकं वा ॥ नाननुभूतं मनोविज्ञानेन स्मर्यत इत्य् अवश्यम् अर्थानुभवेन भवितव्यं तच् च दर्शनम् इत्य् एवं तद्विषयस्य रूपादेः प्रत्यक्षत्वं मतं असिद्धम् इदम् अनुभूतस्यार्थस्य स्मरणं भवतीति । यस्मात् ।",
    "english": "This is especially true for a sense-object, which is momentary, for that visible, or taste, etc. has already ceased by that time.¹ It may be said that nothing which hasn't been experienced (by other consciousnesses) is remembered by the mental consciousness, and that this takes place by necessity as it is brought about by the experience of an object of sense or understanding, and that those can be considered to be a state of direct perception of sense-objects, visibles, etc. in this way."
   },
   {
    "ref": "126",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "उक्तं यथा तदाभासा विज्ञप्तिः",
    "english": "Because It has been stated how perception occurs with its appearance."
   },
   {
    "ref": "127",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "विनाप्य् अर्थेन यथार्थाभासा चक्षुर्विज्ञानादिका विज्ञप्तिर् उत्पद्यते तथोक्तं ।",
    "english": "a It has already been stated how perceptions in the shape of eyeconsciousnesses, etc. arise with the appearance of an object, even without there being any (external) object of sense or understanding."
   },
   {
    "ref": "128",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "स्मरणं ततः ।",
    "english": "And remembering takes place from that."
   },
   {
    "ref": "129",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "ततो हि विज्ञप्तेः स्मृतिसंप्रयुक्ता तत्प्रतिभासैव रूपादिविकल्पिका मनोविज्ञप्तिर् उत्पद्यत इति न स्मृत्युत्पादाद् अर्थानुभवः सिध्यति ।",
    "english": "b \"From that\" means \"from the perception\". A mental perception arises with the discrimination of a visible, etc. when that appearance is linked with memory, so an experience of an (external) object can't be demonstrated through the arising of a memory."
   },
   {
    "ref": "130",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यदि यथा स्वप्ने विज्ञप्तिर् अभूतार्थविषया तथा जाग्रतो ऽपि स्यात् तथैव तदभावं लोकः स्वयम् अवगच्छेत् ।",
    "english": "Objection: If, even when one is awake, perception has sense-objects which weren't, like in a dream, then people would understand their non-being by themselves."
   },
   {
    "ref": "131",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "न चैवं भवति ।",
    "english": "But that isn't the case."
   },
   {
    "ref": "132",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "तस्मान् न स्वप्न इवार्थोपलब्धिः सर्वा निरर्थिका ।",
    "english": "So it's not that the apprehension of objects is like in a dream, and all perceptions are really without an (external) object."
   },
   {
    "ref": "133",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "इदम् अज्ञापकं । यस्मात् । स्वप्नदृग्विषयाभावं नाप्रबुद्धो ऽविगच्छति ॥",
    "english": "Reply This argument won't bring us to the cognition you : wish, because Somebody who isn't awake doesn't understand the nonbeing of the visual sense-objects in a dream."
   },
   {
    "ref": "134",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "एवं वितथविकल्पाभ्यासवासनानिद्रया प्रसुप्तो लोकः स्वप्न इवाभूतम् अर्थं पश्यन् न प्रबुद्धस् तदभावं यथावन् नावगच्छति । यदा तु तत्प्रतिपक्षलोकोत्तरनिर्विकल्पज्ञानलाभात् प्रबुद्धो भवति तदा तत्पृष्ठलब्धशुद्धलौकिकज्ञानसंमुखीभावाद् विषयाभावं यथावद् अवगच्छतीति समानम् एतत् ॥",
    "english": "c Just as people when they are asleep in a dream have their faculties concentrated on impressions of appearances of discriminations which appear differently than they do later, and, as long as they aren't awake, don't understand the non-being of objects of sense and understanding that weren't, just so when they become awakened by the attainment of a supermundane knowledge free from discriminations, which is the antidote to these (discriminations), then they truly understand the non-being of these sense-objects through meeting with a clear worldly subsequently attained knowledge."
   },
   {
    "ref": "135",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यदि स्वसंतानपरिणामविशेषाद् एव सत्वानाम् अर्थप्रतिभासा विज्ञप्तय उत्पद्यन्ते नार्थविशेषात् । तदा य एष पापकल्याणमित्रसंपर्कात् सदसद्धर्मश्रवणाच् च विज्ञप्तिनियमः सत्त्वानां स कथं सिध्यति असति सदसत्संपर्के तद्देशनायां च ।",
    "english": "Objection: If, through a special transformation of \"their own\" moment-series, perceptions with the appearance of (external) objects of sense or understanding arise for beings, and not through special objects themselves, then how can any certainty as regards perceptions be demonstrated from association with bad or good friends, or from hearing about existent and non-existent events , since there can exist neither association with the good or bad, nor any real teaching ?"
   },
   {
    "ref": "136",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "अन्योन्याधिपतित्वेन विज्ञप्तिनियमो मिथः ।",
    "english": "Reply: The certainty of perceptions takes place mutually, by the state of their sovereign effect on one another."
   },
   {
    "ref": "137",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "सर्वेषां हि सत्त्वानाम् अन्योन्यविज्ञप्त्याधिपत्येन मिथो विज्ञप्तेर् नियमो भवति यथायोगं ।",
    "english": "a For all beings there is certainty of perception through a mutual sovereign effect of perceptions on one another, according to circumstances¹."
   },
   {
    "ref": "138",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "मिथ इति परस्परतः ।",
    "english": "\"Mutually\" means \"each affecting the other\"."
   },
   {
    "ref": "139",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "अतः संतानान्तरविज्ञप्तिविशेषात् संतानान्तरे विज्ञप्तिविशेष उत्पद्यते नार्थविशेषात् ।",
    "english": "So one special perception arises within a moment-series through a special perception within the moment-series, and not because of a special object."
   },
   {
    "ref": "140",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "यदि यथा स्वप्ने निरर्थिका विज्ञप्तिर् एवं जाग्रतो ऽपि स्यात् कस्मात् कुशलाकुशलसमुदाचारो सुप्तासुप्तयोस् तुल्यं फलम् इष्टानिष्टम् आयत्यां न भवति । यस्मात् । मिद्धेनोपहतं चित्तं स्वप्ने तेनासमं फलं ॥",
    "english": "Objection: If a perception is without an (external) object, just like in a dream, even for those who are awake, why is it that in the practise of the beneficial and unbeneficial there won't be an equal result from desirable and undesirable efforts, for those who are asleep and those who aren't ? Reply: Because Citta is affected by torpor in a dream, so their results are different."
   },
   {
    "ref": "141",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "इदम् अत्र कारणां न त्व् अर्थसद्भावः ॥ यदि विज्ञाप्तिमात्रम् एवेदं न कस्यचित् कायो ऽस्ति न वाक् ॥",
    "english": "b This is the reason, not the existing being of an (external) object.The Twenty Verses and Their Commentary Objection If all this is perception-only, there can't be body or speech for anybody."
   },
   {
    "ref": "142",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "कथम् उपक्रम्यमाणानाम् औरभ्रिकादिभिर् उरभ्रादीनां (Vvs_)",
    "english": "So how can the dying of sheep who have been attacked by shepherds, take place?"
   },
   {
    "ref": "143",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "मरणं भव्ति । अतत्कृते वा तन्मरणे कथम् औरभ्रिकादीनां प्राणातिपातावद्येन योगो भवति ।",
    "english": "If their dying takes place without the shepherds having done anything, how can the shepherds be held responsible for the offense of taking life ?"
   },
   {
    "ref": "144",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "मरणम् परविज्ञप्तिविशेषाद् विक्रिया यथा । स्मृतिलोपादिकान्येषां पिशाचादिमनोवशात् ॥ यथा हि पिशाचादिमनोवशाद् अन्येषां स्मृतिलोपस्वप्नदर्शनभूतग्रहावेशविकारा भवन्ति । ऋद्धिवन् मनोवशाच् च । यथा सारणस्यार्यमहाकात्यायनाधिष्ठानात् स्वप्नदर्शनं ।",
    "english": "Reply: Dying may be a modification resulting from a special perception by another, just like losses of memory, etc. may take place through the mental control of spirits, etc. Just as there may be modifications in others, such as loss of memory, the seeing of dreams, or being taken possession of by spirits, by the mental control of psychic powers, as in the case of Sāraṇa's seeing dreams through Mahā-Kātyāyana's mental force, or, as in the case of the vanquishing of Vemacitra through mental harming coming from the forest-dwelling seers."
   },
   {
    "ref": "145",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "तथा परविज्ञप्तिविशेषाधिपत्यात् परेषां जीवितेन्द्रियविरोधिनी काचिद् विक्रियोत्पद्यते यया सभागसंततिविच्छेदाख्यं मरणं भवतीति वेदितव्यं",
    "english": "In the same way, through the force of a special perception of another, a certain modification of the aggregate-series, destroying its life-force, may arise, through which dying, which is to be known as a name for a discontinuity in the aggregate-series taking part in an organism, takes place."
   },
   {
    "ref": "146",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "कथं वा दण्डकारण्यशून्यत्वम् ऋषिकोपतः ।",
    "english": "Or else, how was it that the Dandaka Forest became empty because of the anger of seers ?"
   },
   {
    "ref": "147",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यदि परविज्ञप्तिविशेषाधिपत्यात् सत्त्वानां मरणं नेष्यते । मनोदण्डस्य हि महासावद्यत्वं साधयता भगवतोपालिर् गृहपतिः पृष्टः । कच्चित् ते गृहपते श्रुतं केन तानि दण्डकारण्यानि मातङ्गारण्यानि कलिङ्गारण्यानि शून्यानि मेध्यीभूतानि ।",
    "english": "a If it isn't accepted that the dying of beings can occur through the force of a special perception in others, how is it that the Exalted One, in order to demonstrate that mental harm constitutes a great offense, questioned Upali when he was still a householder, as follows: \"Householder! Through what agency were the Daṇḍaka, Matanga, and Kalinga Forests made empty and sacred, as has been reported ?”, and Upāli replied, “I heard that it happened through the mental harming of seers, Gautama.\""
   },
   {
    "ref": "148",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "मनोदण्डो महावद्यः कथं वा तेन सिध्यति ॥",
    "english": "If not, how could it be demonstrated that mental harm constitutes a great offense ?"
   },
   {
    "ref": "149",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "यद्य् एवं कल्प्यते । तदभिप्रसन्नैर् अमानुषैस् तद्वासिनः सत्त्वा उत्सादिता न त्व् ऋषीणां मनःप्रदोषान् मृता इत्य् एवं सति कथं तेन कर्मणा मनोदण्डः कायवाग्दण्डाभ्यां महावद्यतमः सिद्धो भवति । तन्मनःप्रदोषमात्रेण तावतां सत्त्वानां मरणात् सिध्यति ॥",
    "english": "If this situation were constructed as not taking place through a mental harming, and it were to be said that those sentient beings that were living in that forest were destroyed by nonhuman spirits that had been propitiated as if they were seers, how could it be demonstrated by this passage that mental harm through mental action is a greater offense than bodily or verbal harm ? This passage demonstrates that the dying of so many sentient beings came about only through a mental harming."
   },
   {
    "ref": "150",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यदि विज्ञप्तिमात्रम् एवेदं परचित्तविदः किं परचित्तं जानन्त्य् अथ न ।",
    "english": "Objection: But if all this is perception-only, do those who understand the cittas of others really know the cittas of others, or don't they?"
   },
   {
    "ref": "151",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "किं चातः ।",
    "english": "Reply : What about this ?"
   },
   {
    "ref": "152",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यदि न जानन्ति कथं परचित्तविदो भवन्ति ।",
    "english": "Objector: If they don't know them, how can they be \"those who understand the cittas of others\" ?"
   },
   {
    "ref": "153",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "अथ जानन्ति ।",
    "english": "Reply They know them."
   },
   {
    "ref": "154",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "परचित्तविदां ज्ञानम् अयथार्थं कथं यथा ।",
    "english": "The knowledge of those who understand others' cittas is not like an object. And how is this?"
   },
   {
    "ref": "155",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "स्वचित्तज्ञानं",
    "english": "As in the case of a knowledge of one's own citta."
   },
   {
    "ref": "156",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "तद् अपि कथम् अयथार्थ ।",
    "english": "a Objector : And how is that knowledge (of one's own citta) not like an object ?"
   },
   {
    "ref": "157",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "अज्ञानाद् यथा बुद्धस्य गोचरः ॥",
    "english": "Reply : Because of non-knowledge, as in the case of the scope of Buddhas."
   },
   {
    "ref": "158",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "यथा तन्निरभिलाप्येनात्मना बुद्धानां गोचरः ।",
    "english": "b It's just like in the case of the scope of Buddhas, which comes about through the ineffable Self."
   },
   {
    "ref": "159",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "तथा तदज्ञानात् तदुभयं न यथार्थं वितथप्रतिभासतया ग्राह्यग्राहकविकल्पस्याप्रहीणत्वात् ॥",
    "english": "Thus both of these knowledges, because of their inherent non-knowledge, are not like an object, because it is through the state of an appearance of something which appears differently than it does later that there is a state of non-abandonment of the discrimination between object apprehended and subject apprehendor."
   },
   {
    "ref": "160",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "अनन्तविनिश्चयप्रभेदागाम्भीर्यायां विज्ञप्तिमात्रतायां । विज्ञप्तिमात्रतासिद्धिः स्वशक्तिसदृशी मया । कृतेयं सर्वथा सा तु न चिन्त्या",
    "english": "Though perception-only has unfathomable depth, and there are limitless kinds of ascertainments to be gained in it, I have written this demonstration of perception-only according to my abilities,The Twenty Verses and Their Commentary but in its entirety it is beyond the scope of citta."
   },
   {
    "ref": "161",
-   "kind": null,
+   "kind": "prose",
+   "scope": "text",
    "sanskrit": "सर्वप्रकारा तु सा मादृशैश् चिन्तयितुं न शक्यते । तर्काविषयत्वात् ।",
    "english": "a It is impossible for people like me to consider it in all its aspects, because it is not in the range of dialetics."
   },
   {
    "ref": "162",
-   "kind": null,
+   "kind": "verse",
+   "scope": "text",
    "sanskrit": "बुद्धगोचरः ॥ बुद्धानां हि सा भगवतां सर्वप्रकारं गोचरः सर्वाकारसर्वज्ञेयज्ञानाविघाताद् इति ॥ विंशतिका विज्ञप्तिमात्रतासिद्धिः ।",
    "english": "And in order to show by whom it is known entirely as a scope of insight, it is said to be the scope of Buddhas. b In all its modes, it is the scope of Buddhas, Exalted Ones, because of their lack of impediment to the knowledge of everything that can be known in all aspects."
   }
