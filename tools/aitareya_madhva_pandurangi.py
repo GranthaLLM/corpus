@@ -51,6 +51,8 @@ def join_en(ls):
     s = re.sub(r"\d*\s*-?\s*\[\W?\s*A?RAN\.?\s*[IVX]+\]?", "", s)
     s = re.sub(r"\[?\s*(?:CH|CM|OH|OR)\.?\s*\d+\s*\]", "", s)
     s = re.sub(r"\[C[XVI]+\.?\s*\d*\]?", "", s).replace("\ufffd", "ñ")
+    s = re.sub(r"\bA[^\s]{0,3}TA[^\s]{0,3}EYOP[^\s]{3,9}\s*", "", s)
+    s = re.sub(r"([a-z])- ([a-z])", r"\1\2", s)
     return re.sub(r"\s+", " ", s).strip()
 
 
@@ -91,11 +93,26 @@ def norm_keep(s):
 COLO = re.compile(r"(?:[०-९]+/[०-९]+/[०-९]+\s*(?:\([०-९/]+\))?\s*॥?\s*॥?\s*|॥\s*[०-९]+/[०-९]+/[०-९]+\s*॥\s*॥?\s*)?इत्यैतरेयब्राह्मणारण्यककाण्डे[^॥]*(?:॥|$)\s*(?:\([०-९]+\)\s*)?")
 
 
+LEAD = re.compile(r"^(?:ॐ\s*॥|पराबभूवुः\s*॥|[^।॥]{0,70}?(?:खण्डः|चेदमारण्यकम्|अध्यायः)\s*॥\s*(?:\([०-९]+\)\s*)?)\s*")
+
+
 def sanitize(t):
-    t = re.sub(r"^समाप्त[^॥]*॥\s*(?:ॐ\s*॥\s*)?", "", t.strip())
+    t = t.replace("\x08", "")
+    t = re.sub(r"^समाप्त[^॥]*॥\s*", "", t.strip())
     t = COLO.sub(" ", t)
     t = re.sub(r"\s*॥\s*[०-९]+/[०-९]+/[०-९]+\s*॥?\s*॥?\s*$", "॥", t)
+    t = re.sub(r"\s*॥\s*इति\s*श्रीमदानन्दतीर्थ[^॥]*॥", "", t)
     t = re.sub(r"\s*\*\s*॥", "॥", re.sub(r"\s*[0-9]+\s*॥", "॥", t))
+    t = re.sub(r"॥\s*[०-९]+\s*॥?", "॥", t)
+    t = re.sub(r"\s*(?:-{2,}\s*)+", " ", t)
+    t = re.sub(r"\[\s*[-?]?\s*\]", "", t)
+    t = re.sub(r"(?m)^ॐ\s*॥\s*", "", t)
+    t = re.sub(r"॥\s*॥", "॥", t)
+    while True:
+        u = LEAD.sub("", t.strip())
+        if u == t.strip():
+            break
+        t = u
     return re.sub(r"[ \t]+", " ", t).strip()
 
 
@@ -111,13 +128,51 @@ def coords(heading):
     return ar, ad, kh
 
 
+EN_CUT_FROM = [("3.2.1.5", "I know the four forms of the Supreme God present in these connections"), ("3.2.1.6", "Similarly, one who recites Brihatīsahasra")]
+EN_REPL = [("2.2.2.2", "convey Prāṇa i.e., Narayana,", "convey Prāṇa i.e., Narayana."),
+           ("3.1.5.2", "is designated Tārksya looked", "is designated as Prāṇa. Tārksya looked"),
+           ("3.1.5.2", " Vaśiṣṭha obtained the knowledge of Lakṣmi designated as Rathantara. Bharadvāja obtained the knowledge of Narayana designated as Brihat from Agni i.e., chaturmūrti God designated as Agni.", ""),
+           ("3.1.5.2", "in a Rigvedic hymn:", "in a Rigvedic hymn."),
+           ("2.1.1.1", "sages. meditated", "sages meditated")]
+SK_CUT_AFTER = [("2.3.8.2", "जीवाक्षरमिति।")]
+MOVE_HEAD = []
+MOVE_TAIL = [("2.1.4.4", "2.1.4.5", "एतद्ध स्म वै"), ("3.1.2.1", "3.1.2.2", "इती")]
+
+
+def post(units):
+    U = {u["ref"]: u for u in units}
+    for ref, mark in EN_CUT_FROM:
+        e = U[ref]["english"]
+        i = e.find(mark)
+        assert i > 0, (ref, mark)
+        U[ref]["english"] = e[:i].rstrip()
+    for ref, old, new in EN_REPL:
+        assert old in U[ref]["english"], (ref, old[:30])
+        U[ref]["english"] = U[ref]["english"].replace(old, new)
+    for ref, mark in SK_CUT_AFTER:
+        t = U[ref]["sanskrit"]
+        i = t.find(mark)
+        assert i > 0, (ref, mark)
+        U[ref]["sanskrit"] = t[:i + len(mark)]
+    for a, b, mark in MOVE_HEAD:
+        t = U[b]["sanskrit"]
+        assert t.startswith(mark), (b, mark)
+        U[b]["sanskrit"] = t[len(mark):].lstrip()
+        U[a]["sanskrit"] = U[a]["sanskrit"].rstrip() + mark
+    for a, b, mark in MOVE_TAIL:
+        t = U[a]["sanskrit"]
+        assert t.endswith(mark), (a, mark)
+        U[a]["sanskrit"] = t[:-len(mark)].rstrip()
+        U[b]["sanskrit"] = mark + " " + U[b]["sanskrit"]
+
+
 def main():
     old = json.loads(subprocess.check_output(["git", "show", f"{SRC_REV}:{SRC}"], cwd=ROOT))
     part = lambda u, r: next((q for q in u.get("parts", []) if q["role"] == r), None)
     pieces, starts = [], []
     R = ""
     for ui, u in enumerate(old["units"]):
-        m = part(u, "mula")["sanskrit"] if part(u, "mula") else u["sanskrit"]
+        m = unicodedata.normalize("NFC", part(u, "mula")["sanskrit"] if part(u, "mula") else u["sanskrit"])
         starts.append(len(R))
         R += m + "\n"
     N, pos = norm_keep(R)
@@ -153,6 +208,12 @@ def main():
         a[1] = min(a[1], b[0])
         if len(a[2]["en"]) > 5 * (a[1] - a[0]):
             a[1] = b[0]
+    for a, b in zip(spans, spans[1:]):
+        c = a[1]
+        if c == b[0]:
+            while c > a[0] and R[c - 1] not in " \n" and R[c] not in " \n":
+                c -= 1
+            a[1], b[0] = c, c
     spans = [s for s in spans if s[1] > s[0]]
 
     units, used = [], {}
@@ -173,6 +234,7 @@ def main():
         b = part(u, "bhashya")
         if b and b.get("sanskrit"):
             units.append({"ref": f"{ar}.{ad}.{kh}-bhashya", "kind": "prose", "scope": "commentary", "sanskrit": sanitize(b["sanskrit"]), "english": None})
+    post(units)
     covered = sum(len(u["sanskrit"]) for u in units if u["scope"] == "mula")
     d = {k: v for k, v in old.items() if k != "units"}
     d["units"] = units
