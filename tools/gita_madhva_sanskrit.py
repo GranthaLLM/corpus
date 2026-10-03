@@ -123,14 +123,52 @@ def plan_en(units, G):
     return out
 
 
+FIXES = [("श्राु", "श्रु"), ("श्राू", "श्रू"), ("उ्च", "ञ्च"), ("साच्विक", "सात्त्विक"), ("_", "")]
+
+
+def fix_decoded(t):
+    for a, b in FIXES:
+        t = t.replace(a, b)
+    t = re.sub(r"(?<=[\s।॥])[०-९]{2,3}(?=[\s।॥]|$)", "", t)
+    return re.sub(r"[ \t]{2,}", " ", t)
+
+
+def fix_decoded_parts():
+    p = ROOT / "philosophical/bg_madhva.json"
+    d = json.loads(p.read_text(encoding="utf-8"))
+    G = groups()
+    n = 0
+    for u in d["units"]:
+        r = unit_range(u["ref"])
+        if r is None:
+            continue
+        gs = [g for g in G if g["ch"] == r[0] and g["lo"] >= r[1] and g["hi"] <= r[2]]
+        for q in u.get("parts", []):
+            key = {"bhashya": "Bhashya", "tatparya": "Tatparya Nirnaya"}.get(q["role"])
+            if not key or not q.get("sanskrit"):
+                continue
+            raw = "\n".join(x for x in (sanskrit_of(g[key]) for g in gs) if x)
+            if raw and q["sanskrit"] == raw:
+                q["sanskrit"] = fix_decoded(raw)
+                n += 1
+        if u.get("parts"):
+            mp = next((q for q in u["parts"] if q["role"] == "mula"), None)
+            both = [q for q in u["parts"] if q.get("sanskrit") and q.get("english") and (q["role"] == "mula" or 0.3 <= len(q["english"]) / len(q["sanskrit"]) <= 3.5)]
+            if both:
+                u["sanskrit"] = "\n".join(q["sanskrit"] for q in both)
+    write("philosophical/bg_madhva.json", d)
+    print("decoded parts fixed", n)
+
+
 def split_mula_units():
     p = ROOT / "philosophical/bg_madhva.json"
     d = json.loads(p.read_text(encoding="utf-8"))
     U = {u["ref"]: u for u in d["units"]}
     G = groups()
-    for ref, decode in (("17/10", False), ("17/11-12", False), ("17/27-28", True), ("18/6", True)):
-        u = U[ref]
-        if u.get("parts"):
+    for ref, decode in (("17/10", False), ("17/11-12", False), ("17/27-28", True), ("18/6", True), ("2/56", False), ("2/60", False), ("2/64", False), ("5/29", False),
+                        ("6/10-11", False), ("6/12-14", False), ("15/16-17", False), ("16/21-24", False), ("17/9", False), ("17/17", False), ("18/42", False), ("18/43", False), ("18/63-64", False)):
+        u = U.get(ref)
+        if u is None or u.get("parts"):
             continue
         paras = u["english"].split("\n")
         mula = {"role": "mula", "sanskrit": u["sanskrit"], "english": paras[0]}
@@ -152,5 +190,6 @@ def split_mula_units():
 if __name__ == "__main__":
     apply()
     split_mula_units()
+    fix_decoded_parts()
     import bg_madhva_pair_parts
     bg_madhva_pair_parts.main()
