@@ -1543,19 +1543,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते ।\nसङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते ॥ ६२ ॥\nअथेदानीं पराभविष्यतः सर्वानर्थमूलमिदमुच्यते —\nध्यायतः चिन्तयतः विषयान् शब्दादीन् विषयविशेषान् आलोचयतः पुंसः पुरुषस्य सङ्गः आसक्तिः प्रीतिः तेषु विषयेषु उपजायते उत्पद्यते । सङ्गात् प्रीतेः सञ्जायते समुत्पद्यते कामः तृष्णा । कामात् कुतश्चित् प्रतिहतात् क्रोधः अभिजायते ॥ ६२ ॥",
-   "english": "When a man thinks of objects, attachment for them arises. From attachment arises desire -, from desire arises wrath.\nAttachment for objects arises when a man thinks of them specifically* — Wrath arises when desire is frustrated by some cause or other.",
+   "english": "Attachment to objects is born when one ponders on them. Of attachment is born desire, and of desire, wrath.\nIn the case of the man who “ponders on” i.e., who thinks of or contemplates, particular objects like sounds, “attachment to them\", pleasure in them, arises. Of that pleasure is born desire or craving. From this craving, when obstructed somehow, wrath arises.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते ।\nसङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते ॥ ६२ ॥",
-     "english": "When a man thinks of objects, attachment for them arises. From attachment arises desire -, from desire arises wrath."
+     "english": "Attachment to objects is born when one ponders on them. Of attachment is born desire, and of desire, wrath."
     },
     {
      "role": "bhashya",
      "sanskrit": "अथेदानीं पराभविष्यतः सर्वानर्थमूलमिदमुच्यते —\nध्यायतः चिन्तयतः विषयान् शब्दादीन् विषयविशेषान् आलोचयतः पुंसः पुरुषस्य सङ्गः आसक्तिः प्रीतिः तेषु विषयेषु उपजायते उत्पद्यते । सङ्गात् प्रीतेः सञ्जायते समुत्पद्यते कामः तृष्णा । कामात् कुतश्चित् प्रतिहतात् क्रोधः अभिजायते ॥ ६२ ॥",
-     "english": "Attachment for objects arises when a man thinks of them specifically* — Wrath arises when desire is frustrated by some cause or other."
+     "english": "In the case of the man who “ponders on” i.e., who thinks of or contemplates, particular objects like sounds, “attachment to them\", pleasure in them, arises. Of that pleasure is born desire or craving. From this craving, when obstructed somehow, wrath arises."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "2.63",
@@ -2183,19 +2186,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन ।\nनानवाप्तमवाप्तव्यं वर्त एव च कर्मणि ॥ २२ ॥\nयदि अत्र ते लोकसङ्ग्रहकर्तव्यतायां विप्रतिपत्तिः तर्हि मां किं न पश्यसि ? —\nन मे मम पार्थ न अस्ति न विद्यते कर्तव्यं त्रिषु अपि लोकेषु किञ्चन किञ्चिदपि । कस्मात् ? न अनवाप्तम् अप्राप्तम् अवाप्तव्यं प्रापणीयम् , तथापि वर्ते एव च कर्मणि अहम् ॥ २२ ॥",
-   "english": "I have nothing whatsoever to achieve in the three worlds, O son of Pritha, nor is there anything unattained that should be attained ; yet I engage in action.\nI have nothing to achieve, for, there is nothing unattained^",
+   "english": "I have, Arjuna! no duty whatever to discharge in all the three worlds; there is nothing I have not won, and nothing remains to be won by Me; still I ceaselessly work,\nIn all the three worlds, Arjuna! no duty whatsoever exists for Me to discharge. Why? ‘There is nothing unobtained, and nothing yet to be obtained, by Me. Nevertheless I ceaselessly work. Still,",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन ।\nनानवाप्तमवाप्तव्यं वर्त एव च कर्मणि ॥ २२ ॥",
-     "english": "I have nothing whatsoever to achieve in the three worlds, O son of Pritha, nor is there anything unattained that should be attained ; yet I engage in action."
+     "english": "I have, Arjuna! no duty whatever to discharge in all the three worlds; there is nothing I have not won, and nothing remains to be won by Me; still I ceaselessly work,"
     },
     {
      "role": "bhashya",
      "sanskrit": "यदि अत्र ते लोकसङ्ग्रहकर्तव्यतायां विप्रतिपत्तिः तर्हि मां किं न पश्यसि ? —\nन मे मम पार्थ न अस्ति न विद्यते कर्तव्यं त्रिषु अपि लोकेषु किञ्चन किञ्चिदपि । कस्मात् ? न अनवाप्तम् अप्राप्तम् अवाप्तव्यं प्रापणीयम् , तथापि वर्ते एव च कर्मणि अहम् ॥ २२ ॥",
-     "english": "I have nothing to achieve, for, there is nothing unattained^"
+     "english": "In all the three worlds, Arjuna! no duty whatsoever exists for Me to discharge. Why? ‘There is nothing unobtained, and nothing yet to be obtained, by Me. Nevertheless I ceaselessly work. Still,"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "3.23",
@@ -2531,19 +2537,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते ।\nएतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम् ॥ ४० ॥\nकिमधिष्ठानः पुनः कामः ज्ञानस्य आवरणत्वेन वैरी सर्वस्य लोकस्य ? इत्यपेक्षायामाह, ज्ञाते हि शत्रोरधिष्ठाने सुखेन निबर्हणं कर्तुं शक्यत इति —\nइन्द्रियाणि मनः बुद्धिश्च अस्य कामस्य अधिष्ठानम् आश्रयः उच्यते । एतैः इन्द्रियादिभिः आश्रयैः विमोहयति विविधं मोहयति एष कामः ज्ञानम् आवृत्य आच्छाद्य देहिनं शरीरिणम् ॥ ४० ॥",
-   "english": "The senses, mind, and reason are said to be its seat ; veiling wisdom through these, it deludes the embodied.\nMs seat : the seat of desire. These : the senses mind (manas), and reason (buddhi). How to Kill out Desire. Wherefore,",
+   "english": "His abode is said to be the senses, mind, and intellect. By means of these he obscures knowledge and deludes the embodied man.\nSenses, mind and intellect are said to be the abode of this craving. By means of these abodes obscuring knowledge, this foe deludes the embodied Spirit in manifold ways. Such being the case, À",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते ।\nएतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम् ॥ ४० ॥",
-     "english": "The senses, mind, and reason are said to be its seat ; veiling wisdom through these, it deludes the embodied."
+     "english": "His abode is said to be the senses, mind, and intellect. By means of these he obscures knowledge and deludes the embodied man."
     },
     {
      "role": "bhashya",
      "sanskrit": "किमधिष्ठानः पुनः कामः ज्ञानस्य आवरणत्वेन वैरी सर्वस्य लोकस्य ? इत्यपेक्षायामाह, ज्ञाते हि शत्रोरधिष्ठाने सुखेन निबर्हणं कर्तुं शक्यत इति —\nइन्द्रियाणि मनः बुद्धिश्च अस्य कामस्य अधिष्ठानम् आश्रयः उच्यते । एतैः इन्द्रियादिभिः आश्रयैः विमोहयति विविधं मोहयति एष कामः ज्ञानम् आवृत्य आच्छाद्य देहिनं शरीरिणम् ॥ ४० ॥",
-     "english": "Ms seat : the seat of desire. These : the senses mind (manas), and reason (buddhi). How to Kill out Desire. Wherefore,"
+     "english": "Senses, mind and intellect are said to be the abode of this craving. By means of these abodes obscuring knowledge, this foe deludes the embodied Spirit in manifold ways. Such being the case, À"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "3.41",
@@ -3889,19 +3898,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "योऽन्तःसुखोऽन्तरारामस्तथान्तर्ज्योतिरेव यः ।\nस योगी ब्रह्मनिर्वाणं ब्रह्मभूतोऽधिगच्छति ॥ २४ ॥\nकथम्भूतश्च ब्रह्मणि स्थितः ब्रह्म प्राप्नोति इति आह भगवान् —\nयः अन्तःसुखः अन्तः आत्मनि सुखं यस्य सः अन्तःसुखः, तथा अन्तरेव आत्मनि आरामः आरमणं क्रीडा यस्य सः अन्तरारामः, तथा एव अन्तः एव आत्मन्येव ज्योतिः प्रकाशो यस्य सः अन्तर्ज्योतिरेव, यः ईदृशः सः योगी ब्रह्मनिर्वाणं ब्रह्मणि निर्वृतिं मोक्षम् इह जीवन्नेव ब्रह्मभूतः सन् अधिगच्छति प्राप्नोति ॥ २४ ॥",
-   "english": "Whoso has his joy within and his pastime within, and whoso has his light within only, that Yogin attains Brahman's bliss, himself becoming Brahman.\nWithin : in the Self. He attains the bliss (nirvana) in Brahman, — i e., he attains moksha,— while still living here on earth. Moreover,",
+   "english": "With joy within, sporting within, and likewise, with light within, the Yogin becomes Brahman and wins the peace of Brahman.\nThe Yogin is ‘with joy within’, i.e. with joy in the Self, ‘sporting within the Self’, and likewise, ‘with light within’ . —i.e., in the Self. While living here below he wins ‘the peace of Brahman’, having become Brahman Also,",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "योऽन्तःसुखोऽन्तरारामस्तथान्तर्ज्योतिरेव यः ।\nस योगी ब्रह्मनिर्वाणं ब्रह्मभूतोऽधिगच्छति ॥ २४ ॥",
-     "english": "Whoso has his joy within and his pastime within, and whoso has his light within only, that Yogin attains Brahman's bliss, himself becoming Brahman."
+     "english": "With joy within, sporting within, and likewise, with light within, the Yogin becomes Brahman and wins the peace of Brahman."
     },
     {
      "role": "bhashya",
      "sanskrit": "कथम्भूतश्च ब्रह्मणि स्थितः ब्रह्म प्राप्नोति इति आह भगवान् —\nयः अन्तःसुखः अन्तः आत्मनि सुखं यस्य सः अन्तःसुखः, तथा अन्तरेव आत्मनि आरामः आरमणं क्रीडा यस्य सः अन्तरारामः, तथा एव अन्तः एव आत्मन्येव ज्योतिः प्रकाशो यस्य सः अन्तर्ज्योतिरेव, यः ईदृशः सः योगी ब्रह्मनिर्वाणं ब्रह्मणि निर्वृतिं मोक्षम् इह जीवन्नेव ब्रह्मभूतः सन् अधिगच्छति प्राप्नोति ॥ २४ ॥",
-     "english": "Within : in the Self. He attains the bliss (nirvana) in Brahman, — i e., he attains moksha,— while still living here on earth. Moreover,"
+     "english": "The Yogin is ‘with joy within’, i.e. with joy in the Self, ‘sporting within the Self’, and likewise, ‘with light within’ . —i.e., in the Self. While living here below he wins ‘the peace of Brahman’, having become Brahman Also,"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "5.25",
@@ -4285,19 +4297,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "युञ्जन्नेवं सदात्मानं योगी नियतमानसः ।\nशान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति ॥ १५ ॥\nअथेदानीं योगफलमुच्यते —\nयुञ्जन् समाधानं कुर्वन् एवं यतोक्तेन विधानेन सदा आत्मानं सर्वदा योगी नियतमानसः नियतं संयतं मानसं मनो यस्य सोऽयं नियतमानसः, शान्तिम् उपरतिं निर्वाणपरमां निर्वाणं मोक्षः तत् परमा निष्ठा यस्याः शान्तेः सा निर्वाणपरमा तां निर्वाणपरमाम् , मत्संस्थां मदधीनाम् अधिगच्छति प्राप्नोति ॥ १५ ॥",
-   "english": "Thus always keeping the mind balanced, the Yogin, with the mind controlled, attains to the Peace abiding in Me, which culminates in Nirvana (moksha,)\nTitus : in the manner prescribed above. Here follow regulations as regards a Yogin's food, &c :",
+   "english": "Thus applying himself unintermittently, with a disciplined mind, the Yogin wins peace, which is abidance in Me, and whose climax is emancipation.\n‘Applying’, concentrating, ‘thus’, unintermittently as stated, the Yogin with a disciplined mind wins ‘peace— withdrawal from the sphere of objects that culminates in emancipation. The discipline of ‘peace’ has nirvana or emancipation as its climax; it is abidance in Me and being subject to Me.\nNow is set forth the regulation of the Yogin's diet, etc.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "युञ्जन्नेवं सदात्मानं योगी नियतमानसः ।\nशान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति ॥ १५ ॥",
-     "english": "Thus always keeping the mind balanced, the Yogin, with the mind controlled, attains to the Peace abiding in Me, which culminates in Nirvana (moksha,)"
+     "english": "Thus applying himself unintermittently, with a disciplined mind, the Yogin wins peace, which is abidance in Me, and whose climax is emancipation."
     },
     {
      "role": "bhashya",
      "sanskrit": "अथेदानीं योगफलमुच्यते —\nयुञ्जन् समाधानं कुर्वन् एवं यतोक्तेन विधानेन सदा आत्मानं सर्वदा योगी नियतमानसः नियतं संयतं मानसं मनो यस्य सोऽयं नियतमानसः, शान्तिम् उपरतिं निर्वाणपरमां निर्वाणं मोक्षः तत् परमा निष्ठा यस्याः शान्तेः सा निर्वाणपरमा तां निर्वाणपरमाम् , मत्संस्थां मदधीनाम् अधिगच्छति प्राप्नोति ॥ १५ ॥",
-     "english": "Titus : in the manner prescribed above. Here follow regulations as regards a Yogin's food, &c :"
+     "english": "‘Applying’, concentrating, ‘thus’, unintermittently as stated, the Yogin with a disciplined mind wins ‘peace— withdrawal from the sphere of objects that culminates in emancipation. The discipline of ‘peace’ has nirvana or emancipation as its climax; it is abidance in Me and being subject to Me.\nNow is set forth the regulation of the Yogin's diet, etc."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "6.16",
@@ -4459,19 +4474,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषतः ।\nमनसैवेन्द्रियग्रामं विनियम्य समन्ततः ॥ २४ ॥\nकिञ्च —\nसङ्कल्पप्रभवान् सङ्कल्पः प्रभवः येषां कामानां ते सङ्कल्पप्रभवाः कामाः तान् त्यक्त्वा परित्यज्य सर्वान् अशेषतः निर्लेपेन । किञ्च, मनसैव विवेकयुक्तेन इन्द्रियग्रामम् इन्द्रियसमुदायं विनियम्य नियमनं कृत्वा समन्ततः समन्तात् ॥ २४ ॥",
-   "english": "Abandoning without reserve all fancyborn desires, well-restraining all the senses from. all quarters by the mind ;\nBy the mind : endued with discrimination :",
+   "english": "Giving up wholly all desires born of mental constructions and controlling, on all sides, the senses with the mina;\n‘Giving up’ or renouncing desires born of mental constructions—all of them, leaving not a trace behind, and controlling with the discriminating mind itself all the senses from pursuing their objects on all sides;",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषतः ।\nमनसैवेन्द्रियग्रामं विनियम्य समन्ततः ॥ २४ ॥",
-     "english": "Abandoning without reserve all fancyborn desires, well-restraining all the senses from. all quarters by the mind ;"
+     "english": "Giving up wholly all desires born of mental constructions and controlling, on all sides, the senses with the mina;"
     },
     {
      "role": "bhashya",
      "sanskrit": "किञ्च —\nसङ्कल्पप्रभवान् सङ्कल्पः प्रभवः येषां कामानां ते सङ्कल्पप्रभवाः कामाः तान् त्यक्त्वा परित्यज्य सर्वान् अशेषतः निर्लेपेन । किञ्च, मनसैव विवेकयुक्तेन इन्द्रियग्रामम् इन्द्रियसमुदायं विनियम्य नियमनं कृत्वा समन्ततः समन्तात् ॥ २४ ॥",
-     "english": "By the mind : endued with discrimination : 25, Little by little let him withdraw, by reason (buddhi) held in firmness ; keeping the mind established in the Self, let him not think of anything. He should make the mind constantly abide in the Self,, bearing in mind that the Self is all and that nothing else exists. This * is the highest form of Yoga. Now, as to the Yogin who thus strives to make the mind abide in the Self, * The steadinesf of mind.— (A.) 26- By whatever cause the wavering^ and unsteady mind wanders away, from that let him restrain it and bring it back direct under the control of the Self. Sound and other objects are the causes which make the mind wander away. It is a natural weakness of the mind to be thus led away by sense-objects. By convincing oneself of the illusoriness of sense-objects through an investigation into their real nature, and by cultivating indifference to worldly objects, the mind can be restrained from sense-objects and brought back to the Self wherein to abide firmly. In virtue of this practice of Yoga, the Yogin's mind attains peace in the Self. The effect of Dhyaaa-Yoga."
+     "english": "‘Giving up’ or renouncing desires born of mental constructions—all of them, leaving not a trace behind, and controlling with the discriminating mind itself all the senses from pursuing their objects on all sides;"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "6.25",
@@ -4750,19 +4768,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "एतन्मे संशयं कृष्ण च्छेत्तुमर्हस्यशेषतः ।\nत्वदन्यः संशयस्यास्य च्छेत्ता न ह्युपपद्यते ॥ ३९ ॥\nएतत् मे मम संशयं कृष्ण च्छेत्तुम् अपनेतुम् अर्हसि अशेषतः । त्वदन्यः त्वत्तः अन्यः ऋषिः देवो वा च्छेत्ता नाशयिता संशयस्य अस्य न हि यस्मात् उपपद्यते न सम्भवति । अतः त्वमेव च्छेत्तुमर्हसि इत्यर्थः ॥ ३९ ॥",
-   "english": "This doubt of mine, O Krishna, do Thou dispel completely; for none other than Thyself can possibly destroy this doubt.\nNone other : be he a Bishi or Deva. Thou alone canst destroy this doubt. The Blessed Lord said :",
+   "english": "0 Krsna! You ought to dispel this doubt of mine in its entirety. None but You can possibly dispel this doubt.\nThis doubt of mine, O Krsna! You ought to dispel, l.c. remove in its entirety, because, other than You, neither seer nor celestial may prove to be its dispeller. Therefore, You alone should dispel it—this is the idea.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "एतन्मे संशयं कृष्ण च्छेत्तुमर्हस्यशेषतः ।\nत्वदन्यः संशयस्यास्य च्छेत्ता न ह्युपपद्यते ॥ ३९ ॥",
-     "english": "This doubt of mine, O Krishna, do Thou dispel completely; for none other than Thyself can possibly destroy this doubt."
+     "english": "0 Krsna! You ought to dispel this doubt of mine in its entirety. None but You can possibly dispel this doubt."
     },
     {
      "role": "bhashya",
      "sanskrit": "एतत् मे मम संशयं कृष्ण च्छेत्तुम् अपनेतुम् अर्हसि अशेषतः । त्वदन्यः त्वत्तः अन्यः ऋषिः देवो वा च्छेत्ता नाशयिता संशयस्य अस्य न हि यस्मात् उपपद्यते न सम्भवति । अतः त्वमेव च्छेत्तुमर्हसि इत्यर्थः ॥ ३९ ॥",
-     "english": "None other : be he a Bishi or Deva. Thou alone canst destroy this doubt. The Blessed Lord said :"
+     "english": "This doubt of mine, O Krsna! You ought to dispel, l.c. remove in its entirety, because, other than You, neither seer nor celestial may prove to be its dispeller. Therefore, You alone should dispel it—this is the idea."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "6.40",
@@ -4826,19 +4847,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम् ।\nयतते च ततो भूयः संसिद्धौ कुरुनन्दन ॥ ४३ ॥\nयस्मात् —\nतत्र योगिनां कुले तं बुद्धिसंयोगं बुद्ध्या संयोगं बुद्धिसंयोगं लभते पौर्वदेहिकं पूर्वस्मिन् देहे भवं पौर्वदेहिकम् । यतते च प्रयत्नं च करोति ततः तस्मात् पूर्वकृतात् संस्कारात् भूयः बहुतरं संसिद्धौ संसिद्धिनिमित्तं हे कुरुनन्दन ॥ ४३ ॥",
-   "english": "There he gains touch with the knowledge that was acquired in the former body and strives more than before for perfection, O son of the Kurus.\nMore than before : with greater vigour thari that with which he strove in the former birth.",
+   "english": "There he acquires memory of the ideas relating to his previous body, and he labours harder, 0 Bharata prince! to achieve perfection.\nIn the family of Yogins he acquires memory of ideas cultivated in his previous body. And he strives harder, due to his earlier impressions, for winning perfection, 0 Arjuna!\nHow does the memory of ideas in his earlier body come to the Yogin? Answer:",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम् ।\nयतते च ततो भूयः संसिद्धौ कुरुनन्दन ॥ ४३ ॥",
-     "english": "There he gains touch with the knowledge that was acquired in the former body and strives more than before for perfection, O son of the Kurus."
+     "english": "There he acquires memory of the ideas relating to his previous body, and he labours harder, 0 Bharata prince! to achieve perfection."
     },
     {
      "role": "bhashya",
      "sanskrit": "यस्मात् —\nतत्र योगिनां कुले तं बुद्धिसंयोगं बुद्ध्या संयोगं बुद्धिसंयोगं लभते पौर्वदेहिकं पूर्वस्मिन् देहे भवं पौर्वदेहिकम् । यतते च प्रयत्नं च करोति ततः तस्मात् पूर्वकृतात् संस्कारात् भूयः बहुतरं संसिद्धौ संसिद्धिनिमित्तं हे कुरुनन्दन ॥ ४३ ॥",
-     "english": "More than before : with greater vigour thari that with which he strove in the former birth."
+     "english": "In the family of Yogins he acquires memory of ideas cultivated in his previous body. And he strives harder, due to his earlier impressions, for winning perfection, 0 Arjuna!\nHow does the memory of ideas in his earlier body come to the Yogin? Answer:"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "6.44",
@@ -4883,19 +4907,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "तपस्विभ्योऽधिको योगी\nज्ञानिभ्योऽपि मतोऽधिकः ।\nकर्मिभ्यश्चाधिको योगी\nतस्माद्योगी भवार्जुन ॥ ४६ ॥\nयस्मादेवं तस्मात् —\nतपस्विभ्यः अधिकः योगी, ज्ञानिभ्योऽपि ज्ञानमत्र शास्त्रार्थपाण्डित्यम् , तद्वद्भ्योऽपि मतः ज्ञातः अधिकः श्रेष्ठः इति । कर्मिभ्यः, अग्निहोत्रादि कर्म, तद्वद्भ्यः अधिकः योगी विशिष्टः यस्मात् तस्मात् योगी भव अर्जुन ॥ ४६ ॥",
-   "english": "A Yogin is deemed superior to men of austerity, and superior to even men of knowledge ; he is also superior to men of action ; therefore be thou a Yogin, O Arjuna.\nKnowledge : of the teachings of the sastra. Aotton •* such as Agnihotra. worship of the sacred fire.",
+   "english": "The Yogin is superior to the performers of austerities; he is deemed superior even to the knower of the Vedas; he excels those who do works. Therefore, O Arjuna! be a Yogin.\nThe Yogin is superior to the performers of austerities and even to knowers. By knowledge here is meant mastery of the ४८४०. The Yogin is held to be superior even to those who have such mastery. The works are the Vedic rites like the firesacrifice. The Yogin excels those who do those works. Therefore, be a Yogin, O Arjuna!",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "तपस्विभ्योऽधिको योगी\nज्ञानिभ्योऽपि मतोऽधिकः ।\nकर्मिभ्यश्चाधिको योगी\nतस्माद्योगी भवार्जुन ॥ ४६ ॥",
-     "english": "A Yogin is deemed superior to men of austerity, and superior to even men of knowledge ; he is also superior to men of action ; therefore be thou a Yogin, O Arjuna."
+     "english": "The Yogin is superior to the performers of austerities; he is deemed superior even to the knower of the Vedas; he excels those who do works. Therefore, O Arjuna! be a Yogin."
     },
     {
      "role": "bhashya",
      "sanskrit": "यस्मादेवं तस्मात् —\nतपस्विभ्यः अधिकः योगी, ज्ञानिभ्योऽपि ज्ञानमत्र शास्त्रार्थपाण्डित्यम् , तद्वद्भ्योऽपि मतः ज्ञातः अधिकः श्रेष्ठः इति । कर्मिभ्यः, अग्निहोत्रादि कर्म, तद्वद्भ्यः अधिकः योगी विशिष्टः यस्मात् तस्मात् योगी भव अर्जुन ॥ ४६ ॥",
-     "english": "Knowledge : of the teachings of the sastra. Aotton •* such as Agnihotra. worship of the sacred fire."
+     "english": "The Yogin is superior to the performers of austerities and even to knowers. By knowledge here is meant mastery of the ४८४०. The Yogin is held to be superior even to those who have such mastery. The works are the Vedic rites like the firesacrifice. The Yogin excels those who do those works. Therefore, be a Yogin, O Arjuna!"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "6.47",
@@ -5105,19 +5132,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम् ।\nबुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम् ॥ १० ॥\nबीजं प्ररोहकारणं मां विद्धि सर्वभूतानां हे पार्थ सनातनं चिरन्तनम् । किञ्च, बुद्धिः विवेकशक्तिः अन्तःकरणस्य बुद्धिमतां विवेकशक्तिमताम् अस्मि, तेजः प्रागल्भ्यं तद्वतां तेजस्विनाम् अहम् ॥ १० ॥",
-   "english": "Know Me, O Partha, as the eternal seed of all beings ; I am *he intelligence of the intelligent, «the bravery of the brave.* Seed : the cause of growth. Intelligence : the discriminative power af the antaft-karawa.",
+   "english": "Know Me, Arjuna! to be all beings; of intell those who are sple the etern ectual bein. ndorous,\nal seed-power in gs I am the intellect; of I am the splendour. those who discriminate. I am ‘the splendour’, the power, of those who are endowed with it.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम् ।\nबुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम् ॥ १० ॥",
-     "english": "Know Me, O Partha, as the eternal seed of all beings ; I am *he intelligence of the intelligent, «the bravery of the brave."
+     "english": "Know Me, Arjuna! to be all beings; of intell those who are sple the etern ectual bein. ndorous,"
     },
     {
      "role": "bhashya",
      "sanskrit": "बीजं प्ररोहकारणं मां विद्धि सर्वभूतानां हे पार्थ सनातनं चिरन्तनम् । किञ्च, बुद्धिः विवेकशक्तिः अन्तःकरणस्य बुद्धिमतां विवेकशक्तिमताम् अस्मि, तेजः प्रागल्भ्यं तद्वतां तेजस्विनाम् अहम् ॥ १० ॥",
-     "english": "212 [DlS. VII* Seed : the cause of growth. Intelligence : the discriminative power af the antaft-karawa."
+     "english": "al seed-power in gs I am the intellect; of I am the splendour. those who discriminate. I am ‘the splendour’, the power, of those who are endowed with it."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "7.11",
@@ -5629,19 +5659,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च ।\nमय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयः ॥ ७ ॥\nयस्मात् एवम् अन्त्या भावना देहान्तरप्राप्तौ कारणम् —\nतस्मात् सर्वेषु कालेषु माम् अनुस्मर यथाशास्त्रम् । युध्य च युद्धं च स्वधर्मं कुरु । मयि वासुदेवे अर्पिते मनोबुद्धी यस्य तव स त्वं मयि अर्पितमनोबुद्धिः सन् मामेव यथास्मृतम् एष्यसि आगमिष्यसि ; असंशयः न संशयः अत्र विद्यते ॥ ७ ॥",
-   "english": "Therefore at all times do thou mediate on Me and fight : with mind and reason fixed on Me thou shalt doubtless come to Me alone.\nMeditate: According to the Teaching (sastra). Fight : do thou perform thy proper duty of fighting. Me ; Vasudeva* Come to Me : as meditated upon by thee.",
+   "english": "Therefore, at all times, remember Me and fight. Dedicating mind and intellect to Me, rid of all doubts, you will reach Me, indeed.\nfra— हन. Therefore at all times remember Me as the sastras prescribe; and ‘fight’, performing your duty. With mind and intellect dedicated to Me, Vāsudeva, you will reach Me alone as recollected. There is no doubt about this. Moreover,",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च ।\nमय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयः ॥ ७ ॥",
-     "english": "Therefore at all times do thou mediate on Me and fight : with mind and reason fixed on Me thou shalt doubtless come to Me alone."
+     "english": "Therefore, at all times, remember Me and fight. Dedicating mind and intellect to Me, rid of all doubts, you will reach Me, indeed."
     },
     {
      "role": "bhashya",
      "sanskrit": "यस्मात् एवम् अन्त्या भावना देहान्तरप्राप्तौ कारणम् —\nतस्मात् सर्वेषु कालेषु माम् अनुस्मर यथाशास्त्रम् । युध्य च युद्धं च स्वधर्मं कुरु । मयि वासुदेवे अर्पिते मनोबुद्धी यस्य तव स त्वं मयि अर्पितमनोबुद्धिः सन् मामेव यथास्मृतम् एष्यसि आगमिष्यसि ; असंशयः न संशयः अत्र विद्यते ॥ ७ ॥",
-     "english": "Meditate: According to the Teaching (sastra). Fight : do thou perform thy proper duty of fighting. Me ; Vasudeva* Come to Me : as meditated upon by thee. The Divine Being to be meditated upon. Moreover, & Meditating with the mind engaged in the Yoga of constant practice, not passing over to any thing else, one goes to the Supremo Purusha, the Resplendent, O son of Pritha. Practice consists in the repetition of one and the same idea, uninterrupted by any other thought, with reference to Me, the sole object of your thought. Such a practice is itself said to be Yoga. With the mind thus solely engaged in Yoga, not passing over to any other object, the Yogin who meditates according to the teaching of the scripture and of the teacher1 — of the sastra and acharya — reaches the Purusha, the Transcendental Being in the Solar Orb. What sort of Purusha does he reach ?— -Listen : 9 — 10. Whoso meditates on the Sage, the Ancient, the Ruler, smaller than an atom, the Dispenser of all, of unthinkable nature, glorious like the Sun, beyond the darkness, (whoso meditates on such a Being) at the time of death, with a steady mind endued with devotion and strength of Yoga, well fixing the life-breath betwixt the eye-brows, he reaches that Supreme Purusha Resplendent. Sage: the Omniscient Th& Ruhr i of the whole world. Dispenser : who allots to all living beings actions and their results in all their variety. It is very difficult for anybody to conceive of His form though it exists. Like the Sun, He is S— glorious with the splendour of His Eternal Intelligence (Nitya- Chaitanya) which is beyond the darkness of delusion or nescience (Aj«ana). The strength- of Toga consists in the steadiness of mind which results from the after-effects of the (constant practice of) samadhi. At first the mind (chitta) is subdued in the lotus of the heart (hridayapundarika) ; then, by means of the up-going nadi (sushumna), after gradually obtaining control over the several stages of matter (earth and the other four rudimentai elements) 3 the life-breath of the heart is drawn up and carefully fixed betwixt the eye-brows. By this means the wise man, the Yogin, reaches the Supreme Purusha, who is resplendent. Meditation of the Divine in the Pranava. The Lord now assigns a name to that Brahman whom the Yogin wishes to reach by means to be pointed out again in the sequel, and who will be now described in such terms as being declared by the knowers of the Veda,* &C. : ii. That Imperishable Goal which the knowers of the Veda declare, which the self-controlled and the passion-free enter, which desiring they lead the godly life,— That Goal will I declare to , thee with brevity. Those who understand the teaching of the Veda declare the Imperishable as devoid of any attribute whatsoever. The srati says : u This verily is that (which you wished to know of), the Imperishable, O Gargi, as the brahrna«as (the knowers of the Brahman) declare, not gross, not subtle,\" &c. (Bri-Upa. 3-8-8.) The sawnyasins, ever controlling themselves, free from passion, enter the Imperishable, on attaining 228 [DlS, VIII. to right knowledge. And desiring to know the Imperishable they enter on godly life (Brahmacharya) with a Guru. Of That Goal which is called Akshara, the Imperishable, I shall tell thee with brevity* Having started with the words \" He who verily among men meditates on the syllable * Om' till death, what region will he thereby attain to ? \" he (Pippalada) said to him (Satyakama): \"0 Satyakama, this, the Brahman, the Higher and the Lower, is the syllable * Om V (Prasna-Upanishad, 5 — 1, 2); and it was subsequently said : \" He who will meditate on the Supreme Purusha by the three-lettered syllable * Om * —he is borne up by the Sama-hymns to the Brahma-loka, to the region of Brahman.\" (Ibid, 5-5). Again, having started with the words \" Elsewhere than jn dharma and elsewhere than in a-dharma, tell me that thou seest ;\" (Katha-Upanisbed, 2-13), the sruti says, \"that goal which all the Vedas speak of (ue-, are intended for), which all the austerities speak of, desiring which they lead the life of Brahmacharya (celibacy), that goal I tell thee in brevity : It is this, the syllable ' Om.' \" (Ibid 2-14). In such passages as these, the syllable ' Om ', regarded either as an expression of the Para- Brahman or as a symbol of Him like an idol, is intended for persons of dull and middling intellects as a means of knowing the Para-Brahman ; and the contemplation of the ' Om * is said to produce moksha at a subsequent period. Now, the same contemplation (conjoined with firmness in Yoga) of the syllable ' Om/ productive of mukti at a subsequent period — the * Om ' forming, as shown above, a means of knowing the Para- Brahman described here (viii. 9, 11) — has to be taught here as well as some minor matters connected with tbe main subject. With this view, the Lord proceeds with the sequel ; 12-13. Having closed all the gates, having confined mind in the heart, having fixed his lifebreath in the head, engaged in firm Yoga, uttering Brahman, the one-syllabled 'Om,' thinking of Me3 whoso departs, leaving the body, he reaches the Supreme Goal* Having closed all the avenues of knowledge and having concentrated thought in the lotus of the heart, and with thought thus controlled, he ascends by the Nadi which passes •upwards from the heart, and then fixing life-breath in the head, he utters the syllable 'Om', the appellation of the Brahman, and meditates on Me. — ' Leaving the body, shows the mode of departure. The departure takes place by the Self leaving the body, not by the Self being destroyed. Ho rebirth on attaining to the Divine Being. Moreover, 14, Whoso constantly thinks of me and long, to him I am easily accessible, O son of Pritha, to the ever-devout Yogin. He who thinks of Me, the Supreme Lord, long— i>e-> not for six months or a year, but uninterruptedly throughout* life* — to that Yogin who is ever steadfast in thought, I am vastly accessible. This being so, therefore, without thinking of another, one should ever dwell steadfast in Me. It may be asked, \"What if Thou art easily accessible ?\" — Listen : I shall tell you of what use is My being thus easily accessible :"
+     "english": "fra— हन. Therefore at all times remember Me as the sastras prescribe; and ‘fight’, performing your duty. With mind and intellect dedicated to Me, Vāsudeva, you will reach Me alone as recollected. There is no doubt about this. Moreover,"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "8.8",
@@ -5816,19 +5849,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "आ ब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन ।\nमामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते ॥ १६ ॥\nकिं पुनः त्वत्तः अन्यत् प्राप्ताः पुनरावर्तन्ते इति, उच्यते —\nआ ब्रह्मभुवनात् भवन्ति अस्मिन् भूतानि इति भुवनम् , ब्रह्मणो भुवनं ब्रह्मभुवनम् , ब्रह्मलोक इत्यर्थः, आ ब्रह्मभुवनात् सह ब्रह्मभुवनेन लोकाः सर्वे पुनरावर्तिनः पुनरावर्तनस्वभावाः हे अर्जुन । माम् एकम् उपेत्य तु कौन्तेय पुनर्जन्म पुनरुत्पत्तिः न विद्यते ॥ १६ ॥",
-   "english": "(All) worlds including the world of Brahma are subject to returning again, O Arjuna ; but, on reaching Me, O son of Kunti, there is no rebirths\nThe Day and the Night of Brahma. \"Why are all the worlds including the world of Brahma subject to returning ? — Because they are limited by time. — How?",
+   "english": "Worlds upto and including Brahma’s are repeatedly won and lost, 0 Arjuna!; but, on reaching Me, there is no more rebirth.\nThat in which beings appear is a world. Brahma’s world is what pertains to him. Upto and including his world, all worlds have the feature of recurrence, © Arjuna! But on reaching Me, rebirth ceases.\nWhy do worlds including Brahma’s recur? Because they are finite in time, How?",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "आ ब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन ।\nमामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते ॥ १६ ॥",
-     "english": "(All) worlds including the world of Brahma are subject to returning again, O Arjuna ; but, on reaching Me, O son of Kunti, there is no rebirths"
+     "english": "Worlds upto and including Brahma’s are repeatedly won and lost, 0 Arjuna!; but, on reaching Me, there is no more rebirth."
     },
     {
      "role": "bhashya",
      "sanskrit": "किं पुनः त्वत्तः अन्यत् प्राप्ताः पुनरावर्तन्ते इति, उच्यते —\nआ ब्रह्मभुवनात् भवन्ति अस्मिन् भूतानि इति भुवनम् , ब्रह्मणो भुवनं ब्रह्मभुवनम् , ब्रह्मलोक इत्यर्थः, आ ब्रह्मभुवनात् सह ब्रह्मभुवनेन लोकाः सर्वे पुनरावर्तिनः पुनरावर्तनस्वभावाः हे अर्जुन । माम् एकम् उपेत्य तु कौन्तेय पुनर्जन्म पुनरुत्पत्तिः न विद्यते ॥ १६ ॥",
-     "english": "The Day and the Night of Brahma. \"Why are all the worlds including the world of Brahma subject to returning ? — Because they are limited by time. — How?"
+     "english": "That in which beings appear is a world. Brahma’s world is what pertains to him. Upto and including his world, all worlds have the feature of recurrence, © Arjuna! But on reaching Me, rebirth ceases.\nWhy do worlds including Brahma’s recur? Because they are finite in time, How?"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "8.17",
@@ -6497,19 +6533,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "येऽप्यन्यदेवताभक्ता\nयजन्ते श्रद्धयान्विताः ।\nतेऽपि मामेव कौन्तेय\nयजन्त्यविधिपूर्वकम् ॥ २३ ॥\nननु अन्या अपि देवताः त्वमेव चेत् , तद्भक्ताश्च त्वामेव यजन्ते । सत्यमेवम् —\nयेऽपि अन्यदेवताभक्ताः अन्यासु देवतासु भक्ताः अन्यदेवताभक्ताः सन्तः यजन्ते पूजयन्ति श्रद्धया आस्तिक्यबुद्ध्या अन्विताः अनुगताः, तेऽपि मामेव कौन्तेय यजन्ति अविधिपूर्वकम् अविधिः अज्ञानं तत्पूर्वकं यजन्ते इत्यर्थः ॥ २३ ॥",
-   "english": "Even those who, devoted to other Gods, worship Them with faith, worship Myself, O son of Kunti, in ignorance.\nWith faith : believing in the efficacy (of the worship of those Gods). Why dost Thou say that they worship in ignorance ?— * For,",
+   "english": "Those also who are the devotees of other divinities, who worship them with faith, are worshipping Me only, Arjuna! but not according to Vedic injunctions.\n‘Those also who are the devotees of other divinities — of other deities—and ‘who worship them with faith'—i.e., convinced of the reality of the world to come,—they also worship Me only; but ‘not according to Vedic injunctions’. That is, they worship in ignorance. The idea is that they are My ignorant devotees.\nWhy do they worship ignorantly? Answer: Because",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "येऽप्यन्यदेवताभक्ता\nयजन्ते श्रद्धयान्विताः ।\nतेऽपि मामेव कौन्तेय\nयजन्त्यविधिपूर्वकम् ॥ २३ ॥",
-     "english": "Even those who, devoted to other Gods, worship Them with faith, worship Myself, O son of Kunti, in ignorance."
+     "english": "Those also who are the devotees of other divinities, who worship them with faith, are worshipping Me only, Arjuna! but not according to Vedic injunctions."
     },
     {
      "role": "bhashya",
      "sanskrit": "ननु अन्या अपि देवताः त्वमेव चेत् , तद्भक्ताश्च त्वामेव यजन्ते । सत्यमेवम् —\nयेऽपि अन्यदेवताभक्ताः अन्यासु देवतासु भक्ताः अन्यदेवताभक्ताः सन्तः यजन्ते पूजयन्ति श्रद्धया आस्तिक्यबुद्ध्या अन्विताः अनुगताः, तेऽपि मामेव कौन्तेय यजन्ति अविधिपूर्वकम् अविधिः अज्ञानं तत्पूर्वकं यजन्ते इत्यर्थः ॥ २३ ॥",
-     "english": "With faith : believing in the efficacy (of the worship of those Gods). Why dost Thou say that they worship in ignorance ?— * For,"
+     "english": "‘Those also who are the devotees of other divinities — of other deities—and ‘who worship them with faith'—i.e., convinced of the reality of the world to come,—they also worship Me only; but ‘not according to Vedic injunctions’. That is, they worship in ignorance. The idea is that they are My ignorant devotees.\nWhy do they worship ignorantly? Answer: Because"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "9.24",
@@ -6554,19 +6593,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।\nतदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ॥ २६ ॥\nन केवलं मद्भक्तानाम् अनावृत्तिलक्षणम् अनन्तफलम् , सुखाराधनश्च अहम् । कथम् ? —\nपत्रं पुष्पं फलं तोयम् उदकं यः मे मह्यं भक्त्या प्रयच्छति, तत् अहं पत्रादि भक्त्या उपहृतं भक्तिपूर्वकं प्रापितं भक्त्युपहृतम् अश्नामि गृह्णामि प्रयतात्मनः शुद्धबुद्धेः ॥ २६ ॥",
-   "english": "When one offers to Me with devotion a leaf, a flower, a fruit, water, — that I ear, offered with devotion by the pure-minded.\nBecause it is so, therefore,",
+   "english": "Whoso with devotion offers Me a leaf, a flower, a fruit, or water, enjoy what has been thus offered with devotion by that pure-hearted worshipper.\nWhoso offers Me a leaf, flower, fruit or water, I enjoy, i.e., accept it as offered or given with devotion by that purehearted devotee, that pure-minded person. This being the case,",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।\nतदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ॥ २६ ॥",
-     "english": "When one offers to Me with devotion a leaf, a flower, a fruit, water, — that I ear, offered with devotion by the pure-minded."
+     "english": "Whoso with devotion offers Me a leaf, a flower, a fruit, or water, enjoy what has been thus offered with devotion by that pure-hearted worshipper."
     },
     {
      "role": "bhashya",
      "sanskrit": "न केवलं मद्भक्तानाम् अनावृत्तिलक्षणम् अनन्तफलम् , सुखाराधनश्च अहम् । कथम् ? —\nपत्रं पुष्पं फलं तोयम् उदकं यः मे मह्यं भक्त्या प्रयच्छति, तत् अहं पत्रादि भक्त्या उपहृतं भक्तिपूर्वकं प्रापितं भक्त्युपहृतम् अश्नामि गृह्णामि प्रयतात्मनः शुद्धबुद्धेः ॥ २६ ॥",
-     "english": "Because it is so, therefore,"
+     "english": "Whoso offers Me a leaf, flower, fruit or water, I enjoy, i.e., accept it as offered or given with devotion by that purehearted devotee, that pure-minded person. This being the case,"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "9.27",
@@ -6649,38 +6691,44 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "क्षिप्रं भवति धर्मात्मा\nशश्वच्छान्तिं निगच्छति ।\nकौन्तेय प्रतिजानीहि\nन मे भक्तः प्रणश्यति ॥ ३१ ॥\nउत्सृज्य च बाह्यां दुराचारतां अन्तः सम्यग्व्यवसायसामर्थ्यात् —\nक्षिप्रं शीघ्रं भवति धर्मात्मा धर्मचित्तः एव । शश्वत् नित्यं शान्तिं च उपशमं निगच्छति प्राप्नोति । शृणु परमार्थम् , कौन्तेय प्रतिजानीहि निश्चितां प्रतिज्ञां कुरु, न मे मम भक्तः मयि समर्पितान्तरात्मा मद्भक्तः न प्रणश्यति इति ॥ ३१ ॥",
-   "english": "Soon he becomes righteous and attains eternal peace ; do thou, 0 son of Kunti, proclaim that my devotee never perishes.\nListen, this is the real truth thou mayest proclaim that He who is devoted to Me in his inner soul never perishes.",
+   "english": "Soon he becomes essentially righteous and attains lasting peace. Know for certain and proclaim, Arjuna! that My devotee never perishes.\nThe Royal Science of the Royal Mystery 3I9\nSoon his mind becomes wholly righteous; he attains ‘lasting peace’ or eternal quietude. Note this supreme truth, Arjuna! Be absolutely assured and proclaim that My devotee who has dedicated his inner self to Me will never perish. And,",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "क्षिप्रं भवति धर्मात्मा\nशश्वच्छान्तिं निगच्छति ।\nकौन्तेय प्रतिजानीहि\nन मे भक्तः प्रणश्यति ॥ ३१ ॥",
-     "english": "Soon he becomes righteous and attains eternal peace ; do thou, 0 son of Kunti, proclaim that my devotee never perishes."
+     "english": "Soon he becomes essentially righteous and attains lasting peace. Know for certain and proclaim, Arjuna! that My devotee never perishes."
     },
     {
      "role": "bhashya",
      "sanskrit": "उत्सृज्य च बाह्यां दुराचारतां अन्तः सम्यग्व्यवसायसामर्थ्यात् —\nक्षिप्रं शीघ्रं भवति धर्मात्मा धर्मचित्तः एव । शश्वत् नित्यं शान्तिं च उपशमं निगच्छति प्राप्नोति । शृणु परमार्थम् , कौन्तेय प्रतिजानीहि निश्चितां प्रतिज्ञां कुरु, न मे मम भक्तः मयि समर्पितान्तरात्मा मद्भक्तः न प्रणश्यति इति ॥ ३१ ॥",
-     "english": "Listen, this is the real truth thou mayest proclaim that He who is devoted to Me in his inner soul never perishes."
+     "english": "The Royal Science of the Royal Mystery 3I9\nSoon his mind becomes wholly righteous; he attains ‘lasting peace’ or eternal quietude. Note this supreme truth, Arjuna! Be absolutely assured and proclaim that My devotee who has dedicated his inner self to Me will never perish. And,"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "9.32",
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "मां हि पार्थ व्यपाश्रित्य येऽपि स्युः पापयोनयः ।\nस्त्रियो वैश्यास्तथा शूद्रास्तेऽपि यान्ति परां गतिम् ॥ ३२ ॥\nकिञ्च —\nमां हि यस्मात् पार्थ व्यपाश्रित्य माम् आश्रयत्वेन गृहीत्वा येऽपि स्युः भवेयुः पापयोनयः पापा योनिः येषां ते पापयोनयः पापजन्मानः । के ते इति, आह — स्त्रियः वैश्याः तथा शूद्राः तेऽपि यान्ति गच्छन्ति परां प्रकृष्टां गतिम् ॥ ३२ ॥",
-   "english": "For, finding refuge in Me, they also who, O son of P?ithd» may be of a sinful birth — women vaisyas as well as sudras,-— even they attain to the Supreme Goal.\nThe Yoga of Devotion.",
+   "english": "Seeking refuge in Me, Arjuna! those even of low birth—women, artisans and serfs—attain the supreme goal.\n‘Seeking refuge in Me’, depending on Me, even people oflow or sinful birth—women, artisans, and serfs—achieve the supreme goal of life.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "मां हि पार्थ व्यपाश्रित्य येऽपि स्युः पापयोनयः ।\nस्त्रियो वैश्यास्तथा शूद्रास्तेऽपि यान्ति परां गतिम् ॥ ३२ ॥",
-     "english": "For, finding refuge in Me, they also who, O son of P?ithd» may be of a sinful birth — women vaisyas as well as sudras,-— even they attain to the Supreme Goal."
+     "english": "Seeking refuge in Me, Arjuna! those even of low birth—women, artisans and serfs—attain the supreme goal."
     },
     {
      "role": "bhashya",
      "sanskrit": "किञ्च —\nमां हि यस्मात् पार्थ व्यपाश्रित्य माम् आश्रयत्वेन गृहीत्वा येऽपि स्युः भवेयुः पापयोनयः पापा योनिः येषां ते पापयोनयः पापजन्मानः । के ते इति, आह — स्त्रियः वैश्याः तथा शूद्राः तेऽपि यान्ति गच्छन्ति परां प्रकृष्टां गतिम् ॥ ३२ ॥",
-     "english": "The Yoga of Devotion. 258 [DlS. IX."
+     "english": "‘Seeking refuge in Me’, depending on Me, even people oflow or sinful birth—women, artisans, and serfs—achieve the supreme goal of life."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "9.33",
@@ -6735,38 +6783,44 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "श्रीभगवानुवाच —भूय एव महाबाहो शृणु मे परमं वचः ।\nयत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया ॥ १ ॥\nसप्तमे अध्याये भगवतस्तत्त्वं विभूतयश्च प्रकाशिताः, नवमे च । अथ इदानीं येषु येषु भावेषु चिन्त्यो भगवान् , ते ते भावा वक्तव्याः, तत्त्वं च भगवतो वक्तव्यम् उक्तमपि, दुर्विज्ञेयत्वात् , इत्यतः श्रीभगवानुवाच —\nभूयः एव भूयः पुनः हे महाबाहो शृणु मे मदीयं परमं प्रकृष्टं निरतिशयवस्तुनः प्रकाशकं वचः वाक्यं यत् परमं ते तुभ्यं प्रीयमाणाय — मद्वचनात् प्रीयसे त्वम् अतीव अमृतमिव पिबन् , ततः — वक्ष्यामि हितकाम्यया हितेच्छया ॥ १ ॥",
-   "english": "Again, O mighty-armed, listen to My Supreme word, which I, from a desire for thy well-being, shall speak to thee who art delighted.\nSupreme : as revealing the unsurpassed Thing. Delighted ; you are intensely delighted with My speech, as though you are drinking the immortal nectar. Why should He speak of it ?— The Lord says :",
+   "english": "Once more, O hero! listen to My supreme word which, seeking your good, I shall speak to you who delight in it.\n‘Oncemore’—again—O hero, mighty-armed !—listen to ‘My supreme word’—an exalted utterance, which reveals the Reality that has nothing superior to it. Desirous of your good ‘I shall speak that word’; for you delight much in My speech as though you are tasting ambrosia.\n‘Why should I speak?’—listen to the reply:",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "श्रीभगवानुवाच —भूय एव महाबाहो शृणु मे परमं वचः ।\nयत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया ॥ १ ॥",
-     "english": "Again, O mighty-armed, listen to My Supreme word, which I, from a desire for thy well-being, shall speak to thee who art delighted."
+     "english": "Once more, O hero! listen to My supreme word which, seeking your good, I shall speak to you who delight in it."
     },
     {
      "role": "bhashya",
      "sanskrit": "सप्तमे अध्याये भगवतस्तत्त्वं विभूतयश्च प्रकाशिताः, नवमे च । अथ इदानीं येषु येषु भावेषु चिन्त्यो भगवान् , ते ते भावा वक्तव्याः, तत्त्वं च भगवतो वक्तव्यम् उक्तमपि, दुर्विज्ञेयत्वात् , इत्यतः श्रीभगवानुवाच —\nभूयः एव भूयः पुनः हे महाबाहो शृणु मे मदीयं परमं प्रकृष्टं निरतिशयवस्तुनः प्रकाशकं वचः वाक्यं यत् परमं ते तुभ्यं प्रीयमाणाय — मद्वचनात् प्रीयसे त्वम् अतीव अमृतमिव पिबन् , ततः — वक्ष्यामि हितकाम्यया हितेच्छया ॥ १ ॥",
-     "english": "Supreme : as revealing the unsurpassed Thing. Delighted ; you are intensely delighted with My speech, as though you are drinking the immortal nectar. Why should He speak of it ?— The Lord says :"
+     "english": "‘Oncemore’—again—O hero, mighty-armed !—listen to ‘My supreme word’—an exalted utterance, which reveals the Reality that has nothing superior to it. Desirous of your good ‘I shall speak that word’; for you delight much in My speech as though you are tasting ambrosia.\n‘Why should I speak?’—listen to the reply:"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "10.2",
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "न मे विदुः सुरगणाः प्रभवं न महर्षयः ।\nअहमादिर्हि देवानां महर्षीणां च सर्वशः ॥ २ ॥\nकिमर्थम् अहं वक्ष्यामि इत्यत आह –\nन मे विदुः न जानन्ति सुरगणाः ब्रह्मादयः । किं ते न विदुः ? मम प्रभवं प्रभावं प्रभुशक्त्यतिशयम् , अथवा प्रभवं प्रभवनम् उत्पत्तिम् । नापि महर्षयः भृग्वादयः विदुः । कस्मात् ते न विदुरित्युच्यते — अहम् आदिः कारणं हि यस्मात् देवानां महर्षीणां च सर्वशः सर्वप्रकारैः ॥ २ ॥",
-   "english": "Neither the hosts of the Gods nor the Great iftshis know my origin ; for 1 am the source of all the Gods and the Great iftshis. Pralham (interpreted as origin) may also mean \" Great Lordly Power.\" Rishis : such as Bhrigu. Moreover, eravqgs ^ *?% ^<??<ts sig«A || \\ \\\\",
+   "english": "The hosts of gods know not My origin; neither do great seers; for in all respects, I am the origin of gods and the great seers.\n\"The divine hosts know not'—what is it that they do not know? My exceedingly lordly might or ‘origin’—coming into being. Nor do the ‘great seers’, Bhrgu and the rest, know. Why don't they know? For, ‘I am the origin'—the cause of gods and great seers in all respects. And, :",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "न मे विदुः सुरगणाः प्रभवं न महर्षयः ।\nअहमादिर्हि देवानां महर्षीणां च सर्वशः ॥ २ ॥",
-     "english": "Neither the hosts of the Gods nor the Great iftshis know my origin ; for 1 am the source of all the Gods and the Great iftshis."
+     "english": "The hosts of gods know not My origin; neither do great seers; for in all respects, I am the origin of gods and the great seers."
     },
     {
      "role": "bhashya",
      "sanskrit": "किमर्थम् अहं वक्ष्यामि इत्यत आह –\nन मे विदुः न जानन्ति सुरगणाः ब्रह्मादयः । किं ते न विदुः ? मम प्रभवं प्रभावं प्रभुशक्त्यतिशयम् , अथवा प्रभवं प्रभवनम् उत्पत्तिम् । नापि महर्षयः भृग्वादयः विदुः । कस्मात् ते न विदुरित्युच्यते — अहम् आदिः कारणं हि यस्मात् देवानां महर्षीणां च सर्वशः सर्वप्रकारैः ॥ २ ॥",
-     "english": "Pralham (interpreted as origin) may also mean \" Great Lordly Power.\" Rishis : such as Bhrigu. Moreover, eravqgs ^ *?% ^<??<ts sig«A || \\ \\\\"
+     "english": "\"The divine hosts know not'—what is it that they do not know? My exceedingly lordly might or ‘origin’—coming into being. Nor do the ‘great seers’, Bhrgu and the rest, know. Why don't they know? For, ‘I am the origin'—the cause of gods and great seers in all respects. And, :"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "10.3",
@@ -7006,19 +7060,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "सर्वमेतदृतं मन्ये यन्मां वदसि केशव ।\nन हि ते भगवन्व्यक्तिं विदुर्देवा न दानवाः ॥ १४ ॥\nसर्वमेतत् यथोक्तम् ऋषिभिः त्वया च एतत् ऋतं सत्यमेव मन्ये, यत् मां प्रति वदसि भाषसे हे केशव । न हि ते तव भगवन् व्यक्तिं प्रभवं विदुः न देवाः, न दानवाः ॥ १४ ॥",
-   "english": "I believe to be true all this which Thou sayest to me ; for neither the Gods nor the Danavas, O Lord, know Thy manifestation.\nBecause Thou art the source of the Devas and others therefore,",
+   "english": "Krsna! All this that you tell mel deem true. Neither the gods nor the demons know, O blessed-Lord! Your manifestation.\nAll that has been stated by You and the seers, I deem true, indeed. Neither the gods nor the demons know, O blessed Lord! Your ‘manifestation’ or origin.\nBecause you are the source of gods, etc; therefore ,",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "सर्वमेतदृतं मन्ये यन्मां वदसि केशव ।\nन हि ते भगवन्व्यक्तिं विदुर्देवा न दानवाः ॥ १४ ॥",
-     "english": "I believe to be true all this which Thou sayest to me ; for neither the Gods nor the Danavas, O Lord, know Thy manifestation."
+     "english": "Krsna! All this that you tell mel deem true. Neither the gods nor the demons know, O blessed-Lord! Your manifestation."
     },
     {
      "role": "bhashya",
      "sanskrit": "सर्वमेतत् यथोक्तम् ऋषिभिः त्वया च एतत् ऋतं सत्यमेव मन्ये, यत् मां प्रति वदसि भाषसे हे केशव । न हि ते तव भगवन् व्यक्तिं प्रभवं विदुः न देवाः, न दानवाः ॥ १४ ॥",
-     "english": "Because Thou art the source of the Devas and others therefore,"
+     "english": "All that has been stated by You and the seers, I deem true, indeed. Neither the gods nor the demons know, O blessed Lord! Your ‘manifestation’ or origin.\nBecause you are the source of gods, etc; therefore ,"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "10.15",
@@ -7139,19 +7196,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् ।\nमरीचिर्मरुतामस्मि नक्षत्राणामहं शशी ॥ २१ ॥\nएवं च ध्येयोऽहम् —\nआदित्यानां द्वादशानां विष्णुः नाम आदित्यः अहम् । ज्योतिषां रविः प्रकाशयितॄणाम् अंशुमान् रश्मिमान् । मरीचिः नाम मरुतां मरुद्देवताभेदानाम् अस्मि । नक्षत्राणाम् अहं शशी चन्द्रमाः ॥ २१ ॥",
-   "english": "Of the Adityas I am Vishnu ; of the\nthe Maruts ; of the asterisms, the Moon.",
+   "english": "Iam Visnu among the Adityas. Of the luminaries I am the radiant sun. Of the gods, I am Marici ;among stars I am the moon.\nOf the twelve *Adityas I am Visnu, Aditi’s son. Of the ‘luminaries’ that illumine, I am the radiant sun. I am Marici among the storm ‘gods’, and among the ‘stars’ I am the moon.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् ।\nमरीचिर्मरुतामस्मि नक्षत्राणामहं शशी ॥ २१ ॥",
-     "english": "Of the Adityas I am Vishnu ; of the"
+     "english": "Iam Visnu among the Adityas. Of the luminaries I am the radiant sun. Of the gods, I am Marici ;among stars I am the moon."
     },
     {
      "role": "bhashya",
      "sanskrit": "एवं च ध्येयोऽहम् —\nआदित्यानां द्वादशानां विष्णुः नाम आदित्यः अहम् । ज्योतिषां रविः प्रकाशयितॄणाम् अंशुमान् रश्मिमान् । मरीचिः नाम मरुतां मरुद्देवताभेदानाम् अस्मि । नक्षत्राणाम् अहं शशी चन्द्रमाः ॥ २१ ॥",
-     "english": "the Maruts ; of the asterisms, the Moon."
+     "english": "Of the twelve *Adityas I am Visnu, Aditi’s son. Of the ‘luminaries’ that illumine, I am the radiant sun. I am Marici among the storm ‘gods’, and among the ‘stars’ I am the moon."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "10.22",
@@ -7315,19 +7375,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "प्रह्लादश्चास्मि दैत्यानां कालः कलयतामहम् ।\nमृगाणां च मृगेन्द्रोऽहं वैनतेयश्च पक्षिणाम् ॥ ३० ॥\nप्रह्लादो नाम च अस्मि दैत्यानां दितिवंश्यानाम् । कालः कलयतां कलनं गणनं कुर्वताम् अहम् । मृगाणां च मृगेन्द्रः सिंहो व्याघ्रो वा अहम् । वैनतेयश्च गरुत्मान् विनतासुतः पक्षिणां पतत्रिणाम् ॥ ३० ॥",
-   "english": "And Prahlada am I of Diti's progeny, of reckoners I am Time, and of beasts I am the lord of beasts, and Vainateya of birds.\nOf those who bear weapons I am Rama, Dasaratha's son*",
+   "english": "28-32 | God’s Manifested Powers 339 30. Among the demons, I am Prahlada; among reckoners, Iam Time. Of beasts, I am the lion, their king. Of the birds, I am Garuda, the son of Vinata.\nAmong ‘those born of Diti, I am he who is called Prahlada. Among ‘those who reckon’, I am Time. Of ‘beasts’, I am their king, lion or tiger. Of the ‘birds’, I am Garuda, the son of Vinata. द",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "प्रह्लादश्चास्मि दैत्यानां कालः कलयतामहम् ।\nमृगाणां च मृगेन्द्रोऽहं वैनतेयश्च पक्षिणाम् ॥ ३० ॥",
-     "english": "And Prahlada am I of Diti's progeny, of reckoners I am Time, and of beasts I am the lord of beasts, and Vainateya of birds."
+     "english": "28-32 | God’s Manifested Powers 339 30. Among the demons, I am Prahlada; among reckoners, Iam Time. Of beasts, I am the lion, their king. Of the birds, I am Garuda, the son of Vinata."
     },
     {
      "role": "bhashya",
      "sanskrit": "प्रह्लादो नाम च अस्मि दैत्यानां दितिवंश्यानाम् । कालः कलयतां कलनं गणनं कुर्वताम् अहम् । मृगाणां च मृगेन्द्रः सिंहो व्याघ्रो वा अहम् । वैनतेयश्च गरुत्मान् विनतासुतः पक्षिणां पतत्रिणाम् ॥ ३० ॥",
-     "english": "Of those who bear weapons I am Rama, Dasaratha's son*"
+     "english": "Among ‘those born of Diti, I am he who is called Prahlada. Among ‘those who reckon’, I am Time. Of ‘beasts’, I am their king, lion or tiger. Of the ‘birds’, I am Garuda, the son of Vinata. द"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "10.31",
@@ -7413,19 +7476,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "बृहत्साम तथा साम्नां गायत्री च्छन्दसामहम् ।\nमासानां मार्गशीर्षोऽहमृतूनां कुसुमाकरः ॥ ३५ ॥\nबृहत्साम तथा साम्नां प्रधानमस्मि । गायत्री च्छन्दसाम् अहं गायत्र्यादिच्छन्दोविशिष्टानामृचां गायत्री ऋक् अहम् अस्मि इत्यर्थः । मासानां मार्गशीर्षः अहम् , ऋतूनां कुसुमाकरः वसन्तः ॥ ३५ ॥",
-   "english": "Of Samans also I am the Bnhat-Saraan\n274",
+   "english": "Among the Saman-chants Iam the Brhat; among the Vedic metres I am the Gayatri; among the months, I am the Margasirsa, and among the seasons, I am spring, the abode of flowers.\nSimilarly I am the Brhat-saman, chief among the Saman-melodies. Among metres I am the Gayatri, i.e. among the verses composed in Vedic-metres, I.am the Gayatri-verse. Among the months I am the Margasirsa and among the seasons, spring when flowers abound.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "बृहत्साम तथा साम्नां गायत्री च्छन्दसामहम् ।\nमासानां मार्गशीर्षोऽहमृतूनां कुसुमाकरः ॥ ३५ ॥",
-     "english": "Of Samans also I am the Bnhat-Saraan"
+     "english": "Among the Saman-chants Iam the Brhat; among the Vedic metres I am the Gayatri; among the months, I am the Margasirsa, and among the seasons, I am spring, the abode of flowers."
     },
     {
      "role": "bhashya",
      "sanskrit": "बृहत्साम तथा साम्नां प्रधानमस्मि । गायत्री च्छन्दसाम् अहं गायत्र्यादिच्छन्दोविशिष्टानामृचां गायत्री ऋक् अहम् अस्मि इत्यर्थः । मासानां मार्गशीर्षः अहम् , ऋतूनां कुसुमाकरः वसन्तः ॥ ३५ ॥",
-     "english": "274"
+     "english": "Similarly I am the Brhat-saman, chief among the Saman-melodies. Among metres I am the Gayatri, i.e. among the verses composed in Vedic-metres, I.am the Gayatri-verse. Among the months I am the Margasirsa and among the seasons, spring when flowers abound."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "10.36",
@@ -7597,19 +7663,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया ।\nत्वत्तः कमलपत्राक्ष माहात्म्यमपि चाव्ययम् ॥ २ ॥\nकिञ्च —\nभवः उत्पत्तिः अप्ययः प्रलयः तौ भवाप्ययौ हि भूतानां श्रुतौ विस्तरशः मया, न सङ्क्षेपतः, त्वत्तः त्वत्सकाशात् , कमलपत्राक्ष कमलस्य पत्रं कमलपत्रं तद्वत् अक्षिणी यस्य तव स त्वं कमलपत्राक्षः हे कमलपत्राक्ष, महात्मनः भावः माहात्म्यमपि च अव्ययम् अक्षयम् ‘श्रुतम्’ इति अनुवर्तते ॥ २ ॥",
-   "english": "The origin and the dissolution of beings, verily, have been heard by me in detail from Thee} O Lotus-eyed, as also Thy inexhaustible greatness.\nIn detail : not in brevity. Lotus-eyed : having eyes like iotus-leaves.",
+   "english": "About the birth and dissolution of beings I have heard from You at length, 0 Lotus-eyed! as also about your immutable grandeur.\n\"The birth'—the coming into being or origin of beings; ‘dissolution’ is their passing away. Those too I have heard ‘at length’, not too briefly, from You, O Lotus-eyed! The Lotuseyed is one having eyes resembling lotus petals. Your magnanimity is Your grandeur, which is immutable. ‘About this too, I have heard'—it is to be understood here also from the first half of the verse.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया ।\nत्वत्तः कमलपत्राक्ष माहात्म्यमपि चाव्ययम् ॥ २ ॥",
-     "english": "The origin and the dissolution of beings, verily, have been heard by me in detail from Thee} O Lotus-eyed, as also Thy inexhaustible greatness."
+     "english": "About the birth and dissolution of beings I have heard from You at length, 0 Lotus-eyed! as also about your immutable grandeur."
     },
     {
      "role": "bhashya",
      "sanskrit": "किञ्च —\nभवः उत्पत्तिः अप्ययः प्रलयः तौ भवाप्ययौ हि भूतानां श्रुतौ विस्तरशः मया, न सङ्क्षेपतः, त्वत्तः त्वत्सकाशात् , कमलपत्राक्ष कमलस्य पत्रं कमलपत्रं तद्वत् अक्षिणी यस्य तव स त्वं कमलपत्राक्षः हे कमलपत्राक्ष, महात्मनः भावः माहात्म्यमपि च अव्ययम् अक्षयम् ‘श्रुतम्’ इति अनुवर्तते ॥ २ ॥",
-     "english": "In detail : not in brevity. Lotus-eyed : having eyes like iotus-leaves. 278 [DlS. XI."
+     "english": "\"The birth'—the coming into being or origin of beings; ‘dissolution’ is their passing away. Those too I have heard ‘at length’, not too briefly, from You, O Lotus-eyed! The Lotuseyed is one having eyes resembling lotus petals. Your magnanimity is Your grandeur, which is immutable. ‘About this too, I have heard'—it is to be understood here also from the first half of the verse."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "11.3",
@@ -7692,19 +7761,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "इहैकस्थं जगत्कृत्स्नं पश्याद्य सचराचरम् ।\nमम देहे गुडाकेश यच्चान्यद्द्रष्टुमिच्छसि ॥ ७ ॥\nन केवलम् एतावदेव —\nइह एकस्थम् एकस्मिन्नेव स्थितं जगत् कृत्स्नं समस्तं पश्य अद्य इदानीं सचराचरं सह चरेण अचरेण च वर्तते मम देहे गुडाकेश । यच्च अन्यत् जयपराजयादि, यत् शङ्कसे, ‘यद्वा जयेम यदि वा नो जयेयुः’(भ. गी. २ । ६) इति यत् अवोचः, तदपि द्रष्टुं यदि इच्छसि ॥ ७ ॥",
-   "english": "Now behold here in My body, Guiakesa, the whole world established in one, — including the moving and the unmoving — and whatever else thou desirest to see.\nWhatever else : Your success or defeat, about which yoa have entertained a doubt (ii. 6). But,",
+   "english": "Here now behold the entire world with beings, moving and unmoving, extant in ‘one abode’, in My body, O subduer of lethargy! and also other things you fain would see.\nNow behold ‘here’, situated just in one place i.e., in My body, ‘the entire’, the whole, world, together with ‘the beings that move and those that move not’, O subduer of lethargy! (i.e., Arjuna) And the ‘other things’ i.e., victory, defeat, etc., about which you entertain doubt. You asked: ‘Shall we win or shall we be defeated?’ (2.6); that, too, You can see if you seek to see. But,",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "इहैकस्थं जगत्कृत्स्नं पश्याद्य सचराचरम् ।\nमम देहे गुडाकेश यच्चान्यद्द्रष्टुमिच्छसि ॥ ७ ॥",
-     "english": "Now behold here in My body, Guiakesa, the whole world established in one, — including the moving and the unmoving — and whatever else thou desirest to see."
+     "english": "Here now behold the entire world with beings, moving and unmoving, extant in ‘one abode’, in My body, O subduer of lethargy! and also other things you fain would see."
     },
     {
      "role": "bhashya",
      "sanskrit": "न केवलम् एतावदेव —\nइह एकस्थम् एकस्मिन्नेव स्थितं जगत् कृत्स्नं समस्तं पश्य अद्य इदानीं सचराचरं सह चरेण अचरेण च वर्तते मम देहे गुडाकेश । यच्च अन्यत् जयपराजयादि, यत् शङ्कसे, ‘यद्वा जयेम यदि वा नो जयेयुः’(भ. गी. २ । ६) इति यत् अवोचः, तदपि द्रष्टुं यदि इच्छसि ॥ ७ ॥",
-     "english": "Whatever else : Your success or defeat, about which yoa have entertained a doubt (ii. 6). But,"
+     "english": "Now behold ‘here’, situated just in one place i.e., in My body, ‘the entire’, the whole, world, together with ‘the beings that move and those that move not’, O subduer of lethargy! (i.e., Arjuna) And the ‘other things’ i.e., victory, defeat, etc., about which you entertain doubt. You asked: ‘Shall we win or shall we be defeated?’ (2.6); that, too, You can see if you seek to see. But,"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "11.8",
@@ -7730,57 +7802,66 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "सञ्जय उवाच —एवमुक्त्वा ततो राजन्महायोगेश्वरो हरिः ।\nदर्शयामास पार्थाय परमं रूपमैश्वरम् ॥ ९ ॥\nएवं यथोक्तप्रकारेण उक्त्वा ततः अनन्तरं राजन् धृतराष्ट्र, महायोगेश्वरः महांश्च असौ योगेश्वरश्च हरिः नारायणः दर्शयामास दर्शितवान् पार्थाय पृथासुताय परमं रूपं विश्वरूपम् ऐश्वरम् ॥ ९ ॥",
-   "english": "Having thus spoken, O King, then, Had, the great Lord of Yogins, showed to the son of Pntha the Supreme Form as Lrvara.\nKing: Dhntarashfra. Hari: Narayawa. Form: the Universal Form.",
+   "english": "7-0] The Vision of the Cosmic Form 35] Sanjaya said: 9. Then, thus speaking, O King! Hari, the great master of Yogas, revealed to Arjuna a transcendent and sovereign form.\nHaving spoken thus, as stated, O king Dhrtarastra! Hari, ‘the great master of Yogas’, or Narayana, revealed to Arjuna His transcendent and cosmic form,",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "सञ्जय उवाच —एवमुक्त्वा ततो राजन्महायोगेश्वरो हरिः ।\nदर्शयामास पार्थाय परमं रूपमैश्वरम् ॥ ९ ॥",
-     "english": "Having thus spoken, O King, then, Had, the great Lord of Yogins, showed to the son of Pntha the Supreme Form as Lrvara."
+     "english": "7-0] The Vision of the Cosmic Form 35] Sanjaya said: 9. Then, thus speaking, O King! Hari, the great master of Yogas, revealed to Arjuna a transcendent and sovereign form."
     },
     {
      "role": "bhashya",
      "sanskrit": "एवं यथोक्तप्रकारेण उक्त्वा ततः अनन्तरं राजन् धृतराष्ट्र, महायोगेश्वरः महांश्च असौ योगेश्वरश्च हरिः नारायणः दर्शयामास दर्शितवान् पार्थाय पृथासुताय परमं रूपं विश्वरूपम् ऐश्वरम् ॥ ९ ॥",
-     "english": "King: Dhntarashfra. Hari: Narayawa. Form: the Universal Form."
+     "english": "Having spoken thus, as stated, O king Dhrtarastra! Hari, ‘the great master of Yogas’, or Narayana, revealed to Arjuna His transcendent and cosmic form,"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "11.10",
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "अनेकवक्त्रनयनमनेकाद्भुतदर्शनम् ।\nअनेकदिव्याभरणं दिव्यानेकोद्यतायुधम् ॥ १० ॥\nअनेकवक्त्रनयनम् अनेकानि वक्त्राणि नयनानि च यस्मिन् रूपे तत् अनेकवक्त्रनयनम् , अनेकाद्भुतदर्शनम् अनेकानि अद्भुतानि विस्मापकानि दर्शनानि यस्मिन् रूपे तत् अनेकाद्भुतदर्शनं रूपम् , तथा अनेकदिव्याभरणम् अनेकानि दिव्यानि आभरणानि यस्मिन् तत् अनेकदिव्याभरणम् , तथा दिव्यानेकोद्यतायुधं दिव्यानि अनेकानि अस्यादीनि उद्यतानि आयुधानि यस्मिन् तत् दिव्यानेकोद्यतायुधम् , ‘दर्शयामास’ इति पूर्वेण सम्बन्धः ॥ १० ॥",
-   "english": "Containing many mouths and eyes* possessed of many wondrous sights, of many heavenly ornaments, of many heavenly weapons held up. Such a form He showed.\nMoreover,",
+   "english": "With many a mouth and many an eye, with many marvellous aspects, with many a divine ornament, with many weapons, uplifted;\nA form with many mouths and eyes, with many aspects, rousing a sense of wonder, with many divine ornaments and, similarly, with many divine and uplifted weapons like swords, etc. Construe all this with ‘He revealed... in verse 9 above. And,",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "अनेकवक्त्रनयनमनेकाद्भुतदर्शनम् ।\nअनेकदिव्याभरणं दिव्यानेकोद्यतायुधम् ॥ १० ॥",
-     "english": "Containing many mouths and eyes* possessed of many wondrous sights, of many heavenly ornaments, of many heavenly weapons held up. Such a form He showed."
+     "english": "With many a mouth and many an eye, with many marvellous aspects, with many a divine ornament, with many weapons, uplifted;"
     },
     {
      "role": "bhashya",
      "sanskrit": "अनेकवक्त्रनयनम् अनेकानि वक्त्राणि नयनानि च यस्मिन् रूपे तत् अनेकवक्त्रनयनम् , अनेकाद्भुतदर्शनम् अनेकानि अद्भुतानि विस्मापकानि दर्शनानि यस्मिन् रूपे तत् अनेकाद्भुतदर्शनं रूपम् , तथा अनेकदिव्याभरणम् अनेकानि दिव्यानि आभरणानि यस्मिन् तत् अनेकदिव्याभरणम् , तथा दिव्यानेकोद्यतायुधं दिव्यानि अनेकानि अस्यादीनि उद्यतानि आयुधानि यस्मिन् तत् दिव्यानेकोद्यतायुधम् , ‘दर्शयामास’ इति पूर्वेण सम्बन्धः ॥ १० ॥",
-     "english": "Moreover,"
+     "english": "A form with many mouths and eyes, with many aspects, rousing a sense of wonder, with many divine ornaments and, similarly, with many divine and uplifted weapons like swords, etc. Construe all this with ‘He revealed... in verse 9 above. And,"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "11.11",
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "दिव्यमाल्याम्बरधरं दिव्यगन्धानुलेपनम् ।\nसर्वाश्चर्यमयं देवमनन्तं विश्वतोमुखम् ॥ ११ ॥\nकिञ्च —\nदिव्यमाल्याम्बरधरं दिव्यानि माल्यानि पुष्पाणि अम्बराणि वस्त्राणि च ध्रियन्ते येन ईश्वरेण तं दिव्यमाल्याम्बरधरम् , दिव्यगन्धानुलेपनं दिव्यं गन्धानुलेपनं यस्य तं दिव्यगन्धानुलेपनम् , सर्वाश्चर्यमयं सर्वाश्चर्यप्रायं देवम् अनन्तं न अस्य अन्तः अस्ति इति अनन्तः तम् , विश्वतोमुखं सर्वतोमुखं सर्वभूतात्मभूतत्वात् , तं दर्शयामास । ‘अर्जुनः ददर्श’ इति वा अध्याह्रियते ॥ ११ ॥",
-   "english": "Wearing heavenly garlands and vestures, anointed with heavenly unguents, all-wonderful, resplendent, boundless, with faces on all sides.\nWith faces on all sides : . as He is the Self of all beings. Such a form He showed ; or, such a form did Arjuna see. Here follows an illustration, by an example, of the splendour of the 'Lord's Universal Form :",
+   "english": "Wearing divine garlands and vestments, smeared with divine scents, full of marvels, an infinite God with faces turned everywhere.\nHe revealed Himself ‘wearing divine garlands’, flowers and robes, and having ‘a smear of divine scents’ and a glory infinite, endless and wondrous, and facing all beings, as their Self. Or, here the expression ‘Arjuna beheld’ may be added.\nAs regards the splendour of the blessed Lord in His cosmic form an analogue is offered:",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "दिव्यमाल्याम्बरधरं दिव्यगन्धानुलेपनम् ।\nसर्वाश्चर्यमयं देवमनन्तं विश्वतोमुखम् ॥ ११ ॥",
-     "english": "Wearing heavenly garlands and vestures, anointed with heavenly unguents, all-wonderful, resplendent, boundless, with faces on all sides."
+     "english": "Wearing divine garlands and vestments, smeared with divine scents, full of marvels, an infinite God with faces turned everywhere."
     },
     {
      "role": "bhashya",
      "sanskrit": "किञ्च —\nदिव्यमाल्याम्बरधरं दिव्यानि माल्यानि पुष्पाणि अम्बराणि वस्त्राणि च ध्रियन्ते येन ईश्वरेण तं दिव्यमाल्याम्बरधरम् , दिव्यगन्धानुलेपनं दिव्यं गन्धानुलेपनं यस्य तं दिव्यगन्धानुलेपनम् , सर्वाश्चर्यमयं सर्वाश्चर्यप्रायं देवम् अनन्तं न अस्य अन्तः अस्ति इति अनन्तः तम् , विश्वतोमुखं सर्वतोमुखं सर्वभूतात्मभूतत्वात् , तं दर्शयामास । ‘अर्जुनः ददर्श’ इति वा अध्याह्रियते ॥ ११ ॥",
-     "english": "With faces on all sides : . as He is the Self of all beings. Such a form He showed ; or, such a form did Arjuna see. Here follows an illustration, by an example, of the splendour of the 'Lord's Universal Form :"
+     "english": "He revealed Himself ‘wearing divine garlands’, flowers and robes, and having ‘a smear of divine scents’ and a glory infinite, endless and wondrous, and facing all beings, as their Self. Or, here the expression ‘Arjuna beheld’ may be added.\nAs regards the splendour of the blessed Lord in His cosmic form an analogue is offered:"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "11.12",
@@ -7863,57 +7944,66 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "अनेकबाहूदरवक्त्रनेत्रं\nपश्यामि त्वा सर्वतोऽनन्तरूपम् ।\nनान्तं न मध्यं न पुनस्तवादिं\nपश्यामि विश्वेश्वर विश्वरूप ॥ १६ ॥\nअनेकबाहूदरवक्त्रनेत्रम् अनेके बाहवः उदराणि वक्त्राणि नेत्राणि च यस्य तव सः त्वम् अनेकबाहूदरवक्त्रनेत्रः तम् अनेकबाहूदरवक्त्रनेत्रम् । पश्यामि त्वा त्वां सर्वतः सर्वत्र अनन्तरूपम् अनन्तानि रूपाणि अस्य इति अनन्तरूपः तम् अनन्तरूपम् । न अन्तम् , अन्तः अवसानम् , न मध्यम् , मध्यं नाम द्वयोः कोट्योः अन्तरम् , न पुनः तव आदिम् — न देवस्य अन्तं पश्यामि, न मध्यं पश्यामि, न पुनः आदिं पश्यामि, हे विश्वेश्वर विश्वरूप ॥ १६ ॥",
-   "english": "I see Thee of boundless form on every side with multitudinous arms, stomachs, mouths and eyes ; neither Thy end nor the middle nor the beginning do I see, O Lord of the Universe, O Universal Form.\nMiddle : what lies between two extremities. Moreover,",
+   "english": "75-7] The Vision of the Cosmic Form 355 6. I behold You with many hands, bellies, faces and eyes, with a form infinite in all directions. No end, middle or beginning for You I see, Lord of the Universe!\nI see You having numerous hands, bellies, faces and eyes, everywhere possessing infinite forms. No end, no middle, ie. the space between two extreme points, and, again no beginning for You, Lord! do I see. I see neither end, middle nor beginning, O Lord of the universe! Omni-formed Being! And,",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "अनेकबाहूदरवक्त्रनेत्रं\nपश्यामि त्वा सर्वतोऽनन्तरूपम् ।\nनान्तं न मध्यं न पुनस्तवादिं\nपश्यामि विश्वेश्वर विश्वरूप ॥ १६ ॥",
-     "english": "I see Thee of boundless form on every side with multitudinous arms, stomachs, mouths and eyes ; neither Thy end nor the middle nor the beginning do I see, O Lord of the Universe, O Universal Form."
+     "english": "75-7] The Vision of the Cosmic Form 355 6. I behold You with many hands, bellies, faces and eyes, with a form infinite in all directions. No end, middle or beginning for You I see, Lord of the Universe!"
     },
     {
      "role": "bhashya",
      "sanskrit": "अनेकबाहूदरवक्त्रनेत्रम् अनेके बाहवः उदराणि वक्त्राणि नेत्राणि च यस्य तव सः त्वम् अनेकबाहूदरवक्त्रनेत्रः तम् अनेकबाहूदरवक्त्रनेत्रम् । पश्यामि त्वा त्वां सर्वतः सर्वत्र अनन्तरूपम् अनन्तानि रूपाणि अस्य इति अनन्तरूपः तम् अनन्तरूपम् । न अन्तम् , अन्तः अवसानम् , न मध्यम् , मध्यं नाम द्वयोः कोट्योः अन्तरम् , न पुनः तव आदिम् — न देवस्य अन्तं पश्यामि, न मध्यं पश्यामि, न पुनः आदिं पश्यामि, हे विश्वेश्वर विश्वरूप ॥ १६ ॥",
-     "english": "Middle : what lies between two extremities. Moreover,"
+     "english": "I see You having numerous hands, bellies, faces and eyes, everywhere possessing infinite forms. No end, no middle, ie. the space between two extreme points, and, again no beginning for You, Lord! do I see. I see neither end, middle nor beginning, O Lord of the universe! Omni-formed Being! And,"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "11.17",
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "किरीटिनं गदिनं चक्रिणं च तेजोराशिं सर्वतोदीप्तिमन्तम् ।\nपश्यामि त्वां दुर्निरीक्ष्यं समन्ताद्दीप्तानलार्कद्युतिमप्रमेयम् ॥ १७ ॥\nकिञ्च —\nकिरीटिनं किरीटं नाम शिरोभूषणविशेषः तत् यस्य अस्ति सः किरीटी तं किरीटिनम् , तथा गदिनं गदा अस्य विद्यते इति गदी तं गदिनम् , तथा चक्रिणं चक्रम् अस्य अस्तीति चक्री तं चक्रिणं च, तेजोराशिं तेजःपुञ्जं सर्वतोदीप्तिमन्तं सर्वतोदीप्तिः अस्य अस्तीति सर्वतोदीप्तिमान् , तं सर्वतोदीप्तिमन्तं पश्यामि त्वां दुर्निरीक्ष्यं दुःखेन निरीक्ष्यः दुर्निरीक्ष्यः तं दुर्निरीक्ष्यं समन्तात् समन्ततः सर्वत्र दीप्तानलार्कद्युतिम् अनलश्च अर्कश्च अनलार्कौ दीप्तौ अनलार्कौ दीप्तानलार्कौ तयोः दीप्तानलार्कयोः द्युतिरिव द्युतिः तेजः यस्य तव स त्वं दीप्तानलार्कद्युतिः तं त्वां दीप्तानलार्कद्युतिम् , अप्रमेयं न प्रमेयम् अशक्यपरिच्छेदम् इत्येतत् ॥ १७ ॥",
-   "english": "I see Thee with diadem, club, and discus; a mass of splendour shining everywhere, very hard to look at, all around blazing like burning fire and sun, and immeasurable.\nImmeasurable : whose limits cannot be fixed. Vishnu is one* with the Unconditioned. From this vision of Thy power of Yoga (wonder-working) I infer,",
+   "english": "I see you (adorned) with diadem, mace, and discus; a massed splendour, blazing in all directions—dazzling all around with the light of blazing fire and sun, immeasurable.\n‘Diadem’ is a head-ornament; one having it is the ‘diademed’; similarly, one having a mace and having a discus; ‘a mass of splendour blazing in all direction\" —I see You have all these and on all sides You are dazzling; (so You are) hard to behold. Again, I see You have a light like that of a ‘blazing fire’ and of ‘the sun’ ‘immeasurable’, undeterminable.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "किरीटिनं गदिनं चक्रिणं च तेजोराशिं सर्वतोदीप्तिमन्तम् ।\nपश्यामि त्वां दुर्निरीक्ष्यं समन्ताद्दीप्तानलार्कद्युतिमप्रमेयम् ॥ १७ ॥",
-     "english": "I see Thee with diadem, club, and discus; a mass of splendour shining everywhere, very hard to look at, all around blazing like burning fire and sun, and immeasurable."
+     "english": "I see you (adorned) with diadem, mace, and discus; a massed splendour, blazing in all directions—dazzling all around with the light of blazing fire and sun, immeasurable."
     },
     {
      "role": "bhashya",
      "sanskrit": "किञ्च —\nकिरीटिनं किरीटं नाम शिरोभूषणविशेषः तत् यस्य अस्ति सः किरीटी तं किरीटिनम् , तथा गदिनं गदा अस्य विद्यते इति गदी तं गदिनम् , तथा चक्रिणं चक्रम् अस्य अस्तीति चक्री तं चक्रिणं च, तेजोराशिं तेजःपुञ्जं सर्वतोदीप्तिमन्तं सर्वतोदीप्तिः अस्य अस्तीति सर्वतोदीप्तिमान् , तं सर्वतोदीप्तिमन्तं पश्यामि त्वां दुर्निरीक्ष्यं दुःखेन निरीक्ष्यः दुर्निरीक्ष्यः तं दुर्निरीक्ष्यं समन्तात् समन्ततः सर्वत्र दीप्तानलार्कद्युतिम् अनलश्च अर्कश्च अनलार्कौ दीप्तौ अनलार्कौ दीप्तानलार्कौ तयोः दीप्तानलार्कयोः द्युतिरिव द्युतिः तेजः यस्य तव स त्वं दीप्तानलार्कद्युतिः तं त्वां दीप्तानलार्कद्युतिम् , अप्रमेयं न प्रमेयम् अशक्यपरिच्छेदम् इत्येतत् ॥ १७ ॥",
-     "english": "Immeasurable : whose limits cannot be fixed. Vishnu is one* with the Unconditioned. From this vision of Thy power of Yoga (wonder-working) I infer,"
+     "english": "‘Diadem’ is a head-ornament; one having it is the ‘diademed’; similarly, one having a mace and having a discus; ‘a mass of splendour blazing in all direction\" —I see You have all these and on all sides You are dazzling; (so You are) hard to behold. Again, I see You have a light like that of a ‘blazing fire’ and of ‘the sun’ ‘immeasurable’, undeterminable."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "11.18",
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "त्वमक्षरं परमं वेदितव्यं\nत्वमस्य विश्वस्य परं निधानम् ।\nत्वमव्ययः शाश्वतधर्मगोप्ता\nसनातनस्त्वं पुरुषो मतो मे ॥ १८ ॥\nइत एव ते योगशक्तिदर्शनात् अनुमिनोमि —\nत्वम् अक्षरं न क्षरतीति, परमं ब्रह्म वेदितव्यं ज्ञातव्यं मुमुक्षुभिः । त्वम् अस्य विश्वस्य समस्तस्य जगतः परं प्रकृष्टं निधानं निधीयते अस्मिन्निति निधानं परः आश्रयः इत्यर्थः । किञ्च, त्वम् अव्ययः न तव व्ययो विद्यते इति अव्ययः, शाश्वतधर्मगोप्ता शश्वद्भवः शाश्वतः नित्यः धर्मः तस्य गोप्ता शाश्वतधर्मगोप्ता । सनातनः चिरन्तनः त्वं पुरुषः परमः मतः अभिप्रेतः मे मम ॥ १८ ॥",
-   "english": ". Thou art the Imperishable, the Supreme Being worthy to be known. Thou art the great Abode of this Universe ; Thou art the undying Guardian of the Eternal Dharma, Thou art the ancient Purusha, I deem.\nTo be known : by seekers of liberation. The Univeral Form (continued.) Moreover,",
+   "english": "You are the supreme Imperishable, worthy to be known; You are the ultimate ground of the universe. You, the immutable, are the guardian of eternal righteousness; I deem You to be the everlasting Spirit.\nWhat does not perish is ‘the imperishable’, the supreme Brahman; who, for the seekers after liberation, is fit to know. Of this entire universe, You are ‘the ultimate’, or the exalted ‘ground,’—the receptacle in which it rests, i.e., its final support. Besides, You, the immutable, who wither not, are the guardian of eternal righteousness. I deem You the Supreme Spirit, to be the everlasting One. And, I7-20] The Vision of the Cosmic Form 357",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "त्वमक्षरं परमं वेदितव्यं\nत्वमस्य विश्वस्य परं निधानम् ।\nत्वमव्ययः शाश्वतधर्मगोप्ता\nसनातनस्त्वं पुरुषो मतो मे ॥ १८ ॥",
-     "english": ". Thou art the Imperishable, the Supreme Being worthy to be known. Thou art the great Abode of this Universe ; Thou art the undying Guardian of the Eternal Dharma, Thou art the ancient Purusha, I deem."
+     "english": "You are the supreme Imperishable, worthy to be known; You are the ultimate ground of the universe. You, the immutable, are the guardian of eternal righteousness; I deem You to be the everlasting Spirit."
     },
     {
      "role": "bhashya",
      "sanskrit": "इत एव ते योगशक्तिदर्शनात् अनुमिनोमि —\nत्वम् अक्षरं न क्षरतीति, परमं ब्रह्म वेदितव्यं ज्ञातव्यं मुमुक्षुभिः । त्वम् अस्य विश्वस्य समस्तस्य जगतः परं प्रकृष्टं निधानं निधीयते अस्मिन्निति निधानं परः आश्रयः इत्यर्थः । किञ्च, त्वम् अव्ययः न तव व्ययो विद्यते इति अव्ययः, शाश्वतधर्मगोप्ता शश्वद्भवः शाश्वतः नित्यः धर्मः तस्य गोप्ता शाश्वतधर्मगोप्ता । सनातनः चिरन्तनः त्वं पुरुषः परमः मतः अभिप्रेतः मे मम ॥ १८ ॥",
-     "english": "To be known : by seekers of liberation. The Univeral Form (continued.) Moreover, 284 [DlS. XI."
+     "english": "What does not perish is ‘the imperishable’, the supreme Brahman; who, for the seekers after liberation, is fit to know. Of this entire universe, You are ‘the ultimate’, or the exalted ‘ground,’—the receptacle in which it rests, i.e., its final support. Besides, You, the immutable, who wither not, are the guardian of eternal righteousness. I deem You the Supreme Spirit, to be the everlasting One. And, I7-20] The Vision of the Cosmic Form 357"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "11.19",
@@ -7976,57 +8066,66 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "रुद्रादित्या वसवो ये च साध्या\nविश्वेऽश्विनौ मरुतश्चोष्मपाश्च ।\nगन्धर्वयक्षासुरसिद्धसङ्घा\nवीक्षन्ते त्वां विस्मिताश्चैव सर्वे ॥ २२ ॥\nकिञ्चान्यत् —\nरुद्रादित्याः वसवो ये च साध्याः रुद्रादयः गणाः विश्वेदेवाः अश्विनौ च देवौ मरुतश्च ऊष्मपाश्च पितरः, गन्धर्वयक्षासुरसिद्धसङ्घाः गन्धर्वाः हाहाहूहूप्रभृतयः यक्षाः कुबेरप्रभृतयः असुराः विरोचनप्रभृतयः सिद्धाः कपिलादयः तेषां सङ्घाः गन्धर्वयक्षासुरसिद्धसङ्घाः, ते वीक्षन्ते पश्यन्ति त्वां विस्मिताः विस्मयमापन्नाः सन्तः ते एव सर्वे ॥ २२ ॥",
-   "english": "The Budras, Adityas, Vasus, and Sadhyas, Visvas and Asvins, Maruts and Ushmapas, hosts of Gandharvas, Yakshas, Asuras, and Siddhas, — they are all looking at Thee, all quite astonished.\nThe terribleness of the Universal Form. For,",
+   "english": "Rudras, Adityas, Vasus, lesser perfected souls, Visvedevas, the two Asvins, Maruts, the ancestral spirits, hosts of celestial minstrels, Yaksas, demons, and perfected souls gaze at You; and they are all amazed.\n*Rudras, Adityas, Vasus, and lesser perfected souls'— of these, Rudras, etc., are ogre groups; the Visvedevas, and the two Asvins are deities. Then there are the Maruts and the ancestral spirits. The celestial minstrels are Haha, Huhu, etc., Yaksas are Kubera and so forth; demons, Virocana, etc. ‘The perfected souls’ refer to Kapila and others like him. The hosts of all these gaze at You and are amazed. For,",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "रुद्रादित्या वसवो ये च साध्या\nविश्वेऽश्विनौ मरुतश्चोष्मपाश्च ।\nगन्धर्वयक्षासुरसिद्धसङ्घा\nवीक्षन्ते त्वां विस्मिताश्चैव सर्वे ॥ २२ ॥",
-     "english": "The Budras, Adityas, Vasus, and Sadhyas, Visvas and Asvins, Maruts and Ushmapas, hosts of Gandharvas, Yakshas, Asuras, and Siddhas, — they are all looking at Thee, all quite astonished."
+     "english": "Rudras, Adityas, Vasus, lesser perfected souls, Visvedevas, the two Asvins, Maruts, the ancestral spirits, hosts of celestial minstrels, Yaksas, demons, and perfected souls gaze at You; and they are all amazed."
     },
     {
      "role": "bhashya",
      "sanskrit": "किञ्चान्यत् —\nरुद्रादित्याः वसवो ये च साध्याः रुद्रादयः गणाः विश्वेदेवाः अश्विनौ च देवौ मरुतश्च ऊष्मपाश्च पितरः, गन्धर्वयक्षासुरसिद्धसङ्घाः गन्धर्वाः हाहाहूहूप्रभृतयः यक्षाः कुबेरप्रभृतयः असुराः विरोचनप्रभृतयः सिद्धाः कपिलादयः तेषां सङ्घाः गन्धर्वयक्षासुरसिद्धसङ्घाः, ते वीक्षन्ते पश्यन्ति त्वां विस्मिताः विस्मयमापन्नाः सन्तः ते एव सर्वे ॥ २२ ॥",
-     "english": "The terribleness of the Universal Form. For, 286 [DlS. XI."
+     "english": "*Rudras, Adityas, Vasus, and lesser perfected souls'— of these, Rudras, etc., are ogre groups; the Visvedevas, and the two Asvins are deities. Then there are the Maruts and the ancestral spirits. The celestial minstrels are Haha, Huhu, etc., Yaksas are Kubera and so forth; demons, Virocana, etc. ‘The perfected souls’ refer to Kapila and others like him. The hosts of all these gaze at You and are amazed. For,"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "11.23",
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "रूपं महत्ते बहुवक्त्रनेत्रं\nमहाबाहो बहुबाहूरुपादम् ।\nबहूदरं बहुदंष्ट्राकरालं\nदृष्ट्वा लोकाः प्रव्यथितास्तथाहम् ॥ २३ ॥\nयस्मात् —\nरूपं महत् अतिप्रमाणं ते तव बहुवक्त्रनेत्रं बहूनि वक्त्राणि मुखानि नेत्राणि चक्षूंषि च यस्मिन् तत् रूपं बहुवक्त्रनेत्रम् , हे महाबाहो, बहुबाहूरुपादं बहवो बाहवः ऊरवः पादाश्च यस्मिन् रूपे तत् बहुबाहूरुपादम् , किञ्च, बहूदरं बहूनि उदराणि यस्मिन्निति बहूदरम् , बहुदंष्ट्राकरालं बह्वीभिः दंष्ट्राभिः करालं विकृतं तत् बहुदंष्ट्राकरालम् , दृष्ट्वा रूपम् ईदृशं लोकाः लौकिकाः प्राणिनः प्रव्यथिताः प्रचलिताः भयेन ; तथा अहमपि ॥ २३ ॥",
-   "english": "Having seen Thy immeasurable Form, possessed, O Mighty- armed, of many mouths and eyes, of many arms and thighs and feet, and of many stomachs, and fearful with many tusks, the worlds are terrified, and I also.\nThe worlds : all living creatures in the world. Here follows the cause (of my terror) :",
+   "english": "Seeing Your immense form with its many mouths and eyes, Mighty-armed! Your many arms, thighs, and feet, and bellies, terrifying because of many tusks, the worlds are consternated; so am I. j\nYour form exceeding all measure, with its many mouths and eyes, © Mighty-armed! with its many hands, thighs and feet seeing it the world’s living beings are ‘consternated’—shaken with terror; so am I. Here is the reason for it:",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "रूपं महत्ते बहुवक्त्रनेत्रं\nमहाबाहो बहुबाहूरुपादम् ।\nबहूदरं बहुदंष्ट्राकरालं\nदृष्ट्वा लोकाः प्रव्यथितास्तथाहम् ॥ २३ ॥",
-     "english": "Having seen Thy immeasurable Form, possessed, O Mighty- armed, of many mouths and eyes, of many arms and thighs and feet, and of many stomachs, and fearful with many tusks, the worlds are terrified, and I also."
+     "english": "Seeing Your immense form with its many mouths and eyes, Mighty-armed! Your many arms, thighs, and feet, and bellies, terrifying because of many tusks, the worlds are consternated; so am I. j"
     },
     {
      "role": "bhashya",
      "sanskrit": "यस्मात् —\nरूपं महत् अतिप्रमाणं ते तव बहुवक्त्रनेत्रं बहूनि वक्त्राणि मुखानि नेत्राणि चक्षूंषि च यस्मिन् तत् रूपं बहुवक्त्रनेत्रम् , हे महाबाहो, बहुबाहूरुपादं बहवो बाहवः ऊरवः पादाश्च यस्मिन् रूपे तत् बहुबाहूरुपादम् , किञ्च, बहूदरं बहूनि उदराणि यस्मिन्निति बहूदरम् , बहुदंष्ट्राकरालं बह्वीभिः दंष्ट्राभिः करालं विकृतं तत् बहुदंष्ट्राकरालम् , दृष्ट्वा रूपम् ईदृशं लोकाः लौकिकाः प्राणिनः प्रव्यथिताः प्रचलिताः भयेन ; तथा अहमपि ॥ २३ ॥",
-     "english": "The worlds : all living creatures in the world. Here follows the cause (of my terror) :"
+     "english": "Your form exceeding all measure, with its many mouths and eyes, © Mighty-armed! with its many hands, thighs and feet seeing it the world’s living beings are ‘consternated’—shaken with terror; so am I. Here is the reason for it:"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "11.24",
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "नभःस्पृशं दीप्तमनेकवर्णं\nव्यात्ताननं दीप्तविशालनेत्रम् ।\nदृष्ट्वा हि त्वां प्रव्यथितान्तरात्मा\nधृतिं न विन्दामि शमं च विष्णो ॥ २४ ॥\nतत्रेदं कारणम् —\nनभःस्पृशं द्युस्पर्शम् इत्यर्थः, दीप्तं प्रज्वलितम् , अनेकवर्णम् अनेके वर्णाः भयङ्कराः नानासंस्थानाः यस्मिन् त्वयि तं त्वाम् अनेकवर्णम् , व्यात्ताननं व्यात्तानि विवृतानि आननानि मुखानि यस्मिन् त्वयि तं त्वां व्यात्ताननम् , दीप्तविशालनेत्रं दीप्तानि प्रज्वलितानि विशालानि विस्तीर्णानि नेत्राणि यस्मिन् त्वयि तं त्वां दीप्तविशालनेत्रं दृष्ट्वा हि त्वां प्रव्यथितान्तरात्मा प्रव्यथितः प्रभीतः अन्तरात्मा मनः यस्य मम सः अहं प्रव्यथितान्तरात्मा सन् धृतिं धैर्यं न विन्दामि न लभे शमं च उपशमनं मनस्तुष्टिं हे विष्णो ॥ २४ ॥",
-   "english": "On seeing Thee (Thy Form) touching the sky, blazing in many colours, with mouths wide open, with large fiery eyes, I am terrified at heart and find no courage nor peace, O Visrwu.\nWherefore ?—",
+   "english": "On seeing You touching the sky, blazing, manyhued, with open mouths and eyes distended and flaming, my inner self is deeply troubled, O Visnu! I have neither courage nor inner calm.\n‘Touching the sky’—the firmament; *blazing'— flaming; ‘with many terrifying hues’ or dispositions; ‘mouths wide-open, eyes flaming and distended—seeing You thus, my inner self or mind is deeply troubled. I can find no courage; nor have I inner calm, i.e., peace of mind, 0 Visnu. Why? S",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "नभःस्पृशं दीप्तमनेकवर्णं\nव्यात्ताननं दीप्तविशालनेत्रम् ।\nदृष्ट्वा हि त्वां प्रव्यथितान्तरात्मा\nधृतिं न विन्दामि शमं च विष्णो ॥ २४ ॥",
-     "english": "On seeing Thee (Thy Form) touching the sky, blazing in many colours, with mouths wide open, with large fiery eyes, I am terrified at heart and find no courage nor peace, O Visrwu."
+     "english": "On seeing You touching the sky, blazing, manyhued, with open mouths and eyes distended and flaming, my inner self is deeply troubled, O Visnu! I have neither courage nor inner calm."
     },
     {
      "role": "bhashya",
      "sanskrit": "तत्रेदं कारणम् —\nनभःस्पृशं द्युस्पर्शम् इत्यर्थः, दीप्तं प्रज्वलितम् , अनेकवर्णम् अनेके वर्णाः भयङ्कराः नानासंस्थानाः यस्मिन् त्वयि तं त्वाम् अनेकवर्णम् , व्यात्ताननं व्यात्तानि विवृतानि आननानि मुखानि यस्मिन् त्वयि तं त्वां व्यात्ताननम् , दीप्तविशालनेत्रं दीप्तानि प्रज्वलितानि विशालानि विस्तीर्णानि नेत्राणि यस्मिन् त्वयि तं त्वां दीप्तविशालनेत्रं दृष्ट्वा हि त्वां प्रव्यथितान्तरात्मा प्रव्यथितः प्रभीतः अन्तरात्मा मनः यस्य मम सः अहं प्रव्यथितान्तरात्मा सन् धृतिं धैर्यं न विन्दामि न लभे शमं च उपशमनं मनस्तुष्टिं हे विष्णो ॥ २४ ॥",
-     "english": "Wherefore ?—"
+     "english": "‘Touching the sky’—the firmament; *blazing'— flaming; ‘with many terrifying hues’ or dispositions; ‘mouths wide-open, eyes flaming and distended—seeing You thus, my inner self or mind is deeply troubled. I can find no courage; nor have I inner calm, i.e., peace of mind, 0 Visnu. Why? S"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "11.25",
@@ -8052,7 +8151,7 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "अमी च त्वां धृतराष्ट्रस्य पुत्राः\nसर्वे सहैवावनिपालसङ्घैः ।\nभीष्मो द्रोणः सूतपुत्रस्तथासौ\nसहास्मदीयैरपि योधमुख्यैः ॥ २६ ॥\nयेभ्यो मम पराजयाशङ्का या आसीत् सा च अपगता । यतः —\nअमी च त्वां धृतराष्ट्रस्य पुत्राः दुर्योधनप्रभृतयः — ‘त्वरमाणाः विशन्ति’ इति व्यवहितेन सम्बन्धः — सर्वे सहैव सहिताः अवनिपालसङ्घैः अवनिं पृथ्वीं पालयन्तीति अवनिपालाः तेषां सङ्घैः, किञ्च भीष्मो द्रोणः सूतपुत्रः कर्णः तथा असौ सह अस्मदीयैरपि धृष्टद्युम्नप्रभृतिभिः योधमुख्यैः योधानां मुख्यैः प्रधानैः सह ॥ २६ ॥",
-   "english": "All those children of Dhrtarastra together with the hosts of earth’s rulers, Bhisma, Drona, and the charioteer's son, as also the leading warriors on our side (rush into Your mouths);\n“Those children of Dhrtarastra’, Duryodhana and the rest—construe this with the phrase ‘rush into your mouths’, remotely placed in verse",
+   "english": "All those children of Dhrtarastra together with the hosts of earth’s rulers, Bhisma, Drona, and the charioteer's son, as also the leading warriors on our side (rush into Your mouths);\n“Those children of Dhrtarastra’, Duryodhana and the rest—construe this with the phrase ‘rush into your mouths’, remotely placed in verse 27. All of them with the hosts of earth’s rulers and also Bhisma, Drona and Karna, as well as the leading warriors on our side, Dhrstadyumna, etc.",
    "parts": [
     {
      "role": "mula",
@@ -8062,7 +8161,7 @@
     {
      "role": "bhashya",
      "sanskrit": "येभ्यो मम पराजयाशङ्का या आसीत् सा च अपगता । यतः —\nअमी च त्वां धृतराष्ट्रस्य पुत्राः दुर्योधनप्रभृतयः — ‘त्वरमाणाः विशन्ति’ इति व्यवहितेन सम्बन्धः — सर्वे सहैव सहिताः अवनिपालसङ्घैः अवनिं पृथ्वीं पालयन्तीति अवनिपालाः तेषां सङ्घैः, किञ्च भीष्मो द्रोणः सूतपुत्रः कर्णः तथा असौ सह अस्मदीयैरपि धृष्टद्युम्नप्रभृतिभिः योधमुख्यैः योधानां मुख्यैः प्रधानैः सह ॥ २६ ॥",
-     "english": "“Those children of Dhrtarastra’, Duryodhana and the rest—construe this with the phrase ‘rush into your mouths’, remotely placed in verse"
+     "english": "“Those children of Dhrtarastra’, Duryodhana and the rest—construe this with the phrase ‘rush into your mouths’, remotely placed in verse 27. All of them with the hosts of earth’s rulers and also Bhisma, Drona and Karna, as well as the leading warriors on our side, Dhrstadyumna, etc."
     }
    ],
    "meta": {
@@ -8159,38 +8258,44 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "आख्याहि मे को भवानुग्ररूपो नमोऽस्तु ते देववर प्रसीद ।\nविज्ञातुमिच्छामि भवन्तमाद्यं न हि प्रजानामि तव प्रवृत्तिम् ॥ ३१ ॥\nयतः एवमुग्रस्वभावः, अतः —\nआख्याहि कथय मे मह्यं कः भवान् उग्ररूपः क्रूराकारः, नमः अस्तु ते तुभ्यं हे देववर देवानां प्रधान, प्रसीद प्रसादं कुरु । विज्ञातुं विशेषेण ज्ञातुम् इच्छामि भवन्तम् आद्यम् आदौ भवम् आद्यम् , न हि यस्मात् प्रजानामि तव त्वदीयां प्रवृत्तिं चेष्टाम् ॥ ३१ ॥",
-   "english": "Tell me who thou art, so fierce in form. I bow to Thee, O God Supreme ; have mercy. I desire to know Thee, the Original Being. I know not indeed Thy doing.\nThe Lord's advent for destruction of worlds, The Blessed Lord said :",
+   "english": "Tell me who You are with Your awesome form. Salutation to You, Chief of the gods! be gracious. I wish to know You, the primordial Being; for I understand not (the nature of) Your activity.\nTell me who You are with Your ‘awesome form’— form dreadful to behold. Salutation to You, 0 Chief of gods! the Leader of the gods! Be gracious. I ‘wish to know’, to understand, specially You as primordial Being; for I do not understand ‘Your activity’— Your doings.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "आख्याहि मे को भवानुग्ररूपो नमोऽस्तु ते देववर प्रसीद ।\nविज्ञातुमिच्छामि भवन्तमाद्यं न हि प्रजानामि तव प्रवृत्तिम् ॥ ३१ ॥",
-     "english": "Tell me who thou art, so fierce in form. I bow to Thee, O God Supreme ; have mercy. I desire to know Thee, the Original Being. I know not indeed Thy doing."
+     "english": "Tell me who You are with Your awesome form. Salutation to You, Chief of the gods! be gracious. I wish to know You, the primordial Being; for I understand not (the nature of) Your activity."
     },
     {
      "role": "bhashya",
      "sanskrit": "यतः एवमुग्रस्वभावः, अतः —\nआख्याहि कथय मे मह्यं कः भवान् उग्ररूपः क्रूराकारः, नमः अस्तु ते तुभ्यं हे देववर देवानां प्रधान, प्रसीद प्रसादं कुरु । विज्ञातुं विशेषेण ज्ञातुम् इच्छामि भवन्तम् आद्यम् आदौ भवम् आद्यम् , न हि यस्मात् प्रजानामि तव त्वदीयां प्रवृत्तिं चेष्टाम् ॥ ३१ ॥",
-     "english": "The Lord's advent for destruction of worlds, The Blessed Lord said :"
+     "english": "Tell me who You are with Your ‘awesome form’— form dreadful to behold. Salutation to You, 0 Chief of gods! the Leader of the gods! Be gracious. I ‘wish to know’, to understand, specially You as primordial Being; for I do not understand ‘Your activity’— Your doings."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "11.32",
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "श्रीभगवानुवाच —कालोऽस्मि लोकक्षयकृत्प्रवृद्धो लोकान्समाहर्तुमिह प्रवृत्तः ।\nऋतेऽपि त्वा न भविष्यन्ति सर्वे येऽवस्थिताः प्रत्यनीकेषु योधाः ॥ ३२ ॥\nकालः अस्मि लोकक्षयकृत् लोकानां क्षयं करोतीति लोकक्षयकृत् प्रवृद्धः वृद्धिं गतः । यदर्थं प्रवृद्धः तत् शृणु — लोकान् समाहर्तुं संहर्तुम् इह अस्मिन् काले प्रवृत्तः । ऋतेऽपि विनापि त्वा त्वां न भविष्यन्ति भीष्मद्रोणकर्णप्रभृतयः सर्वे, येभ्यः तव आशङ्का, ये अवस्थिताः प्रत्यनीकेषु अनीकमनीकं प्रति प्रत्यनीकेषु प्रतिपक्षभूतेषु अनीकेषु योधाः योद्धारः ॥ ३२ ॥",
-   "english": "I am the mighty world-destroying Time* now engaged in destroying the worlds. Even without thee, none of the warriors arrayed in hostile armies shalt live.\nWarriors : Bhishma, Drcma, Kama and others. Such being the case.",
+   "english": "Dominant Time am I, wreaking the dissolution of the world. Here I am active, gathering the worlds unto Me. Even without you, these warriors marshalled in these opposing forces will cease to be.\nAs ‘dominant Time’, I am wreaking the dissolution of the worlds. Hear why I am active in destroying the worlds now. Even without You, all these warriors will cease to be— Bhisma, Drona, Karna, etc., who rouse your fear and are marshalled:in these opposing ranks. Such being the case,",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "श्रीभगवानुवाच —कालोऽस्मि लोकक्षयकृत्प्रवृद्धो लोकान्समाहर्तुमिह प्रवृत्तः ।\nऋतेऽपि त्वा न भविष्यन्ति सर्वे येऽवस्थिताः प्रत्यनीकेषु योधाः ॥ ३२ ॥",
-     "english": "I am the mighty world-destroying Time* now engaged in destroying the worlds. Even without thee, none of the warriors arrayed in hostile armies shalt live."
+     "english": "Dominant Time am I, wreaking the dissolution of the world. Here I am active, gathering the worlds unto Me. Even without you, these warriors marshalled in these opposing forces will cease to be."
     },
     {
      "role": "bhashya",
      "sanskrit": "कालः अस्मि लोकक्षयकृत् लोकानां क्षयं करोतीति लोकक्षयकृत् प्रवृद्धः वृद्धिं गतः । यदर्थं प्रवृद्धः तत् शृणु — लोकान् समाहर्तुं संहर्तुम् इह अस्मिन् काले प्रवृत्तः । ऋतेऽपि विनापि त्वा त्वां न भविष्यन्ति भीष्मद्रोणकर्णप्रभृतयः सर्वे, येभ्यः तव आशङ्का, ये अवस्थिताः प्रत्यनीकेषु अनीकमनीकं प्रति प्रत्यनीकेषु प्रतिपक्षभूतेषु अनीकेषु योधाः योद्धारः ॥ ३२ ॥",
-     "english": "Warriors : Bhishma, Drcma, Kama and others. Such being the case."
+     "english": "As ‘dominant Time’, I am wreaking the dissolution of the worlds. Hear why I am active in destroying the worlds now. Even without You, all these warriors will cease to be— Bhisma, Drona, Karna, etc., who rouse your fear and are marshalled:in these opposing ranks. Such being the case,"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "11.33",
@@ -8311,19 +8416,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "वायुर्यमोऽग्निर्वरुणः शशाङ्कः\nप्रजापतिस्त्वं प्रपितामहश्च ।\nनमो नमस्तेऽस्तु सहस्रकृत्वः\nपुनश्च भूयोऽपि नमो नमस्ते ॥ ३९ ॥\nकिञ्च —\nवायुः त्वं यमश्च अग्निः वरुणः अपां पतिः शशाङ्कः चन्द्रमाः प्रजापतिः त्वं कश्यपादिः प्रपितामहश्च पितामहस्यापि पिता प्रपितामहः, ब्रह्मणोऽपि पिता इत्यर्थः । नमो नमः ते तुभ्यम् अस्तु सहस्रकृत्वः । पुनश्च भूयोऽपि नमो नमः ते । बहुशो नमस्कारक्रियाभ्यासावृत्तिगणनं कृत्वसुचा उच्यते । ‘पुनश्च’ ‘भूयोऽपि’ इति श्रद्धाभक्त्यतिशयात् अपरितोषम् आत्मनः दर्शयति ॥ ३९ ॥",
-   "english": "Thou art Vayu, Yamaf Agni, Varo»a, the Moon, Prajapati, and the Great Grand-Father. Hail ! Hail to Thee 1 a thousand times, and again and again hail 1 hail to Thee ! Trajapati : such as Kasyapa. Great Grand-Father : the father even of Brahma. Again: This shows Arjuna's dissatisfaction due to his extreme faith and devotion.",
+   "english": "The wind, the god of death, the fire, Varuna the god of waters, the moon, the lord of creatures, and the grand sire—You are. To You salutations, salutations a thousand times; again, repeatedly, salutations to You.\n39.]., You are the wind-god and the god of death, the fire- - god, Varuna the god of waters, the moon, the progenitor c creatures), like Kasyapa, and the father even of creation’s author. That You are the father even of Brahma is the sense. Salutations to You a thousand times; again, repeatedly, salutations to You. The repeated acts of salutation are expressed by the suffix &rtvasuc. The use of expressions like ‘and again’, ‘once more’, shows the sense of inadequacy felt by the speaker because of his reverence, love and sense of wonder. Similarly,",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "वायुर्यमोऽग्निर्वरुणः शशाङ्कः\nप्रजापतिस्त्वं प्रपितामहश्च ।\nनमो नमस्तेऽस्तु सहस्रकृत्वः\nपुनश्च भूयोऽपि नमो नमस्ते ॥ ३९ ॥",
-     "english": "Thou art Vayu, Yamaf Agni, Varo»a, the Moon, Prajapati, and the Great Grand-Father. Hail ! Hail to Thee 1 a thousand times, and again and again hail 1 hail to Thee !"
+     "english": "The wind, the god of death, the fire, Varuna the god of waters, the moon, the lord of creatures, and the grand sire—You are. To You salutations, salutations a thousand times; again, repeatedly, salutations to You."
     },
     {
      "role": "bhashya",
      "sanskrit": "किञ्च —\nवायुः त्वं यमश्च अग्निः वरुणः अपां पतिः शशाङ्कः चन्द्रमाः प्रजापतिः त्वं कश्यपादिः प्रपितामहश्च पितामहस्यापि पिता प्रपितामहः, ब्रह्मणोऽपि पिता इत्यर्थः । नमो नमः ते तुभ्यम् अस्तु सहस्रकृत्वः । पुनश्च भूयोऽपि नमो नमः ते । बहुशो नमस्कारक्रियाभ्यासावृत्तिगणनं कृत्वसुचा उच्यते । ‘पुनश्च’ ‘भूयोऽपि’ इति श्रद्धाभक्त्यतिशयात् अपरितोषम् आत्मनः दर्शयति ॥ ३९ ॥",
-     "english": "294 THE BHAGAVAD-GITA. [DlS. XL Trajapati : such as Kasyapa. Great Grand-Father : the father even of Brahma. Again: This shows Arjuna's dissatisfaction due to his extreme faith and devotion."
+     "english": "39.]., You are the wind-god and the god of death, the fire- - god, Varuna the god of waters, the moon, the progenitor c creatures), like Kasyapa, and the father even of creation’s author. That You are the father even of Brahma is the sense. Salutations to You a thousand times; again, repeatedly, salutations to You. The repeated acts of salutation are expressed by the suffix &rtvasuc. The use of expressions like ‘and again’, ‘once more’, shows the sense of inadequacy felt by the speaker because of his reverence, love and sense of wonder. Similarly,"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "11.40",
@@ -8471,19 +8579,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "श्रीभगवानुवाच —मया प्रसन्नेन तवार्जुनेदं\nरूपं परं दर्शितमात्मयोगात् ।\nतेजोमयं विश्वमनन्तमाद्यं\nयन्मे त्वदन्येन न दृष्टपूर्वम् ॥ ४७ ॥\nअर्जुनं भीतम् उपलभ्य, उपसंहृत्य विश्वरूपम् , प्रियवचनेन आश्वासयन् श्रीभगवान् उवाच —\nमया प्रसन्नेन, प्रसादो नाम त्वयि अनुग्रहबुद्धिः, तद्वता प्रसन्नेन मया तव हे अर्जुन, इदं परं रूपं विश्वरूपं दर्शितम् आत्मयोगात् आत्मनः ऐश्वर्यस्य सामर्थ्यात् । तेजोमयं तेजःप्रायं विश्वं समस्तम् अनन्तम् अन्तरहितं आदौ भवम् आद्यं यत् रूपं मे मम त्वदन्येन त्वत्तः अन्येन केनचित् न दृष्टपूर्वम् ॥ ४७ ॥",
-   "english": "By Me, gracious to thee, O Arjuna, this Supreme Form has been shown, — by my sovereigu power — full of splendour, the All, the Boundless, the Original Form of Mine, never before seen by any other than thyself.\nThe Lord praises that Form on the ground that ' Thou (Arjuna) shouldst be considered to .have attained all thy ends by this vision of My Form-*",
+   "english": "mood, I have revealed to you this supreme form of Mine, effulgent, cosmic, infinite and primal, which none but you ever beheld before.\n‘Grace’ means the mood of benevolence towards you; in that mood this supreme cosmic form has been revealed to you by the power—the competence—of My Yoga. ‘Eftulgent —made of brilliant power. *Cosmic'—universal. *Infinite' — endless. ‘Primal’—what was in the beginning. This form of Mine, none other than you ever saw before.\nYou have gained life’s goal having seen this form of Mine, universal Self. The vision is now extolled:",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "श्रीभगवानुवाच —मया प्रसन्नेन तवार्जुनेदं\nरूपं परं दर्शितमात्मयोगात् ।\nतेजोमयं विश्वमनन्तमाद्यं\nयन्मे त्वदन्येन न दृष्टपूर्वम् ॥ ४७ ॥",
-     "english": "By Me, gracious to thee, O Arjuna, this Supreme Form has been shown, — by my sovereigu power — full of splendour, the All, the Boundless, the Original Form of Mine, never before seen by any other than thyself."
+     "english": "mood, I have revealed to you this supreme form of Mine, effulgent, cosmic, infinite and primal, which none but you ever beheld before."
     },
     {
      "role": "bhashya",
      "sanskrit": "अर्जुनं भीतम् उपलभ्य, उपसंहृत्य विश्वरूपम् , प्रियवचनेन आश्वासयन् श्रीभगवान् उवाच —\nमया प्रसन्नेन, प्रसादो नाम त्वयि अनुग्रहबुद्धिः, तद्वता प्रसन्नेन मया तव हे अर्जुन, इदं परं रूपं विश्वरूपं दर्शितम् आत्मयोगात् आत्मनः ऐश्वर्यस्य सामर्थ्यात् । तेजोमयं तेजःप्रायं विश्वं समस्तम् अनन्तम् अन्तरहितं आदौ भवम् आद्यं यत् रूपं मे मम त्वदन्येन त्वत्तः अन्येन केनचित् न दृष्टपूर्वम् ॥ ४७ ॥",
-     "english": "The Lord praises that Form on the ground that ' Thou (Arjuna) shouldst be considered to .have attained all thy ends by this vision of My Form-*"
+     "english": "‘Grace’ means the mood of benevolence towards you; in that mood this supreme cosmic form has been revealed to you by the power—the competence—of My Yoga. ‘Eftulgent —made of brilliant power. *Cosmic'—universal. *Infinite' — endless. ‘Primal’—what was in the beginning. This form of Mine, none other than you ever saw before.\nYou have gained life’s goal having seen this form of Mine, universal Self. The vision is now extolled:"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "11.48",
@@ -8527,38 +8638,44 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "सञ्जय उवाच —इत्यर्जुनं वासुदेवस्तथोक्त्वा\nस्वकं रूपं दर्शयामास भूयः ।\nआश्वासयामास च भीतमेनं\nभूत्वा पुनःसौम्यवपुर्महात्मा ॥ ५० ॥\nइति एवम् अर्जुनं वासुदेवः तथाभूतं वचनम् उक्त्वा, स्वकं वसुदेवस्य गृहे जातं रूपं दर्शयामास दर्शितवान् भूयः पुनः । आश्वासयामास च आश्वासितवान् भीतम् एनम् , भूत्वा पुनः सौम्यवपुः प्रसन्नदेहः महात्मा ॥ ५० ॥",
-   "english": "Having thus spoken to Arjuna, Vasudeva again showed His Own form ; and the Mighty Being, becoming ' gentle in form, consoled him who was terrified.\nHis Own : as born in Vasudeva's family. Arjuna said.",
+   "english": "Having thus spoken to Arjunz, Vasudeva once more revealed His familiar form; assuming His gentle form, once more, the mighty Being consoled Arjuna in his terror.\nThus speaking to Arjuna, Vasudeva revealed that form of His with which He was born in Vasudeva’s home. And He, the mighty Being, consoled Arjuna in his terror, having once again assumed a gentle human form.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "सञ्जय उवाच —इत्यर्जुनं वासुदेवस्तथोक्त्वा\nस्वकं रूपं दर्शयामास भूयः ।\nआश्वासयामास च भीतमेनं\nभूत्वा पुनःसौम्यवपुर्महात्मा ॥ ५० ॥",
-     "english": "Having thus spoken to Arjuna, Vasudeva again showed His Own form ; and the Mighty Being, becoming ' gentle in form, consoled him who was terrified."
+     "english": "Having thus spoken to Arjunz, Vasudeva once more revealed His familiar form; assuming His gentle form, once more, the mighty Being consoled Arjuna in his terror."
     },
     {
      "role": "bhashya",
      "sanskrit": "इति एवम् अर्जुनं वासुदेवः तथाभूतं वचनम् उक्त्वा, स्वकं वसुदेवस्य गृहे जातं रूपं दर्शयामास दर्शितवान् भूयः पुनः । आश्वासयामास च आश्वासितवान् भीतम् एनम् , भूत्वा पुनः सौम्यवपुः प्रसन्नदेहः महात्मा ॥ ५० ॥",
-     "english": "His Own : as born in Vasudeva's family. 300 THE BHAGAVAD-GITA. [DlS. XL Arjuna said."
+     "english": "Thus speaking to Arjuna, Vasudeva revealed that form of His with which He was born in Vasudeva’s home. And He, the mighty Being, consoled Arjuna in his terror, having once again assumed a gentle human form."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "11.51",
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "अर्जुन उवाच —दृष्ट्वेदं मानुषं रूपं\nतव सौम्यं जनार्दन ।\nइदानीमस्मि संवृत्तः\nसचेताः प्रकृतिं गतः ॥ ५१ ॥\nदृष्ट्वा इदं मानुषं रूपं मत्सखं प्रसन्नं तव सौम्यं जनार्दन, इदानीम् अधुना अस्मि संवृत्तः सञ्जातः । किम् ? सचेताः प्रसन्नचित्तः प्रकृतिं स्वभावं गतश्च अस्मि ॥ ५१ ॥",
-   "english": "Having seen Thy gentle human form, O Janardana, now I have grown serene, and returned to my nature.\nDevotion as the sole means to the realization of the Universal form. The Blessed Lord said :",
+   "english": "5]. O Krsna! Seeing this, Your gentle human form, now I have regained my equanimity; I have been restored to my proper nature.\nSeeing this gentle friendly form of Yours, Krsna! now I have won back my equanimity and regained my normal nature.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "अर्जुन उवाच —दृष्ट्वेदं मानुषं रूपं\nतव सौम्यं जनार्दन ।\nइदानीमस्मि संवृत्तः\nसचेताः प्रकृतिं गतः ॥ ५१ ॥",
-     "english": "Having seen Thy gentle human form, O Janardana, now I have grown serene, and returned to my nature."
+     "english": "5]. O Krsna! Seeing this, Your gentle human form, now I have regained my equanimity; I have been restored to my proper nature."
     },
     {
      "role": "bhashya",
      "sanskrit": "दृष्ट्वा इदं मानुषं रूपं मत्सखं प्रसन्नं तव सौम्यं जनार्दन, इदानीम् अधुना अस्मि संवृत्तः सञ्जातः । किम् ? सचेताः प्रसन्नचित्तः प्रकृतिं स्वभावं गतश्च अस्मि ॥ ५१ ॥",
-     "english": "Devotion as the sole means to the realization of the Universal form. The Blessed Lord said :"
+     "english": "Seeing this gentle friendly form of Yours, Krsna! now I have won back my equanimity and regained my normal nature."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "11.52",
@@ -8940,19 +9057,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः ।\nहर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः ॥ १५ ॥\nयस्मात् संन्यासिनः न उद्विजते न उद्वेगं गच्छति न सन्तप्यते न सङ्क्षुभ्यति लोकः, तथा लोकात् न उद्विजते च यः, हर्षामर्षभयोद्वेगैः हर्षश्च अमर्षश्च भयं च उद्वेगश्च तैः हर्षामर्षभयोद्वेगैः मुक्तः ; हर्षः प्रियलाभे अन्तःकरणस्य उत्कर्षः रोमाञ्चनाश्रुपातादिलिङ्गः, अमर्षः असहिष्णुता, भयं त्रासः, उद्वेगः उद्विग्नता, तैः मुक्तः यः स च मे प्रियः ॥ १५ ॥",
-   "english": "He by whom the world is not afflicted and who is not afflicted by the world, who is free from joy, envy, fear and sorrow, he is dear to Me.\nHe: the samnyasin. Joy consists in the elation or exhilaration of the mind (anta&~&arawa) on attaining an object of desire, and is indicated by horripilation, tears, and so on-",
+   "english": "From him the world does not shrink, nor does he shrink from the world. He is free from elation, intolerance, fear and agitation. He is dear to Me.\nFrom that renouncer “the world does not shrink — the world is not agitated by him; ‘nor does he shrink from the world’. He is free from the feeli of elation, intolerance, fear and agitation. Elation is nind's upsurge when anything pleasurable is won; it is marked by horripilation, tears, etc. Intolerance is impatience. Fear is the emotion due to alarm. Agitation is the state of the antagonised mind. He is devoid of all these and is dear to Me.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः ।\nहर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः ॥ १५ ॥",
-     "english": "He by whom the world is not afflicted and who is not afflicted by the world, who is free from joy, envy, fear and sorrow, he is dear to Me."
+     "english": "From him the world does not shrink, nor does he shrink from the world. He is free from elation, intolerance, fear and agitation. He is dear to Me."
     },
     {
      "role": "bhashya",
      "sanskrit": "यस्मात् संन्यासिनः न उद्विजते न उद्वेगं गच्छति न सन्तप्यते न सङ्क्षुभ्यति लोकः, तथा लोकात् न उद्विजते च यः, हर्षामर्षभयोद्वेगैः हर्षश्च अमर्षश्च भयं च उद्वेगश्च तैः हर्षामर्षभयोद्वेगैः मुक्तः ; हर्षः प्रियलाभे अन्तःकरणस्य उत्कर्षः रोमाञ्चनाश्रुपातादिलिङ्गः, अमर्षः असहिष्णुता, भयं त्रासः, उद्वेगः उद्विग्नता, तैः मुक्तः यः स च मे प्रियः ॥ १५ ॥",
-     "english": "He: the samnyasin. Joy consists in the elation or exhilaration of the mind (anta&~&arawa) on attaining an object of desire, and is indicated by horripilation, tears, and so on-"
+     "english": "From that renouncer “the world does not shrink — the world is not agitated by him; ‘nor does he shrink from the world’. He is free from the feeli of elation, intolerance, fear and agitation. Elation is nind's upsurge when anything pleasurable is won; it is marked by horripilation, tears, etc. Intolerance is impatience. Fear is the emotion due to alarm. Agitation is the state of the antagonised mind. He is devoid of all these and is dear to Me."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "12.16",
@@ -9994,19 +10114,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "यदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत् ।\nतदोत्तमविदां लोकानमलान्प्रतिपद्यते ॥ १४ ॥\nमरणद्वारेणापि यत् फलं प्राप्यते, तदपि सङ्गरागहेतुकं सर्वं गौणमेव इति दर्शयन् आह —\nयदा सत्त्वे प्रवृद्धे उद्भूते तु प्रलयं मरणं याति प्रतिपद्यते देहभृत् आत्मा, तदा उत्तमविदां महदादितत्त्वविदाम् इत्येतत् , लोकान् अमलान् मलरहितान् प्रतिपद्यते प्राप्नोति इत्येतत् ॥ १४ ॥",
-   "english": "If the embodied one meets death when\n Sattva is predominant, then he attains to the spotless regions * of the knowers.of the Highest. The embodied : the Self. The Highest : the Mahat and the like principles (Tattvas).",
+   "english": "Passing away when the Sattva dominates, the embodied self attains the unstained worlds pertaining to the best knowers.\nIf a man dies when Sativa ‘dominates’ or has full play, he attains the ‘unstained worlds’ of the best of knowers or the Samkyas, those who know the evolutes like the mahat.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "यदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत् ।\nतदोत्तमविदां लोकानमलान्प्रतिपद्यते ॥ १४ ॥",
-     "english": "If the embodied one meets death when"
+     "english": "Passing away when the Sattva dominates, the embodied self attains the unstained worlds pertaining to the best knowers."
     },
     {
      "role": "bhashya",
      "sanskrit": "मरणद्वारेणापि यत् फलं प्राप्यते, तदपि सङ्गरागहेतुकं सर्वं गौणमेव इति दर्शयन् आह —\nयदा सत्त्वे प्रवृद्धे उद्भूते तु प्रलयं मरणं याति प्रतिपद्यते देहभृत् आत्मा, तदा उत्तमविदां महदादितत्त्वविदाम् इत्येतत् , लोकान् अमलान् मलरहितान् प्रतिपद्यते प्राप्नोति इत्येतत् ॥ १४ ॥",
-     "english": "Sattva is predominant, then he attains to the spotless regions * of the knowers.of the Highest. The embodied : the Self. The Highest : the Mahat and the like principles (Tattvas)."
+     "english": "If a man dies when Sativa ‘dominates’ or has full play, he attains the ‘unstained worlds’ of the best of knowers or the Samkyas, those who know the evolutes like the mahat."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "14.15",
@@ -10051,19 +10174,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "सत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च ।\nप्रमादमोहौ तमसो भवतोऽज्ञानमेव च ॥ १७ ॥\nकिञ्च गुणेभ्यो भवति —\nसत्त्वात् लब्धात्मकात् सञ्जायते समुत्पद्यते ज्ञानम् , रजसो लोभ एव च, प्रमादमोहौ च उभौ तमसो भवतः, अज्ञानमेव च भवति ॥ १७ ॥",
-   "english": "From Sattva arises wisdom, and greed\nfrom Rajas ; heedlessness and error arise from Tamas, and also ignorance. From Sattva : When Sattva asserts itself. Moreover,",
+   "english": "Of Sattva is born knowledge; and of Rajas, greed. Error, delusion and ignorance are born of Tamas.\nOf dominating sativa ‘knowledge ‘is born'—it springs up from sattva. ‘Greed’ is born of rajas. ‘Error, delusion, and also ignorance’ result from the constituent tamas. And,",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "सत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च ।\nप्रमादमोहौ तमसो भवतोऽज्ञानमेव च ॥ १७ ॥",
-     "english": "From Sattva arises wisdom, and greed"
+     "english": "Of Sattva is born knowledge; and of Rajas, greed. Error, delusion and ignorance are born of Tamas."
     },
     {
      "role": "bhashya",
      "sanskrit": "किञ्च गुणेभ्यो भवति —\nसत्त्वात् लब्धात्मकात् सञ्जायते समुत्पद्यते ज्ञानम् , रजसो लोभ एव च, प्रमादमोहौ च उभौ तमसो भवतः, अज्ञानमेव च भवति ॥ १७ ॥",
-     "english": "from Rajas ; heedlessness and error arise from Tamas, and also ignorance. From Sattva : When Sattva asserts itself. Moreover,"
+     "english": "Of dominating sativa ‘knowledge ‘is born'—it springs up from sattva. ‘Greed’ is born of rajas. ‘Error, delusion, and also ignorance’ result from the constituent tamas. And,"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "14.18",
@@ -11065,19 +11191,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः ।\nकामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ॥ २१ ॥\nसर्वस्या आसुर्याः सम्पदः सङ्क्षेपः अयम् उच्यते, यस्मिन् त्रिविधे सर्वः आसुरीसम्पद्भेदः अनन्तोऽपि अन्तर्भवति । यत्परिहारेण परिहृतश्च भवति, यत् मूलं सर्वस्य अनर्थस्य, तत् एतत् उच्यते —\nत्रिविधं त्रिप्रकारं नरकस्य प्राप्तौ इदं द्वारं नाशनम् आत्मनः, यत् द्वारं प्रविशन्नेव नश्यति आत्मा ; कस्मैचित् पुरुषार्थाय योग्यो न भवति इत्येतत् , अतः उच्यते ‘द्वारं नाशनमात्मनः’ इति । किं तत् ? कामः क्रोधः तथा लोभः । तस्मात् एतत् त्रयं त्यजेत् । यतः एतत् द्वारं नाशनम् आत्मनः तस्मात् कामादित्रयमेतत् त्यजेत् ॥ २१ ॥",
-   "english": "Triple is this, the gate to hell, destructive of the self : lust, wrath, and greed. Therefore., these three, one should abandon.\nThe gate to hell •* the gate leading to hell (naraka). By merely entering at the gate, the self is ruined, *. e.t is fit for no human end whatever. Since this gate is ruinous to the self, let every one abandon these three : lust, wrath and greed- Here follows the praise of this abandonment.",
+   "english": "Threefold is the gate of hell, destructive of self— lust, wrath and, likewise, greed. Therefore one should reject them.\n‘Gateway leading to hell’ is of three kinds; each is destructive of self. As soon as one enters it, the self Perishes, becomes unfit for achieving any human goal whatsoever. Such is the force of the expression ‘destructive of self. What is this ‘three-fold gate’? ‘Lust, wrath and, likewise, greed’. There. fore must one reject those three, lust and so forth. Here is a laudation of such rejection:",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः ।\nकामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ॥ २१ ॥",
-     "english": "Triple is this, the gate to hell, destructive of the self : lust, wrath, and greed. Therefore., these three, one should abandon."
+     "english": "Threefold is the gate of hell, destructive of self— lust, wrath and, likewise, greed. Therefore one should reject them."
     },
     {
      "role": "bhashya",
      "sanskrit": "सर्वस्या आसुर्याः सम्पदः सङ्क्षेपः अयम् उच्यते, यस्मिन् त्रिविधे सर्वः आसुरीसम्पद्भेदः अनन्तोऽपि अन्तर्भवति । यत्परिहारेण परिहृतश्च भवति, यत् मूलं सर्वस्य अनर्थस्य, तत् एतत् उच्यते —\nत्रिविधं त्रिप्रकारं नरकस्य प्राप्तौ इदं द्वारं नाशनम् आत्मनः, यत् द्वारं प्रविशन्नेव नश्यति आत्मा ; कस्मैचित् पुरुषार्थाय योग्यो न भवति इत्येतत् , अतः उच्यते ‘द्वारं नाशनमात्मनः’ इति । किं तत् ? कामः क्रोधः तथा लोभः । तस्मात् एतत् त्रयं त्यजेत् । यतः एतत् द्वारं नाशनम् आत्मनः तस्मात् कामादित्रयमेतत् त्यजेत् ॥ २१ ॥",
-     "english": "The gate to hell •* the gate leading to hell (naraka). By merely entering at the gate, the self is ruined, *. e.t is fit for no human end whatever. Since this gate is ruinous to the self, let every one abandon these three : lust, wrath and greed- Here follows the praise of this abandonment."
+     "english": "‘Gateway leading to hell’ is of three kinds; each is destructive of self. As soon as one enters it, the self Perishes, becomes unfit for achieving any human goal whatsoever. Such is the force of the expression ‘destructive of self. What is this ‘three-fold gate’? ‘Lust, wrath and, likewise, greed’. There. fore must one reject those three, lust and so forth. Here is a laudation of such rejection:"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "16.22",
@@ -11289,38 +11418,44 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः ।\nरस्याः स्निग्धाः स्थिरा हृद्या आहाराः सात्त्विकप्रियाः ॥ ८ ॥\nआयुश्च सत्त्वं च बलं च आरोग्यं च सुखं च प्रीतिश्च आयुःसत्त्वबलारोग्यसुखप्रीतयः तासां विवर्धनाः आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः, ते च रस्याः रसोपेताः, स्निग्धाः स्नेहवन्तः, स्थिराः चिरकालस्थायिनः देहे, हृद्याः हृदयप्रियाः आहाराः सात्त्विकप्रियाः सात्त्विकस्य इष्टाः ॥ ८ ॥",
-   "english": "The foods which increase life, energy, strength, health, joy and cheerfulness, which are savoury and oleaginous, substantial and agreeable, are dear to the Sattvic.\nOleaginous: oily, fatty. Substantial: which can last long in the body.",
+   "english": "Foods promoting longevity, strength of mind, power, health, comfort and pleasure, which are delectable, oily, firm and appetising, appeal to men of Sattvic temperament.\nThe foods which promote the complex of longevity, -0 T mental strength, power, health, comfort and prove delectable, and which are oily - . : attract people of sattvic temperament. pleasure, which firm and appetising,",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः ।\nरस्याः स्निग्धाः स्थिरा हृद्या आहाराः सात्त्विकप्रियाः ॥ ८ ॥",
-     "english": "The foods which increase life, energy, strength, health, joy and cheerfulness, which are savoury and oleaginous, substantial and agreeable, are dear to the Sattvic."
+     "english": "Foods promoting longevity, strength of mind, power, health, comfort and pleasure, which are delectable, oily, firm and appetising, appeal to men of Sattvic temperament."
     },
     {
      "role": "bhashya",
      "sanskrit": "आयुश्च सत्त्वं च बलं च आरोग्यं च सुखं च प्रीतिश्च आयुःसत्त्वबलारोग्यसुखप्रीतयः तासां विवर्धनाः आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः, ते च रस्याः रसोपेताः, स्निग्धाः स्नेहवन्तः, स्थिराः चिरकालस्थायिनः देहे, हृद्याः हृदयप्रियाः आहाराः सात्त्विकप्रियाः सात्त्विकस्य इष्टाः ॥ ८ ॥",
-     "english": "Oleaginous: oily, fatty. Substantial: which can last long in the body."
+     "english": "The foods which promote the complex of longevity, -0 T mental strength, power, health, comfort and prove delectable, and which are oily - . : attract people of sattvic temperament. pleasure, which firm and appetising,"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "17.9",
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः ।\nआहारा राजसस्येष्टा दुःखशोकामयप्रदाः ॥ ९ ॥\nकट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः इत्यत्र अतिशब्दः कट्वादिषु सर्वत्र योज्यः, अतिकटुः अतितीक्ष्णः इत्येवम् । कटुश्च अम्लश्च लवणश्च अत्युष्णश्च तीक्ष्णश्च रूक्षश्च विदाही च ते आहाराः राजसस्य इष्टाः, दुःखशोकामयप्रदाः दुःखं च शोकं च आमयं च प्रयच्छन्तीति दुःखशोकामयप्रदाः ॥ ९ ॥",
-   "english": "The foods that are bitter, sour, saline, •excessively hot, pungent, dry and burning, are liked by the Rajasic, causing pain, grief and disease.",
+   "english": "The foods which please the Rajasic temperaments are excessively bitter, sour, saltish, hot, pungent, harsh, burning; they cause pain, suffering and ill-health.\nThe term ati meaning ‘excessively’, must be taken to qualify each of the terms bitter, sour, etc., thus signifying excessively bitter, etc. These kinds of foods, pleasing to the rajasic temperament, cause or yield pain, suffering and illhealth.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः ।\nआहारा राजसस्येष्टा दुःखशोकामयप्रदाः ॥ ९ ॥",
-     "english": "The foods that are bitter, sour, saline, •excessively hot, pungent, dry and burning, are liked by the Rajasic, causing pain, grief and disease."
+     "english": "The foods which please the Rajasic temperaments are excessively bitter, sour, saltish, hot, pungent, harsh, burning; they cause pain, suffering and ill-health."
     },
     {
      "role": "bhashya",
      "sanskrit": "कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः इत्यत्र अतिशब्दः कट्वादिषु सर्वत्र योज्यः, अतिकटुः अतितीक्ष्णः इत्येवम् । कटुश्च अम्लश्च लवणश्च अत्युष्णश्च तीक्ष्णश्च रूक्षश्च विदाही च ते आहाराः राजसस्य इष्टाः, दुःखशोकामयप्रदाः दुःखं च शोकं च आमयं च प्रयच्छन्तीति दुःखशोकामयप्रदाः ॥ ९ ॥",
-     "english": "432 THE BHAGAVAD-GITA. [DlS. XVIL"
+     "english": "The term ati meaning ‘excessively’, must be taken to qualify each of the terms bitter, sour, etc., thus signifying excessively bitter, etc. These kinds of foods, pleasing to the rajasic temperament, cause or yield pain, suffering and illhealth."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "17.10",
@@ -11386,19 +11521,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम् ।\nश्रद्धाविरहितं यज्ञं तामसं परिचक्षते ॥ १३ ॥\nविधिहीनं यथाचोदितविपरीतम् , असृष्टान्नं ब्राह्मणेभ्यो न सृष्टं न दत्तम् अन्नं यस्मिन् यज्ञे सः असृष्टान्नः तम् असृष्टान्नम् , मन्त्रहीनं मन्त्रतः स्वरतो वर्णतो वा वियुक्तं मन्त्रहीनम् , अदक्षिणम् उक्तदक्षिणारहितम् , श्रद्धाविरहितं यज्ञं तामसं परिचक्षते तमोनिर्वृत्तं कथयन्ति ॥ १३ ॥",
-   "english": "They declare that worship to be Tamasic which is contrary to the ordinances, in which no food is distributed, which is devoid of mantras and gifts5and which is devoid of faith.\nPhysical Austerity. Now the three kinds of austerity will be described :",
+   "english": "They say that sacrifice is Tamasic, which is not scripturally enjoined, in which no food is offered, which is done without sacred chants and the giving of priestly fees and is uninspired by faith.\n‘Not scripturally enjoined’ means in [DS ७ to what has been enjoined. ‘In which no food is offered’ refers to the feeding of holy men, the poor, etc. ‘Without sacred Som refers to chants defective as regards accents and consonanta sounds. ‘The priestly fees’ refers to the prescribed fees for priests officiating in the sacrifice. Also the पक: 23 sag: inspired by faith—sacrifice such as this, they say, is effected by tamas.\nthe threefold penance: ]4.0. Now is described",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम् ।\nश्रद्धाविरहितं यज्ञं तामसं परिचक्षते ॥ १३ ॥",
-     "english": "They declare that worship to be Tamasic which is contrary to the ordinances, in which no food is distributed, which is devoid of mantras and gifts5and which is devoid of faith."
+     "english": "They say that sacrifice is Tamasic, which is not scripturally enjoined, in which no food is offered, which is done without sacred chants and the giving of priestly fees and is uninspired by faith."
     },
     {
      "role": "bhashya",
      "sanskrit": "विधिहीनं यथाचोदितविपरीतम् , असृष्टान्नं ब्राह्मणेभ्यो न सृष्टं न दत्तम् अन्नं यस्मिन् यज्ञे सः असृष्टान्नः तम् असृष्टान्नम् , मन्त्रहीनं मन्त्रतः स्वरतो वर्णतो वा वियुक्तं मन्त्रहीनम् , अदक्षिणम् उक्तदक्षिणारहितम् , श्रद्धाविरहितं यज्ञं तामसं परिचक्षते तमोनिर्वृत्तं कथयन्ति ॥ १३ ॥",
-     "english": "Physical Austerity. Now the three kinds of austerity will be described :"
+     "english": "‘Not scripturally enjoined’ means in [DS ७ to what has been enjoined. ‘In which no food is offered’ refers to the feeding of holy men, the poor, etc. ‘Without sacred Som refers to chants defective as regards accents and consonanta sounds. ‘The priestly fees’ refers to the prescribed fees for priests officiating in the sacrifice. Also the पक: 23 sag: inspired by faith—sacrifice such as this, they say, is effected by tamas.\nthe threefold penance: ]4.0. Now is described"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "17.14",
@@ -12313,19 +12451,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "अधर्मं धर्ममिति या\nमन्यते तमसावृता ।\nसर्वार्थान्विपरीतांश्च\nबुद्धिः सा पार्थ तामसी ॥ ३२ ॥\nअधर्मं प्रतिषिद्धं धर्मं विहितम् इति या मन्यते जानाति तमसा आवृता सती, सर्वार्थान् सर्वानेव ज्ञेयपदार्थान् विपरीतांश्च विपरीतानेव विजानाति, बुद्धिः सा पार्थ, तामसी ॥ ३२ ॥",
-   "english": "That which, enveloped in darkness, sees adharma as dharma and all things perverted, that intellect, O Partha, is Tamasic.\nIt takes quite a perverted view of all things to be known. Sattvic Firmness.",
+   "english": "+o, Arjuna lis the intellect shrouded in Tamas 32. WE hich mistakes unrighteousness for righ- (ignorance nd knows all kinds of things contrarily. teousness a\nThe ‘intellect shrouded in ignorance’ that deems unrighteousness i.c.; what is prohibited by the sastras, to be ‘righteousness’ and knows all knowables ‘contrarily’ is tamasic.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "अधर्मं धर्ममिति या\nमन्यते तमसावृता ।\nसर्वार्थान्विपरीतांश्च\nबुद्धिः सा पार्थ तामसी ॥ ३२ ॥",
-     "english": "That which, enveloped in darkness, sees adharma as dharma and all things perverted, that intellect, O Partha, is Tamasic."
+     "english": "+o, Arjuna lis the intellect shrouded in Tamas 32. WE hich mistakes unrighteousness for righ- (ignorance nd knows all kinds of things contrarily. teousness a"
     },
     {
      "role": "bhashya",
      "sanskrit": "अधर्मं प्रतिषिद्धं धर्मं विहितम् इति या मन्यते जानाति तमसा आवृता सती, सर्वार्थान् सर्वानेव ज्ञेयपदार्थान् विपरीतांश्च विपरीतानेव विजानाति, बुद्धिः सा पार्थ, तामसी ॥ ३२ ॥",
-     "english": "It takes quite a perverted view of all things to be known. Sattvic Firmness."
+     "english": "The ‘intellect shrouded in ignorance’ that deems unrighteousness i.c.; what is prohibited by the sastras, to be ‘righteousness’ and knows all knowables ‘contrarily’ is tamasic."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "18.33",
@@ -12838,19 +12979,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "यद्यहङ्कारमाश्रित्य\nन योत्स्य इति मन्यसे ।\nमिथ्यैष व्यवसायस्ते\nप्रकृतिस्त्वां नियोक्ष्यति ॥ ५९ ॥\nइदं च त्वया न मन्तव्यम् ‘स्वतन्त्रः अहम् , किमर्थं परोक्तं करिष्यामि ? ’ इति —\nयदि चेत् त्वम् अहङ्कारम् आश्रित्य न योत्स्ये इति न युद्धं करिष्यामि इति मन्यसे चिन्तयसि निश्चयं करोषि, मिथ्या एषः व्यवसायः निश्चयः ते तव ; यस्मात् प्रकृतिः क्षत्रियस्वभावः त्वां नियोक्ष्यति ॥ ५९ ॥",
-   "english": "If, indulging egotism, thou thinkest «1\nwill not fight,' vain is this, thy resolve ; nature will Thinkest, resolvest. Vain : for, thy nature as a Kshatriya will constrain thee to do so. Also because,",
+   "english": "If egoistically you maintain ‘I will not fight’, this decision of yours is erroneous; your nature will constrain you.\nResorting to egoism if you think ‘I will not fight’ — if you resolve thus—this resolve of yours is erroneous. ‘Nature’ Your nature as a ksatriya—will constrain you to fight. Also because,",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "यद्यहङ्कारमाश्रित्य\nन योत्स्य इति मन्यसे ।\nमिथ्यैष व्यवसायस्ते\nप्रकृतिस्त्वां नियोक्ष्यति ॥ ५९ ॥",
-     "english": "If, indulging egotism, thou thinkest «1"
+     "english": "If egoistically you maintain ‘I will not fight’, this decision of yours is erroneous; your nature will constrain you."
     },
     {
      "role": "bhashya",
      "sanskrit": "इदं च त्वया न मन्तव्यम् ‘स्वतन्त्रः अहम् , किमर्थं परोक्तं करिष्यामि ? ’ इति —\nयदि चेत् त्वम् अहङ्कारम् आश्रित्य न योत्स्ये इति न युद्धं करिष्यामि इति मन्यसे चिन्तयसि निश्चयं करोषि, मिथ्या एषः व्यवसायः निश्चयः ते तव ; यस्मात् प्रकृतिः क्षत्रियस्वभावः त्वां नियोक्ष्यति ॥ ५९ ॥",
-     "english": "will not fight,' vain is this, thy resolve ; nature will Thinkest, resolvest. Vain : for, thy nature as a Kshatriya will constrain thee to do so. Also because,"
+     "english": "Resorting to egoism if you think ‘I will not fight’ — if you resolve thus—this resolve of yours is erroneous. ‘Nature’ Your nature as a ksatriya—will constrain you to fight. Also because,"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "18.60",
@@ -13031,19 +13175,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः ।\nभविता न च मे तस्मादन्यः प्रियतरो भुवि ॥ ६९ ॥\nकिञ्च —\nन च तस्मात् शास्त्रसम्प्रदायकृतः मनुष्येषु मनुष्याणां मध्ये कश्चित् मे मम प्रियकृत्तमः अतिशयेन प्रियकरः, अन्यः प्रियकृत्तमः, नास्त्येव इत्यर्थः वर्तमानेषु । न च भविता भविष्यत्यपि काले तस्मात् द्वितीयः अन्यः प्रियतरः प्रियकृत्तरः भुवि लोकेऽस्मिन् न भविता ॥ ६९ ॥",
-   "english": "Nor is there any among men who does dearer service to Me than he ; nor shall there be another on earth dearer to Me than he.\nNor, etc : There is none in the present generation. Se ; the man who hands down the sastra. Shall be : in future time. On earth : in the world.",
+   "english": "68-70] Liberation and Renunciation 635 69. None among men, other than he, does a deed dearer to Me; nor is there in the world one dearer to Me.\nAmong men, now, none does a deed dearer to Me than he who transmits the tradition of this Sastra. Nor, in future, will there be another in this world who does aught dearer to Me. He, too,",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः ।\nभविता न च मे तस्मादन्यः प्रियतरो भुवि ॥ ६९ ॥",
-     "english": "Nor is there any among men who does dearer service to Me than he ; nor shall there be another on earth dearer to Me than he."
+     "english": "68-70] Liberation and Renunciation 635 69. None among men, other than he, does a deed dearer to Me; nor is there in the world one dearer to Me."
     },
     {
      "role": "bhashya",
      "sanskrit": "किञ्च —\nन च तस्मात् शास्त्रसम्प्रदायकृतः मनुष्येषु मनुष्याणां मध्ये कश्चित् मे मम प्रियकृत्तमः अतिशयेन प्रियकरः, अन्यः प्रियकृत्तमः, नास्त्येव इत्यर्थः वर्तमानेषु । न च भविता भविष्यत्यपि काले तस्मात् द्वितीयः अन्यः प्रियतरः प्रियकृत्तरः भुवि लोकेऽस्मिन् न भविता ॥ ६९ ॥",
-     "english": "Nor, etc : There is none in the present generation. Se ; the man who hands down the sastra. Shall be : in future time. On earth : in the world."
+     "english": "Among men, now, none does a deed dearer to Me than he who transmits the tradition of this Sastra. Nor, in future, will there be another in this world who does aught dearer to Me. He, too,"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "18.70",
@@ -13126,17 +13273,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "सञ्जय उवाच —इत्यहं वासुदेवस्य पार्थस्य च महात्मनः ।\nसंवादमिममश्रौषमद्भुतं रोमहर्षणम् ॥ ७४ ॥\nपरिसमाप्तः शास्त्रार्थः । अथ इदानीं कथासम्बन्धप्रदर्शनार्थं सञ्जयः उवाच —\nइति एवम् अहं वासुदेवस्य पार्थस्य च महात्मनः संवादम् इमं यथोक्तम् अश्रौषं श्रुतवान् अस्मि अद्भुतम् अत्यन्तविस्मयकरं रोमहर्षणं रोमाञ्चकरम् ॥ ७४ ॥",
-   "english": "Thus have I heard this wonderful dialogue between Vasudeva and the high-souled Partha, which makes the hair stand on end.",
+   "english": "Thus have I listened to this dialogue between Vasudeva and the high-souled Arjuna—a dialogue marvellous and thrilling,\nLiberation and Renunciation 639",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "सञ्जय उवाच —इत्यहं वासुदेवस्य पार्थस्य च महात्मनः ।\nसंवादमिममश्रौषमद्भुतं रोमहर्षणम् ॥ ७४ ॥"
+     "sanskrit": "सञ्जय उवाच —इत्यहं वासुदेवस्य पार्थस्य च महात्मनः ।\nसंवादमिममश्रौषमद्भुतं रोमहर्षणम् ॥ ७४ ॥",
+     "english": "Thus have I listened to this dialogue between Vasudeva and the high-souled Arjuna—a dialogue marvellous and thrilling,"
     },
     {
      "role": "bhashya",
-     "sanskrit": "परिसमाप्तः शास्त्रार्थः । अथ इदानीं कथासम्बन्धप्रदर्शनार्थं सञ्जयः उवाच —\nइति एवम् अहं वासुदेवस्य पार्थस्य च महात्मनः संवादम् इमं यथोक्तम् अश्रौषं श्रुतवान् अस्मि अद्भुतम् अत्यन्तविस्मयकरं रोमहर्षणं रोमाञ्चकरम् ॥ ७४ ॥"
+     "sanskrit": "परिसमाप्तः शास्त्रार्थः । अथ इदानीं कथासम्बन्धप्रदर्शनार्थं सञ्जयः उवाच —\nइति एवम् अहं वासुदेवस्य पार्थस्य च महात्मनः संवादम् इमं यथोक्तम् अश्रौषं श्रुतवान् अस्मि अद्भुतम् अत्यन्तविस्मयकरं रोमहर्षणं रोमाञ्चकरम् ॥ ७४ ॥",
+     "english": "Liberation and Renunciation 639"
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "18.75",
@@ -13162,19 +13314,22 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "राजन् संस्मृत्य संस्मृत्य\nसंवादमिममद्भुतम् ।\nकेशवार्जुनयोः पुण्यं\nहृष्यामि च मुहुर्मुहुः ॥ ७६ ॥\nहे राजन् धृतराष्ट्र, संस्मृत्य संस्मृत्य प्रतिक्षणं संवादम् इमम् अद्भुतं केशवार्जुनयोः पुण्यम् इमं श्रवणेनापि पापहरं श्रुत्वा हृष्यामि च मुहुर्मुहुः प्रतिक्षणम् ॥ ७६ ॥",
-   "english": "O king, remembering every moment this wonderful and holy dialogue between Kesava and Arjunai, I rejoice again and again.\nKing : DhntarasWra* Holy : as the mere hearing of it destroys sin.",
+   "english": "O King! Calling to mind again and again this wonderful and holy dialogue between Krsna and Arjuna, I repeatedly rejoice.\nKing Dhrtarastra! recalling this dialogue every moment, wonderful and holy, of Krsna and Arjuna—merely to hear it is to dispel all sins— I repeatedly rejoice.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "राजन् संस्मृत्य संस्मृत्य\nसंवादमिममद्भुतम् ।\nकेशवार्जुनयोः पुण्यं\nहृष्यामि च मुहुर्मुहुः ॥ ७६ ॥",
-     "english": "O king, remembering every moment this wonderful and holy dialogue between Kesava and Arjunai, I rejoice again and again."
+     "english": "O King! Calling to mind again and again this wonderful and holy dialogue between Krsna and Arjuna, I repeatedly rejoice."
     },
     {
      "role": "bhashya",
      "sanskrit": "हे राजन् धृतराष्ट्र, संस्मृत्य संस्मृत्य प्रतिक्षणं संवादम् इमम् अद्भुतं केशवार्जुनयोः पुण्यम् इमं श्रवणेनापि पापहरं श्रुत्वा हृष्यामि च मुहुर्मुहुः प्रतिक्षणम् ॥ ७६ ॥",
-     "english": "King : DhntarasWra* Holy : as the mere hearing of it destroys sin. 522 THE BHAGAVAD-GITA. [DlS. XVIIL 77, And remembering every rnoment the most wonderful Form of Hari, great is my wonder, O king; and I rejoice again and again. Form : Visvarupa, the Universal Form. Not to dilate much."
+     "english": "King Dhrtarastra! recalling this dialogue every moment, wonderful and holy, of Krsna and Arjuna—merely to hear it is to dispel all sins— I repeatedly rejoice."
     }
-   ]
+   ],
+   "meta": {
+    "english_source": "Warrier, Ramakrishna Math"
+   }
   },
   {
    "ref": "18.77",
@@ -13246,7 +13401,7 @@
  "needs_ocr": true,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit from Advaita Sharada (clean text, so no OCR on the Sanskrit side; the Vani Vilas 1910 scan in the corpus doc is not needed for Sanskrit). English pending OCR pass 2 (Sastri scan); null. ref = chapter.verse; avatarika paragraphs folded into bhashya part. [scan English: Sastri 1897 (archive.org djvu): 539 of 700 verse units filled from archive.org djvu OCR by verse-number sequence; missing ones are null because the OCR lost or garbled the verse number. OCR noise remains in the English (stray characters, footnote markers, occasional merged paragraphs); first pass only. ] [9 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 10.17, 10.25, 11.19, 11.49, 14.23, 15.3, 16.15, 17.5, 17.12] [6 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 1.10, 1.19, 1.23, 1.31, 1.35, 2.10] [Gaps in the Sastri OCR filled from A. G. Krishna Warrier, Bhagavad Gita Bhashya of Shankaracharya (Ramakrishna Math), OCR from archive.org: 147 units, marked meta.english_source. Warrier's verse blocks were matched to units by Devanagari similarity (3-gram dice, monotone alignment), then his commentary paragraphs up to the next verse were attached; his commentary paragraphs before a verse that are numbered .0 (chapter 2 introduction) go to the next verse. Units whose match was very weak (dice below 0.15, or below 0.5 and judged wrong on reading: 5.8, 15.9, 18.56 to 18.58) or whose English was under half the Sanskrit length were left null: 5.8, 15.9, 18.56, 18.57, 18.58, 2.11, 3.10, 5.1, 5.10, 6.1, 8.12, 10.20, 12.10, 12.13, 16.10, 18.74. Footnotes of the printed book can remain inside the English. intro-1 was not filled.] After audit: running heads, Devanagari scraps and range numbers at the start were stripped from the english. Open problems: about 28 units (for example 2.72, 3.12, 4.42, 5.29) carry english far longer than their Sanskrit because the Sastri OCR runs into the next verse's text, and 11 mula+commentary units (for example 6.33, 11.5, 11.10) have only the verse translation. After audit: 8 units whose english ran into the next verse were cut at that verse's number; the text moved to 1 neighbouring units that had none. Tails of chapter-final English that carried the next chapter's introduction (2.72, 4.42, 5.29) were moved to the first unit of the next chapter. Audit pass: english cut where it ran into the next verse (27 units by next-verse number, plus 3.12, 3.1, 4.34, 8.7, 11.55 by hand); the introduction of 5.2 moved from 5.1; running heads (DlS and THE BHAGAVAD-GITA) stripped. [2 units whose english translates the verse only now carry sanskrit = the verse, with the commentary left in the bhashya part: 10.38, 11.5]",
+ "notes": "Sanskrit from Advaita Sharada (clean text, so no OCR on the Sanskrit side; the Vani Vilas 1910 scan in the corpus doc is not needed for Sanskrit). English pending OCR pass 2 (Sastri scan); null. ref = chapter.verse; avatarika paragraphs folded into bhashya part. [scan English: Sastri 1897 (archive.org djvu): 539 of 700 verse units filled from archive.org djvu OCR by verse-number sequence; missing ones are null because the OCR lost or garbled the verse number. OCR noise remains in the English (stray characters, footnote markers, occasional merged paragraphs); first pass only. ] [9 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 10.17, 10.25, 11.19, 11.49, 14.23, 15.3, 16.15, 17.5, 17.12] [6 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 1.10, 1.19, 1.23, 1.31, 1.35, 2.10] [Gaps in the Sastri OCR filled from A. G. Krishna Warrier, Bhagavad Gita Bhashya of Shankaracharya (Ramakrishna Math), OCR from archive.org: 147 units, marked meta.english_source. Warrier's verse blocks were matched to units by Devanagari similarity (3-gram dice, monotone alignment), then his commentary paragraphs up to the next verse were attached; his commentary paragraphs before a verse that are numbered .0 (chapter 2 introduction) go to the next verse. Units whose match was very weak (dice below 0.15, or below 0.5 and judged wrong on reading: 5.8, 15.9, 18.56 to 18.58) or whose English was under half the Sanskrit length were left null: 5.8, 15.9, 18.56, 18.57, 18.58, 2.11, 3.10, 5.1, 5.10, 6.1, 8.12, 10.20, 12.10, 12.13, 16.10, 18.74. Footnotes of the printed book can remain inside the English. intro-1 was not filled.] After audit: running heads, Devanagari scraps and range numbers at the start were stripped from the english. Open problems: about 28 units (for example 2.72, 3.12, 4.42, 5.29) carry english far longer than their Sanskrit because the Sastri OCR runs into the next verse's text, and 11 mula+commentary units (for example 6.33, 11.5, 11.10) have only the verse translation. After audit: 8 units whose english ran into the next verse were cut at that verse's number; the text moved to 1 neighbouring units that had none. Tails of chapter-final English that carried the next chapter's introduction (2.72, 4.42, 5.29) were moved to the first unit of the next chapter. Audit pass: english cut where it ran into the next verse (27 units by next-verse number, plus 3.12, 3.1, 4.34, 8.7, 11.55 by hand); the introduction of 5.2 moved from 5.1; running heads (DlS and THE BHAGAVAD-GITA) stripped. [2 units whose english translates the verse only now carry sanskrit = the verse, with the commentary left in the bhashya part: 10.38, 11.5] [Sastri's translation skips or abridges part of Shankara's commentary in 52 units where his English ran under 0.8 of the Sanskrit length; for these the English is replaced with Warrier's fuller translation (same alignment method as the gap fill), marked meta.english_source: 2.62, 3.22, 3.40, 5.24, 6.15, 6.24, 6.39, 6.43, 6.46, 7.10, 8.7, 8.16, 9.23, 9.26, 9.31, 9.32, 10.1, 10.2, 10.14, 10.21, 10.30, 10.35, 11.2, 11.7, 11.9, 11.10, 11.11, 11.16, 11.17, 11.18, 11.22, 11.23, 11.24, 11.26, 11.31, 11.32, 11.39, 11.47, 11.50, 11.51, 12.15, 14.14, 14.17, 16.21, 17.8, 17.9, 17.13, 18.32, 18.59, 18.69, 18.74, 18.76.]",
  "reference_type": "translation",
  "english_rights": [
   "public_domain",
