@@ -300,13 +300,6 @@
    "english": "'That whose possession of what is to be established is doubt- ful is called the Subject; as the mountain, when the fact of its smoking is assigned as the reason (for inferring the presence of fire). That which certainly possesses the property in question is called an instance on the same side ; as the culinary hearth, in the same exam- ple. That which is certainly devoid of the property in question is called an instance on the opposite side ; as the great deep lake, in the same example.'"
   },
   {
-   "ref": "46",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "प्रमाणान्तरेण निश्चितः स बाधितः । यथा वन्हिरनुष्णो द्रव्यत्वादिति । अत्रानुष्णत्वं साध्यं तदभाव उष्णत्वं स्पार्शनप्रत्यक्षेण गृह्यत इति बाधितत्वम् ॥ ४६ ॥",
-   "english": null
-  },
-  {
    "ref": "47",
    "kind": "verse",
    "scope": "text",
@@ -461,7 +454,7 @@
  "needs_ocr": true,
  "alignment": "row_aligned",
  "slice_of": null,
- "notes": "Mula only: Annambhatta's Tarkasaṃgraha sentences, without his own Dipika gloss, which is a commentary and was dropped as out of scope. Sanskrit and English are from the same scan, both via Sarvam Vision OCR of pages 8-58. Units follow the book's own numbering 1-70 (GRETIL's 81-section numbering differs and was not used); english is the book's quoted translation of that mula number, translator's [brackets] kept (some brackets paraphrase the Dipika). Sections without English: 46. Sections whose number the OCR could not read (mula numbers 7, 28, 36, 52, 53, 54, 68) have no unit here even where the book has their English. Where the OCR fused a Dipika sentence into the mula paragraph, it was split at the last double danda before the section number, so a stray Dipika fragment may remain at the start of a few sanskrit values. First pass.",
+ "notes": "Mula only: Annambhatta's Tarkasaṃgraha sentences, without his own Dipika gloss, which is a commentary and was dropped as out of scope. Sanskrit and English are from the same scan, both via Sarvam Vision OCR of pages 8-58. Units follow the book's own numbering 1-70 (GRETIL's 81-section numbering differs and was not used); english is the book's quoted translation of that mula number, translator's [brackets] kept (some brackets paraphrase the Dipika). Sections without English: 46. Sections whose number the OCR could not read (mula numbers 7, 28, 36, 52, 53, 54, 68) have no unit here even where the book has their English. Where the OCR fused a Dipika sentence into the mula paragraph, it was split at the last double danda before the section number, so a stray Dipika fragment may remain at the start of a few sanskrit values. First pass. [1 units with no english in any source were dropped so every unit is scoreable: 0 colophon units and 1 others (46).]",
  "reference_type": "translation",
  "english_rights": [
   "public_domain"

@@ -6,13 +6,6 @@
  "script": "Devanagari",
  "units": [
   {
-   "ref": "intro-1.1",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "‘ब्रह्मा देवानाम्’ इत्याद्याथर्वणोपनिषत् । अस्याश्च विद्यासम्प्रदायकर्तृत्वपारम्पर्यलक्षणं सम्बन्धमादावेवाह स्वयमेव स्तुत्यर्थम् — एवं हि महद्भिः परमपुरुषार्थसाधनत्वेन गुरुणायासेन लब्धा विद्येति । श्रोतृबुद्धिप्ररोचनाय विद्यां महीकरोति, स्तुत्या प्ररोचितायां हि विद्यायां सादराः प्रवर्तेरन्निति । प्रयोजनेन तु विद्यायाः साध्यसाधनलक्षणं सम्बन्धमुत्तरत्र वक्ष्यति ‘भिद्यते हृदयग्रन्थिः’(मु. उ. २ । २ । ९) इत्यादिना । अत्र चापरशब्दवाच्याया ऋग्वेदादिलक्षणायां विधिप्रतिषेधमात्रपरायां विद्यायां संसारकारणाविद्यादिदोषनिवर्तकत्वं नास्तीति स्वयमेवोक्त्वा परापरेति विद्याभेदकरणपूर्वकम् ‘अविद्यायामन्तरे वर्तमानाः’(मु. उ. १ । २ । ८) इत्यादिना, तथा परप्राप्तिसाधनं सर्वसाधनसाध्यविषयवैराग्यपूर्वकं गुरुप्रसादलभ्यां ब्रह्मविद्यामाह ‘परीक्ष्य लोकान्’(मु. उ. १ । २ । १२) इत्यादिना । प्रयोजनं चासकृद्ब्रवीति ‘ब्रह्म वेद ब्रह्मैव भवति’(मु. उ. ३ । २ । ९) इति ‘परामृताः परिमुच्यन्ति सर्वे’(मु. उ. ३ । २ । ६) इति च । ज्ञानमात्रे यद्यपि सर्वाश्रमिणामधिकारः, तथापि संन्यासनिष्ठैव ब्रह्मविद्या मोक्षसाधनं न कर्मसहितेति ‘भैक्षचर्यां चरन्तः’(मु. उ. १ । २ । ११) ‘संन्यासयोगात्’(मु. उ. ३ । २ । ६) इति च ब्रुवन्दर्शयति । विद्याकर्मविरोधाच्च । न हि ब्रह्मात्मैकत्वदर्शनेन सह कर्म स्वप्नेऽपि सम्पादयितुं शक्यम् ; विद्यायाः कालविशेषाभावादनियतनिमित्तत्वाच्च कालसङ्कोचानुपपत्तेः । यत्तु गृहस्थेषु ब्रह्मविद्यासम्प्रदायकर्तृत्वादि लिङ्गं न तत्स्थितं न्यायं बाधितुमुत्सहते ; न हि विधिशतेनापि तमःप्रकाशयोरेकत्र सद्भावः शक्यते कर्तुम् , किमुत लिङ्गैः केवलैरिति । एवमुक्तसम्बन्धप्रयोजनाया उपनिषदोऽल्पग्रन्थं विवरणमारभ्यते । य इमां ब्रह्मविद्यामुपयन्त्यात्मभावेन श्रद्धाभक्तिपुरःसराः सन्तः, तेषां गर्भजन्मजरारोगाद्यनर्थपूगं निशातयति परं वा ब्रह्म गमयत्यविद्यादिसंसारकारणं वा अत्यन्तमवसादयति विनाशयतीत्युपनिषत् ; उपनिपूर्वस्य सदेरेवमर्थस्मरणात् ॥",
-   "english": null
-  },
-  {
    "ref": "1.1.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -182,13 +175,6 @@
      "english": "Com.—By way of concluding what was already stated the mantra says as follows: ‘Yah,’ above described and named akshara; Sarvajna means he who knows all, who knows all things as a class. Sarvavid, i.e., who knows everything in particular; whose tapas is only a modification of knowledge, consists in omniscience and is not in the nature of modification. From him so described, omniscient, this, i.e., manifested Brahman by name Hiranyagarbha, is produced. Again name, such as ‘This is Devadatta and Yajnadatta, etc.’; and form such as this is white, blue, etc., and food such as corn, yava, etc., are produced in the order stated in the last text; thus there is no inconsistency.\n——o——"
     }
    ]
-  },
-  {
-   "ref": "colophon-1.1",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति प्रथममुण्डके प्रथमखण्डभाष्यम् ॥",
-   "english": null
   },
   {
    "ref": "1.2.1",
@@ -438,20 +424,6 @@
    ]
   },
   {
-   "ref": "colophon-1.2",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ मुण्डकोपनिषद्भाष्ये प्रथमं मुण्डकं समाप्तम् ॥",
-   "english": null
-  },
-  {
-   "ref": "intro-2.1",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "अपरविद्यायाः सर्वं कार्यमुक्तम् । स च संसारो यत्सारो यस्मान्मूलादक्षरात्सम्भवति यस्मिंश्च प्रलीयते, तदक्षरं पुरुषाख्यं सत्यम् । यस्मिन्विज्ञाते सर्वमिदं विज्ञातं भवति, तत्परस्या ब्रह्मविद्याया विषयः । स वक्तव्य इत्युत्तरो ग्रन्थ आरभ्यते —",
-   "english": null
-  },
-  {
    "ref": "2.1.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -642,13 +614,6 @@
    ]
   },
   {
-   "ref": "colophon-2.1",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति द्वितीयमुण्डके प्रथमखण्डशभाष्यम् ॥",
-   "english": null
-  },
-  {
    "ref": "2.2.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -782,23 +747,6 @@
    ]
   },
   {
-   "ref": "2.2.8",
-   "kind": "verse",
-   "scope": "mula+commentary",
-   "sanskrit": "मनोमयः प्राणशरीरनेता प्रतिष्ठितोऽन्ने हृदयं सन्निधाय ।\nतद्विज्ञानेन परिपश्यन्ति धीरा आनन्दरूपममृतं यद्विभाति ॥ ८ ॥\nस ह्यात्मा तत्रस्थो मनोवृत्तिभिरेव विभाव्यत इति मनोमयः, मनउपाधित्वात् । प्राणशरीरनेता प्राणश्च तच्छरीरं च तत्प्राणशरीरं तस्यायं नेता । अस्मात्स्थूलाच्छरीराच्छरीरान्तरं सूक्ष्मं प्रति प्रतिष्ठितः अवस्थितः अन्ने भुज्यमानान्नविपरिणामे प्रतिदिनमुपचीयमाने अपचीयमाने च पिण्डरूपेऽन्ने हृदयं बुद्धिं पुण्डरीकच्छिद्रे सन्निधाय समवस्थाप्य ; हृदयावस्थानमेव ह्यात्मनः स्थितिः, न ह्यात्मनः स्थितिरन्ने ; तत् आत्मतत्त्वं विज्ञानेन विशिष्टेन शास्त्राचार्योपदेशजनितेन ज्ञानेन शमदमध्यानसर्वत्यागवैराग्योद्भूतेन परिपश्यन्ति सर्वतः पूर्णं पश्यन्ति उपलभन्ते धीराः विवेकिनः । आनन्दरूपं सर्वानर्थदुःखायासप्रहीणं सुखरूपम् अमृतं यद्विभाति विशेषेण स्वात्मन्येव भाति सर्वदा ॥",
-   "english": null,
-   "parts": [
-    {
-     "role": "mula",
-     "sanskrit": "मनोमयः प्राणशरीरनेता प्रतिष्ठितोऽन्ने हृदयं सन्निधाय ।\nतद्विज्ञानेन परिपश्यन्ति धीरा आनन्दरूपममृतं यद्विभाति ॥ ८ ॥"
-    },
-    {
-     "role": "bhashya",
-     "sanskrit": "स ह्यात्मा तत्रस्थो मनोवृत्तिभिरेव विभाव्यत इति मनोमयः, मनउपाधित्वात् । प्राणशरीरनेता प्राणश्च तच्छरीरं च तत्प्राणशरीरं तस्यायं नेता । अस्मात्स्थूलाच्छरीराच्छरीरान्तरं सूक्ष्मं प्रति प्रतिष्ठितः अवस्थितः अन्ने भुज्यमानान्नविपरिणामे प्रतिदिनमुपचीयमाने अपचीयमाने च पिण्डरूपेऽन्ने हृदयं बुद्धिं पुण्डरीकच्छिद्रे सन्निधाय समवस्थाप्य ; हृदयावस्थानमेव ह्यात्मनः स्थितिः, न ह्यात्मनः स्थितिरन्ने ; तत् आत्मतत्त्वं विज्ञानेन विशिष्टेन शास्त्राचार्योपदेशजनितेन ज्ञानेन शमदमध्यानसर्वत्यागवैराग्योद्भूतेन परिपश्यन्ति सर्वतः पूर्णं पश्यन्ति उपलभन्ते धीराः विवेकिनः । आनन्दरूपं सर्वानर्थदुःखायासप्रहीणं सुखरूपम् अमृतं यद्विभाति विशेषेण स्वात्मन्येव भाति सर्वदा ॥"
-    }
-   ]
-  },
-  {
    "ref": "2.2.9",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -873,20 +821,6 @@
      "english": "Com.—The statement, Brahman alone the light of lights is true and that all else is only its modification, a matter of speech is a mere name and falsehood first made and logically demonstrated at length (afterwards) is affirmed again as a conclusion by this mantra. That which is before us and which, in the eyes of the ignorant, appears to be not Brahman is certainly Brahman. Similarly what is behind us; so, that to the south; so, that to the north; so, that below, and that above and all that is extended everywhere in the form of effect, appearing otherwise than Brahman and possessed of name and form. Why say much? All this vast universe is Brahman certainly. All perception otherwise than as Brahman is mere ignorance, just as the perception of a serpent in a rope. The declaration of the Vedas is that the one Brahman alone is really true.\n——:o:——"
     }
    ]
-  },
-  {
-   "ref": "colophon-2.2",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ मुण्डकोपनिषद्भाष्ये द्वितीयं मुण्डकं समाप्तम् ॥",
-   "english": null
-  },
-  {
-   "ref": "intro-3.1",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "परा विद्योक्ता यया तदक्षरं पुरुषाख्यं सत्यमधिगम्यते । यदधिगमे हृदयग्रन्थ्यादिसंसारकारणस्यात्यन्तिको विनाशः स्यात् , तद्दर्शनोपायश्च योगो धनुराद्युपादानकल्पनयोक्तः । अथेदानीं तत्सहकारीणि सत्यादिसाधनानि वक्तव्यानीति तदर्थम् उत्तरग्रन्थारम्भः । प्राधान्येन तत्त्वनिर्धारणं च प्रकारान्तरेण क्रियते । अत्यन्तदुरवगाहत्वात्कृतमपि तत्र सूत्रभूतो मन्त्रः परमार्थवस्त्ववधारणार्थमुपन्यस्यते —",
-   "english": null
   },
   {
    "ref": "3.1.1",
@@ -1077,13 +1011,6 @@
      "english": "Com.—This text explains that the man who identifies the atman of all with his own, obtains as the fruits thereof, all that he longs for; because of the fact that he is the Atman of all. Whatever worlds, i.e., such as those of the manes and the rest, he covets either himself, or for others, or whatever enjoyments he wishes for the man of pure mind who is free from all grief and who knows the Atman, he obtains those worlds and those enjoyments. Therefore, i.e., because the wishes of the knower of the Atman are always realised; let one who longs for vibhutis propitiate the knower of the Atman, whose mind is purified by such knowledge, by cleaning his feet with water, personal service, prostration and the rest; therefore, he is worthy of worship.\n——:o:——"
     }
    ]
-  },
-  {
-   "ref": "colophon-3.1",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति तृतीयमुण्डके प्रथमखण्डभाष्यम् ॥",
-   "english": null
   },
   {
    "ref": "3.2.1",
@@ -1293,13 +1220,6 @@
      "english": "Com.—This undecaying and true purusha did the seer, known as Angiras, teach in ancient days to Saunaka who had duly approached him and questioned him (about this). The meaning is that, similarly, any other also should teach the same to one who longs for bliss and seeks emancipation and who with that end in view has duly approached the preceptor. This knowledge in the form of a book, no one who has not observed the vow, studies; for it is knowledge, only in those who observe the vow, that bears fruit. Thus ends the knowledge of Brahman which has been handed down from Brahma and the rest from preceptor to disciple. Prostration to those sages, Brahma and the rest, who have directly seen the Brahman and realised him. Prostration again to them; the repetition is both to indicate great solicitude and the fact that the Mundakopanishad here ends.\n——o——"
     }
    ]
-  },
-  {
-   "ref": "colophon-3.2",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति तृतीयमुण्डके द्वितीयखण्डभाष्यम् ॥\nइति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ मुण्डकोपनिषद्भाष्यं सम्पूर्णम् ॥",
-   "english": null
   }
  ],
  "source_sanskrit": {
@@ -1316,7 +1236,7 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/mundaka-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1905), joined by Devanagari verse text (48) or number-checked ref (16): 64 of 65 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika).",
+ "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/mundaka-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1905), joined by Devanagari verse text (48) or number-checked ref (16): 64 of 65 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [10 units with no english in any source were dropped so every unit is scoreable: 6 colophon units and 4 others (intro-1.1, intro-2.1, 2.2.8, intro-3.1).]",
  "reference_type": "translation",
  "english_rights": [
   "public_domain"

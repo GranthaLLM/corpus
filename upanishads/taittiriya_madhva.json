@@ -186,13 +186,6 @@
    }
   },
   {
-   "ref": "1.9#39",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "“मानुषं मानुषो धर्मो देवा अपि हि मानुषे।\nमनुष्यवत् प्रवर्तन्ते नैवैश्वर्यप्रकाशिनः॥”\nइति च।",
-   "english": null
-  },
-  {
    "ref": "1.9#41-43",
    "kind": "prose",
    "scope": "commentary",
@@ -243,13 +236,6 @@
    }
   },
   {
-   "ref": "1.11-12#50",
-   "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "शं नो मित्रः शं वरुणः। शं नो भवत्वर्यमा। शं न इन्द्रो बृहस्पतिः। शं नो विष्णुरुरुक्रमः। नमो ब्रह्मणे। नमस्ते वायो। त्वमेव प्रत्यक्षं ब्रह्मासि। त्वामेव प्रत्यक्षं ब्रह्मावादिषम्। ऋतमवादिषम्। सत्यमवादिषम्। तन्मामावीत्। तद्वक्तारमावीत्। आवीन्माम्। आवीद् वक्तारम्। ॐ शान्तिः शान्तिः शान्तिः॥ १/२३॥",
-   "english": null
-  },
-  {
    "ref": "1.11-12#51",
    "kind": "prose",
    "scope": "commentary",
@@ -258,13 +244,6 @@
    "meta": {
     "match_min": 0.97
    }
-  },
-  {
-   "ref": "2.1-9#54",
-   "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "ॐ सह नाववतु। सह नौ भुनक्तु। सह वीर्यं करवावहै। तेजस्वि नावधीतमस्तु मा विद्विषावहै। ॐ शान्तिः शान्तिः शान्तिः॥",
-   "english": null
   },
   {
    "ref": "2.1-9#55-57",
@@ -357,20 +336,6 @@
    }
   },
   {
-   "ref": "2.1-9#81",
-   "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "सह नाववतु। सह नौ भुनक्तु। सह वीर्यं करवावहै। तेजस्वि नावधीतमस्तु मा विद्विषावहै। ॐ शान्तिः शान्तिः शान्तिः॥",
-   "english": null
-  },
-  {
-   "ref": "3.1-10#84",
-   "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "ॐ सह नाववतु। सह नौ भुनक्तु। सह वीर्यं करवावहै। तेजस्वि नावधीतमस्तु मा विद्विषावहै। ॐ शान्तिः शान्तिः शान्तिः॥",
-   "english": null
-  },
-  {
    "ref": "3.1-10#85-90",
    "kind": "verse",
    "scope": "mula",
@@ -451,13 +416,6 @@
    }
   },
   {
-   "ref": "3.1-10#103",
-   "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "सह नाववतु। सह नौ भुनक्तु। सह वीर्यं करवावहै। तेजस्वि नावधीतमस्तु मा विद्विषावहै। ओ३म् शान्तिः शान्तिः शान्तिः॥",
-   "english": null
-  },
-  {
    "ref": "3.1-10#105-106",
    "kind": "prose",
    "scope": "commentary",
@@ -512,7 +470,7 @@
  "needs_ocr": true,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Setutila's file is Madhva's bhashya (its colophon names Anandatirtha). English is Sonde's translation from the Sarvam Vision OCR of the PDF, which recovers the Devanagari of every quoted mantra and bhashya passage. Each Sonde quote (Devanagari + English) was matched to the Setutila block or run of consecutive same-type blocks whose text it covers (character-level alignment, coverage >= 0.55; adjacent quotes hitting overlapping blocks are merged); 111 Sonde quotes found, 108 matched, 46 of 54 units have English, minimum coverage 0.66, median 0.97. kind = mula (mantra text, Upanishad sections of Sonde) or bhashya (Madhva's commentary, Bhashya sections); the unit's english translates exactly its sanskrit. ref = group label (Sikshavalli anuvakas etc.) + '#' + Setutila block index(es); match_min = lowest alignment coverage among the quotes merged into the unit. Sonde's 'Further Explanation' notes are his own commentary and are excluded. Units without English: the repeated peace chants Sonde does not restate and a few short bhashya fragments whose quotes were absorbed into neighbours' translations. OCR errors possible in both scripts (e.g. मनोमय, वह्म for ब्रह्म). First pass. After audit: 1.9#34-37 and the fragments 1.9#38 to 1.9#40 were merged because Sonde's quote covers them together; the Satya, Taponitya and Naka sentence moved from 1.5-7#25-28 to 1.9#33. Stray source marks were removed from the Sanskrit (editorial brackets, asterisks, page headers, watermark text, OCR pipes for dandas). Words left in the legacy-font encoding in the english (tokens such as ']paiQa' or '[it') were removed.",
+ "notes": "Setutila's file is Madhva's bhashya (its colophon names Anandatirtha). English is Sonde's translation from the Sarvam Vision OCR of the PDF, which recovers the Devanagari of every quoted mantra and bhashya passage. Each Sonde quote (Devanagari + English) was matched to the Setutila block or run of consecutive same-type blocks whose text it covers (character-level alignment, coverage >= 0.55; adjacent quotes hitting overlapping blocks are merged); 111 Sonde quotes found, 108 matched, 46 of 54 units have English, minimum coverage 0.66, median 0.97. kind = mula (mantra text, Upanishad sections of Sonde) or bhashya (Madhva's commentary, Bhashya sections); the unit's english translates exactly its sanskrit. ref = group label (Sikshavalli anuvakas etc.) + '#' + Setutila block index(es); match_min = lowest alignment coverage among the quotes merged into the unit. Sonde's 'Further Explanation' notes are his own commentary and are excluded. Units without English: the repeated peace chants Sonde does not restate and a few short bhashya fragments whose quotes were absorbed into neighbours' translations. OCR errors possible in both scripts (e.g. मनोमय, वह्म for ब्रह्म). First pass. After audit: 1.9#34-37 and the fragments 1.9#38 to 1.9#40 were merged because Sonde's quote covers them together; the Satya, Taponitya and Naka sentence moved from 1.5-7#25-28 to 1.9#33. Stray source marks were removed from the Sanskrit (editorial brackets, asterisks, page headers, watermark text, OCR pipes for dandas). Words left in the legacy-font encoding in the english (tokens such as ']paiQa' or '[it') were removed. [6 units with no english in any source were dropped so every unit is scoreable: 0 colophon units and 6 others (1.9#39, 1.11-12#50, 2.1-9#54, 2.1-9#81, 3.1-10#84, 3.1-10#103).]",
  "reference_type": "translation",
  "english_rights": [
   "free_to_copy_per_author"

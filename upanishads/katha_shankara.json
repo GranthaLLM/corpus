@@ -6,13 +6,6 @@
  "script": "Devanagari",
  "units": [
   {
-   "ref": "intro-1.1",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "ॐ नमो भगवते वैवस्वताय मृत्यवे ब्रह्मविद्याचार्याय, नचिकेतसे च ।\nअथ काठकोपनिषद्वल्लीनां सुखार्थप्रबोधनार्थमल्पग्रन्था वृत्तिरारभ्यते । सदेर्धातोर्विशरणगत्यवसादनार्थस्योपनिपूर्वस्य क्विप्प्रत्ययान्तस्य रूपमिदम् ‘उपनिषत्’ इति । उपनिषच्छब्देन च व्याचिख्यासितग्रन्थप्रतिपाद्यवेद्यवस्तुविषया विद्या उच्यते । केन पुनरर्थयोगेनोपनिषच्छब्देन विद्योच्यत इति, उच्यते । ये मुमुक्षवो दृष्टानुश्रविकविषयवितृष्णाः सन्तः उपनिषच्छब्दवाच्यां वक्ष्यमाणलक्षणां विद्यामुपसद्योपगम्य तन्निष्ठतया निश्चयेन शीलयन्ति तेषामविद्यादेः संसारबीजस्य विशरणाद्धिंसनाद्विनाशनादित्यनेनार्थयोगेन विद्योपनिषदित्युच्यते । तथा च वक्ष्यति ‘निचाय्य तं मृत्युमुखात्प्रमुच्यते’(क. उ. १ । ३ । १५) इति । पूर्वोक्तविशेषणान्वा मुमुक्षून्परं ब्रह्म गमयतीति च ब्रह्मगमयितृत्वेन योगाद्ब्रह्मविद्या उपनिषत् । तथा च वक्ष्यति ‘ब्रह्म प्राप्तो विरजोऽभूद्विमृत्युः’(क. उ. २ । ३ । १८) इति । लोकादिर्ब्रह्मजज्ञो योऽग्निः, तद्विषयाया विद्याया द्वितीयेन वरेण प्रार्थ्यमानायाः स्वर्गलोकफलप्राप्तिहेतुत्वेन गर्भवासजन्मजराद्युपद्रवबृन्दस्य लोकान्तरे पौनःपुन्येन प्रवृत्तस्यावसादयितृत्वेन शैथिल्यापादनेन धात्वर्थयोगादग्निविद्यापि उपनिषदित्युच्यते । तथा च वक्ष्यति ‘स्वर्गलोका अमृतत्वं भजन्ते’(क. उ. १ । १ । १३) इत्यादि । ननु चोपनिषच्छब्देनाध्येतारो ग्रन्थमप्यभिलपन्ति — उपनिषदमधीमहे उपनिषदमध्यापयाम इति च । नैष दोषः, अविद्यादिसंसारहेतुविशरणादेः सदिधात्वर्थस्य ग्रन्थमात्रेऽसम्भवाद्विद्यायां च सम्भवात् ग्रन्थस्यापि तादर्थ्येन तच्छब्दत्वोपपत्तेः ‘आयुर्वै घृतम्’(तै. सं. २ । ३ । ११) इत्यादिवत् । तस्माद्विद्यायां मुख्यया वृत्त्या उपनिषच्छब्दो वर्तते, ग्रन्थे तु भक्त्येति । एवमुपनिषन्निर्वचनेनैव विशिष्टोऽधिकारी विद्यायाम् उक्तः । विषयश्च विशिष्ट उक्तो विद्यायाः परं ब्रह्म प्रत्यगात्मभूतम् । प्रयोजनं चास्या आत्यन्तिकी संसारनिवृत्तिर्ब्रह्मप्राप्तिलक्षणा । सम्बन्धश्चैवम्भूतप्रयोजनेनोक्तः । अतो यथोक्ताधिकारिविषयप्रयोजनसम्बन्धाया विद्यायाः करतलन्यस्तामलकवत्प्रकाशकत्वेन विशिष्टाधिकारिविषयप्रयोजनसम्बन्धा एता वल्ल्यो भवन्तीति । अतस्ता यथाप्रतिभानं व्याचक्ष्महे ॥",
-   "english": null
-  },
-  {
    "ref": "1.1.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -561,13 +554,6 @@
    ]
   },
   {
-   "ref": "colophon-1.1",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति प्रथमवल्लीभाष्यम् ॥",
-   "english": null
-  },
-  {
    "ref": "1.2.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -1043,13 +1029,6 @@
    ]
   },
   {
-   "ref": "colophon-1.2",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति द्वितीयवल्लीभाष्यम् ॥",
-   "english": null
-  },
-  {
    "ref": "1.3.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -1371,27 +1350,6 @@
    ]
   },
   {
-   "ref": "colophon-1.3",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति तृतीयवल्लीभाष्यम् ॥",
-   "english": null
-  },
-  {
-   "ref": "colophon-1",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ काठकोपनिषद्भाष्ये प्रथमोऽध्यायः ॥",
-   "english": null
-  },
-  {
-   "ref": "intro-2.1",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "‘एष सर्वेषु भूतेषु गूढोऽत्मा न प्रकाशते। दृश्यते त्वग्र्यया बुद्ध्या’(क. उ. १ । ३ । १२) इत्युक्तम् । कः पुनः प्रतिबन्धोऽग्र्याया बुद्धेः, येन तदभावादात्मा न दृश्यत इति तददर्शनकारणप्रदर्शनार्था वल्ली आरभ्यते ; विज्ञाते हि श्रेयःप्रतिबन्धकारणे तदपनयनाय यत्न आरब्धुं शक्यते, नान्यथेति —",
-   "english": null
-  },
-  {
    "ref": "2.1.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -1670,13 +1628,6 @@
      "english": "Com.—But how becomes the atman of a thinker who has acquired knowledge, whose perception of difference due to conditions has been destroyed, and who knows the atman pure, dense with knowledge unalloyed, and one without a second, is explained. As water pure poured into pure becomes of the same quality, not otherwise, the atman also of the thinker becomes the same, Oh Gautama. Therefore, leaving the perception of difference induced by bad logic and the erroneous notion of no-here-after, the perception of the one-ness of the atman inculcated by the Vedas, a better well-wisher than thousands of mothers and fathers should be anxiously respected by those whose pride has been quelled.\n———"
     }
    ]
-  },
-  {
-   "ref": "colophon-2.1",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति चतुर्थवल्लीभाष्यम् ॥",
-   "english": null
   },
   {
    "ref": "2.2.1",
@@ -1962,13 +1913,6 @@
      "english": "Com.—The reply here is that it shines and is perceived as shining. The sun, though the enlightener of all, does not shine in the Brahman, being his atman, i.e., the sun does not illumine the Brahman. Similarly, the moon and the stars do not; nor do these lightnings illumine. How could this fire, perceivable by us? Why say much? All these, the sun and the rest who shine, shine only after him, the lord of all; as water, firebrand, etc., from their contact with fire, burn after the burning fire and not by their own inherent virtue. It is by his light only, that all this, the sun and the rest shine. This being so, that Brahman alone shines and shines variously. From the various kinds of light possessed by its effects, the self-luminosity of the Brahman is inferred. It is not possible for one to impart to another luminosity, which one does not possess, because pots, etc., are found incapable of illumining other objects and the sun and the rest, luminous in their nature, are found capable of that.\n———"
     }
    ]
-  },
-  {
-   "ref": "colophon-2.2",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति पञ्चमवल्लीभाष्यम् ॥",
-   "english": null
   },
   {
    "ref": "2.3.1",
@@ -2326,20 +2270,6 @@
      "sanskrit": "अथ शिष्याचार्ययोः प्रमादकृतान्यायेन विद्याग्रहणप्रतिपादननिमित्तदोषप्रशमनार्थेयं शान्तिरुच्यते — सह नौ आवाम् अवतु पालयतु विद्यास्वरूपप्रकाशनेन । कः ? स एव परमेश्वरः उपनिषत्प्रकाशितः । किञ्च, सह नौ भुनक्तु तत्फलप्रकाशनेन नौ पालयतु । सहैव आवां विद्याकृतं वीर्यं सामर्थ्यं करवावहै निष्पादयावहै । किञ्च, तेजस्विनौ तेजस्विनोरावयोः यत् अधीतं तत्स्वधीतमस्तु । अथवा, तेजस्वि नौ आवाभ्यां यत् अधीतं तदतीव तेजस्वि वीर्यवदस्त्वित्यर्थः । मा विद्विषावहै शिष्याचार्यावन्योन्यं प्रमादकृतान्यायाध्ययनाध्यापनदोषनिमित्तं द्वेषं मा करवावहै इत्यर्थः । शान्तिः शान्तिः शान्तिरिति त्रिर्वचनं सर्वदोषोपशमनार्थम् ॥\nइति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ काठकोपनिषद्भाष्यम् सम्पूर्णम् ॥"
     }
    ]
-  },
-  {
-   "ref": "colophon-2.3",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति षष्ठी वल्ली ॥",
-   "english": null
-  },
-  {
-   "ref": "colophon-2",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ काठकोपनिषद्भाष्ये द्वितीयोऽध्यायः ॥",
-   "english": null
   }
  ],
  "source_sanskrit": {
@@ -2356,7 +2286,7 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/kathaka-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1928), joined by Devanagari verse text (92) or number-checked ref (28): 120 of 120 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [12 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 1.1.10, 1.3.11, 1.3.12, 2.1.4, 2.1.5, 2.1.12, 2.1.13, 2.1.14, 2.3.9, 2.3.10, 2.3.11, 2.3.19]",
+ "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/kathaka-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1928), joined by Devanagari verse text (92) or number-checked ref (28): 120 of 120 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [12 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 1.1.10, 1.3.11, 1.3.12, 2.1.4, 2.1.5, 2.1.12, 2.1.13, 2.1.14, 2.3.9, 2.3.10, 2.3.11, 2.3.19] [10 units with no english in any source were dropped so every unit is scoreable: 8 colophon units and 2 others (intro-1.1, intro-2.1).]",
  "reference_type": "translation",
  "english_rights": [
   "public_domain"

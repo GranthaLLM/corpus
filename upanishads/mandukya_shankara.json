@@ -6,13 +6,6 @@
  "script": "Devanagari",
  "units": [
   {
-   "ref": "intro-1",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "प्रज्ञानांशुप्रतानैः स्थिरचरनिकरव्यापिभिर्व्याप्य लोका -\nन्भुक्त्वा भोगान्स्थविष्ठान्पुनरपि धिषणोद्भासितान्कामजन्यान् ।\nपीत्वा सर्वान्विशेषान्स्वपिति मधुरभुङ्मायया भोजयन्नो\nमायासङ्ख्यातुरीयं परममृतमजं ब्रह्म यत्तन्नतोऽस्मि ॥ १ ॥\nयो विश्वात्मा विधिजविषयान्प्राश्य भोगान्स्थविष्ठा -\nन्पश्चाच्चान्यान्स्वमतिविभवाञ्ज्योतिषा स्वेन सूक्ष्मान् ।\nसर्वानेतान्पुनरपि शनैः स्वात्मनि स्थापयित्वा\nहित्वा सर्वान्विशेषान्विगतगुणगणः पात्वसौ नस्तुरीयः ॥ २ ॥\nओमित्येतदक्षरमिदं सर्वं तस्योपव्याख्यानम् । वेदान्तार्थसारसङ्ग्रहभूतमिदं प्रकरणचतुष्टयम् ओमित्येतदक्षरमित्यादि आरभ्यते । अत एव न पृथक् सम्बन्धाभिधेयप्रयोजनानि वक्तव्यानि । यान्येव तु वेदान्ते सम्बन्धाभिधेयप्रयोजनानि, तान्येवेहापि भवितुमर्हन्ति ; तथापि प्रकरणव्याचिख्यासुना सङ्क्षेपतो वक्तव्यानीति मन्यन्ते व्याख्यातारः । तत्र प्रयोजनवत्साधनाभिव्यञ्जकत्वेनाभिधेयसम्बद्धं शास्त्रं पारम्पर्येण विशिष्टसम्बन्धाभिधेयप्रयोजनवद्भवति । किं पुनस्तत्प्रयोजनमिति, उच्यते — रोगार्तस्येव रोगनिवृत्तौ स्वस्थता, तथा दुःखात्मकस्यात्मनो द्वैतप्रपञ्चोपशमे स्वस्थता ; अद्वैतभावः प्रयोजनम् । द्वैतप्रपञ्चस्य चाविद्याकृतत्वाद्विद्यया तदुपशमः स्यादिति ब्रह्मविद्याप्रकाशनाय अस्यारम्भः क्रियते । ‘यत्र हि द्वैतमिव भवति’(बृ. उ. २ । ४ । १४) , ‘यत्र वान्यदिव स्यात्तत्रान्योऽन्यत्पश्येदन्योऽन्यद्विजानीयात्’(बृ. उ. ४ । ३ । ३१) ‘यत्र त्वस्य सर्वमात्मैवाभूत्तत्केन कं पश्येत्तत्केन कं विजानीयात्’(बृ. उ. ४ । ५ । १५) इत्यादिश्रुतिभ्योऽस्यार्थस्य सिद्धिः । तत्र तावदोङ्कारनिर्णयाय प्रथमं प्रकरणमागमप्रधानमात्मतत्त्वप्रतिपत्त्युपायभूतम् । यस्य द्वैतप्रपञ्चस्योपशमे अद्वैतप्रतिपत्तिः रज्ज्वामिव सर्पादिविकल्पोपशमे रज्जुतत्त्वप्रतिपत्तिः, तस्य द्वैतस्य हेतुतो वैतथ्यप्रतिपादनाय द्वितीयं प्रकरणम् । तथा अद्वैतस्यापि वैतथ्यप्रसङ्गप्राप्तौ, युक्तितस्तथात्वप्रतिपादनाय तृतीयं प्रकरणम् । अद्वैतस्य तथात्वप्रतिपत्तिविपक्षभूतानि यानि वादान्तराण्यवैदिकानि सन्ति, तेषामन्योन्यविरोधित्वादतथार्थत्वेन तदुपपत्तिभिरेव निराकरणाय चतुर्थं प्रकरणम् ॥",
-   "english": null
-  },
-  {
    "ref": "1.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -777,13 +770,6 @@
    ]
   },
   {
-   "ref": "colophon-1",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति प्रथममागमप्रकरणं सम्पूर्णम् ॥",
-   "english": null
-  },
-  {
    "ref": "2.K1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -1472,13 +1458,6 @@
      "english": "The truth regarding external objects such as the earth, etc., and the truth regarding internal objects characterised by body, etc., is that these are as unreal as a snake seen in the rope, or objects seen in dream or magic. For, there are such Śruti passages as, “modification being only a name, arising from speech, etc.” The Śruti further declares, “Ātman is both within and without, birthless, causeless, having no within or without, entire, all-pervading like the Ākāśa (ether), subtle, unchanging, without attributes and parts, and without action. That is Truth, That is Ātman and That thou art.” Knowing it to be such from the point of view of Truth, he becomes one with Truth and derives his enjoyment from Truth and not from any external object. But a person ignorant of Truth, takes the mind to be the Self and believes the Ātman to be active like the mind, and becomes active. He thus thinks his self to be identified with the body, etc., and deviated from Ātman saying, “Oh, I am now fallen from the Knowledge of Self.” When his mind is concentrated he sometimes thinks that he is happy and one with the Self. He declares “Oh, I am now one with the essence of Truth.” But, the knower of Self never makes any such statement, as Ātman is ever one and changeless and as it is impossible for Ātman to deviate from its own nature. The consciousness that “I am Brahman” never leaves him. In other words, he never loses the consciousness regarding the essence of the Self. The Smṛti supports this view in such passages as “The wise man views equally a dog or an outcaste.” “He sees who sees the Supreme Lord remaining the same, in all beings.” (Gītā)"
     }
    ]
-  },
-  {
-   "ref": "colophon-2",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति द्वितीयं वैतथ्यप्रकरणं सम्पूर्णम् ॥",
-   "english": null
   },
   {
    "ref": "3.K1",
@@ -2414,13 +2393,6 @@
    ]
   },
   {
-   "ref": "colophon-3",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति तृतीयमद्वैतप्रकरणं सम्पूर्णम् ॥",
-   "english": null
-  },
-  {
    "ref": "4.K1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -2693,23 +2665,6 @@
      "role": "bhashya",
      "sanskrit": "कथं तैर्विरुद्धमभ्युपगम्यत इति, उच्यते — हेतुजन्यादेव फलात् हेतोर्जन्माभ्युपगच्छतां तेषामीदृशो विरोध उक्तो भवति, यथा पुत्राज्जन्म पितुः ॥",
      "english": "How does the contention of the opponent imply a contradiction? It is thus replied:—The admission that the cause is produced from an effect, which is itself born of a cause, carries with it the contradiction which may be stated to be like the birth of the father from the son."
-    }
-   ]
-  },
-  {
-   "ref": "4.K16",
-   "kind": "verse",
-   "scope": "mula+commentary",
-   "sanskrit": "सम्भवे हेतुफलयोरेषितव्यः क्रमस्त्वया ।\nयुगपत्सम्भवे यस्मादसम्बन्धो विषाणवत् ॥ १६ ॥\nयथोक्तो विरोधो न युक्तोऽभ्युपगन्तुमिति चेन्मन्यसे, सम्भवे उत्पत्तौ हेतुफलयोः क्रमः एषितव्यः अन्वेष्टव्यः त्वया — हेतुः पूर्वं पश्चात्फलं चेति । इतश्च युगपत्सम्भवे यस्माद्धेतुफलयोः कार्यकारणत्वेन असम्बन्धः, यथा युगपत्सम्भवतोः सव्येतरगोविषाणयोः ॥",
-   "english": null,
-   "parts": [
-    {
-     "role": "mula",
-     "sanskrit": "सम्भवे हेतुफलयोरेषितव्यः क्रमस्त्वया ।\nयुगपत्सम्भवे यस्मादसम्बन्धो विषाणवत् ॥ १६ ॥"
-    },
-    {
-     "role": "bhashya",
-     "sanskrit": "यथोक्तो विरोधो न युक्तोऽभ्युपगन्तुमिति चेन्मन्यसे, सम्भवे उत्पत्तौ हेतुफलयोः क्रमः एषितव्यः अन्वेष्टव्यः त्वया — हेतुः पूर्वं पश्चात्फलं चेति । इतश्च युगपत्सम्भवे यस्माद्धेतुफलयोः कार्यकारणत्वेन असम्बन्धः, यथा युगपत्सम्भवतोः सव्येतरगोविषाणयोः ॥"
     }
    ]
   },
@@ -4218,13 +4173,6 @@
      "english": "The treatise is now completed. This Salutation is made with a view to extol the knowledge of the Supreme Reality. It is extremely difficult to understand it. In other words, it is difficult of comprehension as it is not related to any of the four possible predicates, such as existence, non-existence, etc. It is profound, that is, very deep like a great ocean. People devoid of discrimination cannot fathom it. This knowledge (Jñāna) is, further, birthless, always the same and all-light. Having attained this knowledge which is free from multiplicity, having become one with it, we salute it. Though this absolute knowledge cannot be subjected to any relative treatment (such as, Salutation, etc.) yet we view it from the relative standpoint and adore it to the best of our ability."
     }
    ]
-  },
-  {
-   "ref": "colophon-4",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति अलातशान्तिप्रकरणम् सम्पूर्णम् ॥\nइति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ माण्डूक्योपनिषत्कारिकाभाष्यं सम्पूर्णम् ॥",
-   "english": null
   }
  ],
  "source_sanskrit": {
@@ -4241,7 +4189,7 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/mandukya-karika-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Nikhilananda 1949), joined by Devanagari verse text (202) or number-checked ref (1): 203 of 227 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [11 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 2.K20, 2.K21, 2.K22, 2.K23, 2.K24, 2.K26, 2.K27, 4.K31, 4.K51, 4.K61, 4.K68] [Range pages: units 2.K9-10, 4.K31-32, 4.K51-52, 4.K61-62, 4.K65-66, 4.K68-70 were merged because wisdomlib translates those karikas and their commentary together. 15 more units joined by karika number from the wisdomlib page of the same number, the earlier text-based join having failed on variant readings; parked (range pages or no page): 2.K10, 4.K16, 4.K32, 4.K52, 4.K62, 4.K65, 4.K66, 4.K69, 4.K70.] Anandagiri glossary, footnotes and verse-number prefixes were stripped from the english.",
+ "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/mandukya-karika-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Nikhilananda 1949), joined by Devanagari verse text (202) or number-checked ref (1): 203 of 227 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [11 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 2.K20, 2.K21, 2.K22, 2.K23, 2.K24, 2.K26, 2.K27, 4.K31, 4.K51, 4.K61, 4.K68] [Range pages: units 2.K9-10, 4.K31-32, 4.K51-52, 4.K61-62, 4.K65-66, 4.K68-70 were merged because wisdomlib translates those karikas and their commentary together. 15 more units joined by karika number from the wisdomlib page of the same number, the earlier text-based join having failed on variant readings; parked (range pages or no page): 2.K10, 4.K16, 4.K32, 4.K52, 4.K62, 4.K65, 4.K66, 4.K69, 4.K70.] Anandagiri glossary, footnotes and verse-number prefixes were stripped from the english. [6 units with no english in any source were dropped so every unit is scoreable: 4 colophon units and 2 others (intro-1, 4.K16).]",
  "reference_type": "translation",
  "english_rights": [
   "in_copyright_or_unclear"

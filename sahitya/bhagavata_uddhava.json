@@ -9321,16 +9321,6 @@
    }
   },
   {
-   "ref": "11.18.49",
-   "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "एतत् तेऽभिहितं साधो भवान् पृच्छति यच्च माम्।\nयथा स्वधर्मसंयुक्तो भक्तो मां समियात् परम्॥ ११/१८/४९॥",
-   "english": null,
-   "meta": {
-    "align": "none"
-   }
-  },
-  {
    "ref": "11.19.1",
    "kind": "verse",
    "scope": "mula",
@@ -10576,26 +10566,6 @@
    }
   },
   {
-   "ref": "11.20.38",
-   "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "एवमेतान् मयाऽऽदिष्टाननुतिष्ठन्ति मे पथः।\nक्षेमं विन्दन्ति मत्स्थानं यद् ब्रह्म परमं विदुः॥ ११/२०/३८॥",
-   "english": null,
-   "parts": [
-    {
-     "role": "mula",
-     "sanskrit": "एवमेतान् मयाऽऽदिष्टाननुतिष्ठन्ति मे पथः।\nक्षेमं विन्दन्ति मत्स्थानं यद् ब्रह्म परमं विदुः॥ ११/२०/३८॥"
-    },
-    {
-     "role": "bhashya",
-     "sanskrit": "“उत्तमो भक्तियोगस्तु ज्ञानयोगस्तु मध्यमः।\nअधमः कर्मयोगश्च ब्रह्मैको मुख्यभक्तिभाक्।\nज्ञानमप्यधिकं तेषां नियतं भक्तियोगिनाम्।\nउदेति भगवद्भक्त्या तद्वन्न ज्ञानयोगिनः।\nभक्त्यंशकं यतो ज्ञानं ज्ञानस्नेहात्मिका च सा।\nतथाऽपि ज्ञानयोगित्वं मानुषज्ञानतोऽधिकम्।\nभक्तियोगे ततो यत्नः कार्यो विद्वद्भिरञ्जसा॥”\nइति च॥ ३८॥"
-    }
-   ],
-   "meta": {
-    "align": "none"
-   }
-  },
-  {
    "ref": "11.21.1",
    "kind": "verse",
    "scope": "mula",
@@ -11446,26 +11416,6 @@
      "43-43"
     ],
     "english_verbatim": "[Text 43] I am the ritualistic sacrifice enjoined by the Vedas, and I am the worshipable Deity. It is I who am presented as various philosophical hypotheses, and it is I alone who am then refuted by philosophical analysis. The transcendental sound vibration thus establishes Me as the essential meaning of all Vedic knowledge. The Vedas, elaborately analyzing all material duality as nothing but My illusory potency, ultimately completely negate this duality and achieve their own satisfaction."
-   }
-  },
-  {
-   "ref": "11.21.44",
-   "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "एतावान् सर्ववेदार्थः शब्द आस्थाय माऽभिदाम्। मायामात्रमनूद्यान्ते प्रतिषिध्य प्रशाम्यति॥ ११/२१/४४॥",
-   "english": null,
-   "parts": [
-    {
-     "role": "mula",
-     "sanskrit": "एतावान् सर्ववेदार्थः शब्द आस्थाय माऽभिदाम्। मायामात्रमनूद्यान्ते प्रतिषिध्य प्रशाम्यति॥ ११/२१/४४॥"
-    },
-    {
-     "role": "bhashya",
-     "sanskrit": "अभिदश्च स एव अश्च अभिदाः, तम् अभिदां मामास्थाय, मायामात्रं मदिच्छानिर्मितं शरीरादिकम् अनूद्य, उपासनादिकं विधाय, मोक्षरूपेण तच्छरीरादिकं प्रतिषिध्य प्रशाम्यति ।\n“सर्वावताररूपेषु निर्भेदत्वाददोषतः।\nअभिदा विष्णुरुद्दिष्टस्तमेवोक्त्वा तदिच्छया।\nनिर्मितं दैहिकं बन्धं तस्योपासन एव तु।\nप्रतिषिध्य विमोक्षे तु स्वभावोपास्तिरूपतः।\nप्रतिशाम्यति वेदोऽयं वासुदेवैकसंश्रयः॥”\nइति च ।\nअभिदामास्थाय कोऽपि शब्दो मेति वा ॥ ४४ ॥"
-    }
-   ],
-   "meta": {
-    "align": "none"
    }
   },
   {
@@ -13600,16 +13550,6 @@
      "61-61"
     ],
     "english_verbatim": "[Text 61] Anyone who listens to or recites to others this song of the sannyāsī, which presents scientific knowledge of the Absolute, and who thus meditates upon it with full attention, will never again be overwhelmed by the dualities of material happiness and distress."
-   }
-  },
-  {
-   "ref": "11.23.62",
-   "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "य एतां भिक्षुणा गीतां ब्रह्मनिष्ठां समाहितः।\nधारयन् श्रावयन् शृण्वन् द्वन्दैर्नैवाभिभूयते॥ ११/२३/६२॥",
-   "english": null,
-   "meta": {
-    "align": "none"
    }
   },
   {
@@ -16994,16 +16934,6 @@
    }
   },
   {
-   "ref": "11.28.45",
-   "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "योगचर्यामिमां योगी विचरन् मदपाश्रयः।\nनान्तरायैर्विहन्येत निःस्पृहः स्वसुखानुभूः॥ ११/२८/४५॥",
-   "english": null,
-   "meta": {
-    "align": "none"
-   }
-  },
-  {
    "ref": "11.29.1",
    "kind": "verse",
    "scope": "mula",
@@ -17830,16 +17760,6 @@
     ],
     "english_verbatim": "[Text 49] I offer my obeisances to that Supreme Personality of Godhead, the original and greatest of all beings, Lord Śrī Kṛṣṇa. He is the author of the Vedas, and just to destroy His devotees’ fear of material existence, like a bee He has collected this nectarean essence of all knowledge and self-realization. Thus He has awarded to His many devotees this nectar from the ocean of bliss, and by His mercy they have drunk it."
    }
-  },
-  {
-   "ref": "11.29.50",
-   "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "भवभयमपहन्तुं ज्ञानविज्ञानसारं\nनिगमकुमुददभ्रं भृङ्गवद् वेद्यसारम्।\nअमृतमुदधिकल्पं पाययन् भृत्यवर्गान्\nपुरुषऋषभमाद्यं विष्णुसञ्ज्ञं नतोऽस्मि॥ ११/२९/५०॥",
-   "english": null,
-   "meta": {
-    "align": "none"
-   }
   }
  ],
  "source_sanskrit": {
@@ -17856,7 +17776,7 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Vedabase SB 11.7-11.29 correspond to Setutila's chapters 7-29. Sanskrit is verse-only in 'sanskrit' (Setutila mula, speaker lines attached to the verse they introduce); Madhva's commentary blocks are in bhashya part and are NOT translated by the English. English = Prabhupada's verse translation per Vedabase 'Text' entry, fetched from the chapter pages. Setutila's verse numbers (from its own '॥ s/c/v ॥' marks) were matched to Vedabase 'Text' numbers; a chapter keeps number pairing only if the Sanskrit and English lengths stay proportional for at least 85% of pairs (align='number'; 875 units). In the other chapters (the two recensions split or number some verses differently, e.g. Setutila 11.8.20 = Vedabase Text 21) the whole chapter was aligned by Sanskrit-to-English length with 1-1, 1-2, 2-1 beads (align='length'; 40 units); spot checks were right but errors can accumulate, so filter on align == 'number' for the safest pairs. Units with align='none' have Sanskrit only (no Vedabase text found for that verse, typically the speaker-intro verse 1). A unit with several Sanskrit verses or Vedabase texts is a group. Prabhupada's translation is interpretive (purport-influenced) rather than literal, so `english` keeps his published wording untouched and `english` is a rule-based neutral variant: only the term swaps listed in meta.english_edits (per unit, with counts) were applied, e.g. '(Supreme) Personality of Godhead' -> 'the Lord', 'devotional service' -> 'devotion', 'living entity' -> 'living being', 'Supersoul' -> 'the Supreme Self', 'demigod' -> 'god', 'sense gratification' -> 'sense enjoyment', 'fruitive activities' -> 'actions aimed at results', 'spiritual master' -> 'teacher', 'pure devotee' -> 'devotee'; honorifics are dropped ('Sūta Gosvāmī' -> 'Sūta Paurāṇika', 'Śukadeva Gosvāmī' -> 'Śukācārya', other 'X Gosvāmī' -> 'X', 'Śrīla' and the honorific 'Śrī' before a name removed; 'Mahārāja X' and 'X Mahārāja' become 'King X'). Nothing was deleted or rewritten beyond these swaps; terms with no neutral equivalent are only listed in meta.english_flags (e.g. 'Kṛṣṇa consciousness'). english is an edit of the source text made for this benchmark, not a published translation; cite meta.english_verbatim, which is the text as published.",
+ "notes": "Vedabase SB 11.7-11.29 correspond to Setutila's chapters 7-29. Sanskrit is verse-only in 'sanskrit' (Setutila mula, speaker lines attached to the verse they introduce); Madhva's commentary blocks are in bhashya part and are NOT translated by the English. English = Prabhupada's verse translation per Vedabase 'Text' entry, fetched from the chapter pages. Setutila's verse numbers (from its own '॥ s/c/v ॥' marks) were matched to Vedabase 'Text' numbers; a chapter keeps number pairing only if the Sanskrit and English lengths stay proportional for at least 85% of pairs (align='number'; 875 units). In the other chapters (the two recensions split or number some verses differently, e.g. Setutila 11.8.20 = Vedabase Text 21) the whole chapter was aligned by Sanskrit-to-English length with 1-1, 1-2, 2-1 beads (align='length'; 40 units); spot checks were right but errors can accumulate, so filter on align == 'number' for the safest pairs. Units with align='none' have Sanskrit only (no Vedabase text found for that verse, typically the speaker-intro verse 1). A unit with several Sanskrit verses or Vedabase texts is a group. Prabhupada's translation is interpretive (purport-influenced) rather than literal, so `english` keeps his published wording untouched and `english` is a rule-based neutral variant: only the term swaps listed in meta.english_edits (per unit, with counts) were applied, e.g. '(Supreme) Personality of Godhead' -> 'the Lord', 'devotional service' -> 'devotion', 'living entity' -> 'living being', 'Supersoul' -> 'the Supreme Self', 'demigod' -> 'god', 'sense gratification' -> 'sense enjoyment', 'fruitive activities' -> 'actions aimed at results', 'spiritual master' -> 'teacher', 'pure devotee' -> 'devotee'; honorifics are dropped ('Sūta Gosvāmī' -> 'Sūta Paurāṇika', 'Śukadeva Gosvāmī' -> 'Śukācārya', other 'X Gosvāmī' -> 'X', 'Śrīla' and the honorific 'Śrī' before a name removed; 'Mahārāja X' and 'X Mahārāja' become 'King X'). Nothing was deleted or rewritten beyond these swaps; terms with no neutral equivalent are only listed in meta.english_flags (e.g. 'Kṛṣṇa consciousness'). english is an edit of the source text made for this benchmark, not a published translation; cite meta.english_verbatim, which is the text as published. [6 units with no english in any source were dropped so every unit is scoreable: 0 colophon units and 6 others (11.18.49, 11.20.38, 11.21.44, 11.23.62, 11.28.45, 11.29.50).]",
  "reference_type": "translation",
  "english_rights": [
   "in_copyright_or_unclear"

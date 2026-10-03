@@ -6,13 +6,6 @@
  "script": "Devanagari",
  "units": [
   {
-   "ref": "intro-1",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "मन्त्रोक्तस्यार्थस्य विस्तरानुवादीदं ब्राह्मणमारभ्यते । ऋषिप्रश्नप्रतिवाचनाख्यायिका तु विद्यास्तुतये । एवं संवत्सरब्रह्मचर्यसंवासादितपोयुक्तैर्ग्राह्या, पिप्पलादवत्सर्वज्ञकल्पैराचार्यैः वक्तव्या च, न येन केनचिदिति विद्यां स्तौति । ब्रह्मचर्यादिसाधनसूचनाच्च तत्कर्तव्यता स्यात् —",
-   "english": null
-  },
-  {
    "ref": "1.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -317,13 +310,6 @@
    ]
   },
   {
-   "ref": "colophon-1",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति प्रथमप्रश्नभाष्यम् ॥",
-   "english": null
-  },
-  {
    "ref": "2.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -571,13 +557,6 @@
    ]
   },
   {
-   "ref": "colophon-2",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति द्वितीयप्रश्नभाष्यम् ॥",
-   "english": null
-  },
-  {
    "ref": "3.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -806,13 +785,6 @@
    ]
   },
   {
-   "ref": "colophon-3",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति तृतीयप्रश्नभाष्यम् ॥",
-   "english": null
-  },
-  {
    "ref": "4.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -1022,13 +994,6 @@
    ]
   },
   {
-   "ref": "colophon-4",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति चतुर्थप्रश्नभाष्यम् ॥",
-   "english": null
-  },
-  {
    "ref": "5.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -1162,13 +1127,6 @@
    ]
   },
   {
-   "ref": "colophon-5",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति पञ्चमप्रश्नभाष्यम् ॥",
-   "english": null
-  },
-  {
    "ref": "6.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -1300,30 +1258,6 @@
      "english": "Com.—Having thus instructed them, Pippalada said to them: “Thus far, I know the supreme Brahman worthy to be known. There is nothing beyond this, more excellent or worthy to be known. This he said to remove any doubt in the minds of disciples, that there was yet something not known and to produce a belief in their minds that their object had been accomplished. Then, what did the disciples instructed by the preceptor, their purpose accomplished and finding no return for knowledge received, do for their preceptor is explained. They worshipped him by throwing handfuls of flowers at his feet and by prostrating before him. What they said is stated: ‘You are our father; because, you are the creator, by giving us knowledge of the Brahman—body, eternal, undecaying, deathless and fearless as it were—because you alone have helped us to cross by means of the boat of knowledge to the other shore (supreme emancipation characterised by the absence of return to samsara) of the ocean of ignorance consisting in perverse knowledge and infested by such evils as birth, old age, death, sickness, misery, etc.; your being our father is more appropriate than others.’ Even that other father who creates the mere physical body is still to be worshipped most of all, in the world. What need be said of him who confers thorough immunity from fear?” This is the drift. Adoration to the great sages who transmitted the knowledge of Brahman. Adoration to the great sages. The repetition indicates regard."
     }
    ]
-  },
-  {
-   "ref": "6.8",
-   "kind": "verse",
-   "scope": "mula+commentary",
-   "sanskrit": "ते तमर्चयन्तस्त्वं हि नः पिता योऽस्माकमविद्यायाः परं पारं तारयसीति । नमः परमऋषिभ्यो नमः परमऋषिभ्यः ॥ ८ ॥\nततः ते शिष्या गुरुणानुशिष्टाः तं गुरुं कृतार्थाः सन्तो विद्यानिष्क्रयमन्यदपश्यन्तः किं कृतवन्त इत्युच्यते — अर्चयन्तः पूजयन्तः पादयोः पुष्पाञ्जलिप्रकिरणेन प्रणिपातेन च शिरसा । किमूचुरित्याह — त्वं हि नः अस्माकं पिता ब्रह्मशरीरस्य विद्यया जनयितृत्वान्नित्यस्याजरामरणस्याभयस्य । यः त्वमेव अस्माकम् अविद्यायाः विपरीतज्ञानाज्जन्मजरामरणरोगदुःखादिग्राहादपारादविद्यामहोदधेर्विद्याप्लवेन परम् अपुनरावृत्तिलक्षणं मोक्षाख्यं महोदधेरिव पारं तारयसि अस्मानित्यतः पितृत्वं तवास्मान्प्रत्युपपन्नमितरस्मात् । इतरोऽपि हि पिता शरीरमात्रं जनयति, तथापि स पूज्यतमो लोके ; किमु वक्तव्यमात्यन्तिकाभयदातुरित्यभिप्रायः । नमः परमऋषिभ्यः ब्रह्मविद्यासम्प्रदायकर्तृभ्यः । नमः परमऋषिभ्य इति द्विर्वचनमादरार्थम् ॥",
-   "english": null,
-   "parts": [
-    {
-     "role": "mula",
-     "sanskrit": "ते तमर्चयन्तस्त्वं हि नः पिता योऽस्माकमविद्यायाः परं पारं तारयसीति । नमः परमऋषिभ्यो नमः परमऋषिभ्यः ॥ ८ ॥"
-    },
-    {
-     "role": "bhashya",
-     "sanskrit": "ततः ते शिष्या गुरुणानुशिष्टाः तं गुरुं कृतार्थाः सन्तो विद्यानिष्क्रयमन्यदपश्यन्तः किं कृतवन्त इत्युच्यते — अर्चयन्तः पूजयन्तः पादयोः पुष्पाञ्जलिप्रकिरणेन प्रणिपातेन च शिरसा । किमूचुरित्याह — त्वं हि नः अस्माकं पिता ब्रह्मशरीरस्य विद्यया जनयितृत्वान्नित्यस्याजरामरणस्याभयस्य । यः त्वमेव अस्माकम् अविद्यायाः विपरीतज्ञानाज्जन्मजरामरणरोगदुःखादिग्राहादपारादविद्यामहोदधेर्विद्याप्लवेन परम् अपुनरावृत्तिलक्षणं मोक्षाख्यं महोदधेरिव पारं तारयसि अस्मानित्यतः पितृत्वं तवास्मान्प्रत्युपपन्नमितरस्मात् । इतरोऽपि हि पिता शरीरमात्रं जनयति, तथापि स पूज्यतमो लोके ; किमु वक्तव्यमात्यन्तिकाभयदातुरित्यभिप्रायः । नमः परमऋषिभ्यः ब्रह्मविद्यासम्प्रदायकर्तृभ्यः । नमः परमऋषिभ्य इति द्विर्वचनमादरार्थम् ॥"
-    }
-   ]
-  },
-  {
-   "ref": "colophon-6",
-   "kind": "prose",
-   "scope": "commentary",
-   "sanskrit": "इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ प्रश्नोपनिषद्भाष्यं सम्पूर्णम् ॥",
-   "english": null
   }
  ],
  "source_sanskrit": {
@@ -1340,7 +1274,7 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/prashna-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1928), joined by Devanagari verse text (34) or number-checked ref (32): 66 of 67 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika).",
+ "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/prashna-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1928), joined by Devanagari verse text (34) or number-checked ref (32): 66 of 67 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [8 units with no english in any source were dropped so every unit is scoreable: 6 colophon units and 2 others (intro-1, 6.8).]",
  "reference_type": "translation",
  "english_rights": [
   "public_domain"
