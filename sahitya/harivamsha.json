@@ -18573,7 +18573,7 @@
    "ref": "2681",
    "kind": "verse",
    "scope": "text",
-   "sanskrit": "पारमेष्ठ्ये स्थितः स्थाने लोकानां प्रभवाप्यये । तं तुष्टुवुर् दैत्यगणा देवा इव पितामहम् ॥ छप्तेर् ३८,",
+   "sanskrit": "पारमेष्ठ्ये स्थितः स्थाने लोकानां प्रभवाप्यये । तं तुष्टुवुर् दैत्यगणा देवा इव पितामहम् ॥",
    "english": "When that Daitya occupied the position of Paramesthi, the source of the origin and destruction of all the worlds the demons began to chant his glories as the gods hymn the glories of the grand-father Brahmā."
   },
   {
@@ -19280,7 +19280,7 @@
    "ref": "2782",
    "kind": "verse",
    "scope": "text",
-   "sanskrit": "एतद् आश्चर्यम् अभवत् संग्रामे तारकामये । दानवानां च विष्णोश् च यन् मां त्वं परिपृच्छसि ॥ छप्तेर् ३९,",
+   "sanskrit": "एतद् आश्चर्यम् अभवत् संग्रामे तारकामये । दानवानां च विष्णोश् च यन् मां त्वं परिपृच्छसि ॥",
    "english": "This was the wonderful encounter, of which you asked, of Nārayana and the Dānavas in the war of which Tāraka was the root."
   },
   {
@@ -42968,7 +42968,7 @@
    "ref": "6210",
    "kind": "verse",
    "scope": "text",
-   "sanskrit": "जनमेजय युद्धेषु यथा ते कथितं पुरा ॥ छप्तेर् १०६,",
+   "sanskrit": "जनमेजय युद्धेषु यथा ते कथितं पुरा ॥",
    "english": "Janamejaya, had already described to you how the kings met with death in many battles destructive of men -."
   },
   {
@@ -51554,7 +51554,7 @@
  "needs_ocr": false,
  "alignment": "row_aligned",
  "slice_of": null,
- "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering.  [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is] Critical-apparatus text that the Mitrasamgraha rows carry in front of some verses (variant readings, 'transliterated by ...') was stripped from 21 units; 41 units whose Sanskrit was apparatus only (no verse) were dropped: 713, 1418, 1419, 1420, 1429, 1430, 1485, 2542, 3307, 3308, 3445, 3523, 4519, 4728, 4967, 4968, 4969, 4992, 5057, 5058, 5059, 5613, 5614, 5615, 5616, 5997, 6405, 6406, 6407, 6408, 6583, 6584, 6585, 6718, 6905, 7028, 7034, 7049, 7375, 7404, 7450. After audit, 65 more units in the stretches where the source rows are shifted against the English (refs near 1414-1430, 1482-1490, 3303-3310, 4964-4972, 4991-4994, 5055-5062, 5611-5618, 6405-6411, 6581-6587, 7372-7378, 7447-7453, plus 3493 and 3499) were dropped; other stretches next to dropped apparatus rows were checked and are aligned.",
+ "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering.  [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is] Critical-apparatus text that the Mitrasamgraha rows carry in front of some verses (variant readings, 'transliterated by ...') was stripped from 21 units; 41 units whose Sanskrit was apparatus only (no verse) were dropped: 713, 1418, 1419, 1420, 1429, 1430, 1485, 2542, 3307, 3308, 3445, 3523, 4519, 4728, 4967, 4968, 4969, 4992, 5057, 5058, 5059, 5613, 5614, 5615, 5616, 5997, 6405, 6406, 6407, 6408, 6583, 6584, 6585, 6718, 6905, 7028, 7034, 7049, 7375, 7404, 7450. After audit, 65 more units in the stretches where the source rows are shifted against the English (refs near 1414-1430, 1482-1490, 3303-3310, 4964-4972, 4991-4994, 5055-5062, 5611-5618, 6405-6411, 6581-6587, 7372-7378, 7447-7453, plus 3493 and 3499) were dropped; other stretches next to dropped apparatus rows were checked and are aligned. Three stray 'छप्तेर् N' (chapter) markers were removed from the Sanskrit (2681, 2782, 6210).",
  "reference_type": "translation",
  "english_rights": [
   "cc_by_sa"
