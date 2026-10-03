@@ -147,6 +147,28 @@
    ]
   },
   {
+   "ref": "1/1/9",
+   "kind": "verse",
+   "scope": "mula+commentary",
+   "sanskrit": "यः सर्वज्ञः सर्वविद् यस्य ज्ञानमयं तपः।\nतस्मादेतद् ब्रह्म नाम रूपमन्नं च जायते॥ १/१/९॥\nएतद् ब्रह्म चतुर्मुखः॥",
+   "english": "From Him who is All-knowing and All-understanding, whose tapas is the Primeval Wisdom comes out of this triad:—Brahmā, the Nāma-rupa or the Jīvas, and the Anna [annam] or the Prakṛti.\nThe words “etat brahma” mean this caturmukha brahmā.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "यः सर्वज्ञः सर्वविद् यस्य ज्ञानमयं तपः।\nतस्मादेतद् ब्रह्म नाम रूपमन्नं च जायते॥ १/१/९॥",
+     "english": "From Him who is All-knowing and All-understanding, whose tapas is the Primeval Wisdom comes out of this triad:—Brahmā, the Nāma-rupa or the Jīvas, and the Anna [annam] or the Prakṛti."
+    },
+    {
+     "role": "bhashya",
+     "sanskrit": "एतद् ब्रह्म चतुर्मुखः॥",
+     "english": "The words “etat brahma” mean this caturmukha brahmā."
+    }
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Vasu 1909 (Madhva commentary)"
+   }
+  },
+  {
    "ref": "colophon11",
    "kind": "verse",
    "scope": "mula",
@@ -552,6 +574,50 @@
    "english": "soundless Sound, verily, is the bow, one\"s self the arrow, with Brahman spoken as the target, one should shoot without any error."
   },
   {
+   "ref": "2/2/6",
+   "kind": "verse",
+   "scope": "mula+commentary",
+   "sanskrit": "यस्मिन् द्यौः पृथिवी चान्तरिक्षमोतं मनः सह प्राणैश्च सर्वैः।\nतमेवैकं जानथ आत्मानमन्या वाचो विमुञ्चथामृतस्यैष सेतुः॥ २/२/६॥\nअमृतस्य मुक्तस्य सेतुः। “मुक्तोपसृप्यव्यपदेशात्” “मुक्तानां परमा गतिः” इत्यादेः।",
+   "english": "In Him are woven the heaven, and the interspace, and the mind also with all the senses. Know Him to be the one support of all, the Ātman. Leave off all other words (as well as worship of other deities). This (Ātman) is the refuge of the immortals.\n“He is the bridge of the immortal”—the word amṛta or immortal means the mukta jīvas. In the Vedānta Sūtra I. 3. 2, it has been taught that the Lord is the refuge of the muktas. So also that “He is the Highest goal of the muktas” (Viṣṇu Sahasranāma.)",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "यस्मिन् द्यौः पृथिवी चान्तरिक्षमोतं मनः सह प्राणैश्च सर्वैः।\nतमेवैकं जानथ आत्मानमन्या वाचो विमुञ्चथामृतस्यैष सेतुः॥ २/२/६॥",
+     "english": "In Him are woven the heaven, and the interspace, and the mind also with all the senses. Know Him to be the one support of all, the Ātman. Leave off all other words (as well as worship of other deities). This (Ātman) is the refuge of the immortals."
+    },
+    {
+     "role": "bhashya",
+     "sanskrit": "अमृतस्य मुक्तस्य सेतुः। “मुक्तोपसृप्यव्यपदेशात्” “मुक्तानां परमा गतिः” इत्यादेः।",
+     "english": "“He is the bridge of the immortal”—the word amṛta or immortal means the mukta jīvas. In the Vedānta Sūtra I. 3. 2, it has been taught that the Lord is the refuge of the muktas. So also that “He is the Highest goal of the muktas” (Viṣṇu Sahasranāma.)"
+    }
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Vasu 1909 (Madhva commentary)"
+   }
+  },
+  {
+   "ref": "2/2/7",
+   "kind": "verse",
+   "scope": "mula+commentary",
+   "sanskrit": "अरा इव रथनाभौ संहता यत्र नाड्यः स एषोन्तश्चरते बहुधा जायमानः।\nओमित्येवं ध्यायत आत्मानं स्वस्ति वः पराय तमसः परस्तात्॥ २/२/७॥\n“हृदयस्थः सदा विष्णुर्बहुधा\nचैकधा भवन्।\nचरति स्वेच्छयैवान्तः सर्वजीवान् नियामयन्॥”\nइति प्रवृत्ते।",
+   "english": "In him the life-webs (nāḍis) are fastened, as the spokes to the nave of a chariot, He is this (Ātman) that pervades the heart, and by his own free will manifests Himself in diverse ways (as Viśva, Taijasa, etc., in waking, sleeping, etc., states); and also as One as Prājña in the dreamless state. Meditate on the Ātman as Om (full of all auspicious qualities and who is the chief aim of the Vedas), in order to acquire knowledge of the Paramātman, who is beyond the Prakṛti and the Śrī Tattva. Your welfare consists in such knowledge.\nThe Lord Viṣṇu always residing in the heart, manifests Himself as One and as Manifold. He moves within all, out of His own free will: and thus He controls all living beings.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "अरा इव रथनाभौ संहता यत्र नाड्यः स एषोन्तश्चरते बहुधा जायमानः।\nओमित्येवं ध्यायत आत्मानं स्वस्ति वः पराय तमसः परस्तात्॥ २/२/७॥",
+     "english": "In him the life-webs (nāḍis) are fastened, as the spokes to the nave of a chariot, He is this (Ātman) that pervades the heart, and by his own free will manifests Himself in diverse ways (as Viśva, Taijasa, etc., in waking, sleeping, etc., states); and also as One as Prājña in the dreamless state. Meditate on the Ātman as Om (full of all auspicious qualities and who is the chief aim of the Vedas), in order to acquire knowledge of the Paramātman, who is beyond the Prakṛti and the Śrī Tattva. Your welfare consists in such knowledge."
+    },
+    {
+     "role": "bhashya",
+     "sanskrit": "“हृदयस्थः सदा विष्णुर्बहुधा\nचैकधा भवन्।\nचरति स्वेच्छयैवान्तः सर्वजीवान् नियामयन्॥”\nइति प्रवृत्ते।",
+     "english": "The Lord Viṣṇu always residing in the heart, manifests Himself as One and as Manifold. He moves within all, out of His own free will: and thus He controls all living beings."
+    }
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Vasu 1909 (Madhva commentary)"
+   }
+  },
+  {
    "ref": "2/2/9",
    "kind": "verse",
    "scope": "mula",
@@ -610,6 +676,50 @@
      "english": "since Lakshni, Brahma,Vayu and others are less significant than Vishnu, he is known supreme than the rest. Vishnu dwelling within the Suns\"s orb ever energizes the worlds."
     }
    ]
+  },
+  {
+   "ref": "2/2/13",
+   "kind": "verse",
+   "scope": "mula+commentary",
+   "sanskrit": "न तत्र सूर्यो भाति न चन्द्रतारकं नेमा विद्युतो भान्ति कुतोऽयमग्निः।\nतमेव भान्तमनुभाति सर्वं तस्य भासा सर्वमिदं विभाति॥ २/२/१३॥\nसूर्यादयस्तं न भासयन्ति।",
+   "english": "The sun does not shine there in His Presence nor the moon and the stars (for His Light is greater than theirs, they appear as if dark in that effulgence, like the candlelight in the Sun). Nor do these lightnings, and much less this fire shines there. When He shines, everything shines after Him; by His light all this becomes manifest.\nThe Sun, etc., do not illumine Him, i.e., can not make Him manifest.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "न तत्र सूर्यो भाति न चन्द्रतारकं नेमा विद्युतो भान्ति कुतोऽयमग्निः।\nतमेव भान्तमनुभाति सर्वं तस्य भासा सर्वमिदं विभाति॥ २/२/१३॥",
+     "english": "The sun does not shine there in His Presence nor the moon and the stars (for His Light is greater than theirs, they appear as if dark in that effulgence, like the candlelight in the Sun). Nor do these lightnings, and much less this fire shines there. When He shines, everything shines after Him; by His light all this becomes manifest."
+    },
+    {
+     "role": "bhashya",
+     "sanskrit": "सूर्यादयस्तं न भासयन्ति।",
+     "english": "The Sun, etc., do not illumine Him, i.e., can not make Him manifest."
+    }
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Vasu 1909 (Madhva commentary)"
+   }
+  },
+  {
+   "ref": "2/2/14",
+   "kind": "verse",
+   "scope": "mula+commentary",
+   "sanskrit": "ब्रह्मैवेदममृतं पुरस्तात् पश्चाद् ब्रह्म दक्षिणतश्चोत्तरेण।\nअधश्चोर्ध्वं च प्रसृतं ब्रह्मैवेदं विश्वमिदं वरिष्ठम्॥ २/२/१४॥\nइदं ब्रह्मैव विश्वं पूर्णम्। इदमेव वरिष्ठं सर्वोत्तमम्। इदंशब्दानां बहुत्वाद् ब्रह्मविषय एवेदंशब्दः।",
+   "english": "The Eternally Free is verily this Brahman only. He is in the East and in the West, in the North and the South, in the zenith and the nadir. The Brahman alone is it who pervades all directions. This Brahman alone is the Full (that exists in all time—the Eternity). This Brahman is the best.\nThis (idam) Brahman is alone the Viśva [viśvam] or Infinity or Full (pur-ṇam). This alone is the Best, the Highest of all. As the word ‘idam’ is used several times in this verse it qualifies the word Brahman and not ‘viśvam.’",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "ब्रह्मैवेदममृतं पुरस्तात् पश्चाद् ब्रह्म दक्षिणतश्चोत्तरेण।\nअधश्चोर्ध्वं च प्रसृतं ब्रह्मैवेदं विश्वमिदं वरिष्ठम्॥ २/२/१४॥",
+     "english": "The Eternally Free is verily this Brahman only. He is in the East and in the West, in the North and the South, in the zenith and the nadir. The Brahman alone is it who pervades all directions. This Brahman alone is the Full (that exists in all time—the Eternity). This Brahman is the best."
+    },
+    {
+     "role": "bhashya",
+     "sanskrit": "इदं ब्रह्मैव विश्वं पूर्णम्। इदमेव वरिष्ठं सर्वोत्तमम्। इदंशब्दानां बहुत्वाद् ब्रह्मविषय एवेदंशब्दः।",
+     "english": "This (idam) Brahman is alone the Viśva [viśvam] or Infinity or Full (pur-ṇam). This alone is the Best, the Highest of all. As the word ‘idam’ is used several times in this verse it qualifies the word Brahman and not ‘viśvam.’"
+    }
+   ],
+   "meta": {
+    "english_source": "wisdomlib, Vasu 1909 (Madhva commentary)"
+   }
   },
   {
    "ref": "colophon50",
@@ -984,13 +1094,6 @@
    }
   },
   {
-   "ref": "intro-2",
-   "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "ॐ भ॒द्रं कर्णे॑भिः शृणुयाम देवा भ॒द्रं प॑श्येमा॒क्षभि॑र्यजत्राः। स्थि॒रैरङ्गै॑स्तुष्टु॒वांस॑स्त॒नूभि॒र्व्य॑शेम दे॒वहि॑तं॒ यदायु॑:॥ स्व॒स्ति न॒ इन्द्रो॑ वृ॒द्धश्र॑वाः स्व॒स्ति न॑: पू॒षा वि॒श्ववे॑दाः। स्व॒स्ति न॒स्तार्क्ष्यो॒ अरि॑ष्टनेमिः स्व॒स्ति नो॒ बृह॒स्पति॑र्दधातु॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑॥",
-   "english": "O Gods! Auspicious be my ears to listen to what is luminous; auspicious be my eyes to see what is spacious; with my limbs and body strengthened, let me enjoy what is ordained as willed by the Lord. O Gods! Auspicious be Indra, grown mature; auspicious be Pushan, encompassing the whole creation; auspicious be Garuda, the divine eagle, vanquisher of lowly creatures; auspicious be that which is bestowed by Brihaspati. Let there be peace, peace, peace."
-  },
-  {
    "ref": "colophon76",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -1037,7 +1140,7 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit from Setutila/Sarvamula JSON/atharvana_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. Joins rejected because the wisdomlib translation number differs from the ref: [('1/1/5', '1'), ('1/1/9', '1')]. English from wisdomlib matched by ref: 60 of 76 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [18 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 1/1/3, 1/1/4, 1/1/7, 1/1/8, 1/2/2, 1/2/3, 1/2/6, 1/2/13, 2/1/1, 2/1/6, 2/2/1, 2/2/10, 2/2/11, 3/1/4, 3/1/5, 3/1/9, 3/2/3, 3/2/4] English for 45 units is now Nagesh D. Sonde's translation (his Sanskrit decoded with tools/shivaji_to_unicode.py and matched to the units by trigram coverage); 3 of them had no English before. Units where Sonde's quotes cover under 55% of the bhashya Sanskrit keep the wisdomlib English. After audit: english of 2/2/6, 2/2/7, 2/2/10 and 2/2/11 was removed (wisdomlib numbering drifts one slot in 2/2), and Rao's bracketed notes were stripped from the wisdomlib units. The shanti mantra and Madhva's opening salutation (intro, intro-2) are translated from Sonde's hymn of peace and 'Commentator's Invocation'. Mantras 2/2/10 and 2/2/11 had no English in wisdomlib or Sonde; their translation is Pandurangi's. [english cut off at a page or line break in the first extraction was completed from Sonde's text: 1/2/9, 1/2/11, 3/1/4, 3/1/5, 3/2/6] Stray source marks were removed from the Sanskrit (editorial brackets, asterisks, page headers, watermark text, OCR pipes for dandas). [english that still ended mid-sentence after the page-break completion was cut back to its last full sentence in 1 units] [13 units with no english in any source were dropped so every unit is scoreable: 7 colophon units and 6 others (1/1/9, 2/2/6, 2/2/7, 2/2/13, 2/2/14, unnumbered73).] [Colophon units restored (7): the english is a formulaic translation written for this corpus (meta.english_source), since no source translates colophons.]",
+ "notes": "Sanskrit from Setutila/Sarvamula JSON/atharvana_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. Joins rejected because the wisdomlib translation number differs from the ref: [('1/1/5', '1'), ('1/1/9', '1')]. English from wisdomlib matched by ref: 60 of 76 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [18 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 1/1/3, 1/1/4, 1/1/7, 1/1/8, 1/2/2, 1/2/3, 1/2/6, 1/2/13, 2/1/1, 2/1/6, 2/2/1, 2/2/10, 2/2/11, 3/1/4, 3/1/5, 3/1/9, 3/2/3, 3/2/4] English for 45 units is now Nagesh D. Sonde's translation (his Sanskrit decoded with tools/shivaji_to_unicode.py and matched to the units by trigram coverage); 3 of them had no English before. Units where Sonde's quotes cover under 55% of the bhashya Sanskrit keep the wisdomlib English. After audit: english of 2/2/6, 2/2/7, 2/2/10 and 2/2/11 was removed (wisdomlib numbering drifts one slot in 2/2), and Rao's bracketed notes were stripped from the wisdomlib units. The shanti mantra and Madhva's opening salutation (intro, intro-2) are translated from Sonde's hymn of peace and 'Commentator's Invocation'. Mantras 2/2/10 and 2/2/11 had no English in wisdomlib or Sonde; their translation is Pandurangi's. [english cut off at a page or line break in the first extraction was completed from Sonde's text: 1/2/9, 1/2/11, 3/1/4, 3/1/5, 3/2/6] Stray source marks were removed from the Sanskrit (editorial brackets, asterisks, page headers, watermark text, OCR pipes for dandas). [english that still ended mid-sentence after the page-break completion was cut back to its last full sentence in 1 units] [13 units with no english in any source were dropped so every unit is scoreable: 7 colophon units and 6 others (1/1/9, 2/2/6, 2/2/7, 2/2/13, 2/2/14, unnumbered73).] [Colophon units restored (7): the english is a formulaic translation written for this corpus (meta.english_source), since no source translates colophons.] [Restored from Vasu (5 units: 1/1/9, 2/2/6, 2/2/7, 2/2/13, 2/2/14): Vasu's mantra numbers run one behind the Sanskrit here in the second khanda of the second Mundaka, so 2/2/6, 2/2/7, 2/2/13 and 2/2/14 took Vasu's mantras 5, 6, 10 and 11.] [Duplicate intro-2 unit (same mantra as intro) dropped.]",
  "reference_type": "translation",
  "english_rights": [
   "public_domain",
