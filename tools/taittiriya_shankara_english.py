@@ -49,7 +49,15 @@ def paras(ls):
             m[-1] += " " + p
         else:
             m.append(p)
-    return [re.sub(r"(\w)- (\w)", r"\1\2", p) for p in m if not END.match(p)]
+    return [tidy(re.sub(r"(\w)- (\w)", r"\1\2", p)) for p in m if not END.match(p)]
+
+
+NOISE = re.compile(r"\s*[\d S]*\s*-?\s*THE (?:TAITT\w*|SI.?KSH.?A VALL\w*|BRA.?HMANANDA VALL\w*)[^\n]{0,25}?(?=\s[a-z]|$)|\s*Here ends the \w+ Chapter[*,.]?|\s*Thus ends the \w+ Chapter[*,.]?|\s*\d{1,3}\s*-?\s*THE TAI\w+ \w+(?=\s)", re.I)
+
+
+def tidy(p):
+    p = NOISE.sub(" ", p)
+    return re.sub(r"\s+", " ", p).strip()
 
 
 def items(ps):
@@ -76,7 +84,7 @@ def main():
             chap[(v, c)] = paras(B[heads[k] + 1:e])
             k += 1
     intro = paras(B[start + 1:heads[0]])
-    intro = [p for p in intro if not re.match(r"^THE SI", p)]
+    intro = [re.sub(r"\s*THE SI.?KSH.?A VALL\w*\s*$", "", p) for p in intro if not re.match(r"^THE SI", p)]
 
     d = json.loads((ROOT / "upanishads/taittiriya_shankara.json").read_text(encoding="utf-8"))
     units = d["units"]
@@ -105,12 +113,17 @@ def main():
         ps = chap[key]
         if key == (2, 1):
             u0 = next(u for u in us if u["ref"] == "2.1.0")
-            u0["english"] = "\n".join(ps[:2])
+            ci = next(i for i, x in enumerate(ps) if x.startswith("Com") and "protect us both" in x)
+            head, _, rest = ps[0].partition("The knower of Brahman attains")
+            u0["english"] = "\n".join([head.strip(), ps[ci]])
             us = [u for u in us if u is not u0]
-            ps = ps[2:]
+            ps = ["The knower of Brahman attains" + rest] + [x for i, x in enumerate(ps) if i not in (0, ci)]
             joined += 1
         if key == (3, 1):
             us = [u for u in us if u["ref"] != "3.1.0"]
+            ps = [re.sub(r"^Harih Om\.?\s*", "", x) for x in ps]
+        if key == (2, 9):
+            ps = [x.split("May it (the knowledge of Brahman) protect us both")[0].rstrip() for x in ps if not x.startswith("Om Peace")]
         its = items(ps)
         ok = lambda u, e: 0.6 <= len(e) / len(u["sanskrit"]) <= 3.5
         if len(us) == 1 and ok(us[0], "\n".join(ps)):
@@ -121,7 +134,8 @@ def main():
                 u["english"] = "\n".join(it)
                 joined += 1
         else:
-            us[0].setdefault("meta", {})["english_unsplit"] = "\n".join(ps)
+            if key not in ((1, 11), (1, 12)):
+                us[0].setdefault("meta", {})["english_unsplit"] = "\n".join(ps)
             parked.append(f"{key[0]}.{key[1]}")
 
     d["notes"] = ("Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/taittiriya-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. "
