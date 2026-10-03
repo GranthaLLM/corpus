@@ -605,11 +605,12 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "मनोमयः प्राणशरीरनेता प्रतिष्ठितोऽन्ने हृदयं सन्निधाय।\nतद् विज्ञानेन परिपश्यन्ति धीरा आनन्दरूपममृतं यद् विभाति॥२/२/१०॥",
-   "english": null,
+   "english": "He who is omniscient and the regulator of the senses and body is present in the body at the heart. The wise see him by meditating upon him. His blissful and immortal form is revealed.",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "मनोमयः प्राणशरीरनेता प्रतिष्ठितोऽन्ने हृदयं सन्निधाय।\nतद् विज्ञानेन परिपश्यन्ति धीरा आनन्दरूपममृतं यद् विभाति॥२/२/१०॥"
+     "sanskrit": "मनोमयः प्राणशरीरनेता प्रतिष्ठितोऽन्ने हृदयं सन्निधाय।\nतद् विज्ञानेन परिपश्यन्ति धीरा आनन्दरूपममृतं यद् विभाति॥२/२/१०॥",
+     "english": "He who is omniscient and the regulator of the senses and body is present in the body at the heart. The wise see him by meditating upon him. His blissful and immortal form is revealed."
     },
     {
      "role": "bhashya"
@@ -621,11 +622,12 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः।\nक्षीयन्ते चास्य कर्माणि तस्मिन् दृष्टे परावरे॥ २/२/११॥",
-   "english": null,
+   "english": "When the highest God is seen the knot of the heart is cut. All doubts get dispelled and the deeds terminate.",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः।\nक्षीयन्ते चास्य कर्माणि तस्मिन् दृष्टे परावरे॥ २/२/११॥"
+     "sanskrit": "भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः।\nक्षीयन्ते चास्य कर्माणि तस्मिन् दृष्टे परावरे॥ २/२/११॥",
+     "english": "When the highest God is seen the knot of the heart is cut. All doubts get dispelled and the deeds terminate."
     },
     {
      "role": "bhashya"
@@ -1095,11 +1097,16 @@
    "citation": "Nagesh D. Sonde, Atharvan (Mundaka) Upanishad, Madhva's Bhashya",
    "url": "https://nageshsonde.com/",
    "license": "Author states: not protected by any copyright; free to copy and distribute"
+  },
+  {
+   "citation": "K. T. Pandurangi 1986, Shatprasna Atharvana Mandukya Upanishads with English translation and notes according to Sri Madhvacharya's Bhashya (Sriman Madhva Siddhantonnahini Sabha), text layer of the PDF on the Tattvavada E-Library",
+   "url": "https://tattvavadalibrary.wordpress.com/sri-madhvacharya/",
+   "license": null
   }
  ],
  "bundled": false,
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit from Setutila/Sarvamula JSON/atharvana_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. Joins rejected because the wisdomlib translation number differs from the ref: [('1/1/5', '1'), ('1/1/9', '1')]. English from wisdomlib matched by ref: 60 of 76 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [18 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 1/1/3, 1/1/4, 1/1/7, 1/1/8, 1/2/2, 1/2/3, 1/2/6, 1/2/13, 2/1/1, 2/1/6, 2/2/1, 2/2/10, 2/2/11, 3/1/4, 3/1/5, 3/1/9, 3/2/3, 3/2/4] English for 45 units is now Nagesh D. Sonde's translation (his Sanskrit decoded with tools/shivaji_to_unicode.py and matched to the units by trigram coverage); 3 of them had no English before. Units where Sonde's quotes cover under 55% of the bhashya Sanskrit keep the wisdomlib English. After audit: english of 2/2/6, 2/2/7, 2/2/10 and 2/2/11 was removed (wisdomlib numbering drifts one slot in 2/2), and Rao's bracketed notes were stripped from the wisdomlib units. The shanti mantra and Madhva's opening salutation (intro, intro-2) are translated from Sonde's hymn of peace and 'Commentator's Invocation'."
+ "notes": "Sanskrit from Setutila/Sarvamula JSON/atharvana_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. Joins rejected because the wisdomlib translation number differs from the ref: [('1/1/5', '1'), ('1/1/9', '1')]. English from wisdomlib matched by ref: 60 of 76 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [18 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 1/1/3, 1/1/4, 1/1/7, 1/1/8, 1/2/2, 1/2/3, 1/2/6, 1/2/13, 2/1/1, 2/1/6, 2/2/1, 2/2/10, 2/2/11, 3/1/4, 3/1/5, 3/1/9, 3/2/3, 3/2/4] English for 45 units is now Nagesh D. Sonde's translation (his Sanskrit decoded with tools/shivaji_to_unicode.py and matched to the units by trigram coverage); 3 of them had no English before. Units where Sonde's quotes cover under 55% of the bhashya Sanskrit keep the wisdomlib English. After audit: english of 2/2/6, 2/2/7, 2/2/10 and 2/2/11 was removed (wisdomlib numbering drifts one slot in 2/2), and Rao's bracketed notes were stripped from the wisdomlib units. The shanti mantra and Madhva's opening salutation (intro, intro-2) are translated from Sonde's hymn of peace and 'Commentator's Invocation'. Mantras 2/2/10 and 2/2/11 had no English in wisdomlib or Sonde; their translation is Pandurangi's."
 }
