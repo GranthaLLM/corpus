@@ -4223,7 +4223,7 @@
    "ref": "603",
    "kind": "verse",
    "scope": "text",
-   "sanskrit": "सांख्यं कपिलमुनिना प्रोक्तं संसारविमुक्तिकारणं हि । यत्रैताः सप्ततिरार्या भाष्यं चात्र गौडपादकृतम् ॥ Uncommented कारिकास्",
+   "sanskrit": "सांख्यं कपिलमुनिना प्रोक्तं संसारविमुक्तिकारणं हि । यत्रैताः सप्ततिरार्या भाष्यं चात्र गौडपादकृतम् ॥ कारिकास्",
    "english": "“Sāmkhya, the cause of liberation from transmigration, has been expounded by the sage Kapila in which there are seventy verses and the Bhāṣya of Gaudapāda.” This sacred and supreme Knowledge, the sage Kapila gave to Āsuri out of compassion."
   },
   {
@@ -4262,7 +4262,7 @@
  "needs_ocr": false,
  "alignment": "row_aligned",
  "slice_of": null,
- "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. File name indicates the Māṭharavṛtti; rows interleave kārikā and commentary. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is]",
+ "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. File name indicates the Māṭharavṛtti; rows interleave kārikā and commentary. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is] Stray source marks were removed from the Sanskrit (editorial brackets, asterisks, page headers, watermark text, OCR pipes for dandas).",
  "reference_type": "translation",
  "english_rights": [
   "cc_by_sa"

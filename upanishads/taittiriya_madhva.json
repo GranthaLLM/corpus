@@ -19,7 +19,7 @@
    "ref": "1.1#2",
    "kind": "prose",
    "scope": "commentary",
-   "sanskrit": "ॐ॥ सत्यं ज्ञानमनन्तमानन्दं ब्रह्म सर्वशक्त्येकम्।\nसर्वैर्देवैरीड्यं विष्ण्वाख्यं सर्वदैमि सुप्रेष्ठम्॥ *॥",
+   "sanskrit": "ॐ॥ सत्यं ज्ञानमनन्तमानन्दं ब्रह्म सर्वशक्त्येकम्।\nसर्वैर्देवैरीड्यं विष्ण्वाख्यं सर्वदैमि सुप्रेष्ठम्॥॥",
    "english": "I surrender to one known as Vishnu, Satya, the Prime Existence, Wisdom, Infinite, Blissful effulgence, one among all the powerful, eulogized by all the divinities and the most precious one.",
    "meta": {
     "match_min": 0.94
@@ -461,7 +461,7 @@
    "ref": "3.1-10#105-106",
    "kind": "prose",
    "scope": "commentary",
-   "sanskrit": "यस्योच्चोऽथ समो वा कश्चिन्नैवास्त्यनन्तसच्छक्तेः।\nतं वन्दे परमेशं प्रेयांसं प्रेयसश्च मे विष्णुम्॥ *॥\nयस्य त्रीण्युदितानि वेदवचने रूपाणि दिव्यान्यलं\nबट् तद्दर्शतमित्थमेव निहितं देवस्य भर्गो महत्।\nवायो रामवचोनयं प्रथमकं पृक्षो द्वितीयं वपु-\nर्मध्वो यत्तु तृतीयकं कृतमिदं भाष्यं हि तेन प्रभौ॥ *॥",
+   "sanskrit": "यस्योच्चोऽथ समो वा कश्चिन्नैवास्त्यनन्तसच्छक्तेः।\nतं वन्दे परमेशं प्रेयांसं प्रेयसश्च मे विष्णुम्॥॥\nयस्य त्रीण्युदितानि वेदवचने रूपाणि दिव्यान्यलं\nबट् तद्दर्शतमित्थमेव निहितं देवस्य भर्गो महत्।\nवायो रामवचोनयं प्रथमकं पृक्षो द्वितीयं वपु-\nर्मध्वो यत्तु तृतीयकं कृतमिदं भाष्यं हि तेन प्रभौ॥॥",
    "english": "He who is immensely strong, whom no one can surpass, such one Sri Vishnu who is dearer than the dearest one, I offer my obeisance. Whose three luminous steps are elougized in Balitha and other Suktas, as Vayu the prime source of all the gods is comprehensively strong and of the form of luminous Wisdom. Similarly encouraged Vayu descended first as Hanumana as Rama’s massager, second as Bhima the destroyer and Madhva being the third prepared this commentary.",
    "meta": {
     "match_min": 0.95
@@ -491,7 +491,7 @@
    "ref": "3.1-10#109",
    "kind": "prose",
    "scope": "commentary",
-   "sanskrit": "पूर्णागण्यगुणोदारधाम्ने नित्याय वेधसे।\nअमन्दानन्दसान्द्राय प्रेयसे विष्णवे नमः॥ *॥",
+   "sanskrit": "पूर्णागण्यगुणोदारधाम्ने नित्याय वेधसे।\nअमन्दानन्दसान्द्राय प्रेयसे विष्णवे नमः॥॥",
    "english": "Endowed with all-comprehensive attributes and with best of the forms, immutable and entirely blissful, Sri Vishnu, dearer than the dear ones. To such one supreme Lord are my obeisance.",
    "meta": {
     "match_min": 1.0
@@ -512,7 +512,7 @@
  "needs_ocr": true,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Setutila's file is Madhva's bhashya (its colophon names Anandatirtha). English is Sonde's translation from the Sarvam Vision OCR of the PDF, which recovers the Devanagari of every quoted mantra and bhashya passage. Each Sonde quote (Devanagari + English) was matched to the Setutila block or run of consecutive same-type blocks whose text it covers (character-level alignment, coverage >= 0.55; adjacent quotes hitting overlapping blocks are merged); 111 Sonde quotes found, 108 matched, 46 of 54 units have English, minimum coverage 0.66, median 0.97. kind = mula (mantra text, Upanishad sections of Sonde) or bhashya (Madhva's commentary, Bhashya sections); the unit's english translates exactly its sanskrit. ref = group label (Sikshavalli anuvakas etc.) + '#' + Setutila block index(es); match_min = lowest alignment coverage among the quotes merged into the unit. Sonde's 'Further Explanation' notes are his own commentary and are excluded. Units without English: the repeated peace chants Sonde does not restate and a few short bhashya fragments whose quotes were absorbed into neighbours' translations. OCR errors possible in both scripts (e.g. मनोमय, वह्म for ब्रह्म). First pass. After audit: 1.9#34-37 and the fragments 1.9#38 to 1.9#40 were merged because Sonde's quote covers them together; the Satya, Taponitya and Naka sentence moved from 1.5-7#25-28 to 1.9#33.",
+ "notes": "Setutila's file is Madhva's bhashya (its colophon names Anandatirtha). English is Sonde's translation from the Sarvam Vision OCR of the PDF, which recovers the Devanagari of every quoted mantra and bhashya passage. Each Sonde quote (Devanagari + English) was matched to the Setutila block or run of consecutive same-type blocks whose text it covers (character-level alignment, coverage >= 0.55; adjacent quotes hitting overlapping blocks are merged); 111 Sonde quotes found, 108 matched, 46 of 54 units have English, minimum coverage 0.66, median 0.97. kind = mula (mantra text, Upanishad sections of Sonde) or bhashya (Madhva's commentary, Bhashya sections); the unit's english translates exactly its sanskrit. ref = group label (Sikshavalli anuvakas etc.) + '#' + Setutila block index(es); match_min = lowest alignment coverage among the quotes merged into the unit. Sonde's 'Further Explanation' notes are his own commentary and are excluded. Units without English: the repeated peace chants Sonde does not restate and a few short bhashya fragments whose quotes were absorbed into neighbours' translations. OCR errors possible in both scripts (e.g. मनोमय, वह्म for ब्रह्म). First pass. After audit: 1.9#34-37 and the fragments 1.9#38 to 1.9#40 were merged because Sonde's quote covers them together; the Satya, Taponitya and Naka sentence moved from 1.5-7#25-28 to 1.9#33. Stray source marks were removed from the Sanskrit (editorial brackets, asterisks, page headers, watermark text, OCR pipes for dandas).",
  "reference_type": "translation",
  "english_rights": [
   "free_to_copy_per_author"

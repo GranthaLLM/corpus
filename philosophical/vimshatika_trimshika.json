@@ -548,7 +548,7 @@
    "ref": "78",
    "kind": "verse",
    "scope": "text",
-   "sanskrit": "नाप्य् अनेकं परमाणूनां (Vvs_) प्रत्येकम् अग्रहणात् । नापि ते संहता विषयीभवन्ति । यस्मात् परमाणुर् एकं द्रव्यं न सिध्यति ॥",
+   "sanskrit": "नाप्य् अनेकं परमाणूनां प्रत्येकम् अग्रहणात् । नापि ते संहता विषयीभवन्ति । यस्मात् परमाणुर् एकं द्रव्यं न सिध्यति ॥",
    "english": "Nor can it be plural, because of atoms, since they can't be apprehended singly.¹ Nor does an aggregation of atoms become a sense-object, because an atom as one entity can't be demonstrated, either."
   },
   {
@@ -702,7 +702,7 @@
    "ref": "100",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "असति च प्रतिघाते सर्वेषां समानदेशत्वात् सर्वः संघातः (Vvs_) परमाणुमात्रः स्याद् इत्य् उक्तं ।",
+   "sanskrit": "असति च प्रतिघाते सर्वेषां समानदेशत्वात् सर्वः संघातः परमाणुमात्रः स्याद् इत्य् उक्तं ।",
    "english": "And if there is no collision, then the whole aggregation of all the atoms would have the dimensions of only one atom, because of their common locus, as has been stated previously."
   },
   {
@@ -877,7 +877,7 @@
    "ref": "125",
    "kind": "verse",
    "scope": "text",
-   "sanskrit": "विशेषेण तु क्षणिकस्य विषयस्य तदानीं (Vvs_) निरुद्धम् एवं तद् रूपं रसादिकं वा ॥ नाननुभूतं मनोविज्ञानेन स्मर्यत इत्य् अवश्यम् अर्थानुभवेन भवितव्यं तच् च दर्शनम् इत्य् एवं तद्विषयस्य रूपादेः प्रत्यक्षत्वं मतं असिद्धम् इदम् अनुभूतस्यार्थस्य स्मरणं भवतीति । यस्मात् ।",
+   "sanskrit": "विशेषेण तु क्षणिकस्य विषयस्य तदानीं निरुद्धम् एवं तद् रूपं रसादिकं वा ॥ नाननुभूतं मनोविज्ञानेन स्मर्यत इत्य् अवश्यम् अर्थानुभवेन भवितव्यं तच् च दर्शनम् इत्य् एवं तद्विषयस्य रूपादेः प्रत्यक्षत्वं मतं असिद्धम् इदम् अनुभूतस्यार्थस्य स्मरणं भवतीति । यस्मात् ।",
    "english": "This is especially true for a sense-object, which is momentary, for that visible, or taste, etc. has already ceased by that time.¹ It may be said that nothing which hasn't been experienced (by other consciousnesses) is remembered by the mental consciousness, and that this takes place by necessity as it is brought about by the experience of an object of sense or understanding, and that those can be considered to be a state of direct perception of sense-objects, visibles, etc. in this way."
   },
   {
@@ -996,7 +996,7 @@
    "ref": "142",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "कथम् उपक्रम्यमाणानाम् औरभ्रिकादिभिर् उरभ्रादीनां (Vvs_)",
+   "sanskrit": "कथम् उपक्रम्यमाणानाम् औरभ्रिकादिभिर् उरभ्रादीनां",
    "english": "So how can the dying of sheep who have been attacked by shepherds, take place?"
   },
   {
@@ -1154,7 +1154,7 @@
  "needs_ocr": false,
  "alignment": "row_aligned",
  "slice_of": null,
- "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. TSV file name and content indicate the Viṃśatikā with its commentary (The Twenty Verses and Their Commentary); check whether the Triṃśikā is present before treating this as covering both works. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is]",
+ "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. TSV file name and content indicate the Viṃśatikā with its commentary (The Twenty Verses and Their Commentary); check whether the Triṃśikā is present before treating this as covering both works. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is] Stray source marks were removed from the Sanskrit (editorial brackets, asterisks, page headers, watermark text, OCR pipes for dandas).",
  "reference_type": "translation",
  "english_rights": [
   "cc_by_sa"
