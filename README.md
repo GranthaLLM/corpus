@@ -48,15 +48,15 @@ Build order: the `build_*.py` scripts, then `normalize.py`, then `layout.py` (ol
 What a user of the corpus should know before relying on a file. The unit count in the status table includes all of these.
 
 - **Bhattasangraha** (`reference_type: summary`): english is Pandurangi's summary of each adhikarana, not a translation, and 57 units have none; its Sanskrit is unproofread OCR.
-- **Chandogya, Madhva track** (`interpretive`): Vasu's english carries framing prose (objections, replies, root explanations) the Sanskrit does not, so the range units run 5 to 17 times the Sanskrit length; the Sanskrit exists only for some khandas.
+- **Chandogya, Madhva track** (`translation`): english is Sonde's, matched to units by decoded Sanskrit; units are Setutila's khanda ranges (up to 5k-37k chars), and some undecoded legacy tokens remain.
 - **Chandogya, Shankara track**: Jha's english is clause by clause with the sentence-final periods stripped; in the 35 merged units the Sanskrit and the english both follow the text order (mula, its commentary, the next mula, its commentary); some intro units have no english.
 - **Aitareya, Madhva track** (`interpretive`): units are passages of the Upanishad with Pandurangi's translation as Madhva reads it; about 12% of the mula text is in no unit, and Madhva's commentary is Sanskrit-only (`-bhashya` units).
 - **Gita, Shankara track**: about 24 units still have english somewhat shorter than the Sanskrit commentary (52 others were replaced with Warrier fuller translation); 14 units have none; OCR slips in diacritics (`^`, `~`) remain.
 - **Gita, Ramanuja track**: the english of a few verses covers two verses jointly (those are merged units); translator's bracketed notes and running heads were stripped, but OCR slips can remain; intro units have no english.
-- **Gita, Madhva track**: a unit pairs only the parts whose Sanskrit and english are comparable in length, so many commentary parts sit in `parts` outside the scored pair; the Sanskrit decoded from Sonde's legacy-font PDF can contain stray misspellings; 7/30, 8/8 and 18/33 have no english; 12 colophon units have none.
+- **Gita, Madhva track**: a unit pairs only the parts whose Sanskrit and english are comparable in length, so many commentary parts sit in `parts` outside the scored pair; the Sanskrit decoded from Sonde's legacy-font PDF can contain stray misspellings; 12 colophon units have none; 7/30, 8/8 and 18/33 were filled from Sonde.
 - **Harivamsha**: the Mitrasamgraha rows carried critical-apparatus text in front of some verses, which was stripped; 106 units whose Sanskrit was apparatus only or whose rows were shifted against the english were dropped.
 - **Shatakatraya**: 6 verses have no english (1.39, 1.109, 3.40, 3.98, 3.100 twice) plus 2.101 (no counterpart in Gopalachariar). Shringarashataka English is partly Kennedy 1913 (free paraphrase) and partly Gopalachariar 1954 (in copyright).
-- **Invocations**: the opening shanti and mangalacharana of `katha_madhva`, `prashna_madhva` and `isa_madhva` are untranslated for want of a source.
+- **Invocations**: the opening shanti and mangalacharana of `katha_madhva`, `prashna_madhva` and `isa_madhva` are translated from Vasu 1909 (wisdomlib).
 - **Scans**: english taken from OCR of scans (Gambhirananda, Sastri, Adidevananda, Pandurangi, Subba Rau) can still hold OCR slips.
 - **Intro and colophon units** are mostly Sanskrit only.
 
