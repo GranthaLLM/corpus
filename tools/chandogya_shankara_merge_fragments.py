@@ -1,11 +1,13 @@
-import json, re
+import json, re, subprocess
 from common import ROOT, write
+
+SRC_REV = "1e28112^"
 
 END = re.compile(r"[.?!:][”’\"')\]]*\s*$")
 
 
 def main():
-    d = json.loads((ROOT / "upanishads/chandogya_shankara.json").read_text(encoding="utf-8"))
+    d = json.loads(subprocess.check_output(["git", "show", f"{SRC_REV}:upanishads/chandogya_shankara.json"], cwd=ROOT))
     us = d["units"]
     part = lambda u, r: next((q for q in u.get("parts", []) if q["role"] == r), None)
     groups = []
@@ -22,6 +24,12 @@ def main():
                 del groups[k + 1:]
                 continue
         groups.append([u])
+    def piece(x, role):
+        p = part(x, role)
+        if p is not None:
+            return p.get("sanskrit") or ""
+        return x["sanskrit"] if (x["scope"] == "mula") == (role == "mula") else ""
+
     out, merged = [], 0
     for g in groups:
         if len(g) == 1:
@@ -34,17 +42,17 @@ def main():
             if p is not None:
                 return p.get("sanskrit") or ""
             return x["sanskrit"] if (x["scope"] == "mula") == (role == "mula") else ""
-        mula = "\n".join(t for x in body for t in [piece(x, "mula")] if t)
-        bh = "\n".join(t for x in body for t in [piece(x, "bhashya")] if t)
+        sk = "\n".join(x["sanskrit"] for x in body)
+        mula = next((piece(x, "mula") for x in body if piece(x, "mula")), "")
+        bh = sk.replace(mula, "", 1).strip() if mula else sk
         parts = ([{"role": "mula", "sanskrit": mula}] if mula else []) + ([{"role": "bhashya", "sanskrit": bh}] if bh else [])
-        sk = "\n".join(t for t in (mula, bh) if t)
         refs = [x["ref"] for x in body]
         out.append({"ref": refs[0] if len(refs) == 1 else f"{refs[0]}-{refs[-1]}", "kind": "group", "scope": "mula+commentary" if mula and bh else "mula" if mula else "commentary", "sanskrit": sk,
                     "english": " ".join((x.get("english") or "").strip() for x in body).strip(), "parts": parts,
                     "meta": {"jha_rows": [min(r for x in body for r in (x.get("meta") or {}).get("jha_rows", [10 ** 9])), max(r for x in body for r in (x.get("meta") or {}).get("jha_rows", [0]))]}})
     d["units"] = out
     d["notes"] += (f" Where Jha's clause-level rows split one sentence between two units (the next unit's english starts in lower case and the previous one ends mid-sentence), the units were merged: {merged} units folded into their predecessors, "
-                   "so each unit's english now begins and ends at a sentence boundary. Colophon lines that fell inside a merged group were dropped.")
+                   "so a unit's english no longer starts or stops inside a clause that the next unit continues. In a merged unit the Sanskrit and the english both follow the text order (mula, its commentary, the next mula, its commentary); the mula part holds the first verse and the bhashya part the rest. Colophon lines that fell inside a merged group were dropped.")
     write("upanishads/chandogya_shankara.json", d)
     print(len(us), "->", len(out))
 
