@@ -147,6 +147,16 @@
    ]
   },
   {
+   "ref": "colophon11",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "॥ इति प्रथममुण्डके प्रथमः खण्डः॥",
+   "english": "Thus ends the first section of the first Mundaka.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "1/2/1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -302,6 +312,16 @@
    ]
   },
   {
+   "ref": "colophon25",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "॥ इति प्रथममुण्डके द्वितीयः खण्डः॥",
+   "english": "Thus ends the second section of the first Mundaka.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "2/1/1",
    "kind": "verse",
    "scope": "mula",
@@ -453,6 +473,16 @@
    ]
   },
   {
+   "ref": "colophon36",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "॥ इति द्वितीयमुण्डके प्रथमः खण्डः॥",
+   "english": "Thus ends the first section of the second Mundaka.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "2/2/1",
    "kind": "verse",
    "scope": "mula",
@@ -580,6 +610,16 @@
      "english": "since Lakshni, Brahma,Vayu and others are less significant than Vishnu, he is known supreme than the rest. Vishnu dwelling within the Suns\"s orb ever energizes the worlds."
     }
    ]
+  },
+  {
+   "ref": "colophon50",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "॥ इति द्वितीयमुण्डके द्वितीयः खण्डः॥",
+   "english": "Thus ends the second section of the second Mundaka.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
   },
   {
    "ref": "3/1/1",
@@ -754,6 +794,16 @@
    "english": "Whatever worlds man of purified mind thinks and whatever desires he desires all those worlds and desires he fulfills. Therefore let one worship for prosperity those who are wise in wisdom of the self."
   },
   {
+   "ref": "colophon61",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "॥ इति तृतीयमुण्डके प्रथमः खण्डः॥",
+   "english": "Thus ends the first section of the third Mundaka.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "3/2/1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -924,11 +974,41 @@
    "english": "This verily is the Prime Existence, which seer Angira declared in days yore, (therefore) let no one who has not perfrormed the rites as prescribed, read this. Obesisance to the supreme seers,. obesisance to the supreme seers."
   },
   {
+   "ref": "colophon74",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "॥ इति तृतीयमुण्डके द्वितीयः खण्डः॥",
+   "english": "Thus ends the second section of the third Mundaka.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "intro-2",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "ॐ भ॒द्रं कर्णे॑भिः शृणुयाम देवा भ॒द्रं प॑श्येमा॒क्षभि॑र्यजत्राः। स्थि॒रैरङ्गै॑स्तुष्टु॒वांस॑स्त॒नूभि॒र्व्य॑शेम दे॒वहि॑तं॒ यदायु॑:॥ स्व॒स्ति न॒ इन्द्रो॑ वृ॒द्धश्र॑वाः स्व॒स्ति न॑: पू॒षा वि॒श्ववे॑दाः। स्व॒स्ति न॒स्तार्क्ष्यो॒ अरि॑ष्टनेमिः स्व॒स्ति नो॒ बृह॒स्पति॑र्दधातु॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑॥",
    "english": "O Gods! Auspicious be my ears to listen to what is luminous; auspicious be my eyes to see what is spacious; with my limbs and body strengthened, let me enjoy what is ordained as willed by the Lord. O Gods! Auspicious be Indra, grown mature; auspicious be Pushan, encompassing the whole creation; auspicious be Garuda, the divine eagle, vanquisher of lowly creatures; auspicious be that which is bestowed by Brihaspati. Let there be peace, peace, peace."
+  },
+  {
+   "ref": "colophon76",
+   "kind": "verse",
+   "scope": "mula+commentary",
+   "sanskrit": "॥ इत्याथर्वणोपनिषत् सम्पूर्णा॥\nप्रीयतां भगवान् मह्यं प्रेष्ठप्रेष्ठतमः सदा।\nमम नित्यं नमाम्येनं परमोदारसद्गुणम्॥॥\n॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितमाथर्वणोपनिषद्भाष्यं सम्पूर्णम्॥",
+   "english": "Thus the Atharvana Upanishad is complete. May the Lord, who is always dearest of the dear to me, be pleased with me. I ever bow to Him, who is supremely generous and endowed with excellent qualities. Thus ends the commentary on the Atharvana Upanishad composed by the revered Anandatirtha Bhagavatpada, the teacher.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "॥ इत्याथर्वणोपनिषत् सम्पूर्णा॥"
+    },
+    {
+     "role": "bhashya",
+     "sanskrit": "प्रीयतां भगवान् मह्यं प्रेष्ठप्रेष्ठतमः सदा।\nमम नित्यं नमाम्येनं परमोदारसद्गुणम्॥॥\n॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितमाथर्वणोपनिषद्भाष्यं सम्पूर्णम्॥"
+    }
+   ],
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
   }
  ],
  "source_sanskrit": {
@@ -957,7 +1037,7 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit from Setutila/Sarvamula JSON/atharvana_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. Joins rejected because the wisdomlib translation number differs from the ref: [('1/1/5', '1'), ('1/1/9', '1')]. English from wisdomlib matched by ref: 60 of 76 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [18 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 1/1/3, 1/1/4, 1/1/7, 1/1/8, 1/2/2, 1/2/3, 1/2/6, 1/2/13, 2/1/1, 2/1/6, 2/2/1, 2/2/10, 2/2/11, 3/1/4, 3/1/5, 3/1/9, 3/2/3, 3/2/4] English for 45 units is now Nagesh D. Sonde's translation (his Sanskrit decoded with tools/shivaji_to_unicode.py and matched to the units by trigram coverage); 3 of them had no English before. Units where Sonde's quotes cover under 55% of the bhashya Sanskrit keep the wisdomlib English. After audit: english of 2/2/6, 2/2/7, 2/2/10 and 2/2/11 was removed (wisdomlib numbering drifts one slot in 2/2), and Rao's bracketed notes were stripped from the wisdomlib units. The shanti mantra and Madhva's opening salutation (intro, intro-2) are translated from Sonde's hymn of peace and 'Commentator's Invocation'. Mantras 2/2/10 and 2/2/11 had no English in wisdomlib or Sonde; their translation is Pandurangi's. [english cut off at a page or line break in the first extraction was completed from Sonde's text: 1/2/9, 1/2/11, 3/1/4, 3/1/5, 3/2/6] Stray source marks were removed from the Sanskrit (editorial brackets, asterisks, page headers, watermark text, OCR pipes for dandas). [english that still ended mid-sentence after the page-break completion was cut back to its last full sentence in 1 units] [13 units with no english in any source were dropped so every unit is scoreable: 7 colophon units and 6 others (1/1/9, 2/2/6, 2/2/7, 2/2/13, 2/2/14, unnumbered73).]",
+ "notes": "Sanskrit from Setutila/Sarvamula JSON/atharvana_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. Joins rejected because the wisdomlib translation number differs from the ref: [('1/1/5', '1'), ('1/1/9', '1')]. English from wisdomlib matched by ref: 60 of 76 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [18 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 1/1/3, 1/1/4, 1/1/7, 1/1/8, 1/2/2, 1/2/3, 1/2/6, 1/2/13, 2/1/1, 2/1/6, 2/2/1, 2/2/10, 2/2/11, 3/1/4, 3/1/5, 3/1/9, 3/2/3, 3/2/4] English for 45 units is now Nagesh D. Sonde's translation (his Sanskrit decoded with tools/shivaji_to_unicode.py and matched to the units by trigram coverage); 3 of them had no English before. Units where Sonde's quotes cover under 55% of the bhashya Sanskrit keep the wisdomlib English. After audit: english of 2/2/6, 2/2/7, 2/2/10 and 2/2/11 was removed (wisdomlib numbering drifts one slot in 2/2), and Rao's bracketed notes were stripped from the wisdomlib units. The shanti mantra and Madhva's opening salutation (intro, intro-2) are translated from Sonde's hymn of peace and 'Commentator's Invocation'. Mantras 2/2/10 and 2/2/11 had no English in wisdomlib or Sonde; their translation is Pandurangi's. [english cut off at a page or line break in the first extraction was completed from Sonde's text: 1/2/9, 1/2/11, 3/1/4, 3/1/5, 3/2/6] Stray source marks were removed from the Sanskrit (editorial brackets, asterisks, page headers, watermark text, OCR pipes for dandas). [english that still ended mid-sentence after the page-break completion was cut back to its last full sentence in 1 units] [13 units with no english in any source were dropped so every unit is scoreable: 7 colophon units and 6 others (1/1/9, 2/2/6, 2/2/7, 2/2/13, 2/2/14, unnumbered73).] [Colophon units restored (7): the english is a formulaic translation written for this corpus (meta.english_source), since no source translates colophons.]",
  "reference_type": "translation",
  "english_rights": [
   "public_domain",

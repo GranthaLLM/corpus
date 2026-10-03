@@ -554,6 +554,16 @@
    ]
   },
   {
+   "ref": "colophon-1.1",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति प्रथमवल्लीभाष्यम् ॥",
+   "english": "Thus ends the commentary on the first valli.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "1.2.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -1029,6 +1039,16 @@
    ]
   },
   {
+   "ref": "colophon-1.2",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति द्वितीयवल्लीभाष्यम् ॥",
+   "english": "Thus ends the commentary on the second valli.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "1.3.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -1350,6 +1370,26 @@
    ]
   },
   {
+   "ref": "colophon-1.3",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति तृतीयवल्लीभाष्यम् ॥",
+   "english": "Thus ends the commentary on the third valli.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
+   "ref": "colophon-1",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ काठकोपनिषद्भाष्ये प्रथमोऽध्यायः ॥",
+   "english": "Thus ends the first chapter in the commentary on the Katha Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "2.1.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -1628,6 +1668,16 @@
      "english": "Com.—But how becomes the atman of a thinker who has acquired knowledge, whose perception of difference due to conditions has been destroyed, and who knows the atman pure, dense with knowledge unalloyed, and one without a second, is explained. As water pure poured into pure becomes of the same quality, not otherwise, the atman also of the thinker becomes the same, Oh Gautama. Therefore, leaving the perception of difference induced by bad logic and the erroneous notion of no-here-after, the perception of the one-ness of the atman inculcated by the Vedas, a better well-wisher than thousands of mothers and fathers should be anxiously respected by those whose pride has been quelled.\n———"
     }
    ]
+  },
+  {
+   "ref": "colophon-2.1",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति चतुर्थवल्लीभाष्यम् ॥",
+   "english": "Thus ends the commentary on the fourth valli.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
   },
   {
    "ref": "2.2.1",
@@ -1913,6 +1963,16 @@
      "english": "Com.—The reply here is that it shines and is perceived as shining. The sun, though the enlightener of all, does not shine in the Brahman, being his atman, i.e., the sun does not illumine the Brahman. Similarly, the moon and the stars do not; nor do these lightnings illumine. How could this fire, perceivable by us? Why say much? All these, the sun and the rest who shine, shine only after him, the lord of all; as water, firebrand, etc., from their contact with fire, burn after the burning fire and not by their own inherent virtue. It is by his light only, that all this, the sun and the rest shine. This being so, that Brahman alone shines and shines variously. From the various kinds of light possessed by its effects, the self-luminosity of the Brahman is inferred. It is not possible for one to impart to another luminosity, which one does not possess, because pots, etc., are found incapable of illumining other objects and the sun and the rest, luminous in their nature, are found capable of that.\n———"
     }
    ]
+  },
+  {
+   "ref": "colophon-2.2",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति पञ्चमवल्लीभाष्यम् ॥",
+   "english": "Thus ends the commentary on the fifth valli.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
   },
   {
    "ref": "2.3.1",
@@ -2270,6 +2330,26 @@
      "sanskrit": "अथ शिष्याचार्ययोः प्रमादकृतान्यायेन विद्याग्रहणप्रतिपादननिमित्तदोषप्रशमनार्थेयं शान्तिरुच्यते — सह नौ आवाम् अवतु पालयतु विद्यास्वरूपप्रकाशनेन । कः ? स एव परमेश्वरः उपनिषत्प्रकाशितः । किञ्च, सह नौ भुनक्तु तत्फलप्रकाशनेन नौ पालयतु । सहैव आवां विद्याकृतं वीर्यं सामर्थ्यं करवावहै निष्पादयावहै । किञ्च, तेजस्विनौ तेजस्विनोरावयोः यत् अधीतं तत्स्वधीतमस्तु । अथवा, तेजस्वि नौ आवाभ्यां यत् अधीतं तदतीव तेजस्वि वीर्यवदस्त्वित्यर्थः । मा विद्विषावहै शिष्याचार्यावन्योन्यं प्रमादकृतान्यायाध्ययनाध्यापनदोषनिमित्तं द्वेषं मा करवावहै इत्यर्थः । शान्तिः शान्तिः शान्तिरिति त्रिर्वचनं सर्वदोषोपशमनार्थम् ॥\nइति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ काठकोपनिषद्भाष्यम् सम्पूर्णम् ॥"
     }
    ]
+  },
+  {
+   "ref": "colophon-2.3",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति षष्ठी वल्ली ॥",
+   "english": "Thus ends the sixth valli.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
+   "ref": "colophon-2",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ काठकोपनिषद्भाष्ये द्वितीयोऽध्यायः ॥",
+   "english": "Thus ends the second chapter in the commentary on the Katha Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
   }
  ],
  "source_sanskrit": {
@@ -2286,7 +2366,7 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/kathaka-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1928), joined by Devanagari verse text (92) or number-checked ref (28): 120 of 120 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [12 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 1.1.10, 1.3.11, 1.3.12, 2.1.4, 2.1.5, 2.1.12, 2.1.13, 2.1.14, 2.3.9, 2.3.10, 2.3.11, 2.3.19] [10 units with no english in any source were dropped so every unit is scoreable: 8 colophon units and 2 others (intro-1.1, intro-2.1).]",
+ "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/kathaka-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1928), joined by Devanagari verse text (92) or number-checked ref (28): 120 of 120 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [12 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 1.1.10, 1.3.11, 1.3.12, 2.1.4, 2.1.5, 2.1.12, 2.1.13, 2.1.14, 2.3.9, 2.3.10, 2.3.11, 2.3.19] [10 units with no english in any source were dropped so every unit is scoreable: 8 colophon units and 2 others (intro-1.1, intro-2.1).] [Colophon units restored (8): the english is a formulaic translation written for this corpus (meta.english_source), since no source translates colophons.]",
  "reference_type": "translation",
  "english_rights": [
   "public_domain"

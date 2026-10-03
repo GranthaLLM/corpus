@@ -310,6 +310,16 @@
    ]
   },
   {
+   "ref": "colophon-1",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति प्रथमप्रश्नभाष्यम् ॥",
+   "english": "Thus ends the commentary on the first question.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "2.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -557,6 +567,16 @@
    ]
   },
   {
+   "ref": "colophon-2",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति द्वितीयप्रश्नभाष्यम् ॥",
+   "english": "Thus ends the commentary on the second question.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "3.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -785,6 +805,16 @@
    ]
   },
   {
+   "ref": "colophon-3",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति तृतीयप्रश्नभाष्यम् ॥",
+   "english": "Thus ends the commentary on the third question.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "4.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -994,6 +1024,16 @@
    ]
   },
   {
+   "ref": "colophon-4",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति चतुर्थप्रश्नभाष्यम् ॥",
+   "english": "Thus ends the commentary on the fourth question.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "5.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -1127,6 +1167,16 @@
    ]
   },
   {
+   "ref": "colophon-5",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति पञ्चमप्रश्नभाष्यम् ॥",
+   "english": "Thus ends the commentary on the fifth question.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "6.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -1258,6 +1308,16 @@
      "english": "Com.—Having thus instructed them, Pippalada said to them: “Thus far, I know the supreme Brahman worthy to be known. There is nothing beyond this, more excellent or worthy to be known. This he said to remove any doubt in the minds of disciples, that there was yet something not known and to produce a belief in their minds that their object had been accomplished. Then, what did the disciples instructed by the preceptor, their purpose accomplished and finding no return for knowledge received, do for their preceptor is explained. They worshipped him by throwing handfuls of flowers at his feet and by prostrating before him. What they said is stated: ‘You are our father; because, you are the creator, by giving us knowledge of the Brahman—body, eternal, undecaying, deathless and fearless as it were—because you alone have helped us to cross by means of the boat of knowledge to the other shore (supreme emancipation characterised by the absence of return to samsara) of the ocean of ignorance consisting in perverse knowledge and infested by such evils as birth, old age, death, sickness, misery, etc.; your being our father is more appropriate than others.’ Even that other father who creates the mere physical body is still to be worshipped most of all, in the world. What need be said of him who confers thorough immunity from fear?” This is the drift. Adoration to the great sages who transmitted the knowledge of Brahman. Adoration to the great sages. The repetition indicates regard."
     }
    ]
+  },
+  {
+   "ref": "colophon-6",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ प्रश्नोपनिषद्भाष्यं सम्पूर्णम् ॥",
+   "english": "Thus ends the commentary on the Prashna Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
   }
  ],
  "source_sanskrit": {
@@ -1274,7 +1334,7 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/prashna-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1928), joined by Devanagari verse text (34) or number-checked ref (32): 66 of 67 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [8 units with no english in any source were dropped so every unit is scoreable: 6 colophon units and 2 others (intro-1, 6.8).]",
+ "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/prashna-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1928), joined by Devanagari verse text (34) or number-checked ref (32): 66 of 67 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [8 units with no english in any source were dropped so every unit is scoreable: 6 colophon units and 2 others (intro-1, 6.8).] [Colophon units restored (6): the english is a formulaic translation written for this corpus (meta.english_source), since no source translates colophons.]",
  "reference_type": "translation",
  "english_rights": [
   "public_domain"

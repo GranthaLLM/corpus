@@ -177,6 +177,16 @@
    ]
   },
   {
+   "ref": "colophon-1.1",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति प्रथममुण्डके प्रथमखण्डभाष्यम् ॥",
+   "english": "Thus ends the commentary on the first section of the first Mundaka.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "1.2.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -424,6 +434,16 @@
    ]
   },
   {
+   "ref": "colophon-1.2",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ मुण्डकोपनिषद्भाष्ये प्रथमं मुण्डकं समाप्तम् ॥",
+   "english": "Thus ends the first Mundaka in the commentary on the Mundaka Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "2.1.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -612,6 +632,16 @@
      "english": "Com.—Thus, out of purusha, all this is born; therefore, as the Sruti says “The name is mere speech, a modification and a falsehood and the purusha alone is true.” Therefore all this is only purusha. The universe has no separate existence apart from purusha. Hence to the question propounded “O Bhagavan, by knowing whom, all this becomes known,” the answer has been given, i.e., when this purusha, the supreme Atman, the first cause is known, it becomes clear that all this universe is purusha and nothing else exists except him. What then is this “all,” it is thus explained. Karma is of the nature of Agnihotra and the rest. Tapas, knowledge and the fruit due to it. By ‘all’ this much is meant. And all this is evolved out of Brahman. Therefore everything is Brahman. He who knows that lie himself is this Brahman the highest and the immortal placed in the hearts of all living beings, destroys the dense tendencies of ignorance. Iha, even while living and not merely after death. Soumya, good looking.\n——o——"
     }
    ]
+  },
+  {
+   "ref": "colophon-2.1",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति द्वितीयमुण्डके प्रथमखण्डशभाष्यम् ॥",
+   "english": "Thus ends the commentary on the first section of the second Mundaka.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
   },
   {
    "ref": "2.2.1",
@@ -823,6 +853,16 @@
    ]
   },
   {
+   "ref": "colophon-2.2",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ मुण्डकोपनिषद्भाष्ये द्वितीयं मुण्डकं समाप्तम् ॥",
+   "english": "Thus ends the second Mundaka in the commentary on the Mundaka Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "3.1.1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -1011,6 +1051,16 @@
      "english": "Com.—This text explains that the man who identifies the atman of all with his own, obtains as the fruits thereof, all that he longs for; because of the fact that he is the Atman of all. Whatever worlds, i.e., such as those of the manes and the rest, he covets either himself, or for others, or whatever enjoyments he wishes for the man of pure mind who is free from all grief and who knows the Atman, he obtains those worlds and those enjoyments. Therefore, i.e., because the wishes of the knower of the Atman are always realised; let one who longs for vibhutis propitiate the knower of the Atman, whose mind is purified by such knowledge, by cleaning his feet with water, personal service, prostration and the rest; therefore, he is worthy of worship.\n——:o:——"
     }
    ]
+  },
+  {
+   "ref": "colophon-3.1",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति तृतीयमुण्डके प्रथमखण्डभाष्यम् ॥",
+   "english": "Thus ends the commentary on the first section of the third Mundaka.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
   },
   {
    "ref": "3.2.1",
@@ -1220,6 +1270,16 @@
      "english": "Com.—This undecaying and true purusha did the seer, known as Angiras, teach in ancient days to Saunaka who had duly approached him and questioned him (about this). The meaning is that, similarly, any other also should teach the same to one who longs for bliss and seeks emancipation and who with that end in view has duly approached the preceptor. This knowledge in the form of a book, no one who has not observed the vow, studies; for it is knowledge, only in those who observe the vow, that bears fruit. Thus ends the knowledge of Brahman which has been handed down from Brahma and the rest from preceptor to disciple. Prostration to those sages, Brahma and the rest, who have directly seen the Brahman and realised him. Prostration again to them; the repetition is both to indicate great solicitude and the fact that the Mundakopanishad here ends.\n——o——"
     }
    ]
+  },
+  {
+   "ref": "colophon-3.2",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति तृतीयमुण्डके द्वितीयखण्डभाष्यम् ॥\nइति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ मुण्डकोपनिषद्भाष्यं सम्पूर्णम् ॥",
+   "english": "Thus ends the commentary on the second section of the third Mundaka. Thus ends the commentary on the Mundaka Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
   }
  ],
  "source_sanskrit": {
@@ -1236,7 +1296,7 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/mundaka-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1905), joined by Devanagari verse text (48) or number-checked ref (16): 64 of 65 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [10 units with no english in any source were dropped so every unit is scoreable: 6 colophon units and 4 others (intro-1.1, intro-2.1, 2.2.8, intro-3.1).]",
+ "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/mundaka-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1905), joined by Devanagari verse text (48) or number-checked ref (16): 64 of 65 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [10 units with no english in any source were dropped so every unit is scoreable: 6 colophon units and 4 others (intro-1.1, intro-2.1, 2.2.8, intro-3.1).] [Colophon units restored (6): the english is a formulaic translation written for this corpus (meta.english_source), since no source translates colophons.]",
  "reference_type": "translation",
  "english_rights": [
   "public_domain"

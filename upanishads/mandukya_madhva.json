@@ -213,6 +213,16 @@
    ]
   },
   {
+   "ref": "colophon17",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "॥ इति प्रथमः खण्डः॥",
+   "english": "Thus ends the first section.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "2/1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -391,6 +401,16 @@
    ]
   },
   {
+   "ref": "colophon28",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "॥ इति द्वितीयः खण्डः॥",
+   "english": "Thus ends the second section.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "3/1",
    "kind": "verse",
    "scope": "mula",
@@ -508,6 +528,16 @@
    ]
   },
   {
+   "ref": "colophon38",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "॥ इति तृतीयः खण्डः॥",
+   "english": "Thus ends the third section.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "4/1",
    "kind": "verse",
    "scope": "mula",
@@ -577,6 +607,36 @@
      "english": "The phrase “ātman even”—“ātmaiva” of the Upaniṣad text means becoming even the Self, i.e., experiencing that the Self is not dependent upon others and renouncing all wrong notions about it (such as identifying it with body, etc.) The phrase “through the self—“ātmanā”—means ‘through the grace of the Supreme Self.” The worshipper enters into the Supreme Self, the Turīya, through the grace of the Supreme Self Himself.\nAs in the previous mantras, the similarity between the attributes of the Viśva, etc., and of their worshipper was shown (such as since the Viśva is ādimat the worshipper of Viśva also becomes ādimat), so io complete the description, it was necessary to point out the similarity between the Turīya and His worshipper. Therefore, the repetition of the words “transcendental, etc.,” in this verse. (The worshipper of the Turīya who is avyavahārya, becomes himself avyavahārya.)\n(Lest the phrase “advaita oṃkāra” of the verse may be mistaken to mean “the undivided entire Om denotes Turīya” the commentator says.)\n“Knowing Hari the supreme goal as the Turīya called also the Nāda, the worshipper enters into Him alone, being pure in form and similar to Him in his soul, (with this exception) that his knowledge, bliss and power arc never equal to those of Hari, but inferior to Him, for even a soul in the state of mukti is still under the dominion of the Lord, and is not absolutely independent.”\nThe same four-aspected Prāṇava is called Brahman also because of its greatness (the root meaning of Brahman is great).\nThe Lord is called Oṃkara, because He is designated by Om. The meanings of Om given in the Śruti as “that which has a beginning,” etc., should not also be rejected, because the Śruti expressly teaches it so.\nThe Prāṇava is called apūrva because He has no one pūrva or prior to Him. He is called Anantara, because He has no antara or loss or annihilation. lie is called Anapara, because He has no one else above Him, He is perfectly independent; there is absence of dependence on others in Him. Literally it means, He who has no other (apara) as His preserver. (He is not only self-existent, but stands in need of no one else to preserve and continue His existence). He is called “abāhya” or having nothing outside of Him, because He is all-pervading. He who knows Prāṇava as such gets complete liberation.\n(Lest one should fall into the mistake that Vāsudeva, etc., are anterior avatāras of Viṣṇu and consequently of greater power, than Viśva, etc., the subsequent avatāras, the commentator quotes Brahma Tarka).\n“When the one and the same Viṣṇu is called Para and Apara, it does not mean the Higher and the Lower Viṣṇu: nor does it mean that the past and the present manifestations of Viṣṇu differ in efficacy and power. There is no such difference at all. A manifestation prior in time, is called Para, and one subsequent in time, apara. In fact these two words do not mean here the Higher and the Lower—but the anterior and the subsequent.” (Brahma-Tarka).\nThe sense of the verse “the Prāṇava is the Apara Brahman,” etc., is that all the avatāras are full, whether Past or Present, there is no deficiency in any, nor superiority of one over the other. All are infinite."
     }
    ]
+  },
+  {
+   "ref": "colophon46",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "॥ इति चतुर्थः खण्डः॥",
+   "english": "Thus ends the fourth section.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
+   "ref": "colophon48",
+   "kind": "verse",
+   "scope": "mula+commentary",
+   "sanskrit": "॥ इति माण्डूकोपनिषत् सम्पूर्णा॥\nएकोऽपि निर्विशेषोऽपि चतुर्धा व्यवहारभाक्।\nयस्तं वन्दे\nसदानन्दं\nविष्णुं विश्वादिरूपिणम्॥\n॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं माण्डूकोपनिषद्भाष्यं सम्पूर्णम्॥",
+   "english": "Thus the Mandukya Upanishad is complete. I always worship Vishnu, the form of the universe and its source, who though one and without distinctions, deals in four ways, and who is ever blissful. Thus ends the commentary on the Mandukya Upanishad composed by the revered Anandatirtha Bhagavatpada, the teacher.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "॥ इति माण्डूकोपनिषत् सम्पूर्णा॥"
+    },
+    {
+     "role": "bhashya",
+     "sanskrit": "एकोऽपि निर्विशेषोऽपि चतुर्धा व्यवहारभाक्।\nयस्तं वन्दे\nसदानन्दं\nविष्णुं विश्वादिरूपिणम्॥\n॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं माण्डूकोपनिषद्भाष्यं सम्पूर्णम्॥"
+    }
+   ],
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
   }
  ],
  "source_sanskrit": {
@@ -593,7 +653,7 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit from Setutila/Sarvamula JSON/manduka_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = chapter/verse as printed in Setutila; chapters 1-4 number Mantras and Gaudapada Karikas straight through, as wisdomlib does. Setutila holds the verse (mula) and, for some verses, Madhva's commentary. English: Srisa Chandra Vasu, wisdomlib. A unit's english is the verse translation, plus the commentary translation when the unit's Sanskrit holds the commentary (mula+commentary scope). Vasu's notes are left out. Commentary pages for Karika verses whose Sanskrit has no commentary of its own are added to the next unit that has it (1/15, 2/6, 3/9, 4/7), because Madhva comments on those verses together. Commentary on Mantras 1, 3.1-3.3 and 4.1 has no Sanskrit in Setutila, so it is kept only in parts (bhashya, english only). Range commentary for 2/6-7 sits on 2/6. Colophons and the repeated peace chant (intro-2 carries its translation) are the only other gaps. 43 of 48 units have english. After audit: carrier units 3/4 and 4/7 now hold the commentary english that sat in the parts of 3/1 to 3/3 and 4/1, the sentence of 1.14 and 2.7 moved off their neighbours, Vasu's long bracketed notes and editorial queries were stripped, and intro-2 (a repeat of the peace chant) has no english. Stray source marks were removed from the Sanskrit (editorial brackets, asterisks, page headers, watermark text, OCR pipes for dandas). [6 units with no english in any source were dropped so every unit is scoreable: 5 colophon units and 1 others (intro-2).]",
+ "notes": "Sanskrit from Setutila/Sarvamula JSON/manduka_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = chapter/verse as printed in Setutila; chapters 1-4 number Mantras and Gaudapada Karikas straight through, as wisdomlib does. Setutila holds the verse (mula) and, for some verses, Madhva's commentary. English: Srisa Chandra Vasu, wisdomlib. A unit's english is the verse translation, plus the commentary translation when the unit's Sanskrit holds the commentary (mula+commentary scope). Vasu's notes are left out. Commentary pages for Karika verses whose Sanskrit has no commentary of its own are added to the next unit that has it (1/15, 2/6, 3/9, 4/7), because Madhva comments on those verses together. Commentary on Mantras 1, 3.1-3.3 and 4.1 has no Sanskrit in Setutila, so it is kept only in parts (bhashya, english only). Range commentary for 2/6-7 sits on 2/6. Colophons and the repeated peace chant (intro-2 carries its translation) are the only other gaps. 43 of 48 units have english. After audit: carrier units 3/4 and 4/7 now hold the commentary english that sat in the parts of 3/1 to 3/3 and 4/1, the sentence of 1.14 and 2.7 moved off their neighbours, Vasu's long bracketed notes and editorial queries were stripped, and intro-2 (a repeat of the peace chant) has no english. Stray source marks were removed from the Sanskrit (editorial brackets, asterisks, page headers, watermark text, OCR pipes for dandas). [6 units with no english in any source were dropped so every unit is scoreable: 5 colophon units and 1 others (intro-2).] [Colophon units restored (5): the english is a formulaic translation written for this corpus (meta.english_source), since no source translates colophons.]",
  "reference_type": "translation",
  "english_rights": [
   "public_domain"

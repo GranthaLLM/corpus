@@ -225,6 +225,16 @@
    ]
   },
   {
+   "ref": "colophon18",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "इति प्रथमः प्रश्नः॥",
+   "english": "Thus ends the first question.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "2/1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -341,6 +351,16 @@
    "scope": "mula",
    "sanskrit": "(८)॥\nप्राणस्यैतद् वशे सर्वं त्रिदिवे यत् प्रतिष्ठितम्।\nमातेव पुत्रान् रक्षस्व श्रीश्च प्रज्ञां च विधेहि न इति॥ २/१३॥",
    "english": "This whole world is under the control of Prāṇa, and even what in Svarga abides. As a mother protects her sons, so protect thou us. Give us bodily and mental vigour"
+  },
+  {
+   "ref": "colophon32",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "इति द्वितीयः प्रश्नः॥",
+   "english": "Thus ends the second question.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
   },
   {
    "ref": "3/1",
@@ -506,6 +526,16 @@
    "english": "Having known the origin, the entrance, the localisation and the five-fold sovereignty of Prāṇa, as well as his physiological, physical, and celestial aspects, one enjoys immortality, indeed thus knowing, one enjoys immortality"
   },
   {
+   "ref": "colophon45",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "इति तृतीयः प्रश्नः॥",
+   "english": "Thus ends the third question.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "4/1",
    "kind": "verse",
    "scope": "mula",
@@ -640,6 +670,16 @@
    "english": "The Vijñānātmā (Jīva) along with all the Devas, the Prāṇas and the Great Elements are all firmly established in Him. He who knows that Imperishable is called the knower of the Absolute, he enters indeed into the Absolute."
   },
   {
+   "ref": "colophon57",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "इति चतुर्थः प्रश्नः॥",
+   "english": "Thus ends the fourth question.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "5/1",
    "kind": "verse",
    "scope": "mula",
@@ -715,6 +755,16 @@
    "scope": "mula",
    "sanskrit": "ऋग्भिरेतं यजुर्भिरन्तरिक्षं सामभिर्यत् तत् कवयो वेदयन्ते।\nतमोङ्कारेणैवायतनेनान्वेति विद्वान् यत् तच्छान्तमजरममृतमभयं परं चेति॥ ५/८॥",
    "english": "By the Ṛk (one gains) this (physical), by the Yajuṣ, the Soma loka (the astral), by the Sāman that which the wise (only) know (the Brahma loka). (But) the Brahma-knower, by the vehicle of the word AUM alone, reaches also that which is Peace, Undecaying, Free from fear, and the Supreme."
+  },
+  {
+   "ref": "colophon66",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "इति पञ्चमः प्रश्नः॥",
+   "english": "Thus ends the fifth question.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
   },
   {
    "ref": "6/1",
@@ -827,6 +877,36 @@
      "sanskrit": "“समुद्रे इत्येवं प्रोच्यते” “पुरुषे इत्येवं प्रोच्यते” “भिद्येते तासां नामरूपे” “भिद्येते चासां नामरूपे” इत्युक्तत्वात्।\nअज्ञैरनवगतान्यपि समुद्रे स्थितानां नदीनां विष्णौ स्थितानां मुक्तानां च भिन्नान्येव नामरूपाणि सन्त्येवेत्यर्थः।\nनच भेदशब्दो नाशे प्रयुज्यमानः क्वापि दृष्टः। घटादावपि बहुभाव एव भेदशब्दः प्रयुज्यते। नाशस्त्वर्थत एवावगम्यते। नचात्रार्थतोऽपि नाशोऽवगम्यते। नहि नामानि रूपाणि च कपालवद् बहुधा भूतानि तिष्ठन्ति। अतो ‘भिद्येते’ इति पृथक्त्वमेवोच्यते। “अरा इव रथनाभौ कला यस्मिन् प्रतिष्ठिताः” इति वाक्यशेषाच्च। अतः पुरुषे भिन्नानि नामरूपानि प्रतिष्ठितानीत्येवार्थः। अस्तगमनं त्वादित्यवदज्ञानामविज्ञेयत्वमेव।\n“प्राणादयः कला यस्मिन् मुक्ता नित्यं प्रतिष्ठिताः।\nपृथक्पृथङ् नामरूपैर्नमस्तस्मै पराय ते॥”\nइति सत्तत्त्वे।\n“नामरूपाद् विमुक्तः” इत्यनेनापि नामरूपामुक्तत्वमुच्यते। “विप्रियः” इत्यादिवत्।\n“नामरूपे अविहाय” इति च पूर्वत्र।\n“अनन्तं वै नामानन्ता विश्वेदेवाः” इति नामरूपयोरनन्तत्वं हि श्रुतिर्वक्ति।\n“यत्र पूर्वे साध्याः सन्ति देवाः” “स तत्र पर्येति जक्षन् क्रीडन् रममाणः” “सोऽश्नुते सर्वान् कामान् सह ब्रह्मणा विपश्चिता” “ऋचां त्वः पोषमास्ते पुपुष्वान् गायत्रं त्वो गायति शक्वरीषु” इत्यादेश्च।\nअतः सर्वमुक्तेभ्योऽप्युत्तमोत्तमः परिपूर्णो नारायण इति सिद्धम्।"
     }
    ]
+  },
+  {
+   "ref": "colophon75",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "॥ इति षष्ठः प्रश्नः॥",
+   "english": "Thus ends the sixth question.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
+   "ref": "colophon77",
+   "kind": "verse",
+   "scope": "mula+commentary",
+   "sanskrit": "॥ इति षट्प्रश्नोपनिषत् सम्पूर्णा॥\nनमोनमोऽस्तु हरये प्रेष्ठप्रेष्ठतमाय मे।\nपरमानन्दसन्दोहसान्द्रानन्दवपुष्मते॥॥\n॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं षट्प्रश्नोपनिषद्भाष्यं सम्पूर्णम्॥",
+   "english": "Thus the Six Questions Upanishad is complete. Salutation, salutation to Hari, who is dearest of the dear to me, whose body is a dense mass of the highest bliss. Thus ends the commentary on the Six Questions Upanishad composed by the revered Anandatirtha Bhagavatpada, the teacher.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "॥ इति षट्प्रश्नोपनिषत् सम्पूर्णा॥"
+    },
+    {
+     "role": "bhashya",
+     "sanskrit": "नमोनमोऽस्तु हरये प्रेष्ठप्रेष्ठतमाय मे।\nपरमानन्दसन्दोहसान्द्रानन्दवपुष्मते॥॥\n॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं षट्प्रश्नोपनिषद्भाष्यं सम्पूर्णम्॥"
+    }
+   ],
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
   }
  ],
  "source_sanskrit": {
@@ -843,7 +923,7 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit from Setutila/Sarvamula JSON/shatprashna_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. Joins rejected because the wisdomlib translation number differs from the ref: [('6/6', '7')]. English from wisdomlib matched by ref: 61 of 77 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [1 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 6/8] [22 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 1/3, 1/4, 1/5, 1/6, 1/7, 1/8, 1/12, 2/7, 2/8, 3/4, 3/6, 3/7, 3/9, 3/10, 4/1, 4/3, 4/4, 5/3, 5/6, 6/2, 6/3, 6/5] [6 units whose Setutila ref is mis-numbered (1/14-2 is mantra 1.15, 8 is 4.8, 5 is 5.5, 5/8 is 5.7, 6/6 and 6/7 as printed) got the verse translation of the wisdomlib mantra they hold, matched by reading the Sanskrit; the unit 'unnumbered31' is a stray verse number with no text.] After audit: wisdomlib verse numbers and Rao's notes were stripped from verse-only units, 5/6 english moved to 5/7, and 1/15 has no english (it had repeated 1/14-2). The closing shanti mantra (intro-2) is the same mantra as Mundaka's, with Sonde's Mundaka translation of it. Stray source marks were removed from the Sanskrit (editorial brackets, asterisks, page headers, watermark text, OCR pipes for dandas). Madhva's opening salutation (intro) is Vasu's translation as given on wisdomlib; the shanti mantra is the same as Mundaka's, with Sonde's translation of it. Vasu editorial notes, header lines and verse numbers were stripped from the english; in mula-scope units whose english ran past 5 times the Sanskrit only the first paragraph (the mantra translation) is kept. [1/15 (Sanskrit is Vasu's mantra 16) and 5/6 (second half of Vasu's mantra 5) got english from Vasu via wisdomlib; 1/15 is now scope mula with its commentary Sanskrit kept in parts.] [Duplicate intro-2 units (same mantra as intro) and the stray '(९)' unit were dropped.] [7 units with no english in any source were dropped so every unit is scoreable: 7 colophon units.]",
+ "notes": "Sanskrit from Setutila/Sarvamula JSON/shatprashna_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. Joins rejected because the wisdomlib translation number differs from the ref: [('6/6', '7')]. English from wisdomlib matched by ref: 61 of 77 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [1 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 6/8] [22 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 1/3, 1/4, 1/5, 1/6, 1/7, 1/8, 1/12, 2/7, 2/8, 3/4, 3/6, 3/7, 3/9, 3/10, 4/1, 4/3, 4/4, 5/3, 5/6, 6/2, 6/3, 6/5] [6 units whose Setutila ref is mis-numbered (1/14-2 is mantra 1.15, 8 is 4.8, 5 is 5.5, 5/8 is 5.7, 6/6 and 6/7 as printed) got the verse translation of the wisdomlib mantra they hold, matched by reading the Sanskrit; the unit 'unnumbered31' is a stray verse number with no text.] After audit: wisdomlib verse numbers and Rao's notes were stripped from verse-only units, 5/6 english moved to 5/7, and 1/15 has no english (it had repeated 1/14-2). The closing shanti mantra (intro-2) is the same mantra as Mundaka's, with Sonde's Mundaka translation of it. Stray source marks were removed from the Sanskrit (editorial brackets, asterisks, page headers, watermark text, OCR pipes for dandas). Madhva's opening salutation (intro) is Vasu's translation as given on wisdomlib; the shanti mantra is the same as Mundaka's, with Sonde's translation of it. Vasu editorial notes, header lines and verse numbers were stripped from the english; in mula-scope units whose english ran past 5 times the Sanskrit only the first paragraph (the mantra translation) is kept. [1/15 (Sanskrit is Vasu's mantra 16) and 5/6 (second half of Vasu's mantra 5) got english from Vasu via wisdomlib; 1/15 is now scope mula with its commentary Sanskrit kept in parts.] [Duplicate intro-2 units (same mantra as intro) and the stray '(९)' unit were dropped.] [7 units with no english in any source were dropped so every unit is scoreable: 7 colophon units.] [Colophon units restored (7): the english is a formulaic translation written for this corpus (meta.english_source), since no source translates colophons.]",
  "reference_type": "translation",
  "english_rights": [
   "public_domain"

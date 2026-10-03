@@ -770,6 +770,16 @@
    ]
   },
   {
+   "ref": "colophon-1",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति प्रथममागमप्रकरणं सम्पूर्णम् ॥",
+   "english": "Thus ends the first chapter, the Agama Prakarana.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
+  },
+  {
    "ref": "2.K1",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -1458,6 +1468,16 @@
      "english": "The truth regarding external objects such as the earth, etc., and the truth regarding internal objects characterised by body, etc., is that these are as unreal as a snake seen in the rope, or objects seen in dream or magic. For, there are such Śruti passages as, “modification being only a name, arising from speech, etc.” The Śruti further declares, “Ātman is both within and without, birthless, causeless, having no within or without, entire, all-pervading like the Ākāśa (ether), subtle, unchanging, without attributes and parts, and without action. That is Truth, That is Ātman and That thou art.” Knowing it to be such from the point of view of Truth, he becomes one with Truth and derives his enjoyment from Truth and not from any external object. But a person ignorant of Truth, takes the mind to be the Self and believes the Ātman to be active like the mind, and becomes active. He thus thinks his self to be identified with the body, etc., and deviated from Ātman saying, “Oh, I am now fallen from the Knowledge of Self.” When his mind is concentrated he sometimes thinks that he is happy and one with the Self. He declares “Oh, I am now one with the essence of Truth.” But, the knower of Self never makes any such statement, as Ātman is ever one and changeless and as it is impossible for Ātman to deviate from its own nature. The consciousness that “I am Brahman” never leaves him. In other words, he never loses the consciousness regarding the essence of the Self. The Smṛti supports this view in such passages as “The wise man views equally a dog or an outcaste.” “He sees who sees the Supreme Lord remaining the same, in all beings.” (Gītā)"
     }
    ]
+  },
+  {
+   "ref": "colophon-2",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति द्वितीयं वैतथ्यप्रकरणं सम्पूर्णम् ॥",
+   "english": "Thus ends the second chapter, the Vaitathya Prakarana.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
   },
   {
    "ref": "3.K1",
@@ -2391,6 +2411,16 @@
      "english": "All these ideas regarding the discipline of the mind, evolution resembling the creation of forms from iron and clay, as well as the ideas regarding devotional exercises, are given as means to the realisation of the nature of the Ultimate Reality. They have, in themselves, no meaning whatsoever. The truth regarding the Ultimate Reality is that no Jīva is ever born. The Jīva whom one knows as the agent and the enjoyer is not born in any way whatsoever. Therefore, no cause can ever exist which may produce the Ātman which is, by nature, unborn and non-dual. In other words, no Jīva can ever be born, as the cause which may produce it does not exist. Of all the (relative) truths described above as means (for the realisation of the Ultimate Reality), this alone is the Supreme Truth that nothing whatsoever is ever born in or of that Brahman which is of the nature of the Ultimate Reality."
     }
    ]
+  },
+  {
+   "ref": "colophon-3",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति तृतीयमद्वैतप्रकरणं सम्पूर्णम् ॥",
+   "english": "Thus ends the third chapter, the Advaita Prakarana.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
   },
   {
    "ref": "4.K1",
@@ -4173,6 +4203,16 @@
      "english": "The treatise is now completed. This Salutation is made with a view to extol the knowledge of the Supreme Reality. It is extremely difficult to understand it. In other words, it is difficult of comprehension as it is not related to any of the four possible predicates, such as existence, non-existence, etc. It is profound, that is, very deep like a great ocean. People devoid of discrimination cannot fathom it. This knowledge (Jñāna) is, further, birthless, always the same and all-light. Having attained this knowledge which is free from multiplicity, having become one with it, we salute it. Though this absolute knowledge cannot be subjected to any relative treatment (such as, Salutation, etc.) yet we view it from the relative standpoint and adore it to the best of our ability."
     }
    ]
+  },
+  {
+   "ref": "colophon-4",
+   "kind": "prose",
+   "scope": "commentary",
+   "sanskrit": "इति अलातशान्तिप्रकरणम् सम्पूर्णम् ॥\nइति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ माण्डूक्योपनिषत्कारिकाभाष्यं सम्पूर्णम् ॥",
+   "english": "Thus ends the chapter, the Alatashanti Prakarana. Thus ends the commentary on the Karika on the Mandukya Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher.",
+   "meta": {
+    "english_source": "formulaic translation of the colophon (Claude)"
+   }
   }
  ],
  "source_sanskrit": {
@@ -4189,7 +4229,7 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/mandukya-karika-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Nikhilananda 1949), joined by Devanagari verse text (202) or number-checked ref (1): 203 of 227 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [11 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 2.K20, 2.K21, 2.K22, 2.K23, 2.K24, 2.K26, 2.K27, 4.K31, 4.K51, 4.K61, 4.K68] [Range pages: units 2.K9-10, 4.K31-32, 4.K51-52, 4.K61-62, 4.K65-66, 4.K68-70 were merged because wisdomlib translates those karikas and their commentary together. 15 more units joined by karika number from the wisdomlib page of the same number, the earlier text-based join having failed on variant readings; parked (range pages or no page): 2.K10, 4.K16, 4.K32, 4.K52, 4.K62, 4.K65, 4.K66, 4.K69, 4.K70.] Anandagiri glossary, footnotes and verse-number prefixes were stripped from the english. [6 units with no english in any source were dropped so every unit is scoreable: 4 colophon units and 2 others (intro-1, 4.K16).]",
+ "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/mandukya-karika-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Nikhilananda 1949), joined by Devanagari verse text (202) or number-checked ref (1): 203 of 227 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [11 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 2.K20, 2.K21, 2.K22, 2.K23, 2.K24, 2.K26, 2.K27, 4.K31, 4.K51, 4.K61, 4.K68] [Range pages: units 2.K9-10, 4.K31-32, 4.K51-52, 4.K61-62, 4.K65-66, 4.K68-70 were merged because wisdomlib translates those karikas and their commentary together. 15 more units joined by karika number from the wisdomlib page of the same number, the earlier text-based join having failed on variant readings; parked (range pages or no page): 2.K10, 4.K16, 4.K32, 4.K52, 4.K62, 4.K65, 4.K66, 4.K69, 4.K70.] Anandagiri glossary, footnotes and verse-number prefixes were stripped from the english. [6 units with no english in any source were dropped so every unit is scoreable: 4 colophon units and 2 others (intro-1, 4.K16).] [Colophon units restored (4): the english is a formulaic translation written for this corpus (meta.english_source), since no source translates colophons.]",
  "reference_type": "translation",
  "english_rights": [
   "in_copyright_or_unclear"
