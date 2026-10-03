@@ -10,6 +10,8 @@ header input{font:inherit;padding:.3rem .5rem;border:1px solid var(--line);backg
 .ref{color:var(--mut);font-size:.85rem;word-break:break-all}
 .sk{font-family:"Noto Sans Devanagari","Kohinoor Devanagari","Devanagari MT",serif;font-size:1.2rem;line-height:1.9;white-space:pre-wrap}
 .en{white-space:pre-wrap}
+.tag{font:600 .7rem system-ui;text-transform:uppercase;color:var(--mut);letter-spacing:.05em}
+hr{border:0;border-top:1px dashed var(--line);margin:.6rem 0}
 .null{color:var(--mut);font-style:italic}
 @media(max-width:800px){.u{grid-template-columns:1fr}}
 """
@@ -26,10 +28,19 @@ def main():
     d = json.loads(path.read_text(encoding="utf-8"))
     rows = []
     for u in d["units"]:
-        en = html.escape(u.get("english") or "")
+        sk_cell, en_cell = [], []
+        parts = [q for q in u.get("parts", []) if q.get("sanskrit") or q.get("english")]
+        if parts:
+            for q in parts:
+                hidden = q.get("sanskrit") and q["sanskrit"] not in u["sanskrit"]
+                tag = f'<div class="tag">{html.escape(q["role"])}{" (not in unit sanskrit)" if hidden else ""}</div>'
+                sk_cell.append(tag + html.escape(q.get("sanskrit") or ""))
+                en_cell.append(tag + (html.escape(q.get("english") or "") or "<span class=null>-</span>"))
+        else:
+            sk_cell.append(html.escape(u["sanskrit"]))
+            en_cell.append(html.escape(u.get("english") or "") or "<span class=null>no english</span>")
         rows.append(f'<div class="u"><div class="ref">{html.escape(u["ref"])}<br>{html.escape(u.get("scope", ""))}</div>'
-                    f'<div class="sk">{html.escape(u["sanskrit"])}</div>'
-                    f'<div class="en">{en or "<span class=null>no english</span>"}</div></div>')
+                    f'<div class="sk">{"<hr>".join(sk_cell)}</div><div class="en">{"<hr>".join(en_cell)}</div></div>')
     page = (f'<!doctype html><meta charset="utf-8"><title>{html.escape(path.stem)}</title><style>{CSS}</style>'
             f'<header><b>{html.escape(path.stem)}</b><input id="q" placeholder="filter by ref or text"><span>{len(rows)} units</span></header>'
             + "".join(rows) + f"<script>{JS}</script>")
