@@ -316,13 +316,6 @@
    ]
   },
   {
-   "ref": "intro-2",
-   "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते।\nपूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते॥\nओ३म् शान्तिः शान्तिः शान्तिः॥ ००॥",
-   "english": "That is Full, this is full, from that Full, this full emanates. Taking away this full from that Full, the Full still remains behind. Om. Peace, Peace, Peace."
-  },
-  {
    "ref": "colophon21",
    "kind": "verse",
    "scope": "mula+commentary",
@@ -354,7 +347,7 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit from Setutila/Sarvamula JSON/ishavasya_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. English from wisdomlib matched by ref: 18 of 21 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [2 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 11, 15] Stray source marks were removed from the Sanskrit (editorial brackets, asterisks, page headers, watermark text, OCR pipes for dandas). The shanti mantra and Madhva's two opening salutations (intro) are Vasu's translation as given on wisdomlib, without his notes. Vasu editorial notes, header lines and verse numbers were stripped from the english; in mula-scope units whose english ran past 5 times the Sanskrit only the first paragraph (the mantra translation) is kept.",
+ "notes": "Sanskrit from Setutila/Sarvamula JSON/ishavasya_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. English from wisdomlib matched by ref: 18 of 21 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [2 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 11, 15] Stray source marks were removed from the Sanskrit (editorial brackets, asterisks, page headers, watermark text, OCR pipes for dandas). The shanti mantra and Madhva's two opening salutations (intro) are Vasu's translation as given on wisdomlib, without his notes. Vasu editorial notes, header lines and verse numbers were stripped from the english; in mula-scope units whose english ran past 5 times the Sanskrit only the first paragraph (the mantra translation) is kept. [Duplicate intro-2 units (same mantra as intro) and the stray '(९)' unit were dropped.]",
  "reference_type": "translation",
  "english_rights": [
   "public_domain"
