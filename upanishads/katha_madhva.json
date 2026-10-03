@@ -41,19 +41,19 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "पीतोदका जग्धतृणा दुग्धदोहा निरिन्द्रियाः।\nअनन्दा नाम ते लोकास्तान् स गच्छति ता ददत्॥१/१/३॥",
-   "english": "Incapable of drinking water, tasting grass or giving milk or of strength (were the cows). Whoever gives such gifts, joyless would the worlds where he goes. 6"
+   "english": "Incapable of drinking water, tasting grass or giving milk or of strength (were the cows). Whoever gives such gifts, joyless would the worlds where he goes."
   },
   {
    "ref": "1/1/4",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "स होवाच पितरं तत कस्मै मां दास्यसीति। द्वितीयं तृतीयम्। तꣳ होवाच मृत्यवे त्वा ददानीति॥ १/१/४॥",
-   "english": "4.    He (Nachiketa) said to his father „Dear father, to whom shall you gift me?‟ (Thus he asked) the second and third time. Him he replied, „To the Death shall I give you‟.",
+   "english": "He (Nachiketa) said to his father „Dear father, to whom shall you gift me?‟ (Thus he asked) the second and third time. Him he replied, „To the Death shall I give you‟.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "स होवाच पितरं तत कस्मै मां दास्यसीति। द्वितीयं तृतीयम्। तꣳ होवाच मृत्यवे त्वा ददानीति॥ १/१/४॥",
-     "english": "4.    He (Nachiketa) said to his father „Dear father, to whom shall you gift me?‟ (Thus he asked) the second and third time. Him he replied, „To the Death shall I give you‟."
+     "english": "He (Nachiketa) said to his father „Dear father, to whom shall you gift me?‟ (Thus he asked) the second and third time. Him he replied, „To the Death shall I give you‟."
     },
     {
      "role": "bhashya"
@@ -72,7 +72,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "अनुपश्य यथा पूर्वे प्रतिपश्य तथाऽपरे।\nसस्यमिव मर्त्यः पच्यते सस्यमिव जायते पुनः॥१/१/६॥",
-   "english": "6.    Observe how it was in earlier times and again in later times. Like seedlings do the mortals perish and like seedlings they rise again."
+   "english": "Observe how it was in earlier times and again in later times. Like seedlings do the mortals perish and like seedlings they rise again."
   },
   {
    "ref": "1/1/7",
@@ -86,7 +86,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "आशाप्रतीक्षे सङ्गतꣳ सूनृतां चेष्टापूर्ते पुत्रपशूꣳश्च सर्वान्।\nएतद् वृङ्क्ते पुरुषस्याल्पमेधसो यस्यानश्नन् वसति ब्राह्मणो गृहे॥१/१/८॥",
-   "english": "8.—All his hopes and expectations, friends and reputation, the fruits of religious and charitable deeds, sons and cattle perish, in the house,of that man of small intellect, where dwells a Brahmin without any food;—8."
+   "english": "—All his hopes and expectations, friends and reputation, the fruits of religious and charitable deeds, sons and cattle perish, in the house,of that man of small intellect, where dwells a Brahmin without any food;"
   },
   {
    "ref": "1/1/9",
@@ -119,7 +119,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "यथा पुरस्ताद् भविता प्रतीत औद्दालकिरारुणिर्मत्प्रसृष्टः।\nसुखं रात्रीः शयिता वीतमन्युस्त्वां ददृशिवान् मृत्युमुखात् प्रमुक्तम्॥१/१/११॥",
-   "english": "11. As beloved thee before, so also Auddalaki Āruṇi will even now love thee. He will have pleasant sleep in nights, and free from anger towards thee will see thee freed from the mouth of death and will recognise thee when thou art sent back to him by me.—11.\nNote.—(You) being dismissed by me, will he recognised (by your father), as (a person returning home) from another city. The son of Uddālaka will be free from anger, having seen thee freed fully from the jaws of death."
+   "english": "As beloved thee before, so also Auddalaki Āruṇi will even now love thee. He will have pleasant sleep in nights, and free from anger towards thee will see thee freed from the mouth of death and will recognise thee when thou art sent back to him by me."
   },
   {
    "ref": "1/1/12",
@@ -133,7 +133,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "स त्वमग्निं स्वर्ग्यमध्येषि मृत्यो प्रब्रूहि तं श्रद्दधानाय मह्यम्।\nस्वर्गलोका अमृतत्वं भजन्त एतद् द्वितीयेन वृणे वरेण॥ १/१/१३॥",
-   "english": "You are aware of that Agni, which leads one to the heavens, Preach me, who is all receptive (Eawyaa ma(ma\\), how do they devote to the state of Deathlessness. Thus, do I ask my second boon."
+   "english": "You are aware of that Agni, which leads one to the heavens, Preach me, who is all receptive , how do they devote to the state of Deathlessness. Thus, do I ask my second boon."
   },
   {
    "ref": "1/1/14",
@@ -228,17 +228,17 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "येयं प्रेते विचिकित्सा मनुष्ये अस्तीत्येके नायमस्तीति चैके।\nएतद् विद्यामनुशिष्टस्त्वयाऽहं वराणामेष वरस्तृतीयः॥ १/१/२०॥\nप्रेते मुक्ते मनुष्ये नियामकत्वेन भगवान् अस्तीति ज्ञानिनो वदन्ति। नास्तीति अज्ञाः। तस्य नियामकस्य स्वरूपं यथावत् अहं विद्याम्।\n“अस्य विस्रंसमानस्य शरीरस्थस्य देहिनः।\nदेहाद् विमुच्यमानस्य किमत्र परिशिष्यते, एतद् वै तत्”\nइति परिहाराच्च मुक्ते स्थितो भगवान् पृच्छ्यते इति सिद्धम्। देहाद् विशेषेण मोचनं नाम मुक्तिरेव। मुक्तेरपि मरणात्मकत्वान्मरणमित्यपि भवति। स्थूलदेहपरित्यागस्तु विस्रंसमानस्य इत्यनेनैवोक्तो भवति।\n“अग्निस्थं परमात्मानं सामान्याज्जानतोऽपितु।\nअजानतस्तु मुक्तौ च जीवान्तःस्थितमीश्वरम्।\nनियामकं च जीवानां मुक्तानामपि सर्वदा।\nगुणान् सर्वोत्तमत्वादीनविज्ञाय हरेस्तथा।\nनैव मुक्तिर्भवेत् तस्मात् कृच्छ्रात् तदवदद् यमः।\nतस्य गोप्यत्वविज्ञप्त्यै तथाऽप्यग्निस्थवेदनात्।\nसुखाधिक्यं भवेन्मुक्तौ तस्मात् तत् पृथगीरितम्॥”\nइति तत्त्वसारे।\n“स्थाणुमन्येऽनुसँयन्ति यथाकर्म यथाश्रुतम्” इत्युक्त्वा “य एषु सुप्तेषु जागर्ति कामङ्कामं पुुरुषो निर्ममाणः” इति वचनाच्च जीवेषु स्थितो भगवान् पृच्छ्यत इति सिद्धम्। मृतजीवे स्थितो मुक्तजीवे स्थितश्चोभयात्मको भगवान् विवक्षित इत्येतस्माच्चाविरोधः।\n“गुह्यं तत् परमं ब्रह्म\nशीर्यमाणं शरीरिणम्।\nसम्प्राप्तमपि जीवेषु जागर्ति स्वपितेष्वपि॥”\nइति ब्रह्माण्डे।",
-   "english": "20. Some say that the God controls the dead and the (liberated) jīvas, others say that He does not. Therefore this doubt has arisen. May I know this being taught by thee. Of the boons, this is the third that I have chosen.—20.\nThere is this doubt regarding (the condition of the) man in mokṣa, some say there is (still an Individual self or form or centre in Mokṣa) others say it is not. May I learn, being taught by thee, this (true nature of Mokṣa). Of the boons, this is the third.\nNote.—The meaning generally given to this question is—some say that there is such a thing as an ātman, which survives after death, and which is distinct from body, senses, manas, and buddhi, while others say there is no such entity as ātmā. This is a subject which we cannot know either through perception or through reasoning, hence the necessity of revelation about it. This interpretation is set aside by the commentator. The question is not about the survival of Personality after death, but about the nature of God and the Liberated jīva, and their inter-relation.\nMadhva’s commentary called the Bhāṣya:\nThe wise say that the Lord controls the embodied and unembodied the bound as well as the liberated jīvas. The ignorant say that He rules only the living and those souls which are bound, but over the liberated He exercises no control. They are perfectly free. Let me know, O Yama, the true nature of the controller. Teach me this.\nThat the question is about this Controller, and not about the survival after death, is also clear from mantra 4 of the Fifth Vallī:—“What remains when this soul, the dweller in the body, gees out leaving the sense body (at death); and is freed also from the subtle body (at Mukti). This is that indeed.” This question also shows that the Lord dwelling in the Freed Ones is the subject of enquiry. The word there is “Vimucyamānsya”—“completely freed” that is, the soul that has shaken off even the subtle body. The Mukti alone can be called vimucyamāna [vimucyamānam], i.e., vīseṣeṇa-mocana [mocanam]: merely physical death is not called vimucyamānam. Of course, Yama in I. 25, says “do not ask me about death (maraṇa [maraṇam]).” But that does not show that Naciketas asked about ordinary death. The word maraṇam or death is applied to the Freed Souls also for they had been under the control of death. In V. 41 there are wo epithets used, visraṃsamāna [visraṃsamānam] and vimucyamānam—the first means, to throw off the dense body, the latter to discard the subtle body. If both meant leaving off the dense body, there would be tautology. So the use of these two epithets in that verse also proves that the enquiry really refers to Muktas and not the ordinary dead.\n[The second and the third questions both relate to the mystery of the Lord. Yama answers the second question very promptly, but the third he answers with great reluctance.] The reason for this is thus given in the Tattva-Sāra A person who knows the Supreme Self in a general way, as residing in Agni, but does not know the Lord particularly, as residing in the heart of all jīvas even when they are freed, and who is ignorant of the fact that the Lord is also always the controller of all Mukta Jīvas and that He possesses super-relatively excellent qualities—a person who is thus ignorant of the greatness of Hari does not get Mukti. Therefore Yama answers the third question with great reluctance, in order to show that the question implies a great mystery. Still by knowing the Lord as residing in Agni there accrues an increase of happiness in the Mukta state. Therefore the third question is separately put.”\nNote.—The second and the third questions both relate to the Lord: but the knowledge of the Lord as the indwelling spirit of Fire docs not alone lead to Mukti, hence the necessity of the third question. It is the knowledge of the super-excellent qualities of the Lord as described in answer to the third question, and the knowledge that He is the Controller of the Alukta Jīvas also, that leads to salvation. In the state of Mukti there is happiness, but this happiness is considerably enhanced if one possesses the knowledge implied in the second question also. In Valli 5, Mantra 7, the Śruti recites “Some jīvas ready for birth go into the womb and obtain a body, others enter into immoveable object, according to their action and their knowledge.” Then the Śruti goes on to declare in the next Mantra “He the Lord who is awake in those who sleep, shaping one desired object after another—that is the bright, that is Brahman, that alone is called the Immortal.”\nThis also indicates that the Lord dwells in the jīvas; and as this is said in answer to the question put in Mantra V, 1, we conclude that the question there also was about the Lord and His control over the jīvas, both bound and free. Otherwise there would be no relevancy between the question and the answer. In the third boon of Nāciketas the question relates to Mukta Jīvas only, while in V. 4. the question refers to all jīvas whether bound or free; in the third boon “yeyaṃ prete” etc., the word used is prete, which means the ‘dead’ as well as ‘Mukta.’ So that question is confined to the enquiry whether the Lord controls the ‘dead’ and the ‘free’: while the question in V. 4. relates to jīvas in general, whether alive, dead or free. Tims there is no contradiction between these two.\nIn V. 6 also Yama says “Now I shall tell thee about that mysterious ancient Brahman how He, the Supreme, governs the dying and the dead.” The same idea is more definitely expressed in the Brahmāṇḍa Purāṇa;—“The mysterious Supreme Brahman, though dwelling in the dying and decaying bodies of the jīvas yet He is awake in all the jīvas whether they be asleep or not.”",
+   "english": "Some say that the God controls the dead and the (liberated) jīvas, others say that He does not. Therefore this doubt has arisen. May I know this being taught by thee. Of the boons, this is the third that I have chosen.\nThere is this doubt regarding (the condition of the) man in mokṣa, some say there is (still an Individual self or form or centre in Mokṣa) others say it is not. May I learn, being taught by thee, this (true nature of Mokṣa). Of the boons, this is the third.\nMadhva’s commentary called the Bhāṣya:\nThe wise say that the Lord controls the embodied and unembodied the bound as well as the liberated jīvas. The ignorant say that He rules only the living and those souls which are bound, but over the liberated He exercises no control. They are perfectly free. Let me know, O Yama, the true nature of the controller. Teach me this.\nThat the question is about this Controller, and not about the survival after death, is also clear from mantra 4 of the Fifth Vallī:—“What remains when this soul, the dweller in the body, gees out leaving the sense body (at death); and is freed also from the subtle body (at Mukti). This is that indeed.” This question also shows that the Lord dwelling in the Freed Ones is the subject of enquiry. The word there is “Vimucyamānsya”—“completely freed” that is, the soul that has shaken off even the subtle body. The Mukti alone can be called vimucyamāna [vimucyamānam], i.e., vīseṣeṇa-mocana [mocanam]: merely physical death is not called vimucyamānam. Of course, Yama in I. 25, says “do not ask me about death (maraṇa [maraṇam]).” But that does not show that Naciketas asked about ordinary death. The word maraṇam or death is applied to the Freed Souls also for they had been under the control of death. In V. 41 there are wo epithets used, visraṃsamāna [visraṃsamānam] and vimucyamānam—the first means, to throw off the dense body, the latter to discard the subtle body. If both meant leaving off the dense body, there would be tautology. So the use of these two epithets in that verse also proves that the enquiry really refers to Muktas and not the ordinary dead.\n[The second and the third questions both relate to the mystery of the Lord. Yama answers the second question very promptly, but the third he answers with great reluctance.] The reason for this is thus given in the Tattva-Sāra A person who knows the Supreme Self in a general way, as residing in Agni, but does not know the Lord particularly, as residing in the heart of all jīvas even when they are freed, and who is ignorant of the fact that the Lord is also always the controller of all Mukta Jīvas and that He possesses super-relatively excellent qualities—a person who is thus ignorant of the greatness of Hari does not get Mukti. Therefore Yama answers the third question with great reluctance, in order to show that the question implies a great mystery. Still by knowing the Lord as residing in Agni there accrues an increase of happiness in the Mukta state. Therefore the third question is separately put.”\nThis also indicates that the Lord dwells in the jīvas; and as this is said in answer to the question put in Mantra V, 1, we conclude that the question there also was about the Lord and His control over the jīvas, both bound and free. Otherwise there would be no relevancy between the question and the answer. In the third boon of Nāciketas the question relates to Mukta Jīvas only, while in V. 4. the question refers to all jīvas whether bound or free; in the third boon “yeyaṃ prete” etc., the word used is prete, which means the ‘dead’ as well as ‘Mukta.’ So that question is confined to the enquiry whether the Lord controls the ‘dead’ and the ‘free’: while the question in V. 4. relates to jīvas in general, whether alive, dead or free. Tims there is no contradiction between these two.\nIn V. 6 also Yama says “Now I shall tell thee about that mysterious ancient Brahman how He, the Supreme, governs the dying and the dead.” The same idea is more definitely expressed in the Brahmāṇḍa Purāṇa;—“The mysterious Supreme Brahman, though dwelling in the dying and decaying bodies of the jīvas yet He is awake in all the jīvas whether they be asleep or not.”",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "येयं प्रेते विचिकित्सा मनुष्ये अस्तीत्येके नायमस्तीति चैके।\nएतद् विद्यामनुशिष्टस्त्वयाऽहं वराणामेष वरस्तृतीयः॥ १/१/२०॥",
-     "english": "20. Some say that the God controls the dead and the (liberated) jīvas, others say that He does not. Therefore this doubt has arisen. May I know this being taught by thee. Of the boons, this is the third that I have chosen.—20.\nThere is this doubt regarding (the condition of the) man in mokṣa, some say there is (still an Individual self or form or centre in Mokṣa) others say it is not. May I learn, being taught by thee, this (true nature of Mokṣa). Of the boons, this is the third."
+     "english": "Some say that the God controls the dead and the (liberated) jīvas, others say that He does not. Therefore this doubt has arisen. May I know this being taught by thee. Of the boons, this is the third that I have chosen.\nThere is this doubt regarding (the condition of the) man in mokṣa, some say there is (still an Individual self or form or centre in Mokṣa) others say it is not. May I learn, being taught by thee, this (true nature of Mokṣa). Of the boons, this is the third."
     },
     {
      "role": "bhashya",
      "sanskrit": "प्रेते मुक्ते मनुष्ये नियामकत्वेन भगवान् अस्तीति ज्ञानिनो वदन्ति। नास्तीति अज्ञाः। तस्य नियामकस्य स्वरूपं यथावत् अहं विद्याम्।\n“अस्य विस्रंसमानस्य शरीरस्थस्य देहिनः।\nदेहाद् विमुच्यमानस्य किमत्र परिशिष्यते, एतद् वै तत्”\nइति परिहाराच्च मुक्ते स्थितो भगवान् पृच्छ्यते इति सिद्धम्। देहाद् विशेषेण मोचनं नाम मुक्तिरेव। मुक्तेरपि मरणात्मकत्वान्मरणमित्यपि भवति। स्थूलदेहपरित्यागस्तु विस्रंसमानस्य इत्यनेनैवोक्तो भवति।\n“अग्निस्थं परमात्मानं सामान्याज्जानतोऽपितु।\nअजानतस्तु मुक्तौ च जीवान्तःस्थितमीश्वरम्।\nनियामकं च जीवानां मुक्तानामपि सर्वदा।\nगुणान् सर्वोत्तमत्वादीनविज्ञाय हरेस्तथा।\nनैव मुक्तिर्भवेत् तस्मात् कृच्छ्रात् तदवदद् यमः।\nतस्य गोप्यत्वविज्ञप्त्यै तथाऽप्यग्निस्थवेदनात्।\nसुखाधिक्यं भवेन्मुक्तौ तस्मात् तत् पृथगीरितम्॥”\nइति तत्त्वसारे।\n“स्थाणुमन्येऽनुसँयन्ति यथाकर्म यथाश्रुतम्” इत्युक्त्वा “य एषु सुप्तेषु जागर्ति कामङ्कामं पुुरुषो निर्ममाणः” इति वचनाच्च जीवेषु स्थितो भगवान् पृच्छ्यत इति सिद्धम्। मृतजीवे स्थितो मुक्तजीवे स्थितश्चोभयात्मको भगवान् विवक्षित इत्येतस्माच्चाविरोधः।\n“गुह्यं तत् परमं ब्रह्म\nशीर्यमाणं शरीरिणम्।\nसम्प्राप्तमपि जीवेषु जागर्ति स्वपितेष्वपि॥”\nइति ब्रह्माण्डे।",
-     "english": "Note.—The meaning generally given to this question is—some say that there is such a thing as an ātman, which survives after death, and which is distinct from body, senses, manas, and buddhi, while others say there is no such entity as ātmā. This is a subject which we cannot know either through perception or through reasoning, hence the necessity of revelation about it. This interpretation is set aside by the commentator. The question is not about the survival of Personality after death, but about the nature of God and the Liberated jīva, and their inter-relation.\nMadhva’s commentary called the Bhāṣya:\nThe wise say that the Lord controls the embodied and unembodied the bound as well as the liberated jīvas. The ignorant say that He rules only the living and those souls which are bound, but over the liberated He exercises no control. They are perfectly free. Let me know, O Yama, the true nature of the controller. Teach me this.\nThat the question is about this Controller, and not about the survival after death, is also clear from mantra 4 of the Fifth Vallī:—“What remains when this soul, the dweller in the body, gees out leaving the sense body (at death); and is freed also from the subtle body (at Mukti). This is that indeed.” This question also shows that the Lord dwelling in the Freed Ones is the subject of enquiry. The word there is “Vimucyamānsya”—“completely freed” that is, the soul that has shaken off even the subtle body. The Mukti alone can be called vimucyamāna [vimucyamānam], i.e., vīseṣeṇa-mocana [mocanam]: merely physical death is not called vimucyamānam. Of course, Yama in I. 25, says “do not ask me about death (maraṇa [maraṇam]).” But that does not show that Naciketas asked about ordinary death. The word maraṇam or death is applied to the Freed Souls also for they had been under the control of death. In V. 41 there are wo epithets used, visraṃsamāna [visraṃsamānam] and vimucyamānam—the first means, to throw off the dense body, the latter to discard the subtle body. If both meant leaving off the dense body, there would be tautology. So the use of these two epithets in that verse also proves that the enquiry really refers to Muktas and not the ordinary dead.\n[The second and the third questions both relate to the mystery of the Lord. Yama answers the second question very promptly, but the third he answers with great reluctance.] The reason for this is thus given in the Tattva-Sāra A person who knows the Supreme Self in a general way, as residing in Agni, but does not know the Lord particularly, as residing in the heart of all jīvas even when they are freed, and who is ignorant of the fact that the Lord is also always the controller of all Mukta Jīvas and that He possesses super-relatively excellent qualities—a person who is thus ignorant of the greatness of Hari does not get Mukti. Therefore Yama answers the third question with great reluctance, in order to show that the question implies a great mystery. Still by knowing the Lord as residing in Agni there accrues an increase of happiness in the Mukta state. Therefore the third question is separately put.”\nNote.—The second and the third questions both relate to the Lord: but the knowledge of the Lord as the indwelling spirit of Fire docs not alone lead to Mukti, hence the necessity of the third question. It is the knowledge of the super-excellent qualities of the Lord as described in answer to the third question, and the knowledge that He is the Controller of the Alukta Jīvas also, that leads to salvation. In the state of Mukti there is happiness, but this happiness is considerably enhanced if one possesses the knowledge implied in the second question also. In Valli 5, Mantra 7, the Śruti recites “Some jīvas ready for birth go into the womb and obtain a body, others enter into immoveable object, according to their action and their knowledge.” Then the Śruti goes on to declare in the next Mantra “He the Lord who is awake in those who sleep, shaping one desired object after another—that is the bright, that is Brahman, that alone is called the Immortal.”\nThis also indicates that the Lord dwells in the jīvas; and as this is said in answer to the question put in Mantra V, 1, we conclude that the question there also was about the Lord and His control over the jīvas, both bound and free. Otherwise there would be no relevancy between the question and the answer. In the third boon of Nāciketas the question relates to Mukta Jīvas only, while in V. 4. the question refers to all jīvas whether bound or free; in the third boon “yeyaṃ prete” etc., the word used is prete, which means the ‘dead’ as well as ‘Mukta.’ So that question is confined to the enquiry whether the Lord controls the ‘dead’ and the ‘free’: while the question in V. 4. relates to jīvas in general, whether alive, dead or free. Tims there is no contradiction between these two.\nIn V. 6 also Yama says “Now I shall tell thee about that mysterious ancient Brahman how He, the Supreme, governs the dying and the dead.” The same idea is more definitely expressed in the Brahmāṇḍa Purāṇa;—“The mysterious Supreme Brahman, though dwelling in the dying and decaying bodies of the jīvas yet He is awake in all the jīvas whether they be asleep or not.”"
+     "english": "Madhva’s commentary called the Bhāṣya:\nThe wise say that the Lord controls the embodied and unembodied the bound as well as the liberated jīvas. The ignorant say that He rules only the living and those souls which are bound, but over the liberated He exercises no control. They are perfectly free. Let me know, O Yama, the true nature of the controller. Teach me this.\nThat the question is about this Controller, and not about the survival after death, is also clear from mantra 4 of the Fifth Vallī:—“What remains when this soul, the dweller in the body, gees out leaving the sense body (at death); and is freed also from the subtle body (at Mukti). This is that indeed.” This question also shows that the Lord dwelling in the Freed Ones is the subject of enquiry. The word there is “Vimucyamānsya”—“completely freed” that is, the soul that has shaken off even the subtle body. The Mukti alone can be called vimucyamāna [vimucyamānam], i.e., vīseṣeṇa-mocana [mocanam]: merely physical death is not called vimucyamānam. Of course, Yama in I. 25, says “do not ask me about death (maraṇa [maraṇam]).” But that does not show that Naciketas asked about ordinary death. The word maraṇam or death is applied to the Freed Souls also for they had been under the control of death. In V. 41 there are wo epithets used, visraṃsamāna [visraṃsamānam] and vimucyamānam—the first means, to throw off the dense body, the latter to discard the subtle body. If both meant leaving off the dense body, there would be tautology. So the use of these two epithets in that verse also proves that the enquiry really refers to Muktas and not the ordinary dead.\n[The second and the third questions both relate to the mystery of the Lord. Yama answers the second question very promptly, but the third he answers with great reluctance.] The reason for this is thus given in the Tattva-Sāra A person who knows the Supreme Self in a general way, as residing in Agni, but does not know the Lord particularly, as residing in the heart of all jīvas even when they are freed, and who is ignorant of the fact that the Lord is also always the controller of all Mukta Jīvas and that He possesses super-relatively excellent qualities—a person who is thus ignorant of the greatness of Hari does not get Mukti. Therefore Yama answers the third question with great reluctance, in order to show that the question implies a great mystery. Still by knowing the Lord as residing in Agni there accrues an increase of happiness in the Mukta state. Therefore the third question is separately put.”\nThis also indicates that the Lord dwells in the jīvas; and as this is said in answer to the question put in Mantra V, 1, we conclude that the question there also was about the Lord and His control over the jīvas, both bound and free. Otherwise there would be no relevancy between the question and the answer. In the third boon of Nāciketas the question relates to Mukta Jīvas only, while in V. 4. the question refers to all jīvas whether bound or free; in the third boon “yeyaṃ prete” etc., the word used is prete, which means the ‘dead’ as well as ‘Mukta.’ So that question is confined to the enquiry whether the Lord controls the ‘dead’ and the ‘free’: while the question in V. 4. relates to jīvas in general, whether alive, dead or free. Tims there is no contradiction between these two.\nIn V. 6 also Yama says “Now I shall tell thee about that mysterious ancient Brahman how He, the Supreme, governs the dying and the dead.” The same idea is more definitely expressed in the Brahmāṇḍa Purāṇa;—“The mysterious Supreme Brahman, though dwelling in the dying and decaying bodies of the jīvas yet He is awake in all the jīvas whether they be asleep or not.”"
     }
    ]
   },
@@ -247,7 +247,7 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "देवैरत्रापि विचिकित्सितं पुरा नहि सुज्ञेयोऽणुरेष धर्मः।\nअन्यं वरं नचिकेतो वृणीष्व मा मोपरोत्सीरति मा सृजैवम्॥ १/१/२१॥\nधारकत्वात् धर्मो भगवान्।",
-   "english": "Even the Gods in earlier times were inquiring about this; as any other boon, for subtle is this Dharma and difficult to understand. Ask for some other boon, Nachiketa. Don‟t insist, release me from the obligation.\nSince it upholds (Qaarka%vaat\\), it is referred as Dharma.",
+   "english": "Even the Gods in earlier times were inquiring about this; as any other boon, for subtle is this Dharma and difficult to understand. Ask for some other boon, Nachiketa. Don‟t insist, release me from the obligation.\nSince it upholds , it is referred as Dharma.",
    "parts": [
     {
      "role": "mula",
@@ -257,7 +257,7 @@
     {
      "role": "bhashya",
      "sanskrit": "धारकत्वात् धर्मो भगवान्।",
-     "english": "Since it upholds (Qaarka%vaat\\), it is referred as Dharma."
+     "english": "Since it upholds , it is referred as Dharma."
     }
    ]
   },
@@ -273,7 +273,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "शतायुषः पुत्रपौत्रान् वृणीष्व बहून् पशून् हस्तिहिरण्यमश्वान्।\nभूमेर्महदायतनं वृणीष्व स्वयं च जीव शरदो यावदिच्छसि॥ १/१/२३॥",
-   "english": "23.—(Yama said) choose sons and grandsons living for a hundred [???]; choose many animals, horses, elephants and gold. Choose a wide empire on earth ami live them thyself as many autumns as thou desirest.—23."
+   "english": "—(Yama said) choose sons and grandsons living for a hundred ; choose many animals, horses, elephants and gold. Choose a wide empire on earth ami live them thyself as many autumns as thou desirest."
   },
   {
    "ref": "1/1/24",
@@ -327,12 +327,12 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "यस्मिन्निदं विचिकित्सन्ति मृत्यो साम्पराये महति ब्रूहि नस्तत्।\nयोऽयं वरो गूढमनुप्रविष्टो नान्यं तस्मान्नचिकेता वृणीते॥ १/१/२९॥\nमहति साम्पराये मुक्तौ।",
-   "english": "29. O Death, as with regards to the Great Beatitude (the condition of Mukti), they have raised this doubt, that indeed tell thou to us. As this boon relates to the Hidden, therefore, Naciketas does not choose any other boon.—29.\nAbout which (people) have raised such doubts, that (God) indeed, O Death, reveal thou to us (that we. may get) the Supreme Liberation. As (the subject of) this boon has been kept a secret (so long), therefore, no other boon does Nāciketa choose.\nThe words Mahati sāmparāye mean the Great Blessing, i.e., the Mukti.",
+   "english": "O Death, as with regards to the Great Beatitude (the condition of Mukti), they have raised this doubt, that indeed tell thou to us. As this boon relates to the Hidden, therefore, Naciketas does not choose any other boon.\nAbout which (people) have raised such doubts, that (God) indeed, O Death, reveal thou to us (that we. may get) the Supreme Liberation. As (the subject of) this boon has been kept a secret (so long), therefore, no other boon does Nāciketa choose.\nThe words Mahati sāmparāye mean the Great Blessing, i.e., the Mukti.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "यस्मिन्निदं विचिकित्सन्ति मृत्यो साम्पराये महति ब्रूहि नस्तत्।\nयोऽयं वरो गूढमनुप्रविष्टो नान्यं तस्मान्नचिकेता वृणीते॥ १/१/२९॥",
-     "english": "29. O Death, as with regards to the Great Beatitude (the condition of Mukti), they have raised this doubt, that indeed tell thou to us. As this boon relates to the Hidden, therefore, Naciketas does not choose any other boon.—29.\nAbout which (people) have raised such doubts, that (God) indeed, O Death, reveal thou to us (that we. may get) the Supreme Liberation. As (the subject of) this boon has been kept a secret (so long), therefore, no other boon does Nāciketa choose."
+     "english": "O Death, as with regards to the Great Beatitude (the condition of Mukti), they have raised this doubt, that indeed tell thou to us. As this boon relates to the Hidden, therefore, Naciketas does not choose any other boon.\nAbout which (people) have raised such doubts, that (God) indeed, O Death, reveal thou to us (that we. may get) the Supreme Liberation. As (the subject of) this boon has been kept a secret (so long), therefore, no other boon does Nāciketa choose."
     },
     {
      "role": "bhashya",
@@ -360,24 +360,24 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "श्रेयश्च प्रेयश्च मनुष्यमेतस्तौ सम्परीत्य विविनक्ति धीरः।\nश्रेयो धीरोऽभि प्रेयसो वृणीते प्रेयो मन्दो योगक्षेमान् वृणीते॥१/२/२॥",
-   "english": "2. The Good and the Pleasant both, through past causes, approach the jīva. The wise fully examining them, distinguishes (them). The wise chooses the Good over the Pleasant. The ordinary man chooses the Pleasant objects and their acquisition and preservation.—31."
+   "english": "The Good and the Pleasant both, through past causes, approach the jīva. The wise fully examining them, distinguishes (them). The wise chooses the Good over the Pleasant. The ordinary man chooses the Pleasant objects and their acquisition and preservation."
   },
   {
    "ref": "1/2/3",
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "स त्वं प्रियान् प्रियरूपाꣳश्च कामान्नभिध्यायन् नचिकेतोऽत्यस्राक्षीः।\nनैतां सृङ्कां वित्तमयीमवाप्तो यस्यां मज्जन्ति बहवो मनुष्याः॥१/२/३॥\nशृङ्कां शृङ्खलाम्।",
-   "english": "3.O Naciketas! Thou having pondered over all desires—the attractive forms, hast renounced them. Thou didst not accept the golden fetters with which many a man binds himself voluntarily.—32.\nSṛṅkā [Sṛṅkām] means fetters.\nNote.—In Mantra I, 16 the word Sṛṅkām was already explained as a necklace or a chain. Where was the necessity of explaining this word here again? The Sṛṅkā there was a golden chain given by Yama to Naciketas and the latter had accepted that as an additional gift. But it could not be the same Sṛṅkām referred to here; for here Yama speaks of a Sṛṅkām which Naciketas had rejected. Therefore the Sṛṅkām of this verse has a different, meaning from that of I. 16. It means the fetters of pleasure which bind the unthinking humanity.",
+   "english": "O Naciketas! Thou having pondered over all desires—the attractive forms, hast renounced them. Thou didst not accept the golden fetters with which many a man binds himself voluntarily.\nSṛṅkā [Sṛṅkām] means fetters.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "स त्वं प्रियान् प्रियरूपाꣳश्च कामान्नभिध्यायन् नचिकेतोऽत्यस्राक्षीः।\nनैतां सृङ्कां वित्तमयीमवाप्तो यस्यां मज्जन्ति बहवो मनुष्याः॥१/२/३॥",
-     "english": "3.O Naciketas! Thou having pondered over all desires—the attractive forms, hast renounced them. Thou didst not accept the golden fetters with which many a man binds himself voluntarily.—32."
+     "english": "O Naciketas! Thou having pondered over all desires—the attractive forms, hast renounced them. Thou didst not accept the golden fetters with which many a man binds himself voluntarily."
     },
     {
      "role": "bhashya",
      "sanskrit": "शृङ्कां शृङ्खलाम्।",
-     "english": "Sṛṅkā [Sṛṅkām] means fetters.\nNote.—In Mantra I, 16 the word Sṛṅkām was already explained as a necklace or a chain. Where was the necessity of explaining this word here again? The Sṛṅkā there was a golden chain given by Yama to Naciketas and the latter had accepted that as an additional gift. But it could not be the same Sṛṅkām referred to here; for here Yama speaks of a Sṛṅkām which Naciketas had rejected. Therefore the Sṛṅkām of this verse has a different, meaning from that of I. 16. It means the fetters of pleasure which bind the unthinking humanity."
+     "english": "Sṛṅkā [Sṛṅkām] means fetters."
     }
    ]
   },
@@ -414,16 +414,16 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "न नरेणावरः प्रोक्त एष सुज्ञेयो बहुधा चिन्त्यमानः।\nअनन्यप्रोक्ते गतिरस्य नास्त्यणीयान् ह्यतर्क्यमणुप्रमाणात्॥१/२/८॥",
-   "english": "8. The Lord cannot be well understood, when taught by a sectarian, for he describes Him as inferior to his own deity. The Lord, however, is full of all qualities and has been so conceived by the Vedas. Nor is the true knowledge of him obtained when taught by an Ananya (Pantheist or an idealist). The Lord is smaller than the jīva whose size is that of an atom. He is inconceivable.—37.",
+   "english": "The Lord cannot be well understood, when taught by a sectarian, for he describes Him as inferior to his own deity. The Lord, however, is full of all qualities and has been so conceived by the Vedas. Nor is the true knowledge of him obtained when taught by an Ananya (Pantheist or an idealist). The Lord is smaller than the jīva whose size is that of an atom. He is inconceivable.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "न नरेणावरः प्रोक्त एष सुज्ञेयो बहुधा चिन्त्यमानः।\nअनन्यप्रोक्ते गतिरस्य नास्त्यणीयान् ह्यतर्क्यमणुप्रमाणात्॥१/२/८॥",
-     "english": "8. The Lord cannot be well understood, when taught by a sectarian, for he describes Him as inferior to his own deity. The Lord, however, is full of all qualities and has been so conceived by the Vedas. Nor is the true knowledge of him obtained when taught by an Ananya (Pantheist or an idealist). The Lord is smaller than the jīva whose size is that of an atom. He is inconceivable.—37."
+     "english": "The Lord cannot be well understood, when taught by a sectarian, for he describes Him as inferior to his own deity. The Lord, however, is full of all qualities and has been so conceived by the Vedas. Nor is the true knowledge of him obtained when taught by an Ananya (Pantheist or an idealist). The Lord is smaller than the jīva whose size is that of an atom. He is inconceivable."
     },
     {
      "role": "bhashya",
-     "english": "Note.—It is not understood well when taught by a person of Lower Intellect, for it has been diversely discussed (by such scholars without coining to any satisfactory conclusion). When taught by a non-spiritual teacher, there is no going into (understanding) it. Because it is subtler than the measure of an atom, and not to be argued.\nThe sentence ananya prokte gatiḥ atra nāsti, has been the subject of different explanations. Śaṅkara gives the following four explanations:—\n1. Ananya—one who does not see another, who sees all as one, an Advaitin. Gatiḥ = doubt. “When taught by an Advaitin, there is left no doubt about it.”\n2. Ananya—not—another, not different from Brahmā, the ātmā being the same as Brahma. Gatiḥ—knowledge or object of knowledge. “When taught as non-different from Brahmā, then there remains no other object of knowledge here”—for that is the highest state of knowledge when the unity of the self is realised.\n3. Or gatiḥ may mean sāṃsara gatiḥ, going the round of transmigration. “When the non-otherness is taught then there is no coming back here.”\n4. Or the word might be agatiḥ, “want of penetration or comprehension.” “When taught (by a teacher who has realised) the non-otherness, then there is no want of comprehension here.” For such a teacher does not merely teach by words, but opens the interior faculty of the hearer, by which he is made capable of understanding the nonduality.\nAccording to Madhva School, this verse means: When taught by a learned but not a (jñānī) person, it is inferior teaching, because it has been diversely discussed and is not easy of understanding. But when taught by a non-difference-seer (an Advaitin), there is no knowledge at all (not even of an inferior kind) about it. It is subtler than the measure of an atom (and therefore is not subject of perception); It is not to be understood by reasoning (and therefore not subject of inference).\nThe word “anya” should be taken in this verse in the same sense, as in the next verse. There Śaṅkara explains “anya” to mean a teacher versed in scriptures (āgamas) not merely a scholar and a sophist, but a student of sacred science. Ananya therefore would mean, a person other than such a teacher; a mere learned man, a non-spiritual teacher. Madhva is consistent in both verses—in verse 9 he takes anya to mean “another”—one who knows himself other than or separate from Brahman. In verse 8, therefore, “ananya” means one who identifies himself with Brahman.\nThe Rāmāṇuja School explanation is “The understanding (ava-gatiḥ) which a person gets about the Ātmā, when taught by a person who has realised Brahman and Ātmā, is impossible to he attained when taught by a person of lower capacity. Or, when taught by a person who has realised Brahman and Ātmā, then there is no wandering (gatiḥ) in Saṃsāra. Or ananya may moan not other, i.e., one’s own self, i.e., when one tries to learn it by his own effort, he cannot enter into it. Or ananya may refer to avara of the first line: when taught by a lower mind there is no understanding of it.”\nMadhva’s commentary called the Bhāṣya:\nThe word Ananya means “he who does not realise that the Lord is separate (anya) and he is separate (anya).” If such a person teaches another, then there is no understanding of Brahman. Gati [gatiḥ] means knowledge. (In other words, the teaching of a person who is a monist, and does not know the difference between jīva and the Lord, and thinks them to be identical is anfractuous.)’While if the “anya” or the person who realises that he is separate from the Lord, declares Brahman then there is understanding of Brahman: as the mantra (11. 9) says: “when declared by an Anya, there is clear knowledge, O dear.” So also in the Brahma Vaivarta Purāṇa “The man who does not know the difference between the jīvas and Viṣṇu, and those also who follow the teachings of such a person, can never get Supreme wisdom—jñāna [jñānam]—so long as they entertain this erroneous notion.”"
+     "english": "The sentence ananya prokte gatiḥ atra nāsti, has been the subject of different explanations. Śaṅkara gives the following four explanations:—\n1. Ananya—one who does not see another, who sees all as one, an Advaitin. Gatiḥ = doubt. “When taught by an Advaitin, there is left no doubt about it.”\n2. Ananya—not—another, not different from Brahmā, the ātmā being the same as Brahma. Gatiḥ—knowledge or object of knowledge. “When taught as non-different from Brahmā, then there remains no other object of knowledge here”—for that is the highest state of knowledge when the unity of the self is realised.\n3. Or gatiḥ may mean sāṃsara gatiḥ, going the round of transmigration. “When the non-otherness is taught then there is no coming back here.”\n4. Or the word might be agatiḥ, “want of penetration or comprehension.” “When taught (by a teacher who has realised) the non-otherness, then there is no want of comprehension here.” For such a teacher does not merely teach by words, but opens the interior faculty of the hearer, by which he is made capable of understanding the nonduality.\nAccording to Madhva School, this verse means: When taught by a learned but not a (jñānī) person, it is inferior teaching, because it has been diversely discussed and is not easy of understanding. But when taught by a non-difference-seer (an Advaitin), there is no knowledge at all (not even of an inferior kind) about it. It is subtler than the measure of an atom (and therefore is not subject of perception); It is not to be understood by reasoning (and therefore not subject of inference).\nThe word “anya” should be taken in this verse in the same sense, as in the next verse. There Śaṅkara explains “anya” to mean a teacher versed in scriptures (āgamas) not merely a scholar and a sophist, but a student of sacred science. Ananya therefore would mean, a person other than such a teacher; a mere learned man, a non-spiritual teacher. Madhva is consistent in both verses—in verse 9 he takes anya to mean “another”—one who knows himself other than or separate from Brahman. In verse 8, therefore, “ananya” means one who identifies himself with Brahman.\nThe Rāmāṇuja School explanation is “The understanding (ava-gatiḥ) which a person gets about the Ātmā, when taught by a person who has realised Brahman and Ātmā, is impossible to he attained when taught by a person of lower capacity. Or, when taught by a person who has realised Brahman and Ātmā, then there is no wandering (gatiḥ) in Saṃsāra. Or ananya may moan not other, i.e., one’s own self, i.e., when one tries to learn it by his own effort, he cannot enter into it. Or ananya may refer to avara of the first line: when taught by a lower mind there is no understanding of it.”\nMadhva’s commentary called the Bhāṣya:\nThe word Ananya means “he who does not realise that the Lord is separate (anya) and he is separate (anya).” If such a person teaches another, then there is no understanding of Brahman. Gati [gatiḥ] means knowledge. (In other words, the teaching of a person who is a monist, and does not know the difference between jīva and the Lord, and thinks them to be identical is anfractuous.)’While if the “anya” or the person who realises that he is separate from the Lord, declares Brahman then there is understanding of Brahman: as the mantra (11. 9) says: “when declared by an Anya, there is clear knowledge, O dear.” So also in the Brahma Vaivarta Purāṇa “The man who does not know the difference between the jīvas and Viṣṇu, and those also who follow the teachings of such a person, can never get Supreme wisdom—jñāna [jñānam]—so long as they entertain this erroneous notion.”"
     }
    ]
   },
@@ -451,7 +451,7 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "जानाम्यहꣳ शेवधिरित्यनित्यं नह्यध्रुवैः प्राप्यते हि ध्रुवं तत्।\nततो मया नचिकेतश्चितोऽग्निरनित्यद्रव्यैः प्राप्तवानस्मि नित्यम्॥ १/२/१०॥\nआख्यं विष्ण्वाख्यं नित्यं शेवधिरिति जानामि। नित्यमाख्यविष्णुविषयैर्द्रव्यैर्मनआदिभिः, आख्यनित्यविषयैर्विष्ण्वाख्यनित्यविषयैर्द्रव्यैर्नित्यं भगवन्तं प्राप्तवानस्मि। ध्रुवो भगवान्। अध्रुवैः तद्भक्तिवर्जितैः न प्राप्यते।",
-   "english": "I am aware of that first syllable, which is eternal treasure; for the eternal cannot be attained from the not-eternal. Therefore, by me has been meditated on Nachiketagni, the non-eternal elements for attaining the eternal.\nThe supremacy of Vishnu is known by me as the eternal treasure. The elements used for meditating Vishnu are also spoken as eternal. The Resplendent Lord is „ina%ya’– the eternal Prime Existence. „A‟ is the primary symbol of the Lord – „AxaraNaaM Akarao Aisma‟ Therefore „Aina%ya‟ means the Resplendent Lord; without devotion he can not be attained. 23",
+   "english": "I am aware of that first syllable, which is eternal treasure; for the eternal cannot be attained from the not-eternal. Therefore, by me has been meditated on Nachiketagni, the non-eternal elements for attaining the eternal.\nThe supremacy of Vishnu is known by me as the eternal treasure. The elements used for meditating Vishnu are also spoken as eternal. The Resplendent Lord is „ina%ya’– the eternal Prime Existence. „A‟ is the primary symbol of the Lord – „AxaraNaaM Akarao Aisma‟ Therefore „Aina%ya‟ means the Resplendent Lord; without devotion he can not be attained.",
    "parts": [
     {
      "role": "mula",
@@ -461,7 +461,7 @@
     {
      "role": "bhashya",
      "sanskrit": "आख्यं विष्ण्वाख्यं नित्यं शेवधिरिति जानामि। नित्यमाख्यविष्णुविषयैर्द्रव्यैर्मनआदिभिः, आख्यनित्यविषयैर्विष्ण्वाख्यनित्यविषयैर्द्रव्यैर्नित्यं भगवन्तं प्राप्तवानस्मि। ध्रुवो भगवान्। अध्रुवैः तद्भक्तिवर्जितैः न प्राप्यते।",
-     "english": "The supremacy of Vishnu is known by me as the eternal treasure. The elements used for meditating Vishnu are also spoken as eternal. The Resplendent Lord is „ina%ya’– the eternal Prime Existence. „A‟ is the primary symbol of the Lord – „AxaraNaaM Akarao Aisma‟ Therefore „Aina%ya‟ means the Resplendent Lord; without devotion he can not be attained. 23"
+     "english": "The supremacy of Vishnu is known by me as the eternal treasure. The elements used for meditating Vishnu are also spoken as eternal. The Resplendent Lord is „ina%ya’– the eternal Prime Existence. „A‟ is the primary symbol of the Lord – „AxaraNaaM Akarao Aisma‟ Therefore „Aina%ya‟ means the Resplendent Lord; without devotion he can not be attained."
     }
    ]
   },
@@ -470,7 +470,7 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "कामस्याप्तिं जगतः प्रतिष्ठां क्रतोरानन्त्यमभयस्य पारम्।\nस्तोममहदुरुगायं प्रतिष्ठां दृष्ट्वा धृत्या धीरो नचिकेतोऽत्यस्राक्षीः॥१/२/११॥\nक्रतोरानन्त्यहेतुम्, स्तोमैरपि सर्वात्मना प्राप्तुमशक्यम्, स्तोमेभ्योऽपि महान्तम्, उरुगायमित्युक्तत्वाच्च न जीवविषयोऽयं प्रश्नः।\n“शरो ह्यात्मा ब्रह्म तल्लक्ष्यमुच्यते” “शरवत् तन्मयो भवेत्” “अभयं तितीर्षतां पारम्” “तादृगेव भवति” इत्यादौ सर्वत्र भेदस्यैवोक्तेश्च न जीवाभेदः। “नाचिकेतं शकेमासि” इत्युक्तत्वाच्च नाचिकेताग्निस्थो भगवानेवोच्यत इति सिद्धम्। उरुगायं दृष्ट्वा कामस्याप्तिमत्यस्राक्षीः। नच मृत्वा यमं प्राप्तस्य नचिकेतसो मृतोऽस्ति न वेति संशयो युज्यते।",
-   "english": "For fulfillment of desires and for proceeding to the fearless worlds beyond are the sacrificial rites and rituals established. Great fame and extended existence, O Nachiketa are for you since you did let go (worldly pleasures) with determination.\nSacrifice is the eternal enterprise. From „staoma’ it is possible to attain the all-pervading Self. Therefore, „staoma maht\\‟ is supreme sacrifice. Since the word „]$gaaya‟ is used, the query is not about Jiva (but about the Lord). „The self is the arrow and Brahman is the object aimed at‟ „like the arrow one becomes single pointed‟ „through fearless attention, reaching out to the beyond‟ „attains closeness with Him‟ – with such (scriptural) statements the distinct character (of the Lord) alone is emphasized, not the similarity (of the Jiva with Lord). When one speaks of seeing Nachiketa, one‟s desire to see Resplendent Lord abiding in Nachiketagni becomes established. Having died and having seen Yama, there is no reason for any doubt that (the goss form of) Nachiketa died. 24",
+   "english": "For fulfillment of desires and for proceeding to the fearless worlds beyond are the sacrificial rites and rituals established. Great fame and extended existence, O Nachiketa are for you since you did let go (worldly pleasures) with determination.\nSacrifice is the eternal enterprise. From „staoma’ it is possible to attain the all-pervading Self. Therefore, „staoma maht\\‟ is supreme sacrifice. Since the word „]$gaaya‟ is used, the query is not about Jiva (but about the Lord). „The self is the arrow and Brahman is the object aimed at‟ „like the arrow one becomes single pointed‟ „through fearless attention, reaching out to the beyond‟ „attains closeness with Him‟ – with such (scriptural) statements the distinct character (of the Lord) alone is emphasized, not the similarity (of the Jiva with Lord). When one speaks of seeing Nachiketa, one‟s desire to see Resplendent Lord abiding in Nachiketagni becomes established. Having died and having seen Yama, there is no reason for any doubt that (the goss form of) Nachiketa died.",
    "parts": [
     {
      "role": "mula",
@@ -480,7 +480,7 @@
     {
      "role": "bhashya",
      "sanskrit": "क्रतोरानन्त्यहेतुम्, स्तोमैरपि सर्वात्मना प्राप्तुमशक्यम्, स्तोमेभ्योऽपि महान्तम्, उरुगायमित्युक्तत्वाच्च न जीवविषयोऽयं प्रश्नः।\n“शरो ह्यात्मा ब्रह्म तल्लक्ष्यमुच्यते” “शरवत् तन्मयो भवेत्” “अभयं तितीर्षतां पारम्” “तादृगेव भवति” इत्यादौ सर्वत्र भेदस्यैवोक्तेश्च न जीवाभेदः। “नाचिकेतं शकेमासि” इत्युक्तत्वाच्च नाचिकेताग्निस्थो भगवानेवोच्यत इति सिद्धम्। उरुगायं दृष्ट्वा कामस्याप्तिमत्यस्राक्षीः। नच मृत्वा यमं प्राप्तस्य नचिकेतसो मृतोऽस्ति न वेति संशयो युज्यते।",
-     "english": "Sacrifice is the eternal enterprise. From „staoma’ it is possible to attain the all-pervading Self. Therefore, „staoma maht\\‟ is supreme sacrifice. Since the word „]$gaaya‟ is used, the query is not about Jiva (but about the Lord). „The self is the arrow and Brahman is the object aimed at‟ „like the arrow one becomes single pointed‟ „through fearless attention, reaching out to the beyond‟ „attains closeness with Him‟ – with such (scriptural) statements the distinct character (of the Lord) alone is emphasized, not the similarity (of the Jiva with Lord). When one speaks of seeing Nachiketa, one‟s desire to see Resplendent Lord abiding in Nachiketagni becomes established. Having died and having seen Yama, there is no reason for any doubt that (the goss form of) Nachiketa died. 24"
+     "english": "Sacrifice is the eternal enterprise. From „staoma’ it is possible to attain the all-pervading Self. Therefore, „staoma maht\\‟ is supreme sacrifice. Since the word „]$gaaya‟ is used, the query is not about Jiva (but about the Lord). „The self is the arrow and Brahman is the object aimed at‟ „like the arrow one becomes single pointed‟ „through fearless attention, reaching out to the beyond‟ „attains closeness with Him‟ – with such (scriptural) statements the distinct character (of the Lord) alone is emphasized, not the similarity (of the Jiva with Lord). When one speaks of seeing Nachiketa, one‟s desire to see Resplendent Lord abiding in Nachiketagni becomes established. Having died and having seen Yama, there is no reason for any doubt that (the goss form of) Nachiketa died."
     }
    ]
   },
@@ -548,12 +548,12 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "एतदालम्बनꣳ श्रेष्ठमेतदालम्बनं परम्।\nएतदालम्बनं ज्ञात्वा ब्रह्मलोके महीयते॥ १/२/१७॥",
-   "english": "17.—This refuge is the best, this refuge is the highest, having known this refuge, lie is honored in Brahma-loka.—46.",
+   "english": "—This refuge is the best, this refuge is the highest, having known this refuge, lie is honored in Brahma-loka.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "एतदालम्बनꣳ श्रेष्ठमेतदालम्बनं परम्।\nएतदालम्बनं ज्ञात्वा ब्रह्मलोके महीयते॥ १/२/१७॥",
-     "english": "17.—This refuge is the best, this refuge is the highest, having known this refuge, lie is honored in Brahma-loka.—46."
+     "english": "—This refuge is the best, this refuge is the highest, having known this refuge, lie is honored in Brahma-loka."
     },
     {
      "role": "bhashya",
@@ -604,7 +604,7 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "अणोरणीयान् महतो महीयानात्माऽस्य जन्तोर्निहितो गुहायाम्।\nतमक्रतुः पश्यति वीतशोको धातुः प्रसादान्महिमानमात्मनः॥१/२/२०॥\nएवं नित्यस्य जन्तोर्गुहायां निहितः। ए विष्णौ क्रतुर्यस्य सः अक्रतुः। तन्निश्चयः। आत्मनः सकाशात् महिमानं महामानम्।\n“जीवाद् गुणपरिमाणं यस्माद् विष्णोर्महत्तरम्।\nतस्माज्जीवात् स महिमा विष्णुरित्युच्यते श्रुतौ॥”\nइति च।",
-   "english": "Subtler than the subtle, greater than the great, the (individual) self abides within the cave of the creatures and the (supreme) Self, supporter having great accomplishments is perceived by the self (Jiva) freed from anguish, with pleasant elements.\nIn this manner, the eternal dwells within the cave (gauhayaama\\). Vishnu is undoubtedly Ak`tu: (A – Vishnu and k`tu: being receptive). The Self (Vishnu) is greater than great among all (the Jivas) that He pervades. Being superior to the 29 attributes of Jiva, Vishnu is greater than all the greats. Therefore, scriptures declare him to be superior to all Jivas.",
+   "english": "Subtler than the subtle, greater than the great, the (individual) self abides within the cave of the creatures and the (supreme) Self, supporter having great accomplishments is perceived by the self (Jiva) freed from anguish, with pleasant elements.\nIn this manner, the eternal dwells within the cave . Vishnu is undoubtedly Ak`tu: . The Self (Vishnu) is greater than great among all (the Jivas) that He pervades. Being superior to the 29 attributes of Jiva, Vishnu is greater than all the greats. Therefore, scriptures declare him to be superior to all Jivas.",
    "parts": [
     {
      "role": "mula",
@@ -614,7 +614,7 @@
     {
      "role": "bhashya",
      "sanskrit": "एवं नित्यस्य जन्तोर्गुहायां निहितः। ए विष्णौ क्रतुर्यस्य सः अक्रतुः। तन्निश्चयः। आत्मनः सकाशात् महिमानं महामानम्।\n“जीवाद् गुणपरिमाणं यस्माद् विष्णोर्महत्तरम्।\nतस्माज्जीवात् स महिमा विष्णुरित्युच्यते श्रुतौ॥”\nइति च।",
-     "english": "In this manner, the eternal dwells within the cave (gauhayaama\\). Vishnu is undoubtedly Ak`tu: (A – Vishnu and k`tu: being receptive). The Self (Vishnu) is greater than great among all (the Jivas) that He pervades. Being superior to the 29 attributes of Jiva, Vishnu is greater than all the greats. Therefore, scriptures declare him to be superior to all Jivas."
+     "english": "In this manner, the eternal dwells within the cave . Vishnu is undoubtedly Ak`tu: . The Self (Vishnu) is greater than great among all (the Jivas) that He pervades. Being superior to the 29 attributes of Jiva, Vishnu is greater than all the greats. Therefore, scriptures declare him to be superior to all Jivas."
     }
    ]
   },
@@ -649,7 +649,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "नायमात्मा प्रवचनेन लभ्यो न मेधया न बहुना श्रुतेन।\nयमेवैष वृणुते तेन लभ्यस्तस्यैष आत्मा विवृणुते तनूꣳ स्वाम्॥ १/२/२३॥",
-   "english": "23. This Ātmā is not to be obtained by many explanations, nor the intellect, nor by much learning. He whom alone this Ātmā elects, by him is He obtained: for him this Ātmā reveals His own nature.—52.\nNote.—In verse 20 it was said that the grace of the Dhātā or the Lord is necessary to see Him. This verse also reiterates the same idea, and shows that the means of getting grace is not much scholarship, intellect or memory but bhakti: and is entirely dependent on the will of the Lord. Thus Jñāna and Mokṣa result from Bhakti and the grace of the Lord. Are then śāma, dama, etc., unnecessary? The next verse answers this."
+   "english": "This Ātmā is not to be obtained by many explanations, nor the intellect, nor by much learning. He whom alone this Ātmā elects, by him is He obtained: for him this Ātmā reveals His own nature."
   },
   {
    "ref": "1/2/24",
@@ -725,7 +725,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "यस्त्वविज्ञानवान् भवत्ययुक्तेन मनसा सदा।\nतस्येन्द्रियाण्यवश्यानि दुष्टाश्वा इव सारथेः॥ १/३/५॥",
-   "english": "5. But he who is without discrimination, and with Manas out of harmony, his senses are always uncontrolled like the unbroken horses of a driver.—59."
+   "english": "But he who is without discrimination, and with Manas out of harmony, his senses are always uncontrolled like the unbroken horses of a driver."
   },
   {
    "ref": "1/3/6",
@@ -784,24 +784,24 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "एष सर्वेषु भूतेषु गूढोत्मा न प्रकाशते।\nदृश्यते त्वग्र्यया बुद्ध्या सूक्ष्मया सूक्ष्मदर्शिभिः॥१/३/१२॥",
-   "english": "12. This is concealed in all beings: this Ātmā does not manifest itself, but is seen through the pointed subtle Buddhi, by men of subtle sight.—66."
+   "english": "This is concealed in all beings: this Ātmā does not manifest itself, but is seen through the pointed subtle Buddhi, by men of subtle sight."
   },
   {
    "ref": "1/3/13",
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "यच्छेद् वाङ् मनसी प्राज्ञस्तद् यच्छेज्ज्ञान आत्मनि।\nज्ञानमात्मनि महति नियच्छेच्छान्त आत्मनि॥१/३/१३॥\n“आत्माऽन्तरात्मेति विभुरेक एव द्विधा स्थितः।\nस विष्णुः\nपरमे वायौ परेभ्योऽप्यृद्धरूपके।\nशुभान् पिबति भोगान् स च्छायेव विदुषां प्रभुः।\nआतपः पापिनां नित्यं मर्यादा विष्णुयाजिनाम्।\nसंसारस्य च पारस्थः स विष्णुर्द्विस्वरूपकः॥ *॥\nदेवेभ्य इन्द्रियात्मभ्यो ज्यायांसोऽर्थाभिमानिनः।\nसोमवित्तपसूर्याप्पा\nअश्व्यग्नीन्द्रेन्द्रसूनवः।\nयमो दक्षश्चेन्द्रियेशाः सुपर्णी वारुणी तथा।\nउमेति चार्थमानिन्यस्तिस्रो\nद्विद्व्येकदेवताः।\nमनोभिमानिनो रुद्रवीन्द्रशेषास्त्रयोऽपितु।\nते श्रेष्ठा अर्थमानिभ्यस्तेभ्यो बुद्धिः सरस्वती।\nतस्या ब्रह्मा महानात्मा ततोऽव्यक्ताभिधा रमा।\nतस्यास्तु पुरुषो विष्णुः पूर्णत्वान्नैव तत्समः।\nकश्चित् कुतश्चिच्छ्रेष्ठस्तु नास्तीति किमु सा कथा॥ *॥\nतस्माद् वागात्मिका देवीरुमाद्यास्तु शिवादिषु।\nशिवादीन् ब्रह्मवाय्वोस्तु नियच्छेन्महदात्मनोः।\nतौ रमायां परानन्दे\nतां विष्णौ\nपरमात्मनि।\nतद्वशत्वेन तद्ध्यानं नियमो नाम नापरः।\nकुतस्तु मानुषो देवान् नियच्छेद् विनियामकान्॥”\nइति च।",
-   "english": "13. Let the wise meditate that the Devas of the senses are controlled by the Deities of speech who are governed by the Devas of manas, that the Devas of manas are governed by the Devas of Buddhi, that the Devas of Buddhi are controlled by the Devas of Mahat who are controlled by the Śrī Tattva, who by the Self of Peace.—67.\nNote.—The omissions in the verse should be supplied from the context. Thus indriyas are not mentioned at all; and so also the Śrī Tattva.\nMadhva’s commentary called the Bhāṣya:\nLet him meditate that the Devīs, Umā etc., presiding over speech, etc., are controlled by the Devas Śiva and the rest. That Śiva and the rest are controlled by Brahma and Vāyu, the presiding deities of mahat. Let him meditate that these two are controlled by Ramā, the Supreme Bliss; and that She is governed by Viṣṇu, the Supreme Self. The word niyama (niyacchet) means here meditating that the lower is governed by the higher: and not that the man is to control the lower by the higher. For how can any man control the Devas who are rulers set over men.",
+   "english": "Let the wise meditate that the Devas of the senses are controlled by the Deities of speech who are governed by the Devas of manas, that the Devas of manas are governed by the Devas of Buddhi, that the Devas of Buddhi are controlled by the Devas of Mahat who are controlled by the Śrī Tattva, who by the Self of Peace.\nMadhva’s commentary called the Bhāṣya:\nLet him meditate that the Devīs, Umā etc., presiding over speech, etc., are controlled by the Devas Śiva and the rest. That Śiva and the rest are controlled by Brahma and Vāyu, the presiding deities of mahat. Let him meditate that these two are controlled by Ramā, the Supreme Bliss; and that She is governed by Viṣṇu, the Supreme Self. The word niyama (niyacchet) means here meditating that the lower is governed by the higher: and not that the man is to control the lower by the higher. For how can any man control the Devas who are rulers set over men.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "यच्छेद् वाङ् मनसी प्राज्ञस्तद् यच्छेज्ज्ञान आत्मनि।\nज्ञानमात्मनि महति नियच्छेच्छान्त आत्मनि॥१/३/१३॥",
-     "english": "13. Let the wise meditate that the Devas of the senses are controlled by the Deities of speech who are governed by the Devas of manas, that the Devas of manas are governed by the Devas of Buddhi, that the Devas of Buddhi are controlled by the Devas of Mahat who are controlled by the Śrī Tattva, who by the Self of Peace.—67."
+     "english": "Let the wise meditate that the Devas of the senses are controlled by the Deities of speech who are governed by the Devas of manas, that the Devas of manas are governed by the Devas of Buddhi, that the Devas of Buddhi are controlled by the Devas of Mahat who are controlled by the Śrī Tattva, who by the Self of Peace."
     },
     {
      "role": "bhashya",
      "sanskrit": "“आत्माऽन्तरात्मेति विभुरेक एव द्विधा स्थितः।\nस विष्णुः\nपरमे वायौ परेभ्योऽप्यृद्धरूपके।\nशुभान् पिबति भोगान् स च्छायेव विदुषां प्रभुः।\nआतपः पापिनां नित्यं मर्यादा विष्णुयाजिनाम्।\nसंसारस्य च पारस्थः स विष्णुर्द्विस्वरूपकः॥ *॥\nदेवेभ्य इन्द्रियात्मभ्यो ज्यायांसोऽर्थाभिमानिनः।\nसोमवित्तपसूर्याप्पा\nअश्व्यग्नीन्द्रेन्द्रसूनवः।\nयमो दक्षश्चेन्द्रियेशाः सुपर्णी वारुणी तथा।\nउमेति चार्थमानिन्यस्तिस्रो\nद्विद्व्येकदेवताः।\nमनोभिमानिनो रुद्रवीन्द्रशेषास्त्रयोऽपितु।\nते श्रेष्ठा अर्थमानिभ्यस्तेभ्यो बुद्धिः सरस्वती।\nतस्या ब्रह्मा महानात्मा ततोऽव्यक्ताभिधा रमा।\nतस्यास्तु पुरुषो विष्णुः पूर्णत्वान्नैव तत्समः।\nकश्चित् कुतश्चिच्छ्रेष्ठस्तु नास्तीति किमु सा कथा॥ *॥\nतस्माद् वागात्मिका देवीरुमाद्यास्तु शिवादिषु।\nशिवादीन् ब्रह्मवाय्वोस्तु नियच्छेन्महदात्मनोः।\nतौ रमायां परानन्दे\nतां विष्णौ\nपरमात्मनि।\nतद्वशत्वेन तद्ध्यानं नियमो नाम नापरः।\nकुतस्तु मानुषो देवान् नियच्छेद् विनियामकान्॥”\nइति च।",
-     "english": "Note.—The omissions in the verse should be supplied from the context. Thus indriyas are not mentioned at all; and so also the Śrī Tattva.\nMadhva’s commentary called the Bhāṣya:\nLet him meditate that the Devīs, Umā etc., presiding over speech, etc., are controlled by the Devas Śiva and the rest. That Śiva and the rest are controlled by Brahma and Vāyu, the presiding deities of mahat. Let him meditate that these two are controlled by Ramā, the Supreme Bliss; and that She is governed by Viṣṇu, the Supreme Self. The word niyama (niyacchet) means here meditating that the lower is governed by the higher: and not that the man is to control the lower by the higher. For how can any man control the Devas who are rulers set over men."
+     "english": "Madhva’s commentary called the Bhāṣya:\nLet him meditate that the Devīs, Umā etc., presiding over speech, etc., are controlled by the Devas Śiva and the rest. That Śiva and the rest are controlled by Brahma and Vāyu, the presiding deities of mahat. Let him meditate that these two are controlled by Ramā, the Supreme Bliss; and that She is governed by Viṣṇu, the Supreme Self. The word niyama (niyacchet) means here meditating that the lower is governed by the higher: and not that the man is to control the lower by the higher. For how can any man control the Devas who are rulers set over men."
     }
    ]
   },
@@ -810,19 +810,19 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "उत्तिष्ठत जाग्रत प्राप्य वरान् निबोधत।\nक्षुरस्य धारा निशिता दुरत्यया दुर्गं पथस्तत् कवयो वदन्ति॥१/३/१४॥",
-   "english": "14. Awake, arise, having approached the great teachers, learn. The sages say that the road is difficult to travel on, and that the crossing over (of Saṃsāra) is difficult as the sharp edge of a razor.—68."
+   "english": "Awake, arise, having approached the great teachers, learn. The sages say that the road is difficult to travel on, and that the crossing over (of Saṃsāra) is difficult as the sharp edge of a razor."
   },
   {
    "ref": "1/3/15",
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "अशब्दमस्पर्शमरूपमव्ययं तथाऽरसं नित्यमगन्धवच्च यत्।\nअनाद्यनन्तं महतः परं ध्रुवं निचाय्य तं मृत्युमुखात् प्रमुच्यते॥ १/३/१५॥\nस्वभार्यायाः परत्वं सिद्धमिति\nमहतः परम् इत्येवोक्तम्।",
-   "english": "15. Having reflected on him, whose nature is not sound, or touch, or form, or taste, or smell, who is changeless, eternal, without beginning and without end, beyond Mahat, eternal in its fixity; he escapes from the mouth of death.—69.\nBeyond Mahat is Śrī Tattva, how is then the Lord said to be beyond Mahat? There is no contradiction in it. Since Śrī, the wife of Viṣṇu is higher than Mahat, He also is higher than that, because He is higher than His spouse Srī.",
+   "english": "Having reflected on him, whose nature is not sound, or touch, or form, or taste, or smell, who is changeless, eternal, without beginning and without end, beyond Mahat, eternal in its fixity; he escapes from the mouth of death.\nBeyond Mahat is Śrī Tattva, how is then the Lord said to be beyond Mahat? There is no contradiction in it. Since Śrī, the wife of Viṣṇu is higher than Mahat, He also is higher than that, because He is higher than His spouse Srī.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "अशब्दमस्पर्शमरूपमव्ययं तथाऽरसं नित्यमगन्धवच्च यत्।\nअनाद्यनन्तं महतः परं ध्रुवं निचाय्य तं मृत्युमुखात् प्रमुच्यते॥ १/३/१५॥",
-     "english": "15. Having reflected on him, whose nature is not sound, or touch, or form, or taste, or smell, who is changeless, eternal, without beginning and without end, beyond Mahat, eternal in its fixity; he escapes from the mouth of death.—69."
+     "english": "Having reflected on him, whose nature is not sound, or touch, or form, or taste, or smell, who is changeless, eternal, without beginning and without end, beyond Mahat, eternal in its fixity; he escapes from the mouth of death."
     },
     {
      "role": "bhashya",
@@ -836,14 +836,14 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "नाचिकेतमुपाख्यानं मृत्युप्रोक्तꣳ सनातनम्।\nउक्त्वा श्रुत्वा च मेधावी ब्रह्मलोके महीयते॥१/३/१६॥",
-   "english": "16. The wise man, who repeats to the enquirers of truth this ancient Nāciketas story, told by Death, or who hears it (from his teacher), becomes great in the Brahma loka.—70."
+   "english": "The wise man, who repeats to the enquirers of truth this ancient Nāciketas story, told by Death, or who hears it (from his teacher), becomes great in the Brahma loka."
   },
   {
    "ref": "1/3/17",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "य इमं परमं गुह्यं श्रावयेद् ब्रह्मसꣳसदि।\nप्रयतः श्राद्धकाले वा तदानन्त्याय कल्पते तदानन्त्याय कल्पत इति॥ १/३/१७॥",
-   "english": "17. He who recites this upaniṣad, the greatest of all mysteries,, at an assembly of seekers for Brahman, or being pure, at the time of a Śrāddha, causes that Śrāddha and recitation lit to produce infinite results, fit to produce infinite results.—71."
+   "english": "He who recites this upaniṣad, the greatest of all mysteries,, at an assembly of seekers for Brahman, or being pure, at the time of a Śrāddha, causes that Śrāddha and recitation lit to produce infinite results, fit to produce infinite results."
   },
   {
    "ref": "colophon75",
@@ -876,19 +876,19 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "पराचः कामाननुयन्ति बालास्ते मृत्योर्यन्ति विततस्य पाशम्।\nअथ धीरा अमृतत्वं विदित्वा ध्रुवमध्रुवेष्विह न प्रार्थयन्ते॥२/१/२॥",
-   "english": "2. Men of small understanding go after external desires, and they thus fall into the wide-extended noose of Yama, therefore, the controlled in mind, having known liberation, do not here seek for the' permanent in the unstable.—73."
+   "english": "Men of small understanding go after external desires, and they thus fall into the wide-extended noose of Yama, therefore, the controlled in mind, having known liberation, do not here seek for the' permanent in the unstable."
   },
   {
    "ref": "2/1/3",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "येन रूपꣳ रसं गन्धं शब्दान् स्पर्शाꣳश्च मैथुनान्।\nएतेनैव विजानाति किमत्र परिशिष्यते।\nएतद् वै तत्॥ २/१/३॥",
-   "english": "3. By Whom (one perceives) form, taste, and smell, sound, touch and love, even by that he knows (everything else.) Does that Lord remain here in mokṣa controlling the Jiva? Yes: This verily is so. This verily is That.—74.",
+   "english": "By Whom (one perceives) form, taste, and smell, sound, touch and love, even by that he knows (everything else.) Does that Lord remain here in mokṣa controlling the Jiva? Yes: This verily is so. This verily is That.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "येन रूपꣳ रसं गन्धं शब्दान् स्पर्शाꣳश्च मैथुनान्।\nएतेनैव विजानाति किमत्र परिशिष्यते।\nएतद् वै तत्॥ २/१/३॥",
-     "english": "3. By Whom (one perceives) form, taste, and smell, sound, touch and love, even by that he knows (everything else.) Does that Lord remain here in mokṣa controlling the Jiva? Yes: This verily is so. This verily is That.—74."
+     "english": "By Whom (one perceives) form, taste, and smell, sound, touch and love, even by that he knows (everything else.) Does that Lord remain here in mokṣa controlling the Jiva? Yes: This verily is so. This verily is That."
     },
     {
      "role": "bhashya",
@@ -901,19 +901,19 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "स्वप्नान्तं जागरितान्तं चोभौ येनानुपश्यति।\nमहान्तं विभुमात्मानं मत्वा धीरो न शोचति॥ २/१/४॥",
-   "english": "4. The wise does not grieve when he understands the Supreme Self who is Great and Almighty, and by whose command he sees both these, viz., the objects of dream and the objects of waking consciousness.—75."
+   "english": "The wise does not grieve when he understands the Supreme Self who is Great and Almighty, and by whose command he sees both these, viz., the objects of dream and the objects of waking consciousness."
   },
   {
    "ref": "2/1/5",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "य इदं मध्वदं वेदात्मानं जीवमन्तिकात्।\nईशानं भूतभव्यस्य न ततो विजुगुप्सते।\nएतद् वै तत्॥ २/१/५॥",
-   "english": "5. He who knows this Supreme Self, the Ruler of the Past and Future, the Experiencer of all Sweetness, always standing near the Jīva",
+   "english": "He who knows this Supreme Self, the Ruler of the Past and Future, the Experiencer of all Sweetness, always standing near the Jīva",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "य इदं मध्वदं वेदात्मानं जीवमन्तिकात्।\nईशानं भूतभव्यस्य न ततो विजुगुप्सते।\nएतद् वै तत्॥ २/१/५॥",
-     "english": "5. He who knows this Supreme Self, the Ruler of the Past and Future, the Experiencer of all Sweetness, always standing near the Jīva"
+     "english": "He who knows this Supreme Self, the Ruler of the Past and Future, the Experiencer of all Sweetness, always standing near the Jīva"
     },
     {
      "role": "bhashya",
@@ -926,12 +926,12 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "यः पूर्वं तपसोऽजातमद्भ्यः पूर्वमजायत।\nगुहां प्रविश्य तिष्ठन्तं यो भूतेभिर्व्यपश्यत।\nएतद् वै तत्॥२/१/६॥\n“अम्नामभ्यश्च भूतेभ्यस्तपोनाम्नः शिवादपि।\nपूर्वं यो जनयामास पूर्वाजातं चतुर्मुखम्।\nस्वात्मानं च गुहासंस्थं सर्वभूतैः सहाभिभूः।\nयः पश्यति सदा विष्णुः स एष हृदि संस्थितः॥”\nइति च।\nयथा “मुखादिन्द्रश्चाग्निश्च” इत्यादिना जाता एवेन्द्रादयः कश्यपात् पुनर्जायन्ते न तथा भगवतो ब्रह्मा। किन्तु, अजातम् एव अद्भ्यः पूर्वमजायत जनयामास। अजायत इति “जज्ञे बहुज्ञम्” इतिवदन्तर्णीतणिच्।",
-   "english": "6. He who first produced the Unborn one (Brahmā) before the Lord of tapas (Śiva) and the Lords of elements (Waters) who entering the cavity abides therein, and perceives all things along with the elements; This is verily that.—77.\n“That Viṣṇu verily dwells in the heart. He is the Great Warrior, who constantly sees Himself, seated in the cavity, surrounded by all the Lords of elements. He created the Four-faced the Unborn of yore, before the Elements called Waters and the lords thereof; yea, before even Śiva the Lord of Tapas.” (Ibid).\nBrahmā is called purvam [pūrvam?] ajātam—the unborn from before—because he is not like Indra and Agni and others, who once being born from the mouth of Brahman, are born again from Kāśyapa. Not so the Lord Brahma. But never being born before, he is produced prior to Śiva and Waters.\n(This verse does not relate to Mumukṣu but to Viṣṇu. Naciketas did not ask the nature of Mumukṣu, but of the Lord. The phrase ‘entering the cavity’ is the specific attribute of the Lord and not of the Jīva. Waters or apas is taken here as illustrative of all the Elements: and denotes also the presiding deities of elements. One pūrva [pūrvam] qualifies ajāta [ajātam]: the other is an adverb qualifying ajāyata. The word ajāyata generally means “born” or “self-born” but here it has a causative meaning “was caused to be born or was produced or produced.” Therefore the commentator says:—)\nThe word ajāyata is to be taken in a causative sense, as in jajñe bahujñam.",
+   "english": "He who first produced the Unborn one (Brahmā) before the Lord of tapas (Śiva) and the Lords of elements (Waters) who entering the cavity abides therein, and perceives all things along with the elements; This is verily that.\n“That Viṣṇu verily dwells in the heart. He is the Great Warrior, who constantly sees Himself, seated in the cavity, surrounded by all the Lords of elements. He created the Four-faced the Unborn of yore, before the Elements called Waters and the lords thereof; yea, before even Śiva the Lord of Tapas.” (Ibid).\nBrahmā is called purvam [pūrvam?] ajātam—the unborn from before—because he is not like Indra and Agni and others, who once being born from the mouth of Brahman, are born again from Kāśyapa. Not so the Lord Brahma. But never being born before, he is produced prior to Śiva and Waters.\n(This verse does not relate to Mumukṣu but to Viṣṇu. Naciketas did not ask the nature of Mumukṣu, but of the Lord. The phrase ‘entering the cavity’ is the specific attribute of the Lord and not of the Jīva. Waters or apas is taken here as illustrative of all the Elements: and denotes also the presiding deities of elements. One pūrva [pūrvam] qualifies ajāta [ajātam]: the other is an adverb qualifying ajāyata. The word ajāyata generally means “born” or “self-born” but here it has a causative meaning “was caused to be born or was produced or produced.” Therefore the commentator says:—)\nThe word ajāyata is to be taken in a causative sense, as in jajñe bahujñam.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "यः पूर्वं तपसोऽजातमद्भ्यः पूर्वमजायत।\nगुहां प्रविश्य तिष्ठन्तं यो भूतेभिर्व्यपश्यत।\nएतद् वै तत्॥२/१/६॥",
-     "english": "6. He who first produced the Unborn one (Brahmā) before the Lord of tapas (Śiva) and the Lords of elements (Waters) who entering the cavity abides therein, and perceives all things along with the elements; This is verily that.—77."
+     "english": "He who first produced the Unborn one (Brahmā) before the Lord of tapas (Śiva) and the Lords of elements (Waters) who entering the cavity abides therein, and perceives all things along with the elements; This is verily that."
     },
     {
      "role": "bhashya",
@@ -945,17 +945,17 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "या प्राणेन सम्भवत्यदितिर्देवतामयी।\nगुहां प्रविश्य तिष्ठन्तीं या भूतेभिर्व्यजायत।\nएतद् वै तत्॥२/१/७॥\n“अदनाददितिर्विष्णुर्यः प्राणसहितः स्थितः।\nउत्तमो देवताभ्यश्च सोऽत्मानं विविधात्मना।\nमत्स्यकूर्मादिरूपेण गुहासंस्थमजीजनत्।\nभूतैः सह महाविष्णुः परमात्मा युगेयुगे॥”\nइति च।\nदेवतामयी देवतोत्तमा। प्राणेन सहितो भवति। गुहां प्रविश्य तिष्ठन्तीं स्वात्मानं भूतैः सह विविधं जनयामास॥ ७॥",
-   "english": "7. She who enters the cavity with the Spirit, She the Consumer, the best of all devatas, who is concealed in the cavity of the heart and abiding therein, manifests herself also through the elements (as various incarnations), This is that.—78.\n[The word Aditi in this verse would prima facie lead one to the view that the well-known Goddess Aditi, the Mother of all the Devas, is described here. But that is not the case: because Naciketas asked no question about Aditi, therefore a description of Aditi would be irrelevant. Consequently, the verse is to be explained as applying to Viṣṇu. Hence the commentator says:—]\n“Viṣṇu is called Aditi because Heis the Eater (ad=to eat). He dwells in the cavity along with the Chief Praṇa. He is the best of all devatas: and transforms Himself into various avataras such as the Fish, the Tortoise, etc., from his seat in the cavity. This Supreme Self, the Great Viṣṇu, in every age manifests Himself as Avataras surrounded by the lords of elements.” (Ibid). The word Devatā-mayī means the best of Devatas. The pharse prāṇena sam viśati means prāṇena sahito bhavati=along with the Prāṇa enters or dwells. The Lord, entering the cavity and staying there, manifests Himself in various ways through the elements, as Incarnations.\nNote.—The words of this verse are in the Feminine gender and would prima facie more appropriately apply to the Great Mother, Bhagavatī: but the context requires that the Mantra be interpreted as applying to the Lord. Dwelling in the cavity, along with the Great Prāṇa and the lords of Elements, He materialises, from time to time, into the outer world as Great Incarnations. As a spiritual medium, placed in the cabinet, projects or materialises from outside in a seance room, such is the case of the Lord in the cavity.",
+   "english": "She who enters the cavity with the Spirit, She the Consumer, the best of all devatas, who is concealed in the cavity of the heart and abiding therein, manifests herself also through the elements (as various incarnations), This is that.\n[The word Aditi in this verse would prima facie lead one to the view that the well-known Goddess Aditi, the Mother of all the Devas, is described here. But that is not the case: because Naciketas asked no question about Aditi, therefore a description of Aditi would be irrelevant. Consequently, the verse is to be explained as applying to Viṣṇu. Hence the commentator says:—]\n“Viṣṇu is called Aditi because Heis the Eater (ad=to eat). He dwells in the cavity along with the Chief Praṇa. He is the best of all devatas: and transforms Himself into various avataras such as the Fish, the Tortoise, etc., from his seat in the cavity. This Supreme Self, the Great Viṣṇu, in every age manifests Himself as Avataras surrounded by the lords of elements.” (Ibid). The word Devatā-mayī means the best of Devatas. The pharse prāṇena sam viśati means prāṇena sahito bhavati=along with the Prāṇa enters or dwells. The Lord, entering the cavity and staying there, manifests Himself in various ways through the elements, as Incarnations.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "या प्राणेन सम्भवत्यदितिर्देवतामयी।\nगुहां प्रविश्य तिष्ठन्तीं या भूतेभिर्व्यजायत।\nएतद् वै तत्॥२/१/७॥",
-     "english": "7. She who enters the cavity with the Spirit, She the Consumer, the best of all devatas, who is concealed in the cavity of the heart and abiding therein, manifests herself also through the elements (as various incarnations), This is that.—78."
+     "english": "She who enters the cavity with the Spirit, She the Consumer, the best of all devatas, who is concealed in the cavity of the heart and abiding therein, manifests herself also through the elements (as various incarnations), This is that."
     },
     {
      "role": "bhashya",
      "sanskrit": "“अदनाददितिर्विष्णुर्यः प्राणसहितः स्थितः।\nउत्तमो देवताभ्यश्च सोऽत्मानं विविधात्मना।\nमत्स्यकूर्मादिरूपेण गुहासंस्थमजीजनत्।\nभूतैः सह महाविष्णुः परमात्मा युगेयुगे॥”\nइति च।\nदेवतामयी देवतोत्तमा। प्राणेन सहितो भवति। गुहां प्रविश्य तिष्ठन्तीं स्वात्मानं भूतैः सह विविधं जनयामास॥ ७॥",
-     "english": "[The word Aditi in this verse would prima facie lead one to the view that the well-known Goddess Aditi, the Mother of all the Devas, is described here. But that is not the case: because Naciketas asked no question about Aditi, therefore a description of Aditi would be irrelevant. Consequently, the verse is to be explained as applying to Viṣṇu. Hence the commentator says:—]\n“Viṣṇu is called Aditi because Heis the Eater (ad=to eat). He dwells in the cavity along with the Chief Praṇa. He is the best of all devatas: and transforms Himself into various avataras such as the Fish, the Tortoise, etc., from his seat in the cavity. This Supreme Self, the Great Viṣṇu, in every age manifests Himself as Avataras surrounded by the lords of elements.” (Ibid). The word Devatā-mayī means the best of Devatas. The pharse prāṇena sam viśati means prāṇena sahito bhavati=along with the Prāṇa enters or dwells. The Lord, entering the cavity and staying there, manifests Himself in various ways through the elements, as Incarnations.\nNote.—The words of this verse are in the Feminine gender and would prima facie more appropriately apply to the Great Mother, Bhagavatī: but the context requires that the Mantra be interpreted as applying to the Lord. Dwelling in the cavity, along with the Great Prāṇa and the lords of Elements, He materialises, from time to time, into the outer world as Great Incarnations. As a spiritual medium, placed in the cabinet, projects or materialises from outside in a seance room, such is the case of the Lord in the cavity."
+     "english": "[The word Aditi in this verse would prima facie lead one to the view that the well-known Goddess Aditi, the Mother of all the Devas, is described here. But that is not the case: because Naciketas asked no question about Aditi, therefore a description of Aditi would be irrelevant. Consequently, the verse is to be explained as applying to Viṣṇu. Hence the commentator says:—]\n“Viṣṇu is called Aditi because Heis the Eater (ad=to eat). He dwells in the cavity along with the Chief Praṇa. He is the best of all devatas: and transforms Himself into various avataras such as the Fish, the Tortoise, etc., from his seat in the cavity. This Supreme Self, the Great Viṣṇu, in every age manifests Himself as Avataras surrounded by the lords of elements.” (Ibid). The word Devatā-mayī means the best of Devatas. The pharse prāṇena sam viśati means prāṇena sahito bhavati=along with the Prāṇa enters or dwells. The Lord, entering the cavity and staying there, manifests Himself in various ways through the elements, as Incarnations."
     }
    ]
   },
@@ -964,12 +964,12 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "अरण्योर्निहितो जातवेदा गर्भ इव सुभृतो गर्भिणीभिः।\nदिवे दिव ईड्यो जागृवद्भिर्हविष्मद्भिर्मनुष्येभिरग्निः।\nएतद् वै तत्॥२/१/८॥\n“सर्वज्ञो भगवान् विष्णुररण्योर्गुरुशिष्ययोः।\nसुभृतः स्तूयते नित्यं जानद्भिः पुरुषोत्तमः॥”\nइति च।\nअर्यते ण आभ्यामित्यरणी।",
-   "english": "8. The All-knower is concealed between the Guru and Śiṣya: like as the child in the womb is well-guarded by the mother; daily is this Agni adored by men who are awake and who offer Him sacrifices. This verily is That.—79.\n“The Omniscient Lord, Viṣṇu, well-guarded between the Master and the Disciple, is always praised by those who know Him as the Highest Person.” Ibid.\nThat through the help of which two is perceived (aryate=jñāyate) the Joy (ṇ=ānanda) is called araṇī.",
+   "english": "The All-knower is concealed between the Guru and Śiṣya: like as the child in the womb is well-guarded by the mother; daily is this Agni adored by men who are awake and who offer Him sacrifices. This verily is That.\n“The Omniscient Lord, Viṣṇu, well-guarded between the Master and the Disciple, is always praised by those who know Him as the Highest Person.” Ibid.\nThat through the help of which two is perceived (aryate=jñāyate) the Joy (ṇ=ānanda) is called araṇī.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "अरण्योर्निहितो जातवेदा गर्भ इव सुभृतो गर्भिणीभिः।\nदिवे दिव ईड्यो जागृवद्भिर्हविष्मद्भिर्मनुष्येभिरग्निः।\nएतद् वै तत्॥२/१/८॥",
-     "english": "8. The All-knower is concealed between the Guru and Śiṣya: like as the child in the womb is well-guarded by the mother; daily is this Agni adored by men who are awake and who offer Him sacrifices. This verily is That.—79."
+     "english": "The All-knower is concealed between the Guru and Śiṣya: like as the child in the womb is well-guarded by the mother; daily is this Agni adored by men who are awake and who offer Him sacrifices. This verily is That."
     },
     {
      "role": "bhashya",
@@ -983,19 +983,19 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "यतश्चोदेति सूर्योऽस्तं यत्र च गच्छति।\nतं देवाः सर्वे अर्पितास्तदु नात्येति कश्चन।\nएतद् वै तत्॥ २/१/९॥",
-   "english": "9. In that Brahman, from whom the Sun arises in the beginning of the creation and in whom it merges in the dissolution thereof, all the gods are contained. No one verily can go beyond Him. This is indeed That.—80."
+   "english": "In that Brahman, from whom the Sun arises in the beginning of the creation and in whom it merges in the dissolution thereof, all the gods are contained. No one verily can go beyond Him. This is indeed That."
   },
   {
    "ref": "2/1/10",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "यदैवेह तदमुत्र यदमुत्र तदन्विह।\nमृत्योः स मृत्युमाप्नोति य इह नानेव पश्यति॥ २/१/१०॥",
-   "english": "10. That which is even here, the same is there; what is there, that verily is here. From Death to Death he goes who beholds even the slightest difference in these two.—81.",
+   "english": "That which is even here, the same is there; what is there, that verily is here. From Death to Death he goes who beholds even the slightest difference in these two.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "यदैवेह तदमुत्र यदमुत्र तदन्विह।\nमृत्योः स मृत्युमाप्नोति य इह नानेव पश्यति॥ २/१/१०॥",
-     "english": "10. That which is even here, the same is there; what is there, that verily is here. From Death to Death he goes who beholds even the slightest difference in these two.—81."
+     "english": "That which is even here, the same is there; what is there, that verily is here. From Death to Death he goes who beholds even the slightest difference in these two."
     },
     {
      "role": "bhashya",
@@ -1008,12 +1008,12 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "मनसैवेदमाप्तव्यं नेह नानास्ति किञ्चन।\nमृत्योः स मृत्युं गच्छति य इह नानेव पश्यति॥ २/१/११॥",
-   "english": "11. Even through the purified mind this knowledge is to be obtained, that there is no difference whatsoever here. From death to death he goes, who beholds this here with difference.—82",
+   "english": "Even through the purified mind this knowledge is to be obtained, that there is no difference whatsoever here. From death to death he goes, who beholds this here with difference.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "मनसैवेदमाप्तव्यं नेह नानास्ति किञ्चन।\nमृत्योः स मृत्युं गच्छति य इह नानेव पश्यति॥ २/१/११॥",
-     "english": "11. Even through the purified mind this knowledge is to be obtained, that there is no difference whatsoever here. From death to death he goes, who beholds this here with difference.—82"
+     "english": "Even through the purified mind this knowledge is to be obtained, that there is no difference whatsoever here. From death to death he goes, who beholds this here with difference."
     },
     {
      "role": "bhashya",
@@ -1026,38 +1026,38 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "अङ्गुष्ठमात्रः पुरुषो मध्य आत्मनि तिष्ठति।\nईशानो भूतभव्यस्य न ततो विजुगुप्सते।\nएतद् वै तत्॥ २/१/१२॥",
-   "english": "12. He who so knows the Puruṣa, of the measure of a thumb, as dwelling in the cavity of one’s body. The Ruler of the past and future, does not thenceforth fear. This is verily That.—83."
+   "english": "He who so knows the Puruṣa, of the measure of a thumb, as dwelling in the cavity of one’s body. The Ruler of the past and future, does not thenceforth fear. This is verily That."
   },
   {
    "ref": "2/1/13",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "अङ्गुष्ठमात्रः पुरुषो ज्योतिरिवाधूमकः।\nईशानो भूतभव्यस्य स एवाद्य स उ श्वः।\nएतद् वै तत्॥ २/१/१३॥",
-   "english": "13. The Puruṣa, of the measure of a thumb, like to a smokeless fire is the Lord of the Past and Future; He is verily to-day and He will be so to-morrow.—84."
+   "english": "The Puruṣa, of the measure of a thumb, like to a smokeless fire is the Lord of the Past and Future; He is verily to-day and He will be so to-morrow."
   },
   {
    "ref": "2/1/14",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "यथोदकं दुर्गे वृष्टं पर्वतेषु विधावति।\nएवं धर्मान् पृथक् पश्यꣳस्तानेवानु विधावति॥ २/१/१४॥",
-   "english": "14.As water falling on an inaccesible mountain top runs clown, thus, seeing qualities of the Lord as separate, a man runs down to Darkness.—85.\nAs the rain water falling on the tops of hills quickly runs down, similarly he who sees the attributes of Viṣṇu as separate from Him rims down quickly to Darkness."
+   "english": "As water falling on an inaccesible mountain top runs clown, thus, seeing qualities of the Lord as separate, a man runs down to Darkness.\nAs the rain water falling on the tops of hills quickly runs down, similarly he who sees the attributes of Viṣṇu as separate from Him rims down quickly to Darkness."
   },
   {
    "ref": "2/1/15",
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "यथोदकꣳ शुद्धे शुद्धमासिक्तं तादृगेव भवति।\nएवं मुनेर्विजानत आत्मा भवति गौतम॥ २/१/१५॥\n“यः\nप्रादुर्भावगो\nविष्णुर्देहादिषु च संस्थितः।\nस एव मूलरूपश्च साक्षान्नारायणाभिधः।\nमूलरूपश्च यो विष्णुः\nप्रादुर्भावादिगश्च\nसः।\nगुणतः स्वरूपतो वाऽपि विशेषं योऽत्र पश्यति।\nअत्यल्मपि मृत्वा स तमोऽन्धं यात्यसंशयम्।\nभेदाभेदविदश्चात्र तमो यान्ति\nन संशयः।\nतथैवावयवानां च गुणानां च परस्परम्।\nक्रियाणां तेन चैतेषां भेदविच्चोभयं\nविदः।\nयान्त्येवान्धन्तमो नात्र कार्या काचिद् विचारणा॥”\nइति च।\n“भवेदेकत्र संयोग इवशब्दो विरुद्धयोः।\nधर्मयोरुपमायां वा स्वल्पत्वे\nवा विवक्षिते॥”\nइति शब्दनिर्णये।\nअतो नानेव इतीवशब्दोऽत्यल्पविषयो भेदाभेदविषयश्च। प्रथमं य इह नानेव पश्यति इति स्वरूपभेदनिषेधार्थम्। नेह नानाऽस्ति किञ्चन इति किञ्चनशब्दादवयवानां गुणानां क्रियाणां च परस्परं तद्वतां च भेदनिषेधार्थम्। भेदाभेद एव निषिध्यते नतु भेद इत्याशङ्कां निवारयितुं एवं धर्मान् पृथक् पश्यन् इति भगवद्धर्माणामवयवगुणकर्मणां भेददर्शने पृथग् दोषमाह।\nपर्वतेषु दुर्गे शिखरे वृष्टम् अधो विधावति। एवं विष्णोश्च धर्मान् पृथक् पश्यन् अन्धन्तमो विधावति। विजानतो मुनेरात्मा वायुरपि तादृगेव भवति नतु स एव भवति। किम्वन्ये जीवाः।\n“सर्वेषां ज्ञानिनामात्मा देवानां च विशेषतः।\nमुक्तो वायुश्च सादृश्यमेव विष्णोस्तु गच्छति।\nनतु तद्रूपतां याति किम्वन्ये देवमानुषाः।\nआभासाभासरूपास्तु वायोर्देवस्य सर्वशः॥”\nइति भविष्यत्पर्वणि।",
-   "english": "15. As pure water poured into pure water becomes like that, O Gautama, so the Ātma of the Muni, who knows, becomes like that (with Brahman).—86.\nEven the Ātman or Vāyu of the liberated sage becomes like into Him: but not identically the same: what to say of the non-liberated Jīvas. As says the Bhaviṣya Purāṇa:—“The ātmans of all the Liberated Jīvas, whether men or Devas, attain similarity and specially the atman of the eternally free Vāyu attains similarity only with Viṣṇu, and not identity with Him; what to say of other non-liberated men and devas. All Jīvas are either direct reflections, or reflections of reflections of the god Vāyu.”\nNote.—This verse shows that even the Mukta Jīvas—the Perfect Souls, the Liberated—called here Pure Water—do not get identity with the Lord in the state of Mukti, but similarity (tādṛk) only. The reason for this is that even the highest Jīva, the Great Vāyu, the Christ, is similar only to God, and not God. Vāyu or Christ is the Master or Swāmin of the Liberated Ones, he being the Great Saviour. The Vāyu is however different from God, though similar to Him.",
+   "english": "As pure water poured into pure water becomes like that, O Gautama, so the Ātma of the Muni, who knows, becomes like that (with Brahman).\nEven the Ātman or Vāyu of the liberated sage becomes like into Him: but not identically the same: what to say of the non-liberated Jīvas. As says the Bhaviṣya Purāṇa:—“The ātmans of all the Liberated Jīvas, whether men or Devas, attain similarity and specially the atman of the eternally free Vāyu attains similarity only with Viṣṇu, and not identity with Him; what to say of other non-liberated men and devas. All Jīvas are either direct reflections, or reflections of reflections of the god Vāyu.”",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "यथोदकꣳ शुद्धे शुद्धमासिक्तं तादृगेव भवति।\nएवं मुनेर्विजानत आत्मा भवति गौतम॥ २/१/१५॥",
-     "english": "15. As pure water poured into pure water becomes like that, O Gautama, so the Ātma of the Muni, who knows, becomes like that (with Brahman).—86."
+     "english": "As pure water poured into pure water becomes like that, O Gautama, so the Ātma of the Muni, who knows, becomes like that (with Brahman)."
     },
     {
      "role": "bhashya",
      "sanskrit": "“यः\nप्रादुर्भावगो\nविष्णुर्देहादिषु च संस्थितः।\nस एव मूलरूपश्च साक्षान्नारायणाभिधः।\nमूलरूपश्च यो विष्णुः\nप्रादुर्भावादिगश्च\nसः।\nगुणतः स्वरूपतो वाऽपि विशेषं योऽत्र पश्यति।\nअत्यल्मपि मृत्वा स तमोऽन्धं यात्यसंशयम्।\nभेदाभेदविदश्चात्र तमो यान्ति\nन संशयः।\nतथैवावयवानां च गुणानां च परस्परम्।\nक्रियाणां तेन चैतेषां भेदविच्चोभयं\nविदः।\nयान्त्येवान्धन्तमो नात्र कार्या काचिद् विचारणा॥”\nइति च।\n“भवेदेकत्र संयोग इवशब्दो विरुद्धयोः।\nधर्मयोरुपमायां वा स्वल्पत्वे\nवा विवक्षिते॥”\nइति शब्दनिर्णये।\nअतो नानेव इतीवशब्दोऽत्यल्पविषयो भेदाभेदविषयश्च। प्रथमं य इह नानेव पश्यति इति स्वरूपभेदनिषेधार्थम्। नेह नानाऽस्ति किञ्चन इति किञ्चनशब्दादवयवानां गुणानां क्रियाणां च परस्परं तद्वतां च भेदनिषेधार्थम्। भेदाभेद एव निषिध्यते नतु भेद इत्याशङ्कां निवारयितुं एवं धर्मान् पृथक् पश्यन् इति भगवद्धर्माणामवयवगुणकर्मणां भेददर्शने पृथग् दोषमाह।\nपर्वतेषु दुर्गे शिखरे वृष्टम् अधो विधावति। एवं विष्णोश्च धर्मान् पृथक् पश्यन् अन्धन्तमो विधावति। विजानतो मुनेरात्मा वायुरपि तादृगेव भवति नतु स एव भवति। किम्वन्ये जीवाः।\n“सर्वेषां ज्ञानिनामात्मा देवानां च विशेषतः।\nमुक्तो वायुश्च सादृश्यमेव विष्णोस्तु गच्छति।\nनतु तद्रूपतां याति किम्वन्ये देवमानुषाः।\nआभासाभासरूपास्तु वायोर्देवस्य सर्वशः॥”\nइति भविष्यत्पर्वणि।",
-     "english": "Even the Ātman or Vāyu of the liberated sage becomes like into Him: but not identically the same: what to say of the non-liberated Jīvas. As says the Bhaviṣya Purāṇa:—“The ātmans of all the Liberated Jīvas, whether men or Devas, attain similarity and specially the atman of the eternally free Vāyu attains similarity only with Viṣṇu, and not identity with Him; what to say of other non-liberated men and devas. All Jīvas are either direct reflections, or reflections of reflections of the god Vāyu.”\nNote.—This verse shows that even the Mukta Jīvas—the Perfect Souls, the Liberated—called here Pure Water—do not get identity with the Lord in the state of Mukti, but similarity (tādṛk) only. The reason for this is that even the highest Jīva, the Great Vāyu, the Christ, is similar only to God, and not God. Vāyu or Christ is the Master or Swāmin of the Liberated Ones, he being the Great Saviour. The Vāyu is however different from God, though similar to Him."
+     "english": "Even the Ātman or Vāyu of the liberated sage becomes like into Him: but not identically the same: what to say of the non-liberated Jīvas. As says the Bhaviṣya Purāṇa:—“The ātmans of all the Liberated Jīvas, whether men or Devas, attain similarity and specially the atman of the eternally free Vāyu attains similarity only with Viṣṇu, and not identity with Him; what to say of other non-liberated men and devas. All Jīvas are either direct reflections, or reflections of reflections of the god Vāyu.”"
     }
    ]
   },
@@ -1092,16 +1092,16 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "हꣳसः शुचिषद् वसुरन्तरिक्षसद्धोता वेदिषदतिथिर्दुरोणसत्।\nनृषद् वरसदृतसद् व्योमसदब्जा गोजा ऋतजा अद्रिजा ऋतं बृहत्॥ २/२/२॥",
-   "english": "2. He is Haṃsa (free from all faults and essence of all,) residing in. the Pure Vāyu, He is Vasu (the best and the blessed) dwelling in the Firmament, He is Hotṛ (the Lord of the senses) dwelling in honored places, He is atithi (the rich in food) dwelling in the Soma-jar. He dwells in men, in Devas, in Scriptures, in Space, in the creatures of water and earth. He dwells among the Liberated, and the Mountain-born. He is the Truth (established by the Vedas) and the Great One (full of all qualities).—88.",
+   "english": "He is Haṃsa (free from all faults and essence of all,) residing in. the Pure Vāyu, He is Vasu (the best and the blessed) dwelling in the Firmament, He is Hotṛ (the Lord of the senses) dwelling in honored places, He is atithi (the rich in food) dwelling in the Soma-jar. He dwells in men, in Devas, in Scriptures, in Space, in the creatures of water and earth. He dwells among the Liberated, and the Mountain-born. He is the Truth (established by the Vedas) and the Great One (full of all qualities).",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "हꣳसः शुचिषद् वसुरन्तरिक्षसद्धोता वेदिषदतिथिर्दुरोणसत्।\nनृषद् वरसदृतसद् व्योमसदब्जा गोजा ऋतजा अद्रिजा ऋतं बृहत्॥ २/२/२॥",
-     "english": "2. He is Haṃsa (free from all faults and essence of all,) residing in. the Pure Vāyu, He is Vasu (the best and the blessed) dwelling in the Firmament, He is Hotṛ (the Lord of the senses) dwelling in honored places, He is atithi (the rich in food) dwelling in the Soma-jar. He dwells in men, in Devas, in Scriptures, in Space, in the creatures of water and earth. He dwells among the Liberated, and the Mountain-born. He is the Truth (established by the Vedas) and the Great One (full of all qualities).—88."
+     "english": "He is Haṃsa (free from all faults and essence of all,) residing in. the Pure Vāyu, He is Vasu (the best and the blessed) dwelling in the Firmament, He is Hotṛ (the Lord of the senses) dwelling in honored places, He is atithi (the rich in food) dwelling in the Soma-jar. He dwells in men, in Devas, in Scriptures, in Space, in the creatures of water and earth. He dwells among the Liberated, and the Mountain-born. He is the Truth (established by the Vedas) and the Great One (full of all qualities)."
     },
     {
      "role": "bhashya",
-     "english": "Note.—That dwells as Haṃsa in the pure heaven, as Vasu it dwells in the Antariksha, as the sacrificer it dwells near the altar, as a guest it dwells in the houses: (or vessels of food.) It moves in men, it dwells in the Gods, it lives in Truth, existing in space; it is (as the fish) in the waters, (as the trees) that grow on earth, it is the knowledge that the Vedas reveal, and like the rivers that come from the mountain. It is the Great Truth.\nMadhva’s commentary called the Bhāṣya:\nAs Hari is eternally free (hīna) from all faults and is the essence (sāra) of all, therefore He is called Haṃsa (ha = hīna, free, ṃ = eternally, sa = Sāra, essence). The Vāyu (or Christ) is called Śuci or Pure. He dwells in Vāyu and hence is called the Dweller in the Pure. As He is the personification of highest (vara) happiness (sukha [sukham]) He is called Vasu. He as Vasu dwells in the Firmament. He is called Hotṛ as He regulates all senses. He is called Vedisat because He is honoured (vedya) of all. He alone who possesses great (ati) riches (tha) is called atithi. As Atithi or Master of vast riches He resides in Soma called here the Jar. He dwells among men and among the Best, i.e., the Devas also is He indeed. He is in the Vedas called Rita or Truth. [He is in?????]called Vyoma, Śrī is called Vyoma because this universeis supported (vyota [vyotam]) in Her. And since He is in the creatures of water and the plants of Earth, and in the mountain-born rivers, therefore He is called abjā, etc. The Muktas are called Ṛtās, literally meaning “gone,” from ^ṛ to go. They who have gone into Viṣṇu are called Ṛtās. The Lord is called Ṛtaja because He dwells among the Liberated as their controller. He is Ṛtam [ṛtam]. The Veda is called Ṛta. As all the Vedas declare principally Viṣṇu and Viṣṇu alone; so Ṛta comes to mean Viṣṇu also. He is called Bṛhat because He is full of all qualities. He is indeed the Highest Person."
+     "english": "Madhva’s commentary called the Bhāṣya:\nAs Hari is eternally free (hīna) from all faults and is the essence (sāra) of all, therefore He is called Haṃsa (ha = hīna, free, ṃ = eternally, sa = Sāra, essence). The Vāyu (or Christ) is called Śuci or Pure. He dwells in Vāyu and hence is called the Dweller in the Pure. As He is the personification of highest (vara) happiness (sukha [sukham]) He is called Vasu. He as Vasu dwells in the Firmament. He is called Hotṛ as He regulates all senses. He is called Vedisat because He is honoured (vedya) of all. He alone who possesses great (ati) riches (tha) is called atithi. As Atithi or Master of vast riches He resides in Soma called here the Jar. He dwells among men and among the Best, i.e., the Devas also is He indeed. He is in the Vedas called Rita or Truth. [He is in?????]called Vyoma, Śrī is called Vyoma because this universeis supported (vyota [vyotam]) in Her. And since He is in the creatures of water and the plants of Earth, and in the mountain-born rivers, therefore He is called abjā, etc. The Muktas are called Ṛtās, literally meaning “gone,” from ^ṛ to go. They who have gone into Viṣṇu are called Ṛtās. The Lord is called Ṛtaja because He dwells among the Liberated as their controller. He is Ṛtam [ṛtam]. The Veda is called Ṛta. As all the Vedas declare principally Viṣṇu and Viṣṇu alone; so Ṛta comes to mean Viṣṇu also. He is called Bṛhat because He is full of all qualities. He is indeed the Highest Person."
     }
    ]
   },
@@ -1110,51 +1110,51 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "ऊर्ध्वं प्राणमुन्नयत्यपानं प्रत्यगस्यति।\nमध्ये वामनमासीनं विश्वे देवा उपासते॥ २/२/३॥",
-   "english": "3. He leads the Prāṇa upwards, He throws the Apāna down, in the midst of the body sits this Adorable One, whom all the Gods surround and adore—89.\nNote.—The Prāṇa or the wisdom is above, the Apāna or strength is below in the middle is Beauty or Vāmana. The Good, the Wise, the Beautiful."
+   "english": "He leads the Prāṇa upwards, He throws the Apāna down, in the midst of the body sits this Adorable One, whom all the Gods surround and adore"
   },
   {
    "ref": "2/2/4",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "अस्य विस्रꣳसमानस्य शरीरस्थस्य देहिनः।\nदेहाद् विमुच्यमानस्य किमत्र परिशिष्यते।\nएतद् वै तत्॥ २/२/४॥",
-   "english": "4. What, remains when this soul, the dweller in the body, goes out from the dense body at death and is freed also from the subtle body (in Mukti)? This is verily That—90.\n[Note.—It appears that Yama after having recited some attributes had stopped with the last mantra, Naciketas, therefore, asks him again, to further expand the answer tn the third question. It is the same question “[???]” etc. [...]"
+   "english": "What, remains when this soul, the dweller in the body, goes out from the dense body at death and is freed also from the subtle body (in Mukti)? This is verily That"
   },
   {
    "ref": "2/2/5",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "न प्राणेन नापानेन मर्त्यो जीवति कश्चन।\nइतरेण तु जीवन्ति यस्मिन्नेतावुपाश्रितौ॥ २/२/५॥",
-   "english": "5. Not by Prāṇa, not by Apāna does any mortal exist, but, by Another do they live, on Whom both these depend. -91.\nThe Chief Prāṇa alone is not the Supporter of all sentient beings: but refuged in Viṣṇu, Prāṇa supports all these Jīvas. Thus the highest and principal support of all sentient Beings is Viṣṇu—He is Absolutely Independent."
+   "english": "Not by Prāṇa, not by Apāna does any mortal exist, but, by Another do they live, on Whom both these depend.\nThe Chief Prāṇa alone is not the Supporter of all sentient beings: but refuged in Viṣṇu, Prāṇa supports all these Jīvas. Thus the highest and principal support of all sentient Beings is Viṣṇu—He is Absolutely Independent."
   },
   {
    "ref": "2/2/6",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "हन्त त इदं प्रवक्ष्यामि गुह्यं ब्रह्म सनातनम्।\nयथा मरणं प्राप्यात्मा भवति गौतम॥२/२/६॥",
-   "english": "6(a) And now I shall tell thee this Mysterious Ancient Brahman, and how, working through the mortals, this Ātman becomes their Ruler and Saviour, O Gautama!—92.\n6(b) I shall tell thee this Hidden Ancient Brahman, and also what is the condition of the soul when death overtakes it, O Gautama.\nNote.—That Brahman is different from all Jīvas was already declared in verse V. 5: the promise in the present verse is to declare the same distinction between the Jīva and Īśvara: and therefore, a description of both. In that view the verse should be translated thus:—I shall tell thee this Hidden Ancient Brahman: and also what is the state of the ātmā (here ātmā should be taken as meaning the Jīvātma) when death overtakes him. This clearly shows the difference between Jīva and Brahman."
+   "english": "6(a) And now I shall tell thee this Mysterious Ancient Brahman, and how, working through the mortals, this Ātman becomes their Ruler and Saviour, O Gautama!\n6(b) I shall tell thee this Hidden Ancient Brahman, and also what is the condition of the soul when death overtakes it, O Gautama."
   },
   {
    "ref": "2/2/7",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "योनिमन्ये प्रपद्यन्ते शरीरत्वाय देहिनः।\nस्थाणुमन्येऽनु सꣳय्यन्ति यथाकर्म यथाश्रुतम्॥ २/२/७॥",
-   "english": "7. Some Jīvas, ready for re-birth, go into the womb to obtain a body: others enter minerals, according to their karma and according to their knowledge.—93.\nNote.—This verse further shows the difference between the Jīva and Brahman. The experiencer of fruit of action is Jīva, as shown in this verse: while Brahman who also enters the womb or the mineral along with the Jīva, experiences no such fruit, but on the contrary awards the Jīva such fruit."
+   "english": "Some Jīvas, ready for re-birth, go into the womb to obtain a body: others enter minerals, according to their karma and according to their knowledge."
   },
   {
    "ref": "2/2/8",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "य एषु सुप्तेषु जागर्ति कामङ्कामं पुरुषो निर्मिमाणः।\nतदेव शुक्रं तद् ब्रह्म तदेवामृतमुच्यते।\nतस्मिन् लोकाः श्रिताः सर्वे तदु नात्येति कश्चन।\nएतद् वै तत्॥ २/२/८॥",
-   "english": "8. That Almighty Person who keeps awake, when these Jīvas are plunged in sleep, who makes according to His will (various objects for them to dream of) He alone is free from sorrow, He alone is Full and Absolute. He alone is said to be the Eternally Free. In Him are all worlds refuged. Beyond Him verily no one can go. This is verily That.—94.\nNote—This Puruṣa who is awake in those that sleep, and who builds (all objects) as a desire, that indeed is the pure one, that indeed is Brahman immortal he is called.\nIn him all worlds are contained. This is That, Him verily nothing goes beyond. “He, the person who is awake in those who sleep, shaping one desired thing after the other” “That is the bright, that is Brahman, that alone is called the Immortal.”",
+   "english": "That Almighty Person who keeps awake, when these Jīvas are plunged in sleep, who makes according to His will (various objects for them to dream of) He alone is free from sorrow, He alone is Full and Absolute. He alone is said to be the Eternally Free. In Him are all worlds refuged. Beyond Him verily no one can go. This is verily That.\nIn him all worlds are contained. This is That, Him verily nothing goes beyond. “He, the person who is awake in those who sleep, shaping one desired thing after the other” “That is the bright, that is Brahman, that alone is called the Immortal.”",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "य एषु सुप्तेषु जागर्ति कामङ्कामं पुरुषो निर्मिमाणः।\nतदेव शुक्रं तद् ब्रह्म तदेवामृतमुच्यते।\nतस्मिन् लोकाः श्रिताः सर्वे तदु नात्येति कश्चन।\nएतद् वै तत्॥ २/२/८॥",
-     "english": "8. That Almighty Person who keeps awake, when these Jīvas are plunged in sleep, who makes according to His will (various objects for them to dream of) He alone is free from sorrow, He alone is Full and Absolute. He alone is said to be the Eternally Free. In Him are all worlds refuged. Beyond Him verily no one can go. This is verily That.—94.\nNote—This Puruṣa who is awake in those that sleep, and who builds (all objects) as a desire, that indeed is the pure one, that indeed is Brahman immortal he is called.\nIn him all worlds are contained. This is That, Him verily nothing goes beyond. “He, the person who is awake in those who sleep, shaping one desired thing after the other” “That is the bright, that is Brahman, that alone is called the Immortal.”"
+     "english": "That Almighty Person who keeps awake, when these Jīvas are plunged in sleep, who makes according to His will (various objects for them to dream of) He alone is free from sorrow, He alone is Full and Absolute. He alone is said to be the Eternally Free. In Him are all worlds refuged. Beyond Him verily no one can go. This is verily That.\nIn him all worlds are contained. This is That, Him verily nothing goes beyond. “He, the person who is awake in those who sleep, shaping one desired thing after the other” “That is the bright, that is Brahman, that alone is called the Immortal.”"
     },
     {
      "role": "bhashya",
-     "english": "Note.—This verse again indicates the difference between the Jīva and Brahman. That which sleeps is Jīva. He who is always awake, while the Jīvas are asleep, whether in ordinary or Pralayic sleep, is Brahman. Brahman is Śukra [śukram] or free from sorrow, Jīva is full of misery. Brahman is full and absolute nob so the Jīva. He is Eternally Free, the Jīva is not so. He is the refuge of all worlds, not so the Jīva who dwells in some world or other. No one can transcend Him; while Brahman transcends all Jīvas. Thus all these epithets establish that the Jīva and Brahman are distinct and not identical. The next two mantras also further describe the same difference between the Jīva and Brahman; by means of two illustrations."
+     "english": ""
     }
    ]
   },
@@ -1163,23 +1163,23 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "अग्निर्यथैको भुवनं प्रविष्टो रूपꣳरूपं प्रतिरूपो बभूव।\nएकस्तथा सर्वभूतान्तरात्मा रूपꣳरूपं प्रतिरूपो बहिश्च॥ २/२/९॥",
-   "english": "9. Though Agni (as a Devatā) is one only, who having entered the worlds, becomes many, yet for every one of his deva-forms there is a reflected (insentient) form; so the Inner Self (Ruler) of all creatures is One only, yet for every one of His forms, the reflected Jīva is indeed different (because outside of Him, and not independent).—95."
+   "english": "Though Agni (as a Devatā) is one only, who having entered the worlds, becomes many, yet for every one of his deva-forms there is a reflected (insentient) form; so the Inner Self (Ruler) of all creatures is One only, yet for every one of His forms, the reflected Jīva is indeed different (because outside of Him, and not independent)."
   },
   {
    "ref": "2/2/10",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "वायुर्यथैको भुवनं प्रविष्टो रूपꣳरूपं प्रतिरूपो बभूव।\nएकस्तथा सर्वभूतान्तरात्मा रूपꣳरूपं प्रतिरूपो बहिश्च॥ २/२/१०॥",
-   "english": "10. Though Vāyu as a Devatā is one only, who having entered the worlds, becomes many, yet for every one of his deva-forms there is a reflected insentient form, so the Inner Ruler of all creatures is One only yet for every one of His forms, the reflected Jīva is different because outside of Him.—96",
+   "english": "Though Vāyu as a Devatā is one only, who having entered the worlds, becomes many, yet for every one of his deva-forms there is a reflected insentient form, so the Inner Ruler of all creatures is One only yet for every one of His forms, the reflected Jīva is different because outside of Him.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "वायुर्यथैको भुवनं प्रविष्टो रूपꣳरूपं प्रतिरूपो बभूव।\nएकस्तथा सर्वभूतान्तरात्मा रूपꣳरूपं प्रतिरूपो बहिश्च॥ २/२/१०॥",
-     "english": "10. Though Vāyu as a Devatā is one only, who having entered the worlds, becomes many, yet for every one of his deva-forms there is a reflected insentient form, so the Inner Ruler of all creatures is One only yet for every one of His forms, the reflected Jīva is different because outside of Him.—96"
+     "english": "Though Vāyu as a Devatā is one only, who having entered the worlds, becomes many, yet for every one of his deva-forms there is a reflected insentient form, so the Inner Ruler of all creatures is One only yet for every one of His forms, the reflected Jīva is different because outside of Him."
     },
     {
      "role": "bhashya",
-     "english": "As says the Kūrma Purāṇa:—\n“The Fire (Agni-devatā) is one only and not many, who however entering into the worlds becomes mainfold as agents of cooking, etc., yet for every one of the forms that this Deva assumes in the worlds there is a counter-form or reflection in the shape of insentient material fires. Similarly the Deva Vāyu is alone the upholder and no one else, yet when he enters the worlds he becomes manifold, and for every one of his devaforms there is a reflected insentient form, such as we feel by touch when the air blows, thus is the Lord Janārdana, the Sifter of men. He alone is Independent and one: staying within every Jīva. Every conscious Jīva is a reflection of a particular form of the Lord when He enters the world. But these Jīvas are. all outside of Him, therefore, they can never be identical with Him. These Jīvas, though reflections, are however beginningless and endless.\nNote.—The Lord is one and homogeneous yet these reflections are of infinite variety; in the sense that their experiences are of infinitely diverse kind. If Lord is the Inner Self of all, He must suffer the pains of the Jīvas, because He is inside them. To this doubt, the next verse gives the reply."
+     "english": "As says the Kūrma Purāṇa:—\n“The Fire (Agni-devatā) is one only and not many, who however entering into the worlds becomes mainfold as agents of cooking, etc., yet for every one of the forms that this Deva assumes in the worlds there is a counter-form or reflection in the shape of insentient material fires. Similarly the Deva Vāyu is alone the upholder and no one else, yet when he enters the worlds he becomes manifold, and for every one of his devaforms there is a reflected insentient form, such as we feel by touch when the air blows, thus is the Lord Janārdana, the Sifter of men. He alone is Independent and one: staying within every Jīva. Every conscious Jīva is a reflection of a particular form of the Lord when He enters the world. But these Jīvas are. all outside of Him, therefore, they can never be identical with Him. These Jīvas, though reflections, are however beginningless and endless."
     }
    ]
   },
@@ -1188,12 +1188,12 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "सूर्यो यथा सर्वलोकस्य चक्षुर्न लिप्यते चाक्षुषैर्बाह्यदोषैः।\nएकस्तथा सर्वभूतान्तरात्मा रूपꣳरूपं प्रतिरूपो बहिश्च॥ २/२/११॥",
-   "english": "11. As the one Sūrya, the eye of all the Jivas, is not affected by the external defects in the organ of sight, so the one Inner-Self of all is not affected by the sorrows of the Jīvas being outside of them.—97.",
+   "english": "As the one Sūrya, the eye of all the Jivas, is not affected by the external defects in the organ of sight, so the one Inner-Self of all is not affected by the sorrows of the Jīvas being outside of them.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "सूर्यो यथा सर्वलोकस्य चक्षुर्न लिप्यते चाक्षुषैर्बाह्यदोषैः।\nएकस्तथा सर्वभूतान्तरात्मा रूपꣳरूपं प्रतिरूपो बहिश्च॥ २/२/११॥",
-     "english": "11. As the one Sūrya, the eye of all the Jivas, is not affected by the external defects in the organ of sight, so the one Inner-Self of all is not affected by the sorrows of the Jīvas being outside of them.—97."
+     "english": "As the one Sūrya, the eye of all the Jivas, is not affected by the external defects in the organ of sight, so the one Inner-Self of all is not affected by the sorrows of the Jīvas being outside of them."
     },
     {
      "role": "bhashya",
@@ -1206,31 +1206,31 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "एको वशी सर्वभूतान्तरात्मा एकꣳ रूपं बहुधा यः करोति।\nतमात्मस्थं येनुपश्यन्ति धीरास्तेषां सुखꣳ शाश्वतं नेतरेषाम्॥ २/२/१२॥",
-   "english": "12. He is One, the Ruler, the Inner Self of all creatures, who makes (his) one form manifold; those tranquil-minded ones who see him seated in their ātmā, eternal happiness is for them and not for others.—99.\nNote.—This describes the joy of the Free. The Muktas get bliss by seeing the Lord: so the form of the Lord must be the highest joy. This will be mentioned in V. 14."
+   "english": "He is One, the Ruler, the Inner Self of all creatures, who makes (his) one form manifold; those tranquil-minded ones who see him seated in their ātmā, eternal happiness is for them and not for others."
   },
   {
    "ref": "2/2/13",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "नित्यो नित्यानां चेतनश्चेतनानामेको बहूनां यो विदधाति कामान्।\nतमात्मस्थं येऽनुपश्यन्ति धीरास्तेषां शान्तिः शाश्वती नेतरेषाम्॥२/२/१३॥",
-   "english": "13. The Eternal among the eternals, the Consciousness among all consciousnesses, the One who bestows the fruits of Kannas to many Jīvas the tranquil-minded ones who see him seated in their Ātmā, get eternal happiness, but not the others.—100."
+   "english": "The Eternal among the eternals, the Consciousness among all consciousnesses, the One who bestows the fruits of Kannas to many Jīvas the tranquil-minded ones who see him seated in their Ātmā, get eternal happiness, but not the others."
   },
   {
    "ref": "2/2/14",
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "तदेतदिति मन्यन्तेऽनिर्देश्यं परमꣳ सुखम्।\nकथं नु तद् विजानीयां किमु भाति न भाति वा॥ २/२/१४॥\n“नित्यं हीनोऽखिलैर्दोषैः साररूपो यतो हरिः।\nहंस इत्युच्यते तस्माद् वायुस्थः\nशुचिषत् स्मृतः।\nवरसुर्वसुरित्युक्तः स एवाप्यन्तरिक्षगः।\nहोता\nसर्वेन्द्रियादिस्थो\nवेद्यां पूज्यश्च वेदिषत्।\nअत्यन्नश्चातिथिः प्रोक्तो यस्मादन्नं थमुच्यते।\nस द्रोणकलशे सोमे स्थित उक्तो दुरोणसत्।\nनृषु स्थितश्च देवेषु वरेष्वपि स एव तु।\nऋतरूपे तथा वेदे व्योमाख्यप्रकृतावपि।\nव्योतं जगदिदं यस्यां सा व्योम श्रीरुदाहृता।\nअब्जगोजाद्रिजेष्वेवमास्ते सोऽब्जादिकस्ततः।\nतथैवर्तेषु मुक्तेषु गतास्ते विष्णुमित्यृताः।\nवेदैर्मुख्यतया प्रोक्त ऋतमित्येव चोच्यते।\nबृहत्पूर्णगुणत्वाच्च स एव पुरुषोत्तमः॥ *॥\nन केवलं प्राण एव चेतनानां विधारकः।\nकिन्तु विष्णुं समाश्रित्य प्राणो जीवान् बिभर्त्ययम्।\nअतो मुख्याश्रयो विष्णुश्चेतनानां स्वतन्त्रतः॥ *॥\nअग्निर्यथैको लोकेषु प्रविष्टोऽन्यो न विद्यते।\nपाकादिकर्ताऽथाप्यस्य देवस्य प्रतिरूपकाः।\nरूपंरूपं प्रति ह्येते सन्त्यचेतनवह्नयः।\nएवं देवो वायुरपि धारकोऽन्यो न विद्यते।\nरूपंरूपं तथाऽप्यस्य प्रत्यभूत्\nप्रतिरूपकः॥ *॥\nअचेतनः स्पर्शगम्यो\nयोऽयमेवं\nजनार्दनः।\nएकः स्वतन्त्रो नान्योऽस्ति सर्वजीवान्तरस्थितः।\nरूपंरूपं प्रति ह्यस्य\nप्रतिबिम्बाश्च चेतनाः॥ *॥\nबाह्याश्च ते ततो नास्य स्वरूपं ते कथञ्चन।\nअनादिप्रतिबिम्बाश्च बभूवुस्ते ह्यनन्तकाः।\nसूर्यो\nयथाऽऽन्तरं चक्षुः\nप्रतिबिम्बोऽस्य\nबाह्यकम्।\nबाह्यचक्षुर्गतैर्दोषैरन्तश्चक्षुर्न लिप्यते।\nअन्तश्चक्षुर्देवता तु\nबाह्यं चक्षुरचेतनम्।\nएवं बाह्यः स्वतन्त्रत्वाज्जीवेभ्यः पुरुषोत्तमः।\nअस्वतन्त्रस्य जीवस्य दुःखैर्नैव हि लिप्यते॥ *॥\nचेतनाभासको जीवः परमश्चेतनो हरिः।\nस्वतन्त्रत्वात् स्वतन्त्रो हि नैव दोषेण लिप्यते॥”\nइति महाकौर्मे।\nस एक एव सर्वभूतान्तरात्मा। तस्य रूपंरूपं प्रतिरूपाख्यो जीवो बभूव। बहिश्चासौ परमात्मनः, नितरां भिन्नः। परतन्त्रत्वात्।\n“आत्मैवेदमग्र आसीत्”\nइत्यादिवदनादित्वापेक्षया। “आत्मनि स्थं हरिं जानन् मुच्यते नात्र संशयः। जीवैक्येन तु तं\nध्यायंस्तमस्यन्धे\nपतेद् ध्रुवम्॥”\nइति च।\nएतदेव भगवद्रूपं परमं सुखम्। ज्ञानिसुखं तु तद्विप्लुण्मात्रम्।\n“ब्रह्मादीनां तु\nमुक्तानां सुखं विष्णुसुखस्य तु।\nप्रतिबिम्बस्तु विप्लुट्को विष्णोरेव परं सुखम्।\nसम्यग् भाति न भातीति जानीयां तत् कथं न्वहम्।\nतत्प्रसादमृते दिव्यमनिर्देश्यं परं सुखम्॥”\nइति च महावाराहे।",
-   "english": "14. The wise say: “That is this (namely, the Universal Form is this Single Form in the Jīva)—It is Ineffable Highest Bliss.” (Yama says) “How can I know That Form (without His Grace? I cannot).” (Naciketas asks:) “But even with His grace, can It be known fully?” “No, It cannot be fully known.”—101.\nThis Form of the Lord is alone the Highest Joy, the “paramam sukham” of this verse: (and not the bliss of the Liberated—which though Joy is not the highest). The bliss of the Liberated Wise One is but a portion of it (infinitely small when so compared). “The Joy of Brahmā and the rest, or of the Liberated is but a reflection of the bliss of the Lord, a small grain of the bliss of Viṣṇu. The bliss of Viṣṇu alone is the highest bliss. Can this Bliss-Form be fully known by any? No, It cannot be so known. How can I know it without His grace—This Form which is Divine, Ineffable Supreme Joy.” (Mahā Vārāha.)\nNote.—The explanation of this verse according to Śaṅkara seems inappropriate. He takes the Joy of this verse as referring to Mukti and the bliss of the Released. But Yama is a Released Jīva. Why should he say “How can I know this Joy of Release Yama knows the Lord, as he asserts in a previous verse. What Yama means to teach here is that the grace of God is the chief cause of bliss and nothing else: and even then no one knows this Bliss-Form in its entirety. Yama here relates his own personal experience.",
+   "english": "The wise say: “That is this (namely, the Universal Form is this Single Form in the Jīva)—It is Ineffable Highest Bliss.” (Yama says) “How can I know That Form (without His Grace? I cannot).” (Naciketas asks:) “But even with His grace, can It be known fully?” “No, It cannot be fully known.”\nThis Form of the Lord is alone the Highest Joy, the “paramam sukham” of this verse: (and not the bliss of the Liberated—which though Joy is not the highest). The bliss of the Liberated Wise One is but a portion of it (infinitely small when so compared). “The Joy of Brahmā and the rest, or of the Liberated is but a reflection of the bliss of the Lord, a small grain of the bliss of Viṣṇu. The bliss of Viṣṇu alone is the highest bliss. Can this Bliss-Form be fully known by any? No, It cannot be so known. How can I know it without His grace—This Form which is Divine, Ineffable Supreme Joy.” (Mahā Vārāha.)",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "तदेतदिति मन्यन्तेऽनिर्देश्यं परमꣳ सुखम्।\nकथं नु तद् विजानीयां किमु भाति न भाति वा॥ २/२/१४॥",
-     "english": "14. The wise say: “That is this (namely, the Universal Form is this Single Form in the Jīva)—It is Ineffable Highest Bliss.” (Yama says) “How can I know That Form (without His Grace? I cannot).” (Naciketas asks:) “But even with His grace, can It be known fully?” “No, It cannot be fully known.”—101."
+     "english": "The wise say: “That is this (namely, the Universal Form is this Single Form in the Jīva)—It is Ineffable Highest Bliss.” (Yama says) “How can I know That Form (without His Grace? I cannot).” (Naciketas asks:) “But even with His grace, can It be known fully?” “No, It cannot be fully known.”"
     },
     {
      "role": "bhashya",
      "sanskrit": "“नित्यं हीनोऽखिलैर्दोषैः साररूपो यतो हरिः।\nहंस इत्युच्यते तस्माद् वायुस्थः\nशुचिषत् स्मृतः।\nवरसुर्वसुरित्युक्तः स एवाप्यन्तरिक्षगः।\nहोता\nसर्वेन्द्रियादिस्थो\nवेद्यां पूज्यश्च वेदिषत्।\nअत्यन्नश्चातिथिः प्रोक्तो यस्मादन्नं थमुच्यते।\nस द्रोणकलशे सोमे स्थित उक्तो दुरोणसत्।\nनृषु स्थितश्च देवेषु वरेष्वपि स एव तु।\nऋतरूपे तथा वेदे व्योमाख्यप्रकृतावपि।\nव्योतं जगदिदं यस्यां सा व्योम श्रीरुदाहृता।\nअब्जगोजाद्रिजेष्वेवमास्ते सोऽब्जादिकस्ततः।\nतथैवर्तेषु मुक्तेषु गतास्ते विष्णुमित्यृताः।\nवेदैर्मुख्यतया प्रोक्त ऋतमित्येव चोच्यते।\nबृहत्पूर्णगुणत्वाच्च स एव पुरुषोत्तमः॥ *॥\nन केवलं प्राण एव चेतनानां विधारकः।\nकिन्तु विष्णुं समाश्रित्य प्राणो जीवान् बिभर्त्ययम्।\nअतो मुख्याश्रयो विष्णुश्चेतनानां स्वतन्त्रतः॥ *॥\nअग्निर्यथैको लोकेषु प्रविष्टोऽन्यो न विद्यते।\nपाकादिकर्ताऽथाप्यस्य देवस्य प्रतिरूपकाः।\nरूपंरूपं प्रति ह्येते सन्त्यचेतनवह्नयः।\nएवं देवो वायुरपि धारकोऽन्यो न विद्यते।\nरूपंरूपं तथाऽप्यस्य प्रत्यभूत्\nप्रतिरूपकः॥ *॥\nअचेतनः स्पर्शगम्यो\nयोऽयमेवं\nजनार्दनः।\nएकः स्वतन्त्रो नान्योऽस्ति सर्वजीवान्तरस्थितः।\nरूपंरूपं प्रति ह्यस्य\nप्रतिबिम्बाश्च चेतनाः॥ *॥\nबाह्याश्च ते ततो नास्य स्वरूपं ते कथञ्चन।\nअनादिप्रतिबिम्बाश्च बभूवुस्ते ह्यनन्तकाः।\nसूर्यो\nयथाऽऽन्तरं चक्षुः\nप्रतिबिम्बोऽस्य\nबाह्यकम्।\nबाह्यचक्षुर्गतैर्दोषैरन्तश्चक्षुर्न लिप्यते।\nअन्तश्चक्षुर्देवता तु\nबाह्यं चक्षुरचेतनम्।\nएवं बाह्यः स्वतन्त्रत्वाज्जीवेभ्यः पुरुषोत्तमः।\nअस्वतन्त्रस्य जीवस्य दुःखैर्नैव हि लिप्यते॥ *॥\nचेतनाभासको जीवः परमश्चेतनो हरिः।\nस्वतन्त्रत्वात् स्वतन्त्रो हि नैव दोषेण लिप्यते॥”\nइति महाकौर्मे।\nस एक एव सर्वभूतान्तरात्मा। तस्य रूपंरूपं प्रतिरूपाख्यो जीवो बभूव। बहिश्चासौ परमात्मनः, नितरां भिन्नः। परतन्त्रत्वात्।\n“आत्मैवेदमग्र आसीत्”\nइत्यादिवदनादित्वापेक्षया। “आत्मनि स्थं हरिं जानन् मुच्यते नात्र संशयः। जीवैक्येन तु तं\nध्यायंस्तमस्यन्धे\nपतेद् ध्रुवम्॥”\nइति च।\nएतदेव भगवद्रूपं परमं सुखम्। ज्ञानिसुखं तु तद्विप्लुण्मात्रम्।\n“ब्रह्मादीनां तु\nमुक्तानां सुखं विष्णुसुखस्य तु।\nप्रतिबिम्बस्तु विप्लुट्को विष्णोरेव परं सुखम्।\nसम्यग् भाति न भातीति जानीयां तत् कथं न्वहम्।\nतत्प्रसादमृते दिव्यमनिर्देश्यं परं सुखम्॥”\nइति च महावाराहे।",
-     "english": "This Form of the Lord is alone the Highest Joy, the “paramam sukham” of this verse: (and not the bliss of the Liberated—which though Joy is not the highest). The bliss of the Liberated Wise One is but a portion of it (infinitely small when so compared). “The Joy of Brahmā and the rest, or of the Liberated is but a reflection of the bliss of the Lord, a small grain of the bliss of Viṣṇu. The bliss of Viṣṇu alone is the highest bliss. Can this Bliss-Form be fully known by any? No, It cannot be so known. How can I know it without His grace—This Form which is Divine, Ineffable Supreme Joy.” (Mahā Vārāha.)\nNote.—The explanation of this verse according to Śaṅkara seems inappropriate. He takes the Joy of this verse as referring to Mukti and the bliss of the Released. But Yama is a Released Jīva. Why should he say “How can I know this Joy of Release Yama knows the Lord, as he asserts in a previous verse. What Yama means to teach here is that the grace of God is the chief cause of bliss and nothing else: and even then no one knows this Bliss-Form in its entirety. Yama here relates his own personal experience."
+     "english": "This Form of the Lord is alone the Highest Joy, the “paramam sukham” of this verse: (and not the bliss of the Liberated—which though Joy is not the highest). The bliss of the Liberated Wise One is but a portion of it (infinitely small when so compared). “The Joy of Brahmā and the rest, or of the Liberated is but a reflection of the bliss of the Lord, a small grain of the bliss of Viṣṇu. The bliss of Viṣṇu alone is the highest bliss. Can this Bliss-Form be fully known by any? No, It cannot be so known. How can I know it without His grace—This Form which is Divine, Ineffable Supreme Joy.” (Mahā Vārāha.)"
     }
    ]
   },
@@ -1239,7 +1239,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "न यत्र सूर्यो भाति न चन्द्रतारकं नेमा विद्युतो भान्ति कुतोऽयमग्निः।\nतमेव भान्तमनुभाति सर्वं तस्य भासा सर्वमिदं विभाति॥ २/२/१५॥",
-   "english": "15. That Form the sun. does not reveal, nor the moon and stars, nor these lightnings reveal Him, how then this fire? When He shines forth, all is illumined after Him, by His light all this becomes lighted.—103."
+   "english": "That Form the sun. does not reveal, nor the moon and stars, nor these lightnings reveal Him, how then this fire? When He shines forth, all is illumined after Him, by His light all this becomes lighted."
   },
   {
    "ref": "colophon107",
@@ -1344,7 +1344,7 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "अव्यक्तात् तु परः पुरुषो(ऽ)व्यापकोऽलिङ्ग एव च।\nतं ज्ञात्वा मुच्यते जन्तुरमृतत्वं च गच्छति॥ २/३/८॥\nपुनः इन्द्रियेभ्यः परं मनः इत्यादि देवतातारतम्यज्ञानपूर्वकं भगवतः सर्वोत्तमत्वज्ञान एव सर्ववाक्यानां महातात्पर्यमिति ज्ञापयितुम्।\n“तारतम्यपरिज्ञानपूर्वकं सर्वतो हरेः।\nआधिक्ये सर्ववाक्यानां तात्पर्यं महदिष्यते॥”\nइति च।",
-   "english": "Superior to the un-manifest is the Person, all-pervading without any distinctions, by knowing whom Jiva goes to immortality.\nAgain by stating that „greater than the senses is the mind‟ etc. the knowledge about the gradation (tartmya) among the divinities with full awareness of the supremacy of resplendent Lord is recapitulated as summary of all the statements. Realizing Hari on the basis of the gradation (tartmya) in addition, the summery of all the statements in concluded. 62",
+   "english": "Superior to the un-manifest is the Person, all-pervading without any distinctions, by knowing whom Jiva goes to immortality.\nAgain by stating that „greater than the senses is the mind‟ etc. the knowledge about the gradation (tartmya) among the divinities with full awareness of the supremacy of resplendent Lord is recapitulated as summary of all the statements. Realizing Hari on the basis of the gradation (tartmya) in addition, the summery of all the statements in concluded.",
    "parts": [
     {
      "role": "mula",
@@ -1354,7 +1354,7 @@
     {
      "role": "bhashya",
      "sanskrit": "पुनः इन्द्रियेभ्यः परं मनः इत्यादि देवतातारतम्यज्ञानपूर्वकं भगवतः सर्वोत्तमत्वज्ञान एव सर्ववाक्यानां महातात्पर्यमिति ज्ञापयितुम्।\n“तारतम्यपरिज्ञानपूर्वकं सर्वतो हरेः।\nआधिक्ये सर्ववाक्यानां तात्पर्यं महदिष्यते॥”\nइति च।",
-     "english": "Again by stating that „greater than the senses is the mind‟ etc. the knowledge about the gradation (tartmya) among the divinities with full awareness of the supremacy of resplendent Lord is recapitulated as summary of all the statements. Realizing Hari on the basis of the gradation (tartmya) in addition, the summery of all the statements in concluded. 62"
+     "english": "Again by stating that „greater than the senses is the mind‟ etc. the knowledge about the gradation (tartmya) among the divinities with full awareness of the supremacy of resplendent Lord is recapitulated as summary of all the statements. Realizing Hari on the basis of the gradation (tartmya) in addition, the summery of all the statements in concluded."
     }
    ]
   },
@@ -1475,7 +1475,7 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "अङ्गुष्ठमात्रः पुरुषोऽन्तरात्मा सदा जनानाꣳ हृदये सन्निविष्टः।\nतꣳ स्वाच्छरीरात् प्रवृहेन्मुञ्जादिवेषीकान् धैर्येण॥\nतं विद्याच्छुक्रममृतं तं विद्याच्छुक्रममृतमिति॥ २/३/१७॥\n“अन्तःकरणकामानां त्यागो व्यक्तिश्चिदात्मनाम्।\nकामानां तु तदा मुक्तौ मृतिं\nनैवाभियास्यति।\nमिथ्याज्ञानग्रन्थिभिस्तु नितरां मुच्यते यदा।\nतदाऽमृतत्वमेवैति तदर्थं चानुशासनम्॥ *॥\nशरीरभूतो विष्णोस्तु जीवस्तद्वशगो यतः।\nअधिष्ठितश्च तेनैव विजानीयात् पृथक् ततः।\nस्वाख्याच्छरीराज्जीवात् तु प्रवृहेद् विष्णुमव्ययम्॥”\nइति च।\n“यस्यात्मा शरीरम्, य आत्मानमन्तरो यमयति” इति च।\nजनानां हृदये इत्युक्तत्वाच्च जीवात् पृथग्घरिरिति सिद्धम्॥\n“देहाङ्गुष्ठमितो देहे जीवाङ्गुष्ठमितो हृदि।\nजीवस्य स तु विज्ञेयो जीवाद् भेदेन मुक्तये॥”\nइति च।\nसंसारिशरीरेणाभेदो वादिना केनापि नाङ्गीकृतः। नच लोकसिद्धः। जनानामिति भेदात्। न जीवोऽङ्गुष्ठमात्रः। अतो विष्णोर्जीवाद् भेद उक्तः। अतः सर्वोत्तमो विष्णुरिति सिद्धम्॥",
-   "english": "Self, best of the Persons, ever dwells within the core of heart of the people. One should separate Him from one‟s heart knowing Him to be pure and the immortal with firmness like pith from the sheath. Yes, knowing Him to be pure and the immortal.\nThe desires residing within the self are renounced; the liberated one becomes released from all desires. When one is released from the shackles of erroneous Knowledge, then one attains immortality. For that purpose alone are the injunctions. The one who dwells within the heart is Vishnu, under whose control Jivas exist. One should experience, knowing the immutable Vishnu gradually as distinct from one‟s body flowing as a stream. By declaring „The Self whose body is this‟, „He who restrains the self abiding internally‟ „in the hearts of people‟ the premise that Hari is distinct from Jiva is conclusively established. In life no wise one would accept that Jiva is identical with Lord. The statement „janaanaama\\ )dyao saMinnaivaYT:‟, demonstrates that the identity of Jiva is distinct from that of the Lord. Therefore, the words „AMgauYzamaa~:‟ should rightfully be applied to the Lord and not to Jiva. In this manner, the distinction between Vishnu and the Jiva is demonstrated. Thus is it conclusively proved that Vishnu alone is the Supreme One. 69",
+   "english": "Self, best of the Persons, ever dwells within the core of heart of the people. One should separate Him from one‟s heart knowing Him to be pure and the immortal with firmness like pith from the sheath. Yes, knowing Him to be pure and the immortal.\nThe desires residing within the self are renounced; the liberated one becomes released from all desires. When one is released from the shackles of erroneous Knowledge, then one attains immortality. For that purpose alone are the injunctions. The one who dwells within the heart is Vishnu, under whose control Jivas exist. One should experience, knowing the immutable Vishnu gradually as distinct from one‟s body flowing as a stream. By declaring „The Self whose body is this‟, „He who restrains the self abiding internally‟ „in the hearts of people‟ the premise that Hari is distinct from Jiva is conclusively established. In life no wise one would accept that Jiva is identical with Lord. The statement „janaanaama\\ )dyao saMinnaivaYT:‟, demonstrates that the identity of Jiva is distinct from that of the Lord. Therefore, the words „AMgauYzamaa~:‟ should rightfully be applied to the Lord and not to Jiva. In this manner, the distinction between Vishnu and the Jiva is demonstrated. Thus is it conclusively proved that Vishnu alone is the Supreme One.",
    "parts": [
     {
      "role": "mula",
@@ -1485,7 +1485,7 @@
     {
      "role": "bhashya",
      "sanskrit": "“अन्तःकरणकामानां त्यागो व्यक्तिश्चिदात्मनाम्।\nकामानां तु तदा मुक्तौ मृतिं\nनैवाभियास्यति।\nमिथ्याज्ञानग्रन्थिभिस्तु नितरां मुच्यते यदा।\nतदाऽमृतत्वमेवैति तदर्थं चानुशासनम्॥ *॥\nशरीरभूतो विष्णोस्तु जीवस्तद्वशगो यतः।\nअधिष्ठितश्च तेनैव विजानीयात् पृथक् ततः।\nस्वाख्याच्छरीराज्जीवात् तु प्रवृहेद् विष्णुमव्ययम्॥”\nइति च।\n“यस्यात्मा शरीरम्, य आत्मानमन्तरो यमयति” इति च।\nजनानां हृदये इत्युक्तत्वाच्च जीवात् पृथग्घरिरिति सिद्धम्॥\n“देहाङ्गुष्ठमितो देहे जीवाङ्गुष्ठमितो हृदि।\nजीवस्य स तु विज्ञेयो जीवाद् भेदेन मुक्तये॥”\nइति च।\nसंसारिशरीरेणाभेदो वादिना केनापि नाङ्गीकृतः। नच लोकसिद्धः। जनानामिति भेदात्। न जीवोऽङ्गुष्ठमात्रः। अतो विष्णोर्जीवाद् भेद उक्तः। अतः सर्वोत्तमो विष्णुरिति सिद्धम्॥",
-     "english": "The desires residing within the self are renounced; the liberated one becomes released from all desires. When one is released from the shackles of erroneous Knowledge, then one attains immortality. For that purpose alone are the injunctions. The one who dwells within the heart is Vishnu, under whose control Jivas exist. One should experience, knowing the immutable Vishnu gradually as distinct from one‟s body flowing as a stream. By declaring „The Self whose body is this‟, „He who restrains the self abiding internally‟ „in the hearts of people‟ the premise that Hari is distinct from Jiva is conclusively established. In life no wise one would accept that Jiva is identical with Lord. The statement „janaanaama\\ )dyao saMinnaivaYT:‟, demonstrates that the identity of Jiva is distinct from that of the Lord. Therefore, the words „AMgauYzamaa~:‟ should rightfully be applied to the Lord and not to Jiva. In this manner, the distinction between Vishnu and the Jiva is demonstrated. Thus is it conclusively proved that Vishnu alone is the Supreme One. 69"
+     "english": "The desires residing within the self are renounced; the liberated one becomes released from all desires. When one is released from the shackles of erroneous Knowledge, then one attains immortality. For that purpose alone are the injunctions. The one who dwells within the heart is Vishnu, under whose control Jivas exist. One should experience, knowing the immutable Vishnu gradually as distinct from one‟s body flowing as a stream. By declaring „The Self whose body is this‟, „He who restrains the self abiding internally‟ „in the hearts of people‟ the premise that Hari is distinct from Jiva is conclusively established. In life no wise one would accept that Jiva is identical with Lord. The statement „janaanaama\\ )dyao saMinnaivaYT:‟, demonstrates that the identity of Jiva is distinct from that of the Lord. Therefore, the words „AMgauYzamaa~:‟ should rightfully be applied to the Lord and not to Jiva. In this manner, the distinction between Vishnu and the Jiva is demonstrated. Thus is it conclusively proved that Vishnu alone is the Supreme One."
     }
    ]
   },
@@ -1556,5 +1556,5 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit from Setutila/Sarvamula JSON/kathaka_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. Joins rejected because the wisdomlib translation number differs from the ref: [('1/2/14', '11')]. English from wisdomlib matched by ref: 115 of 129 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [5 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 1/1/18, 1/2/9, 1/2/17, 2/1/3, 2/1/5] [17 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 1/1/4, 1/1/14, 1/2/8, 1/3/1, 1/3/2, 1/3/11, 2/1/10, 2/1/11, 2/2/2, 2/2/8, 2/2/10, 2/2/11, 2/3/1, 2/3/2, 2/3/6, 2/3/12, 2/3/14] English for 74 units is now Nagesh D. Sonde's translation (his Sanskrit decoded with tools/shivaji_to_unicode.py and matched to the units by trigram coverage); 0 of them had no English before. Units where Sonde's quotes cover under 55% of the bhashya Sanskrit keep the wisdomlib English."
+ "notes": "Sanskrit from Setutila/Sarvamula JSON/kathaka_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. Joins rejected because the wisdomlib translation number differs from the ref: [('1/2/14', '11')]. English from wisdomlib matched by ref: 115 of 129 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [5 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 1/1/18, 1/2/9, 1/2/17, 2/1/3, 2/1/5] [17 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 1/1/4, 1/1/14, 1/2/8, 1/3/1, 1/3/2, 1/3/11, 2/1/10, 2/1/11, 2/2/2, 2/2/8, 2/2/10, 2/2/11, 2/3/1, 2/3/2, 2/3/6, 2/3/12, 2/3/14] English for 74 units is now Nagesh D. Sonde's translation (his Sanskrit decoded with tools/shivaji_to_unicode.py and matched to the units by trigram coverage); 0 of them had no English before. Units where Sonde's quotes cover under 55% of the bhashya Sanskrit keep the wisdomlib English. After audit: wisdomlib notes, verse numbers and footnote numbers were stripped from the english, and legacy-font fragments in parentheses were removed. 1/1/18 and 1/2/9 are verse units whose english still carries some commentary."
 }
