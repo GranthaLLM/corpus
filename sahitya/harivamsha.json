@@ -21790,67 +21790,17 @@
    "english": "They oppose the chanting of thy name and destroy thy votaries."
   },
   {
-   "ref": "3141",
+   "ref": "3141-3149",
    "kind": "verse",
    "scope": "text",
-   "sanskrit": "तव प्रसादात् तेषां वै दानवानां क्षयो भवेत् ॥",
-   "english": "By thy favour only they will meet with destruction."
-  },
-  {
-   "ref": "3142",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "तव ते दिवि बिभ्यन्ति त्वत्तो बिभ्यन्ति सागरे ।",
-   "english": "In heaven they are afraid of thee, in ocean they are afraid of thee and even on earth they afraid of thee."
-  },
-  {
-   "ref": "3143",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "पृथिव्यां बिभ्यति त्वत्तो नान्यस्य तु कथंचन ॥",
-   "english": "There is no other source of fear to them."
-  },
-  {
-   "ref": "3144",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "दुर्वृत्तस्य हतस्यापि त्वया नान्येन श्रीधर ।",
-   "english": "Sridhar, thou dost slay the wicked Dānavas; none else can accomplish their destruction."
-  },
-  {
-   "ref": "3145",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "दिवश् च्युतस्य दैत्यस्य गतिर् भवति मेदिनी ॥",
-   "english": "The Daityas, who are sent away from heaven, find refuge on earth."
-  },
-  {
-   "ref": "3146",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "व्युत्थितस्य तु मेदिन्यां हतस्य नृशरीरिणः । दुर्लभं स्वर्गगमनं त्वयि जाग्रति केशव ॥",
-   "english": "Keshava, thou being awake, it is difficult for that demon to go again to heaven, who, on his being slain in the celestial region, again rises up assuming a human body."
-  },
-  {
-   "ref": "3147",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "तद् आगच्छ स्वयं विष्णो गच्छाव पृथिवीतलम् ।",
-   "english": "Therefore, Nārāyana, do thou come to the world. We are also descending on earth."
-  },
-  {
-   "ref": "3148",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "दानवानां विनाशाय विसृजात्मानम् आत्मना ॥",
-   "english": "Do thou create your own self for the destruction of Dānavas."
-  },
-  {
-   "ref": "3149",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "मूर्तयो हि तवाव्यक्ता दृश्यादृश्याः सुरोत्तमैः ।",
-   "english": "The forms of thine, which are not manifest, are both visible and invisible to the celestials."
+   "sanskrit": "तव प्रसादात् तेषां वै दानवानां क्षयो भवेत् ॥\nतव ते दिवि बिभ्यन्ति त्वत्तो बिभ्यन्ति सागरे ।\nपृथिव्यां बिभ्यति त्वत्तो नान्यस्य तु कथंचन ॥\nदुर्वृत्तस्य हतस्यापि त्वया नान्येन श्रीधर ।\nदिवश् च्युतस्य दैत्यस्य गतिर् भवति मेदिनी ॥\nव्युत्थितस्य तु मेदिन्यां हतस्य नृशरीरिणः । दुर्लभं स्वर्गगमनं त्वयि जाग्रति केशव ॥\nतद् आगच्छ स्वयं विष्णो गच्छाव पृथिवीतलम् ।\nदानवानां विनाशाय विसृजात्मानम् आत्मना ॥\nमूर्तयो हि तवाव्यक्ता दृश्यादृश्याः सुरोत्तमैः ।",
+   "english": "By thy favour only they will meet with destruction. In heaven they are afraid of thee, in ocean they are afraid of thee and even on earth they afraid of thee. There is no other source of fear to them. Sridhar, thou dost slay the wicked Dānavas; none else can accomplish their destruction. The Daityas, who are sent away from heaven, find refuge on earth. Keshava, thou being awake, it is difficult for that demon to go again to heaven, who, on his being slain in the celestial region, again rises up assuming a human body. Therefore, Nārāyana, do thou come to the world. We are also descending on earth. Do thou create your own self for the destruction of Dānavas. The forms of thine, which are not manifest, are both visible and invisible to the celestials.",
+   "meta": {
+    "merged_rows": [
+     "3141",
+     "3149"
+    ]
+   }
   },
   {
    "ref": "3150",
@@ -28258,74 +28208,17 @@
    "english": "His body was like extinguished ember and cloud, his horns were sharpened, his eyes were effulgent like the sun, his feet were endued with sharpened hoops and his hump was extremely hard."
   },
   {
-   "ref": "4077",
+   "ref": "4077-4086",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "लेलिहानः सनिष्पेषं जिह्वयौष्ठौ पुनः पुनः ।",
-   "english": "He was repeatedly licking his lips with his tongue and moving his tail with pride."
-  },
-  {
-   "ref": "4078",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "गर्विताविद्धलाङ्गूलः कठिनस्कन्धबन्धनः ॥ ककुदोदग्रनिर्माणः प्रमाणाद् दुरतिक्रमः । शकृन्मूत्रोपलिप्ताङ्गो गवाम् उद्वेजनो भृशम् ॥ महाकटिः स्थूलमुखो दृढजानुर् महोदरः ।",
-   "english": "And for breaking down many palaces with his hump it became exceedingly hardened. Incapable of being repulsed on account of his own huge body, with his body covered with excreta and urine, that Dānava, of huge waist, fleshy mouth, hard knees and long abdomen, terrified all the cows with his skin hanging from his neck and horns -."
-  },
-  {
-   "ref": "4079",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "गवारोहेषु चपलस् तरुघातङ्किताननः । युद्धसञ्जविषाणाग्रो द्विषद्वृषभसूदनः ॥",
-   "english": "That Daitya Aristha, of huge body, the slayer of inimical bulls and the injurer of the cows, assuming the form of a bull, was running about in the cow-sheds and pasture grounds."
-  },
-  {
-   "ref": "4080",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "दैत्यो वृषभरूपेण गोष्ठान् विपरिधावति ॥",
-   "english": "His face was marked with strokes against the trees and his horns were adorned as if for a fight -."
-  },
-  {
-   "ref": "4081",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "पातयानो गवां गर्भान् दृप्तो गच्छत्य् अनार्तवम् । भजमानश् च चपलो गृष्टीः संप्रचचार ह ॥",
-   "english": "He used to approach the kine, when big with their young ones and cause abortion and used to know them immediately after their delivery."
-  },
-  {
-   "ref": "4082",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "एतस्मिन्न् एव काले तु गवाः कृष्णसमीपगाः । त्रासयामास दुष्टात्मा वैवस्वत पथे स्थितः ॥ सेन्द्राशनिर् इवाम्भोदो नर्दमानो महावृषः ।",
-   "english": "Without fighting with the bulls and cows that irrepressible, and dreadful Daitya, always intent on striking them with his horns, could not derive pleasure in pasture grounds. Accidentally on that day, the proud bull, under the influence of Vaivaswān the regent of the departed, came before Keshava."
-  },
-  {
-   "ref": "4083",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "चकार निर्वृषं गोष्ठं निर्वत्सशिशुपुंगवम् ॥",
-   "english": "Divesting the cow-sheds of bulls, calves and young bulls that one, elated with proud, used to assail the kine."
-  },
-  {
-   "ref": "4084",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "तम् आराद् अभिधावन्तं नर्दमानं महावृषम् । तालशब्देन तं कृष्णः सिंहनादैश् च मोहयन् । अभ्यधावत गोविन्दो दैत्यं वृषभरूपिणम् ॥",
-   "english": "At that time, that one of wicked soul, under influence of Vaivaswān, terrified the cows that were near Krishna roaring like a cloud accompanied by Indra's thunderbolt. Thereat striking his palms and setting up a leonine shout Govinda ran after him, increasing the anger of the demon in the shape of a bull."
-  },
-  {
-   "ref": "4085",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "स कृष्णं गोवृषो दृष्ट्वा हृष्टलाङ्गूललोचनः । रुषितस् तलशब्देन युद्धाकाङ्क्षी ननर्द ह ॥",
-   "english": "Beholding Krishna and enraged with the sound of the strokes of his palms against his arms, moving his tail and expanding his eyes in delight that bull issued out a shout expressing his desire for fight."
-  },
-  {
-   "ref": "4086",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "तम् आपतन्तम् उद्वृत्तम् दृष्ट्वा वृषभदानवम् । तस्मात् स्थानान् न व्यचलत् कृष्णो गिरिर् इवाचलः ॥",
-   "english": "Beholding that wicked demon of the form of a bull approach Krishna did not move out from where he stood and rather remain there firm like a mountain -."
+   "sanskrit": "लेलिहानः सनिष्पेषं जिह्वयौष्ठौ पुनः पुनः ।\nगर्विताविद्धलाङ्गूलः कठिनस्कन्धबन्धनः ॥ ककुदोदग्रनिर्माणः प्रमाणाद् दुरतिक्रमः । शकृन्मूत्रोपलिप्ताङ्गो गवाम् उद्वेजनो भृशम् ॥ महाकटिः स्थूलमुखो दृढजानुर् महोदरः ।\nगवारोहेषु चपलस् तरुघातङ्किताननः । युद्धसञ्जविषाणाग्रो द्विषद्वृषभसूदनः ॥\nदैत्यो वृषभरूपेण गोष्ठान् विपरिधावति ॥\nपातयानो गवां गर्भान् दृप्तो गच्छत्य् अनार्तवम् । भजमानश् च चपलो गृष्टीः संप्रचचार ह ॥\nएतस्मिन्न् एव काले तु गवाः कृष्णसमीपगाः । त्रासयामास दुष्टात्मा वैवस्वत पथे स्थितः ॥ सेन्द्राशनिर् इवाम्भोदो नर्दमानो महावृषः ।\nचकार निर्वृषं गोष्ठं निर्वत्सशिशुपुंगवम् ॥\nतम् आराद् अभिधावन्तं नर्दमानं महावृषम् । तालशब्देन तं कृष्णः सिंहनादैश् च मोहयन् । अभ्यधावत गोविन्दो दैत्यं वृषभरूपिणम् ॥\nस कृष्णं गोवृषो दृष्ट्वा हृष्टलाङ्गूललोचनः । रुषितस् तलशब्देन युद्धाकाङ्क्षी ननर्द ह ॥\nतम् आपतन्तम् उद्वृत्तम् दृष्ट्वा वृषभदानवम् । तस्मात् स्थानान् न व्यचलत् कृष्णो गिरिर् इवाचलः ॥",
+   "english": "He was repeatedly licking his lips with his tongue and moving his tail with pride. And for breaking down many palaces with his hump it became exceedingly hardened. Incapable of being repulsed on account of his own huge body, with his body covered with excreta and urine, that Dānava, of huge waist, fleshy mouth, hard knees and long abdomen, terrified all the cows with his skin hanging from his neck and horns -. That Daitya Aristha, of huge body, the slayer of inimical bulls and the injurer of the cows, assuming the form of a bull, was running about in the cow-sheds and pasture grounds. His face was marked with strokes against the trees and his horns were adorned as if for a fight -. He used to approach the kine, when big with their young ones and cause abortion and used to know them immediately after their delivery. Without fighting with the bulls and cows that irrepressible, and dreadful Daitya, always intent on striking them with his horns, could not derive pleasure in pasture grounds. Accidentally on that day, the proud bull, under the influence of Vaivaswān the regent of the departed, came before Keshava. Divesting the cow-sheds of bulls, calves and young bulls that one, elated with proud, used to assail the kine. At that time, that one of wicked soul, under influence of Vaivaswān, terrified the cows that were near Krishna roaring like a cloud accompanied by Indra's thunderbolt. Thereat striking his palms and setting up a leonine shout Govinda ran after him, increasing the anger of the demon in the shape of a bull. Beholding Krishna and enraged with the sound of the strokes of his palms against his arms, moving his tail and expanding his eyes in delight that bull issued out a shout expressing his desire for fight. Beholding that wicked demon of the form of a bull approach Krishna did not move out from where he stood and rather remain there firm like a mountain -.",
+   "meta": {
+    "merged_rows": [
+     "4077",
+     "4086"
+    ]
+   }
   },
   {
    "ref": "4087",
@@ -30911,67 +30804,17 @@
    "english": "It had a spacious courtyard and a number of pillars of the same size."
   },
   {
-   "ref": "4456",
+   "ref": "4456-4464",
    "kind": "verse",
    "scope": "text",
-   "sanskrit": "उदक्प्रवणसंश्लिष्टं मञ्चारोहणम् उत्तमम् ॥ नृपासनपरिक्षिप्तं संचारपथसंकुलम् ।",
-   "english": "It was bedecked on all sides with strong tusks of elephants and with spacious, high and royal seats. It had many passages, could carry the burden of many men and was filled with altars."
-  },
-  {
-   "ref": "4457",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "छन्नं तद् वेदिकाभिश् च मानवौघभरक्षमम् ॥ स दृष्ट्वा भूषितं रङ्गम् आज्ञापयत बुद्धिमान् ।",
-   "english": "Beholding this spacious well-built, and strong arena that intelligent best of kings issued the mandate tomorrow the bow sacrifice will take place."
-  },
-  {
-   "ref": "4458",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "पटास् तरणशोभाश् च बलयश् चानुरूपतः ॥ स्थाप्यन्तां सुनिखाताश् च महाकुम्भा यथाक्रमम् । उदभारसहाः सर्वे सकाञ्चनघटोत्तराः ॥",
-   "english": "Let the platforms, turrets and passages be embellished with garlands, flags and covers and be sweet-scented -. Let the enclosures be adorned with bells, covers and becoming edibles and place there profuse cow-dung. Let excellent golden jars full of water be placed in due order."
-  },
-  {
-   "ref": "4459",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "प्राश्निकाश् च निमन्त्र्यन्तां श्रेण्यश् च सपुरोगमाः ॥ आज्ञा च देया मल्लानां प्रेक्षकाणां तथैव च । समाजे मञ्चशोभाश् च कल्प्यन्तां सूपकल्पिताः ॥",
-   "english": "Let jars full of edibles and scents be placed and invite all those who are clever judges of warfare and the citizens. Issue my mandate to the wrestlers and visitors and let beautifully decked and enclosed platforms be set apart."
-  },
-  {
-   "ref": "4460",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "एवम् आज्ञाप्य राजा स समाजविधिम् उत्तमम् । समाजवाटान् निष्क्रम्य विवेश स्वं निवेशनम् ॥ आह्वानं तत्र संचक्रे तस्य मल्लद्वयस्य वै ।",
-   "english": "Issuing this command regarding the arrangement of the party Kansa left the arena for his own appartment. Having entered his own room Kansa sent for Chānura and Mushthika the two wrestlers of unequalled strength."
-  },
-  {
-   "ref": "4461",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "तौ तु मल्लौ महावीर्यौ बलिनौ युद्धशालिनौ । कंसस्याज्ञां पुरस्कृत्य हृष्टौ विविशतुस् तदा ॥",
-   "english": "Following Kansa's order those two highly powerful energetic and large armed wrestlers entered his room with a delighted heart."
-  },
-  {
-   "ref": "4462",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "तौ समीपगतौ मल्लौ दृष्ट्वा जगति विश्रुतौ । उवाच कंसो नृपतिः सोपन्यासम् इदं वचः ॥",
-   "english": "Beholding those two world-renowned wrestlers before him king Kansa addressed to them the following words pregnant with propriety."
-  },
-  {
-   "ref": "4463",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "भवन्तौ मम विख्यातौ मल्लौ वीरध्वजोचितौ ।",
-   "english": "You are both my heroic wrestlers well-known in the world."
-  },
-  {
-   "ref": "4464",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "पूजितौ च यथान्यायं सत्कारार्हौ विशेषतः ॥",
-   "english": "You are worthy particularly of good treatment and therefore always regard you."
+   "sanskrit": "उदक्प्रवणसंश्लिष्टं मञ्चारोहणम् उत्तमम् ॥ नृपासनपरिक्षिप्तं संचारपथसंकुलम् ।\nछन्नं तद् वेदिकाभिश् च मानवौघभरक्षमम् ॥ स दृष्ट्वा भूषितं रङ्गम् आज्ञापयत बुद्धिमान् ।\nपटास् तरणशोभाश् च बलयश् चानुरूपतः ॥ स्थाप्यन्तां सुनिखाताश् च महाकुम्भा यथाक्रमम् । उदभारसहाः सर्वे सकाञ्चनघटोत्तराः ॥\nप्राश्निकाश् च निमन्त्र्यन्तां श्रेण्यश् च सपुरोगमाः ॥ आज्ञा च देया मल्लानां प्रेक्षकाणां तथैव च । समाजे मञ्चशोभाश् च कल्प्यन्तां सूपकल्पिताः ॥\nएवम् आज्ञाप्य राजा स समाजविधिम् उत्तमम् । समाजवाटान् निष्क्रम्य विवेश स्वं निवेशनम् ॥ आह्वानं तत्र संचक्रे तस्य मल्लद्वयस्य वै ।\nतौ तु मल्लौ महावीर्यौ बलिनौ युद्धशालिनौ । कंसस्याज्ञां पुरस्कृत्य हृष्टौ विविशतुस् तदा ॥\nतौ समीपगतौ मल्लौ दृष्ट्वा जगति विश्रुतौ । उवाच कंसो नृपतिः सोपन्यासम् इदं वचः ॥\nभवन्तौ मम विख्यातौ मल्लौ वीरध्वजोचितौ ।\nपूजितौ च यथान्यायं सत्कारार्हौ विशेषतः ॥",
+   "english": "It was bedecked on all sides with strong tusks of elephants and with spacious, high and royal seats. It had many passages, could carry the burden of many men and was filled with altars. Beholding this spacious well-built, and strong arena that intelligent best of kings issued the mandate tomorrow the bow sacrifice will take place. Let the platforms, turrets and passages be embellished with garlands, flags and covers and be sweet-scented -. Let the enclosures be adorned with bells, covers and becoming edibles and place there profuse cow-dung. Let excellent golden jars full of water be placed in due order. Let jars full of edibles and scents be placed and invite all those who are clever judges of warfare and the citizens. Issue my mandate to the wrestlers and visitors and let beautifully decked and enclosed platforms be set apart. Issuing this command regarding the arrangement of the party Kansa left the arena for his own appartment. Having entered his own room Kansa sent for Chānura and Mushthika the two wrestlers of unequalled strength. Following Kansa's order those two highly powerful energetic and large armed wrestlers entered his room with a delighted heart. Beholding those two world-renowned wrestlers before him king Kansa addressed to them the following words pregnant with propriety. You are both my heroic wrestlers well-known in the world. You are worthy particularly of good treatment and therefore always regard you.",
+   "meta": {
+    "merged_rows": [
+     "4456",
+     "4464"
+    ]
+   }
   },
   {
    "ref": "4465",
@@ -34278,67 +34121,17 @@
    "english": "Thereupon witnessing Jarāsandha's efficiency in club-fighting the powerful Rama left off his club in anger and took up his mace."
   },
   {
-   "ref": "4939",
+   "ref": "4939-4947",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "तम् उद्यतं तदा दृष्ट्वा मुसलं घोरदर्शनम् । अमोघं बलदेवेन क्रुद्धेन तु महारणे ।",
-   "english": "When in that great battle Baladeva, in anger, took up the terrible-looking mace of sure aim there was heard in the sky a sweet voice of the witness of the world which said to Baladeva the holder of plough-share –."
-  },
-  {
-   "ref": "4940",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "क्रुद्धो ऽथ रामभद्रस् तु गदया तं जगाम ह ।",
-   "english": "Rāma, thou the conferrer of honors, this king of Magadha is not to be slain by thee."
-  },
-  {
-   "ref": "4941",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "जरासंधो ऽथ गदया बलभद्रं समाहनत् ॥",
-   "english": "Jarasandha shall, in no time, meet with his death from the means that have laid out for his destruction."
-  },
-  {
-   "ref": "4942",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "ततः क्रुद्धो जरापुत्रस् ताडयाम् आस वक्षसि ।",
-   "english": "Hearing this voice of Providence Jarāsandha lost heart and Baladeva did not strike him therefore."
-  },
-  {
-   "ref": "4943",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "समादीप्तौ तु राजेन्द्र विरथौ विधनुर्धरौ ॥ गदाहतौ महावीरौ केवलौ युद्धरङ्गिनौ ।",
-   "english": "Emperor, while they thus desisted from fighting there took place a highly terrible encounter extending over a long time between the Yadavas and other kings in which they struck one."
-  },
-  {
-   "ref": "4944",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "शुशुभाते गदाहस्तौ परस्परवधैषिणौ ॥",
-   "english": "another fiercely."
-  },
-  {
-   "ref": "4945",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "द्वाव् एव मृत्यू राजेन्द्र संगताव् इव शोभितौ ॥ ततः क्रुद्धो हलधरश् छेत्तुम् ऐच्छज् जरासुतम् ।",
-   "english": "When the Emperor Jarāsandha was thus defeated and took to his heels and when the sun set the highly powerful Yadavas, protected by Krishna, who had gained their aim, did not pursue him in night."
-  },
-  {
-   "ref": "4946",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "ऊरू च पोथयाम् आस गदया राजसंसदि ॥ ऊर्वो रक्तं समापेदे मज्जा समभवत् ततः । ततो हली जरासंधं शिरश् छेत्तुम् उदैक्षत ।",
-   "english": "And gathering their respective soldiers according to the will of Mādhava they entered into their own city. And all the weapons that came down from the welkin also disappeared -. And filled with absent-mindedness, king Jarāsandha too returned to his own city."
-  },
-  {
-   "ref": "4947",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "ततो ऽन्तरिक्षे वाग् आसीत् सुस्वरा लोकसाक्षिणी ।",
-   "english": "And the kings, who followed him, returned to their respective kingdoms."
+   "sanskrit": "तम् उद्यतं तदा दृष्ट्वा मुसलं घोरदर्शनम् । अमोघं बलदेवेन क्रुद्धेन तु महारणे ।\nक्रुद्धो ऽथ रामभद्रस् तु गदया तं जगाम ह ।\nजरासंधो ऽथ गदया बलभद्रं समाहनत् ॥\nततः क्रुद्धो जरापुत्रस् ताडयाम् आस वक्षसि ।\nसमादीप्तौ तु राजेन्द्र विरथौ विधनुर्धरौ ॥ गदाहतौ महावीरौ केवलौ युद्धरङ्गिनौ ।\nशुशुभाते गदाहस्तौ परस्परवधैषिणौ ॥\nद्वाव् एव मृत्यू राजेन्द्र संगताव् इव शोभितौ ॥ ततः क्रुद्धो हलधरश् छेत्तुम् ऐच्छज् जरासुतम् ।\nऊरू च पोथयाम् आस गदया राजसंसदि ॥ ऊर्वो रक्तं समापेदे मज्जा समभवत् ततः । ततो हली जरासंधं शिरश् छेत्तुम् उदैक्षत ।\nततो ऽन्तरिक्षे वाग् आसीत् सुस्वरा लोकसाक्षिणी ।",
+   "english": "When in that great battle Baladeva, in anger, took up the terrible-looking mace of sure aim there was heard in the sky a sweet voice of the witness of the world which said to Baladeva the holder of plough-share –. Rāma, thou the conferrer of honors, this king of Magadha is not to be slain by thee. Jarasandha shall, in no time, meet with his death from the means that have laid out for his destruction. Hearing this voice of Providence Jarāsandha lost heart and Baladeva did not strike him therefore. Emperor, while they thus desisted from fighting there took place a highly terrible encounter extending over a long time between the Yadavas and other kings in which they struck one. another fiercely. When the Emperor Jarāsandha was thus defeated and took to his heels and when the sun set the highly powerful Yadavas, protected by Krishna, who had gained their aim, did not pursue him in night. And gathering their respective soldiers according to the will of Mādhava they entered into their own city. And all the weapons that came down from the welkin also disappeared -. And filled with absent-mindedness, king Jarāsandha too returned to his own city. And the kings, who followed him, returned to their respective kingdoms.",
+   "meta": {
+    "merged_rows": [
+     "4939",
+     "4947"
+    ]
+   }
   },
   {
    "ref": "4948",
@@ -35062,74 +34855,17 @@
    "english": "And having been born in the house of Bhishmaka in the city of Kundina, be thou united with Keshava –."
   },
   {
-   "ref": "5072",
+   "ref": "5072-5081",
    "kind": "verse",
    "scope": "text",
-   "sanskrit": "एषाम् अपीह वसतां संमर्दम् उपलक्षये ॥",
-   "english": "tell you this plainly, king; do what ever you think proper after due consideration."
-  },
-  {
-   "ref": "5073",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "तन् मे न रोचते ह्य् अत्र निवासो यदुपुंगवाः ।",
-   "english": "She should not be given away in a Swayamvara where all the kings will be assembled."
-  },
-  {
-   "ref": "5074",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "पुरीं निवेशयिष्यामि मम तत् क्षन्तुम् अर्हथ ॥",
-   "english": "Selecting a good bridegroom, you should give her away according to proper religious rites."
-  },
-  {
-   "ref": "5075",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "एतद् यद्य् अनुकूलं वो ममाभिप्रायजं वचः ।",
-   "english": "Your saying before me Forgive me is considered by me as proper."
-  },
-  {
-   "ref": "5076",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "भवाय भवतां काले रोचतां यदुसंसदि ॥",
-   "english": "How can sin, king, be attached to you who are moral, truthful and born in a family possessing the quality of goodness."
-  },
-  {
-   "ref": "5077",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "तम् ऊचुर् यादवाः सर्वे हृष्टेन मनसा तदा ।",
-   "english": "Know me conciliated particularly as have come with my army, for with them never confront my enemies."
-  },
-  {
-   "ref": "5078",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "साध्यतां यद् अभिप्रेतं जनस्यास्य भवाय च ॥",
-   "english": "Behaving with me, as a father treats his son, govern your kingdom well."
-  },
-  {
-   "ref": "5079",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "ततः संमन्त्रयाम् आसुर् वृष्णयो मन्त्रम् उत्तमम् ।",
-   "english": "After the lotus-eyed Krishna, the younger brother of Vāsava, on taking leave, had departed all the kings followed him."
-  },
-  {
-   "ref": "5080",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "अवध्यो ऽसौकृतो ऽस्माकं सुमहच्च रिपोर् बलम् ॥ कृतः सैन्यक्षयश् चापि महान् इह नराधिपैः ।",
-   "english": "He, the very incarnation of glory, the foremost of the illustrious, the partaker of fame and powerful, has established great fame and the might of his arms in this land of mortals."
-  },
-  {
-   "ref": "5081",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "बलानि च ससैन्यानि हन्तुं वर्षशतैर् अपि ।",
-   "english": "The Kshatriyas meet either with success or defeat in battle."
+   "sanskrit": "एषाम् अपीह वसतां संमर्दम् उपलक्षये ॥\nतन् मे न रोचते ह्य् अत्र निवासो यदुपुंगवाः ।\nपुरीं निवेशयिष्यामि मम तत् क्षन्तुम् अर्हथ ॥\nएतद् यद्य् अनुकूलं वो ममाभिप्रायजं वचः ।\nभवाय भवतां काले रोचतां यदुसंसदि ॥\nतम् ऊचुर् यादवाः सर्वे हृष्टेन मनसा तदा ।\nसाध्यतां यद् अभिप्रेतं जनस्यास्य भवाय च ॥\nततः संमन्त्रयाम् आसुर् वृष्णयो मन्त्रम् उत्तमम् ।\nअवध्यो ऽसौकृतो ऽस्माकं सुमहच्च रिपोर् बलम् ॥ कृतः सैन्यक्षयश् चापि महान् इह नराधिपैः ।\nबलानि च ससैन्यानि हन्तुं वर्षशतैर् अपि ।",
+   "english": "tell you this plainly, king; do what ever you think proper after due consideration. She should not be given away in a Swayamvara where all the kings will be assembled. Selecting a good bridegroom, you should give her away according to proper religious rites. Your saying before me Forgive me is considered by me as proper. How can sin, king, be attached to you who are moral, truthful and born in a family possessing the quality of goodness. Know me conciliated particularly as have come with my army, for with them never confront my enemies. Behaving with me, as a father treats his son, govern your kingdom well. After the lotus-eyed Krishna, the younger brother of Vāsava, on taking leave, had departed all the kings followed him. He, the very incarnation of glory, the foremost of the illustrious, the partaker of fame and powerful, has established great fame and the might of his arms in this land of mortals. The Kshatriyas meet either with success or defeat in battle.",
+   "meta": {
+    "merged_rows": [
+     "5072",
+     "5081"
+    ]
+   }
   },
   {
    "ref": "5082",
@@ -35209,88 +34945,17 @@
    "english": "If you go to the city of Mathurā you will be able to defeat them in battle."
   },
   {
-   "ref": "5093",
+   "ref": "5093-5104",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "स्यन्दनैः काञ्चनापीडैर् मत्तैश् च वरवारणैः ।",
-   "english": "Vaishampayana said:—After the king Shalya, as directed by the Emperor Jarāsandha had said this Kālayavana, the king of Yavanas, with great delight said."
-  },
-  {
-   "ref": "5094",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "सृतप्लुतैश् च तुरगैः कशापार्ष्णिप्रचोदितैः ॥",
-   "english": "The kings have appointed me in the work of subduing Krishna who is invincible in the three worlds, even unto gods and Asuras."
-  },
-  {
-   "ref": "5095",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "स्वानि स्वानि बलाग्राणि शोभयन्तः प्रकर्षिणः ।",
-   "english": "And they have blessed me so that will achieve victory."
-  },
-  {
-   "ref": "5096",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "प्रत्यङ्मुखा ययुर् हृष्टा वृष्णयो भरतर्षभ ॥",
-   "english": "Vaishampāyana said:— king, listen to the work, difficult of being done by men, which the highly effulgent son of Vinatā performed after his departure from the city of Bidarbha."
-  },
-  {
-   "ref": "5097",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "ततो मुख्यतमाः सर्वे यादवा रणशोभिनः ।",
-   "english": "The Rākshasas have abandoned the charming city of Kushasthali."
-  },
-  {
-   "ref": "5098",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "अनीकाग्राणि कर्षन्तो वासुदेवपुरोगमाः ॥",
-   "english": "It abounds in trees decorated with filaments of flowers, in groves and creepers."
-  },
-  {
-   "ref": "5099",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "ते स्म नानालताचित्रं नारिकेलवनायुतम् ।",
-   "english": "shall perfectly examine that place and see if it is worthy of thy habitation."
-  },
-  {
-   "ref": "5100",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "कीर्णं नागवनैः कान्तैः केतकीषण्डमण्डितम् ॥ पुंनागतालीबहुलं द्राक्षावनघनं क्वचित् ।",
-   "english": "The two sides of the gate of Vasudeva's house were decorated with flags, pennons and garlands. He also decorated with flags Kansa’s assembly hall Suprabhā adorned with various sheets of cloth -."
-  },
-  {
-   "ref": "5101",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "सुसंनद्धैर् बलैस् तत्र तदा नृपवरोत्तमाः ।",
-   "english": "king, in the meantime the great sound of the conch-shell Pānchajanya was heard."
-  },
-  {
-   "ref": "5102",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "अनूपं सिन्धुराजस्य प्रपेदुर् यदुपुंगवाः ॥",
-   "english": "Ugrasena himself carried arghya and water for washing feet for Krishna –."
-  },
-  {
-   "ref": "5103",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "ते तत्र रमणीयेषु विषयेषु सखप्रियाः ।",
-   "english": "therefore wish to chant his glories properly."
-  },
-  {
-   "ref": "5104",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "मुमुदुर् यादवाः सर्वे देवाः स्वर्गगता इव ॥",
-   "english": "The king of gods, the holder of thunder-bolt sent, for Ananta and Shouri, celestial ornaments and raiments."
+   "sanskrit": "स्यन्दनैः काञ्चनापीडैर् मत्तैश् च वरवारणैः ।\nसृतप्लुतैश् च तुरगैः कशापार्ष्णिप्रचोदितैः ॥\nस्वानि स्वानि बलाग्राणि शोभयन्तः प्रकर्षिणः ।\nप्रत्यङ्मुखा ययुर् हृष्टा वृष्णयो भरतर्षभ ॥\nततो मुख्यतमाः सर्वे यादवा रणशोभिनः ।\nअनीकाग्राणि कर्षन्तो वासुदेवपुरोगमाः ॥\nते स्म नानालताचित्रं नारिकेलवनायुतम् ।\nकीर्णं नागवनैः कान्तैः केतकीषण्डमण्डितम् ॥ पुंनागतालीबहुलं द्राक्षावनघनं क्वचित् ।\nसुसंनद्धैर् बलैस् तत्र तदा नृपवरोत्तमाः ।\nअनूपं सिन्धुराजस्य प्रपेदुर् यदुपुंगवाः ॥\nते तत्र रमणीयेषु विषयेषु सखप्रियाः ।\nमुमुदुर् यादवाः सर्वे देवाः स्वर्गगता इव ॥",
+   "english": "Vaishampayana said:—After the king Shalya, as directed by the Emperor Jarāsandha had said this Kālayavana, the king of Yavanas, with great delight said. The kings have appointed me in the work of subduing Krishna who is invincible in the three worlds, even unto gods and Asuras. And they have blessed me so that will achieve victory. Vaishampāyana said:— king, listen to the work, difficult of being done by men, which the highly effulgent son of Vinatā performed after his departure from the city of Bidarbha. The Rākshasas have abandoned the charming city of Kushasthali. It abounds in trees decorated with filaments of flowers, in groves and creepers. shall perfectly examine that place and see if it is worthy of thy habitation. The two sides of the gate of Vasudeva's house were decorated with flags, pennons and garlands. He also decorated with flags Kansa’s assembly hall Suprabhā adorned with various sheets of cloth -. king, in the meantime the great sound of the conch-shell Pānchajanya was heard. Ugrasena himself carried arghya and water for washing feet for Krishna –. therefore wish to chant his glories properly. The king of gods, the holder of thunder-bolt sent, for Ananta and Shouri, celestial ornaments and raiments.",
+   "meta": {
+    "merged_rows": [
+     "5093",
+     "5104"
+    ]
+   }
   },
   {
    "ref": "5105",
@@ -38961,67 +38626,17 @@
    "english": "Sakra said:— Krishna, thou art the Lord Creator of the universe and have been placed by thee in my kingdom."
   },
   {
-   "ref": "5637",
+   "ref": "5637-5645",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "सो ऽपश्यद् वृक्षषण्डांश् च रम्यान् दृष्टिमनोहरान् ।",
-   "english": "Though living at a distance people of that city listened to various sweet songs and music proceeding from that tree."
-  },
-  {
-   "ref": "5638",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "द्वारकां प्रति दाशार्हश् चित्रितां विश्वकर्मणा ॥",
-   "english": "This means of release has been laid down by the god Siva having a bull for his emblem —."
-  },
-  {
-   "ref": "5639",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "पद्मषण्डाकुलाभिश् च हंससेवितवारिभिः ।",
-   "english": "you of pure smiles, sheets and kine or gold are the most becoming presents in it."
-  },
-  {
-   "ref": "5640",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "गङ्गासिन्धुप्रकाशाभिः परिखाभिर् वृतां पुरीम् ॥",
-   "english": "And undoubtedly she rules over the other wives of her husband –."
-  },
-  {
-   "ref": "5641",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "प्राकारेणार्कवर्णेन शातकौम्भेन राजता । चयमूर्ध्नि निविष्टेन द्यां यथैवाभ्रमालया ॥",
-   "english": "you of pure smiles, the woman, who desires to have a beautiful forehead, must spend the first days of the fort-nights, taking her meals once a day."
-  },
-  {
-   "ref": "5642",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "काननैर् नन्दनप्रख्यैस् तथा चैत्ररथोपमैः ।",
-   "english": "By such a gift a woman acquires a countenance beautiful like the full-moon –."
-  },
-  {
-   "ref": "5643",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "बभौ चारुपरिक्षिप्ता द्वारका द्यौर् इवाम्बुभिः ॥",
-   "english": "beautiful lady, afterwards, keeping two lotuses in a reverse position and mixing them with red articles she should give them away to a Brāhmana –."
-  },
-  {
-   "ref": "5644",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "भाति रैवतकः शैलो रम्यसानुगुहाजिरः ।",
-   "english": "The widow, who does not disobey her husband, goes to his region like Shāndili and shines there like the sun –."
-  },
-  {
-   "ref": "5645",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "पूर्वस्यां दिशि लक्ष्मीवान् मणिकाञ्चनतोरणः ॥",
-   "english": "According to the regulations mentioned before, Aditi, ever observant of religious rites, performed the Umā Vrata."
+   "sanskrit": "सो ऽपश्यद् वृक्षषण्डांश् च रम्यान् दृष्टिमनोहरान् ।\nद्वारकां प्रति दाशार्हश् चित्रितां विश्वकर्मणा ॥\nपद्मषण्डाकुलाभिश् च हंससेवितवारिभिः ।\nगङ्गासिन्धुप्रकाशाभिः परिखाभिर् वृतां पुरीम् ॥\nप्राकारेणार्कवर्णेन शातकौम्भेन राजता । चयमूर्ध्नि निविष्टेन द्यां यथैवाभ्रमालया ॥\nकाननैर् नन्दनप्रख्यैस् तथा चैत्ररथोपमैः ।\nबभौ चारुपरिक्षिप्ता द्वारका द्यौर् इवाम्बुभिः ॥\nभाति रैवतकः शैलो रम्यसानुगुहाजिरः ।\nपूर्वस्यां दिशि लक्ष्मीवान् मणिकाञ्चनतोरणः ॥",
+   "english": "Though living at a distance people of that city listened to various sweet songs and music proceeding from that tree. This means of release has been laid down by the god Siva having a bull for his emblem —. you of pure smiles, sheets and kine or gold are the most becoming presents in it. And undoubtedly she rules over the other wives of her husband –. you of pure smiles, the woman, who desires to have a beautiful forehead, must spend the first days of the fort-nights, taking her meals once a day. By such a gift a woman acquires a countenance beautiful like the full-moon –. beautiful lady, afterwards, keeping two lotuses in a reverse position and mixing them with red articles she should give them away to a Brāhmana –. The widow, who does not disobey her husband, goes to his region like Shāndili and shines there like the sun –. According to the regulations mentioned before, Aditi, ever observant of religious rites, performed the Umā Vrata.",
+   "meta": {
+    "merged_rows": [
+     "5637",
+     "5645"
+    ]
+   }
   },
   {
    "ref": "5646",
@@ -46129,116 +45744,17 @@
    "english": "Shonitpura, where Aniruddha is now residing, is eleven thousand yojanas distant from this place."
   },
   {
-   "ref": "6676",
+   "ref": "6676-6691",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "दृष्टम् एतन् मया विष्णो प्राद्युम्नेर् युद्धम् ईदृशम् । व्यादिष्टस् तु वधस् तस्य बाणेन गरुडध्वज । तं निवारितवान् मन्त्री कुम्भाण्डो नाम तस्य ह ।",
-   "english": "The highly powerful son of Vinata is fleet like the mind; he will point out Vāna within a moment. Govinda, therefore send for him; he will take you there -. Vaishampāyana said:—Hearing the words of Nārada Govinda thought of Garuda in his mind: and he too, with folded hands, arrived before Krishna."
-  },
-  {
-   "ref": "6677",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "कुमारस्यानिरुद्धस्य तेनाशक्तेन संयुगे ।",
-   "english": "May that lady, by your favour, be united with her son."
-  },
-  {
-   "ref": "6678",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "बाणेन मायाम् आस्थाय सर्पैर् नियमनं कृतम् । उत्तिष्ठतु भवाञ् शीघ्रं यशसे विजयाय च ।",
-   "english": "hero, you of great arms, slayer of snakes, formerly united with me you stole away ambrosia. You are my carrier and all the Vrishnis are your votaries."
-  },
-  {
-   "ref": "6679",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "नायं संरक्षितुं कालः प्राणांस् तात जयैषिणाम् ॥ प्राणैः किंचिद् गतैर् वीरो धैर्यम् आलम्ब्य तिष्ठति ।",
-   "english": "Preserve the request of love and devotion to-day. By my good works swear, there is none amongst the birds who can fly so quickly as you."
-  },
-  {
-   "ref": "6680",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "प्रायात्रिकान् वै संभारान् आज्ञापयत वीर्यवान् ॥",
-   "english": "Killing the warriors with the flapping of your wings you, alone formerly released your mother from slavery."
-  },
-  {
-   "ref": "6681",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "पुण्याहघोषश् च तदा शुश्रुवे ब्राह्मणेरितः ।",
-   "english": "And by your help they acquire victories. In heaviness you are like the mount Meru and in lightness you are like air."
-  },
-  {
-   "ref": "6682",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "ततश् चन्दनचूर्णैश् च लाजैश् चापि समन्ततः ।",
-   "english": "There had been none before powerful like you, there is none at present and there will be none in future."
-  },
-  {
-   "ref": "6683",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "निर्ययौ स महाबाहुः कीर्यमाणो जनार्दनः ॥ गन्तुम् ऐछज् जगन्नाथो बाणं हन्तुं महासुरम् । नारद उवाच",
-   "english": "great, highly effulgent and truthful son of Vinatā, now help us for a moment for Aniruddha -. Garuda said:— large-armed Krishna, wonderful is thy word. Keshava, all my victories are owing to thy favour."
-  },
-  {
-   "ref": "6684",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "स्मरणं वैनतेयस्य कृष्ण त्वं कर्तुम् अर्हसि ।",
-   "english": "large-armed Krishna, thine glories are chantod and thou hast still sung mine."
-  },
-  {
-   "ref": "6685",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "श्रूयतां च तद् अध्वानं गन्तव्यम् अतिदुर्जयम् ।",
-   "english": "lord, thou dost hold a bow, a discus and a conch-shell."
-  },
-  {
-   "ref": "6686",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "एकादश सहस्राणि योजनानां जनार्दन ।",
-   "english": "Thou art known as Brahman, as Damodara, as the slayer of Pralamva, Keshi and other Dānavas."
-  },
-  {
-   "ref": "6687",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "तदितः शोणितपुरं प्राद्युम्निर् यत्र सांप्रतम् ॥",
-   "english": "All the rivers emanate from thee in the shape of Meru."
-  },
-  {
-   "ref": "6688",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "मनोजवो महावीर्यो वैनतेयः प्रतापवान् ।",
-   "english": "Thou art a great bowman and fond of bows."
-  },
-  {
-   "ref": "6689",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "समाह्वयस्व गोविन्द स हि त्वां तत्र नेष्यति ।",
-   "english": "foremost of Yadus, although thy glories should be chanted, still thou art willing to sing mine."
-  },
-  {
-   "ref": "6690",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "एकेन स मुहूर्तेन बाणं संदर्शयिष्यति ॥",
-   "english": "The dreadful creatures, who are seen by thee with thy eyes, are killed by Yama's rod and constrained to go to the hell."
-  },
-  {
-   "ref": "6691",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "तस्य तद् वचनं श्रुत्वा प्राध्यायद् गरुडं हरिः । स कृष्णपार्श्वम् आगम्य हर्षेणावस्थितो ऽभवत् ॥",
-   "english": "Thereupon showing signs of departure Garuda said to Keshava:— highly powerful hero, wait here, do thou sit on my back Thereupon embracing Garuda by the neck Mādhava said:— friend, accept this arghya for slaying the enemy."
+   "sanskrit": "दृष्टम् एतन् मया विष्णो प्राद्युम्नेर् युद्धम् ईदृशम् । व्यादिष्टस् तु वधस् तस्य बाणेन गरुडध्वज । तं निवारितवान् मन्त्री कुम्भाण्डो नाम तस्य ह ।\nकुमारस्यानिरुद्धस्य तेनाशक्तेन संयुगे ।\nबाणेन मायाम् आस्थाय सर्पैर् नियमनं कृतम् । उत्तिष्ठतु भवाञ् शीघ्रं यशसे विजयाय च ।\nनायं संरक्षितुं कालः प्राणांस् तात जयैषिणाम् ॥ प्राणैः किंचिद् गतैर् वीरो धैर्यम् आलम्ब्य तिष्ठति ।\nप्रायात्रिकान् वै संभारान् आज्ञापयत वीर्यवान् ॥\nपुण्याहघोषश् च तदा शुश्रुवे ब्राह्मणेरितः ।\nततश् चन्दनचूर्णैश् च लाजैश् चापि समन्ततः ।\nनिर्ययौ स महाबाहुः कीर्यमाणो जनार्दनः ॥ गन्तुम् ऐछज् जगन्नाथो बाणं हन्तुं महासुरम् । नारद उवाच\nस्मरणं वैनतेयस्य कृष्ण त्वं कर्तुम् अर्हसि ।\nश्रूयतां च तद् अध्वानं गन्तव्यम् अतिदुर्जयम् ।\nएकादश सहस्राणि योजनानां जनार्दन ।\nतदितः शोणितपुरं प्राद्युम्निर् यत्र सांप्रतम् ॥\nमनोजवो महावीर्यो वैनतेयः प्रतापवान् ।\nसमाह्वयस्व गोविन्द स हि त्वां तत्र नेष्यति ।\nएकेन स मुहूर्तेन बाणं संदर्शयिष्यति ॥\nतस्य तद् वचनं श्रुत्वा प्राध्यायद् गरुडं हरिः । स कृष्णपार्श्वम् आगम्य हर्षेणावस्थितो ऽभवत् ॥",
+   "english": "The highly powerful son of Vinata is fleet like the mind; he will point out Vāna within a moment. Govinda, therefore send for him; he will take you there -. Vaishampāyana said:—Hearing the words of Nārada Govinda thought of Garuda in his mind: and he too, with folded hands, arrived before Krishna. May that lady, by your favour, be united with her son. hero, you of great arms, slayer of snakes, formerly united with me you stole away ambrosia. You are my carrier and all the Vrishnis are your votaries. Preserve the request of love and devotion to-day. By my good works swear, there is none amongst the birds who can fly so quickly as you. Killing the warriors with the flapping of your wings you, alone formerly released your mother from slavery. And by your help they acquire victories. In heaviness you are like the mount Meru and in lightness you are like air. There had been none before powerful like you, there is none at present and there will be none in future. great, highly effulgent and truthful son of Vinatā, now help us for a moment for Aniruddha -. Garuda said:— large-armed Krishna, wonderful is thy word. Keshava, all my victories are owing to thy favour. large-armed Krishna, thine glories are chantod and thou hast still sung mine. lord, thou dost hold a bow, a discus and a conch-shell. Thou art known as Brahman, as Damodara, as the slayer of Pralamva, Keshi and other Dānavas. All the rivers emanate from thee in the shape of Meru. Thou art a great bowman and fond of bows. foremost of Yadus, although thy glories should be chanted, still thou art willing to sing mine. The dreadful creatures, who are seen by thee with thy eyes, are killed by Yama's rod and constrained to go to the hell. Thereupon showing signs of departure Garuda said to Keshava:— highly powerful hero, wait here, do thou sit on my back Thereupon embracing Garuda by the neck Mādhava said:— friend, accept this arghya for slaying the enemy.",
+   "meta": {
+    "merged_rows": [
+     "6676",
+     "6691"
+    ]
+   }
   },
   {
    "ref": "6692",
@@ -47571,67 +47087,17 @@
    "english": "Hear will describe that form identical with Hari and Hara –."
   },
   {
-   "ref": "6883",
+   "ref": "6883-6891",
    "kind": "verse",
    "scope": "text",
-   "sanskrit": "निर्जगाम ततो बाणो युद्धायभिमुखस् त्वरन् ॥",
-   "english": "He is Vishnu who is Rudra; and he is Rudra who is Brahmā."
-  },
-  {
-   "ref": "6884",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "भीमप्रहरणैर् घोरैर् दैत्येन्द्रैः सुमहाबलैः । वृतो महारथैर् वीरैर् वज्रीव सुरसत्तमैः ॥",
-   "english": "Brahmā, Vishnu and Rudra are one and of the same form. Three of them are great ascetics, Lords of half-females, self-sprung, givers of boons and masters of the universe."
-  },
-  {
-   "ref": "6885",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "स तत्र वस्त्राणि शुभाश् च गावः । फलानि पुष्पाणि तथैव निष्कान् ॥",
-   "english": "As water is mixed with water when it is thrown into it so Vishnu becomes at one with Rudra, when he enters into him."
-  },
-  {
-   "ref": "6886",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "बलेः सुतो ब्राह्मणसत्तमेभ्यो । ददौ धनान्य् आशु यथा धनेशः ।",
-   "english": "As fire becomes fire when it is mixed with it so Rudra becomes identical with Vishnu when he enters into him."
-  },
-  {
-   "ref": "6887",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "सहस्रचन्द्रायुततारकश् च ।",
-   "english": "Rudra is identical with fire and Vishnu is identical with the moon."
-  },
-  {
-   "ref": "6888",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "रथो महान् अग्निर् इवावभाति ।",
-   "english": "And Maheswara is their destroyer."
-  },
-  {
-   "ref": "6889",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "महाध्वजः कार्मुकधृक् स बाणः ॥ उद्वर्तयिष्यन् यदुपुंगवानाम् ।",
-   "english": "The Lord Narayana, identical with past, present and future and Maheswara are the primary causes of Hiranyagarbha and the great principles."
-  },
-  {
-   "ref": "6890",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "विनिर्ययौ तान् प्रति दैत्यसागरः ॥",
-   "english": "They both are the givers of the Vedas."
-  },
-  {
-   "ref": "6891",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "यथार्णवो लोकविनाशनाय ।",
-   "english": "They are the creator and the protector of the universe."
+   "sanskrit": "निर्जगाम ततो बाणो युद्धायभिमुखस् त्वरन् ॥\nभीमप्रहरणैर् घोरैर् दैत्येन्द्रैः सुमहाबलैः । वृतो महारथैर् वीरैर् वज्रीव सुरसत्तमैः ॥\nस तत्र वस्त्राणि शुभाश् च गावः । फलानि पुष्पाणि तथैव निष्कान् ॥\nबलेः सुतो ब्राह्मणसत्तमेभ्यो । ददौ धनान्य् आशु यथा धनेशः ।\nसहस्रचन्द्रायुततारकश् च ।\nरथो महान् अग्निर् इवावभाति ।\nमहाध्वजः कार्मुकधृक् स बाणः ॥ उद्वर्तयिष्यन् यदुपुंगवानाम् ।\nविनिर्ययौ तान् प्रति दैत्यसागरः ॥\nयथार्णवो लोकविनाशनाय ।",
+   "english": "He is Vishnu who is Rudra; and he is Rudra who is Brahmā. Brahmā, Vishnu and Rudra are one and of the same form. Three of them are great ascetics, Lords of half-females, self-sprung, givers of boons and masters of the universe. As water is mixed with water when it is thrown into it so Vishnu becomes at one with Rudra, when he enters into him. As fire becomes fire when it is mixed with it so Rudra becomes identical with Vishnu when he enters into him. Rudra is identical with fire and Vishnu is identical with the moon. And Maheswara is their destroyer. The Lord Narayana, identical with past, present and future and Maheswara are the primary causes of Hiranyagarbha and the great principles. They both are the givers of the Vedas. They are the creator and the protector of the universe.",
+   "meta": {
+    "merged_rows": [
+     "6883",
+     "6891"
+    ]
+   }
   },
   {
    "ref": "6892",
@@ -48887,109 +48353,17 @@
    "english": "Krishna, at Nārada's request, had already stopped his going. Now seeing the high-souled Kumbhānda before and promising him protection he said:— Kumbhānda, have been pleased with hearing of your good deeds."
   },
   {
-   "ref": "7075",
+   "ref": "7075-7089",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "निशम्य बाणगावस् तु तासु चक्रे मनस् तदा ।",
-   "english": "You will now become the king of this kingdom. confer this kingdom on you."
-  },
-  {
-   "ref": "7076",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "आस्थितो गरुडं देवः सर्वलोकादिर् अव्ययः ॥",
-   "english": "The Divine Regent of fire was present there in person –."
-  },
-  {
-   "ref": "7077",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "गरुड प्रयाहि तत्र त्वं यत्र बाणस्य गोधनम् ।",
-   "english": "The Gandharvas sang melodious and auspicious songs and the Apsaras danced thus beautifying that marriage party."
-  },
-  {
-   "ref": "7078",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "यासां पीत्वा किल क्षीरम् अमृतत्वम् अवाप्नुयात् । आह मां सत्यभामा च बाणगावो ममानय ।",
-   "english": "Beholding Krishna, the destroyer of his enemies, about to start for Dwārakā Kumbhānda, with folded hands, said:—Hear, lotus-eyed slayer of Madhu, have something to communicate unto thee."
-  },
-  {
-   "ref": "7079",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "यासां पीत्वा किल क्षीरं न जीर्यन्ति महासुराः ॥",
-   "english": "They give nectar-like milk, drinking which a man becomes highly powerful and invincible in battle –."
-  },
-  {
-   "ref": "7080",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "ता ममानय भद्रं ते यदि कार्यं न लुप्यते ।",
-   "english": "And bent on going there he expressed his desire."
-  },
-  {
-   "ref": "7081",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "अथ कार्यनिरोधः स्यान् नैव तासु मनः कृथाः ॥",
-   "english": "Indra and Maruts, desirous of achieving victory, set out for Dwārakā where Krishna resides."
-  },
-  {
-   "ref": "7082",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "दृश्यन्ते गाव एतास् ता मां दृष्ट्वा वरुणालयम् ।",
-   "english": "Proceeding a long way towards Varuna's region by the etherial way they saw those cows yielding celestial milk."
-  },
-  {
-   "ref": "7083",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "विशन्ति सहिताः सर्वाः कार्यम् अत्र विधीयताम् ॥ तथेत्य् उक्त्वा तु गरुडः पक्षवातेन सागरम् ।",
-   "english": "Those cows, of various colours, were grazing in a forest situate on the bank of an ocean. Reading the signs described by Kumbhānda they at once recognized them."
-  },
-  {
-   "ref": "7084",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "सो ऽवगाढो हि सहसा वरुणालयम् अन्तिकात् ॥ दृष्ट्वा जवेन गरुडं प्राप्तं वै वरुणालयम् । वारुणाश् च गणाः सर्वे विभ्रान्ताः प्राचलंस् तदा ।",
-   "english": "Beholding those cows of Vāna the eternal Krishna, the prime cause of the universe, well read in the essence of things and the foremost of strikers, felt a desire for possessing them and said to Garuda –. Krishna said:— Garuda, those are the precious kine of Vāna drinking whose milk a man becomes immortal."
-  },
-  {
-   "ref": "7085",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "ततस् तु वारुणं सैन्यम् अभियातं सुदारुणम् ।",
-   "english": "son of Vinatā, surely these are the kine of which Satyā spoke to me -."
-  },
-  {
-   "ref": "7086",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "प्रमुखे वासुदेवस्य नानाप्रहरणोद्यतम् ॥ तद् युद्धम् अभवद् घोरं वारुणैः पन्नगारिणा ।",
-   "english": "Garuda said:—These are the kine no doubt. had seen them before in Varuna's abode. Keshava, seeing me all on a sudden they are entering into Varuna's palace."
-  },
-  {
-   "ref": "7087",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "तेषाम् आपततां संख्ये वारुणानां सहस्रशः ।",
-   "english": "Therefore thou shouldst do some thing at once for possessing them."
-  },
-  {
-   "ref": "7088",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "देहा विद्योतयन्ति स्म कृत्स्नं वै वरुणालयम् ।",
-   "english": "Saying this Vinata's son agitated the ocean with the flapping of his wings and entered into Varuna's abode."
-  },
-  {
-   "ref": "7089",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "ते भग्नाः सहसा यान्ति तम् एव वरुणालयम् ॥",
-   "english": "Thereupon seeing Garuda enter by force into Varuna's residence all his followers were stricken with fear and bewildered."
+   "sanskrit": "निशम्य बाणगावस् तु तासु चक्रे मनस् तदा ।\nआस्थितो गरुडं देवः सर्वलोकादिर् अव्ययः ॥\nगरुड प्रयाहि तत्र त्वं यत्र बाणस्य गोधनम् ।\nयासां पीत्वा किल क्षीरम् अमृतत्वम् अवाप्नुयात् । आह मां सत्यभामा च बाणगावो ममानय ।\nयासां पीत्वा किल क्षीरं न जीर्यन्ति महासुराः ॥\nता ममानय भद्रं ते यदि कार्यं न लुप्यते ।\nअथ कार्यनिरोधः स्यान् नैव तासु मनः कृथाः ॥\nदृश्यन्ते गाव एतास् ता मां दृष्ट्वा वरुणालयम् ।\nविशन्ति सहिताः सर्वाः कार्यम् अत्र विधीयताम् ॥ तथेत्य् उक्त्वा तु गरुडः पक्षवातेन सागरम् ।\nसो ऽवगाढो हि सहसा वरुणालयम् अन्तिकात् ॥ दृष्ट्वा जवेन गरुडं प्राप्तं वै वरुणालयम् । वारुणाश् च गणाः सर्वे विभ्रान्ताः प्राचलंस् तदा ।\nततस् तु वारुणं सैन्यम् अभियातं सुदारुणम् ।\nप्रमुखे वासुदेवस्य नानाप्रहरणोद्यतम् ॥ तद् युद्धम् अभवद् घोरं वारुणैः पन्नगारिणा ।\nतेषाम् आपततां संख्ये वारुणानां सहस्रशः ।\nदेहा विद्योतयन्ति स्म कृत्स्नं वै वरुणालयम् ।\nते भग्नाः सहसा यान्ति तम् एव वरुणालयम् ॥",
+   "english": "You will now become the king of this kingdom. confer this kingdom on you. The Divine Regent of fire was present there in person –. The Gandharvas sang melodious and auspicious songs and the Apsaras danced thus beautifying that marriage party. Beholding Krishna, the destroyer of his enemies, about to start for Dwārakā Kumbhānda, with folded hands, said:—Hear, lotus-eyed slayer of Madhu, have something to communicate unto thee. They give nectar-like milk, drinking which a man becomes highly powerful and invincible in battle –. And bent on going there he expressed his desire. Indra and Maruts, desirous of achieving victory, set out for Dwārakā where Krishna resides. Proceeding a long way towards Varuna's region by the etherial way they saw those cows yielding celestial milk. Those cows, of various colours, were grazing in a forest situate on the bank of an ocean. Reading the signs described by Kumbhānda they at once recognized them. Beholding those cows of Vāna the eternal Krishna, the prime cause of the universe, well read in the essence of things and the foremost of strikers, felt a desire for possessing them and said to Garuda –. Krishna said:— Garuda, those are the precious kine of Vāna drinking whose milk a man becomes immortal. son of Vinatā, surely these are the kine of which Satyā spoke to me -. Garuda said:—These are the kine no doubt. had seen them before in Varuna's abode. Keshava, seeing me all on a sudden they are entering into Varuna's palace. Therefore thou shouldst do some thing at once for possessing them. Saying this Vinata's son agitated the ocean with the flapping of his wings and entered into Varuna's abode. Thereupon seeing Garuda enter by force into Varuna's residence all his followers were stricken with fear and bewildered.",
+   "meta": {
+    "merged_rows": [
+     "7075",
+     "7089"
+    ]
+   }
   },
   {
    "ref": "7090",
@@ -50994,67 +50368,17 @@
    "english": "Although these rites yeild fruits of good works still they constitute but an iota of Braman. So the Srutis hold."
   },
   {
-   "ref": "7383",
+   "ref": "7383-7391",
    "kind": "verse",
    "scope": "text",
-   "sanskrit": "इतिहासं तम् ऋषिणा पाराशर्येण दर्शितम् ॥",
-   "english": "The Vipras name in various way the one great Brahman."
-  },
-  {
-   "ref": "7384",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "अतीतानागतं यद् वै मुनिनोक्तं द्विजर्षभ । सदस्यान्तो ऽभ्यनुज्ञाय कृत्वा चापि प्रदक्षिणम् । पुनर् द्रक्ष्याम इत्य् उक्त्वा जगाम भगवान् ऋषिः ॥",
-   "english": "Brahmā is the foremost of Brahmavādins, who, although they are desirous of following humble pursuits, always wend the way leading to emancipation. Umā is spiritual science and Parameswara is the eternal Jnāna understanding his body is the stream of water flowing from heaven."
-  },
-  {
-   "ref": "7385",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "अनुजग्मुस् ततः सर्वे प्रयान्तम् ऋषिसत्तमम् ।",
-   "english": "Soma is born from this stream; and by it Maheshwara is the lord of goblins."
-  },
-  {
-   "ref": "7386",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "लोके प्रवदतां श्रेष्ठं शिष्टाः सर्वे तपोधनाः ॥",
-   "english": "The four legs of Dharma by which the world is upheld are the four Asramas, first Brahmacharya—the condition of a student, and secondly the most sacred condition of a house-holder."
-  },
-  {
-   "ref": "7387",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "याते भगवति व्यासे विप्राः सह महर्षिभिः ।",
-   "english": "The third stage is that of a religious recluse in a forest, and the fourth is that of union with the great Brahman."
-  },
-  {
-   "ref": "7388",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "ऋत्विजः पार्थिवाश् चैव प्रतिजग्मुर् यथागतम् ॥",
-   "english": "These four stages of a religious life are regarded as leading to the attainment of heaven."
-  },
-  {
-   "ref": "7389",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "पन्नगानां सुघोराणां कृत्वा तां वैरयातनाम् ।",
-   "english": "He created from his hands those who take their food with their hands together with their works."
-  },
-  {
-   "ref": "7390",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "जगाम रोषम् उत्सृत्य राजा विषम् इवोरगः ॥",
-   "english": "Therefore, king, on account of your faith in Vishnu, you are entitled to read the Vedas."
-  },
-  {
-   "ref": "7391",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "होत्राग्निदीप्तशिरसं परित्राय च तक्षकम् ।",
-   "english": "So the worship of fire with oblations daily increased and the worship of Vishnu and preceptors was also introduced."
+   "sanskrit": "इतिहासं तम् ऋषिणा पाराशर्येण दर्शितम् ॥\nअतीतानागतं यद् वै मुनिनोक्तं द्विजर्षभ । सदस्यान्तो ऽभ्यनुज्ञाय कृत्वा चापि प्रदक्षिणम् । पुनर् द्रक्ष्याम इत्य् उक्त्वा जगाम भगवान् ऋषिः ॥\nअनुजग्मुस् ततः सर्वे प्रयान्तम् ऋषिसत्तमम् ।\nलोके प्रवदतां श्रेष्ठं शिष्टाः सर्वे तपोधनाः ॥\nयाते भगवति व्यासे विप्राः सह महर्षिभिः ।\nऋत्विजः पार्थिवाश् चैव प्रतिजग्मुर् यथागतम् ॥\nपन्नगानां सुघोराणां कृत्वा तां वैरयातनाम् ।\nजगाम रोषम् उत्सृत्य राजा विषम् इवोरगः ॥\nहोत्राग्निदीप्तशिरसं परित्राय च तक्षकम् ।",
+   "english": "The Vipras name in various way the one great Brahman. Brahmā is the foremost of Brahmavādins, who, although they are desirous of following humble pursuits, always wend the way leading to emancipation. Umā is spiritual science and Parameswara is the eternal Jnāna understanding his body is the stream of water flowing from heaven. Soma is born from this stream; and by it Maheshwara is the lord of goblins. The four legs of Dharma by which the world is upheld are the four Asramas, first Brahmacharya—the condition of a student, and secondly the most sacred condition of a house-holder. The third stage is that of a religious recluse in a forest, and the fourth is that of union with the great Brahman. These four stages of a religious life are regarded as leading to the attainment of heaven. He created from his hands those who take their food with their hands together with their works. Therefore, king, on account of your faith in Vishnu, you are entitled to read the Vedas. So the worship of fire with oblations daily increased and the worship of Vishnu and preceptors was also introduced.",
+   "meta": {
+    "merged_rows": [
+     "7383",
+     "7391"
+    ]
+   }
   },
   {
    "ref": "7392",
@@ -51085,95 +50409,17 @@
    "english": "Janamejaya said:— Brahman, when egoism and ignorance thus prevailed all over the world what did the people do ? Vaishampāyana said:—In order to took after the work of adminstration Prajāpati, along with the Rishis, installed Vena's son Prithu on the throne."
   },
   {
-   "ref": "7396",
+   "ref": "7396-7409",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "संज्ञप्तम् अश्वं तत्रास्य देवी काश्या वपुष्टमा ।",
-   "english": "Thereupon when the spring set in gods and Dānavas, smelling fragrance from all sides, were highly pleased."
-  },
-  {
-   "ref": "7397",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "संविवेशोपगम्याथ विधिदृष्टेन कर्मणा ॥",
-   "english": "Various modes of action are to be ascertained by inference."
-  },
-  {
-   "ref": "7398",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "तां तु सर्वानवद्याङ्गीं चकमे वासवस् तदा ।",
-   "english": "Their knees bruised they fell down into the hollow of the mountain –."
-  },
-  {
-   "ref": "7399",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "संज्ञप्तम् अश्वं आविश्य तया मिश्रीबभूव सः ॥",
-   "english": "It appeared that the burning fire of dissolution was about to devour the universe."
-  },
-  {
-   "ref": "7400",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "तस्मिन् विकारे जनिते विदित्वा तत्त्वतश् च तत् ।",
-   "english": "Knowledge and ascetic penances all proceed from Him."
-  },
-  {
-   "ref": "7401",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "असंज्ञप्तो ऽयम् अश्वस् ते ध्वंसेत्य् अध्वर्युम् अब्रवीत् ॥",
-   "english": "The Lord said:— Earth, do not fear. Be self-controlled and enjoy peace. do bring you to your proper place which you wish –."
-  },
-  {
-   "ref": "7402",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "अध्वर्युर् ज्ञानसंपन्नस् तदिन्द्रस्य विचेष्टितम् ।",
-   "english": "Jishnu, the wielder of thunder-bolt, clad in a coat of mail, was given birth to by Aditi."
-  },
-  {
-   "ref": "7403",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "कथयामास राजर्षेः शशाप स पुरंदरम् ॥",
-   "english": "That ancient Purusha, the creator of the universe, is worshipped in the three worlds."
-  },
-  {
-   "ref": "7405",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "यद्य् अस्ति मे यज्ञफलं तपो वा रक्षतः प्रजाः ।",
-   "english": "By his grace the celestials partake of the three-fold sacrificial offerings."
-  },
-  {
-   "ref": "7406",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "फलेन तेन सर्वेण ब्रवीमि श्रूयताम् इदम् ॥",
-   "english": "Seeing that Sakti about to fall upon him the highly powerful Boar, setting up a roar, felled it on the ground."
-  },
-  {
-   "ref": "7407",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "अद्यप्रभृति देवेन्द्रम् अजितेन्द्रियम् अस्थिरम् ।",
-   "english": "Thereupon the Lord, whirling his sunny discus, shot it on the head of the Danava king."
-  },
-  {
-   "ref": "7408",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "क्षत्रिया वाजिमेधेन न यक्ष्यन्तीति शौनक ॥",
-   "english": "Vaishampāyana said:—Having thus routed all the Asuras in battle, Hari released Purandara and all the celestials."
-  },
-  {
-   "ref": "7409",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "ऋत्विजश् चाब्रवीत् क्रुद्धः स राजा जनमेजयः ।",
-   "english": "Having regained their natural temperament all the gods, placing Purandara before them, approached Nārāyana."
+   "sanskrit": "संज्ञप्तम् अश्वं तत्रास्य देवी काश्या वपुष्टमा ।\nसंविवेशोपगम्याथ विधिदृष्टेन कर्मणा ॥\nतां तु सर्वानवद्याङ्गीं चकमे वासवस् तदा ।\nसंज्ञप्तम् अश्वं आविश्य तया मिश्रीबभूव सः ॥\nतस्मिन् विकारे जनिते विदित्वा तत्त्वतश् च तत् ।\nअसंज्ञप्तो ऽयम् अश्वस् ते ध्वंसेत्य् अध्वर्युम् अब्रवीत् ॥\nअध्वर्युर् ज्ञानसंपन्नस् तदिन्द्रस्य विचेष्टितम् ।\nकथयामास राजर्षेः शशाप स पुरंदरम् ॥\nयद्य् अस्ति मे यज्ञफलं तपो वा रक्षतः प्रजाः ।\nफलेन तेन सर्वेण ब्रवीमि श्रूयताम् इदम् ॥\nअद्यप्रभृति देवेन्द्रम् अजितेन्द्रियम् अस्थिरम् ।\nक्षत्रिया वाजिमेधेन न यक्ष्यन्तीति शौनक ॥\nऋत्विजश् चाब्रवीत् क्रुद्धः स राजा जनमेजयः ।",
+   "english": "Thereupon when the spring set in gods and Dānavas, smelling fragrance from all sides, were highly pleased. Various modes of action are to be ascertained by inference. Their knees bruised they fell down into the hollow of the mountain –. It appeared that the burning fire of dissolution was about to devour the universe. Knowledge and ascetic penances all proceed from Him. The Lord said:— Earth, do not fear. Be self-controlled and enjoy peace. do bring you to your proper place which you wish –. Jishnu, the wielder of thunder-bolt, clad in a coat of mail, was given birth to by Aditi. That ancient Purusha, the creator of the universe, is worshipped in the three worlds. By his grace the celestials partake of the three-fold sacrificial offerings. Seeing that Sakti about to fall upon him the highly powerful Boar, setting up a roar, felled it on the ground. Thereupon the Lord, whirling his sunny discus, shot it on the head of the Danava king. Vaishampāyana said:—Having thus routed all the Asuras in battle, Hari released Purandara and all the celestials. Having regained their natural temperament all the gods, placing Purandara before them, approached Nārāyana.",
+   "meta": {
+    "merged_rows": [
+     "7396",
+     "7409"
+    ]
+   }
   },
   {
    "ref": "7410",
@@ -51554,7 +50800,7 @@
  "needs_ocr": false,
  "alignment": "row_aligned",
  "slice_of": null,
- "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering.  [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is] Critical-apparatus text that the Mitrasamgraha rows carry in front of some verses (variant readings, 'transliterated by ...') was stripped from 21 units; 41 units whose Sanskrit was apparatus only (no verse) were dropped: 713, 1418, 1419, 1420, 1429, 1430, 1485, 2542, 3307, 3308, 3445, 3523, 4519, 4728, 4967, 4968, 4969, 4992, 5057, 5058, 5059, 5613, 5614, 5615, 5616, 5997, 6405, 6406, 6407, 6408, 6583, 6584, 6585, 6718, 6905, 7028, 7034, 7049, 7375, 7404, 7450. After audit, 65 more units in the stretches where the source rows are shifted against the English (refs near 1414-1430, 1482-1490, 3303-3310, 4964-4972, 4991-4994, 5055-5062, 5611-5618, 6405-6411, 6581-6587, 7372-7378, 7447-7453, plus 3493 and 3499) were dropped; other stretches next to dropped apparatus rows were checked and are aligned. Three stray 'छप्तेर् N' (chapter) markers were removed from the Sanskrit (2681, 2782, 6210).",
+ "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering.  [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is] Critical-apparatus text that the Mitrasamgraha rows carry in front of some verses (variant readings, 'transliterated by ...') was stripped from 21 units; 41 units whose Sanskrit was apparatus only (no verse) were dropped: 713, 1418, 1419, 1420, 1429, 1430, 1485, 2542, 3307, 3308, 3445, 3523, 4519, 4728, 4967, 4968, 4969, 4992, 5057, 5058, 5059, 5613, 5614, 5615, 5616, 5997, 6405, 6406, 6407, 6408, 6583, 6584, 6585, 6718, 6905, 7028, 7034, 7049, 7375, 7404, 7450. After audit, 65 more units in the stretches where the source rows are shifted against the English (refs near 1414-1430, 1482-1490, 3303-3310, 4964-4972, 4991-4994, 5055-5062, 5611-5618, 6405-6411, 6581-6587, 7372-7378, 7447-7453, plus 3493 and 3499) were dropped; other stretches next to dropped apparatus rows were checked and are aligned. Three stray 'छप्तेर् N' (chapter) markers were removed from the Sanskrit (2681, 2782, 6210). [Row-shift repair: 12 stretches (130 units) where a sequence test on LaBSE sentence embeddings showed the english sitting 1 to 3 rows off its Sanskrit were merged into one unit each (ref first-last), so the pair covers the same passage on both sides.]",
  "reference_type": "translation",
  "english_rights": [
   "cc_by_sa"

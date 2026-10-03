@@ -1721,67 +1721,17 @@
    "english": "A palmist, a thief turned into a merchant, a fowler, a physician, an enemy, a friend, and a minstrel, these seven are incompetent as witness."
   },
   {
-   "ref": "27315",
+   "ref": "27315-27323",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "मान अग्निहोत्रम् उत मान मौनम् मानेन अधीतम् उत मान यज्ञः एतानि चत्वारि अभयंकराणि",
-   "english": "An Agnihotra performed from motives of pride, abstention from speech, practised from similar motives, study and sacrifice from the same motives,--these four, of themselves innocent, become harmful when practised unduly."
-  },
-  {
-   "ref": "27316",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "अगार दाही गर दः कुण्ड आशी सोम विक्रयी पर्वकारः च सूची च मित्रध्रुक् पारदारिकः भ्रूण हा गुरु तल्पी च यः च स्यात् पानपः द्विजः",
-   "english": "One that setteth fire to a dwelling house, an administerer of poison, a pander, a vendor of the Soma-juice, a maker of arrows, an astrologer, one that injureth friends, an adulterer, one that causeth abortion, a violater of his preceptor's bed, a Brahmana addicted to drink, one that is sharp-speeched, a raker of old sores, an atheist, a reviler of the Vedas, and taker of bribes, one whose investiture with the sacred thread has been delayed beyond the prescribed age, one that secretly slayeth cattle, and one that slayeth him who prayeth for protection,--these all are reckoned as equal in moral turpitude as the slayers of Brahmanas."
-  },
-  {
-   "ref": "27317",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "तृण उल्कया ज्ञायते जातरूपम्",
-   "english": "Gold is tested by fire;"
-  },
-  {
-   "ref": "27318",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "युगे भद्रः व्यवहारेण साधुः",
-   "english": "an honest man, by his conduct."
-  },
-  {
-   "ref": "27319",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "शूरः भयेषु अर्थ कृच्छ्रेषु धीरः",
-   "english": "A brave man is tested during a season of panic; he that is self-controlled, in times of poverty;"
-  },
-  {
-   "ref": "27320",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "कृच्छ्रासु आपत्सु सुहृदः च अरयः च",
-   "english": "and friends and foes, in times of calamity and danger."
-  },
-  {
-   "ref": "27321",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "जरा रूपम् हरति हि धैर्यम् आशा",
-   "english": "Decrepitude destroyeth beauty;"
-  },
-  {
-   "ref": "27322",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "मृत्युः प्राणान् धर्म चर्याम् असूया क्रोधः श्रियम् शीलम् अनार्य सेवा",
-   "english": "ambitious hopes, patience; death, life, envy, righteousness, anger, prosperity, companionship with the low, good behaviour;"
-  },
-  {
-   "ref": "27323",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "ह्रियम् कामः सर्वम् एव अभिमानः",
-   "english": "lust, modesty, and pride, everything."
+   "sanskrit": "मान अग्निहोत्रम् उत मान मौनम् मानेन अधीतम् उत मान यज्ञः एतानि चत्वारि अभयंकराणि\nअगार दाही गर दः कुण्ड आशी सोम विक्रयी पर्वकारः च सूची च मित्रध्रुक् पारदारिकः भ्रूण हा गुरु तल्पी च यः च स्यात् पानपः द्विजः\nतृण उल्कया ज्ञायते जातरूपम्\nयुगे भद्रः व्यवहारेण साधुः\nशूरः भयेषु अर्थ कृच्छ्रेषु धीरः\nकृच्छ्रासु आपत्सु सुहृदः च अरयः च\nजरा रूपम् हरति हि धैर्यम् आशा\nमृत्युः प्राणान् धर्म चर्याम् असूया क्रोधः श्रियम् शीलम् अनार्य सेवा\nह्रियम् कामः सर्वम् एव अभिमानः",
+   "english": "An Agnihotra performed from motives of pride, abstention from speech, practised from similar motives, study and sacrifice from the same motives,--these four, of themselves innocent, become harmful when practised unduly. One that setteth fire to a dwelling house, an administerer of poison, a pander, a vendor of the Soma-juice, a maker of arrows, an astrologer, one that injureth friends, an adulterer, one that causeth abortion, a violater of his preceptor's bed, a Brahmana addicted to drink, one that is sharp-speeched, a raker of old sores, an atheist, a reviler of the Vedas, and taker of bribes, one whose investiture with the sacred thread has been delayed beyond the prescribed age, one that secretly slayeth cattle, and one that slayeth him who prayeth for protection,--these all are reckoned as equal in moral turpitude as the slayers of Brahmanas. Gold is tested by fire; an honest man, by his conduct. A brave man is tested during a season of panic; he that is self-controlled, in times of poverty; and friends and foes, in times of calamity and danger. Decrepitude destroyeth beauty; ambitious hopes, patience; death, life, envy, righteousness, anger, prosperity, companionship with the low, good behaviour; lust, modesty, and pride, everything.",
+   "meta": {
+    "merged_rows": [
+     "27315",
+     "27323"
+    ]
+   }
   },
   {
    "ref": "27324",
@@ -5168,7 +5118,7 @@
   "file": "GE07mbh-ganguly.tsv",
   "rows": "27070-27804"
  },
- "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. Slice = Udyoga Parva Sections XXXIII-XL (Vidura-Prajagara), rows 27070-27804. Boundaries set by where the Sanskrit of Section XXXIII begins; verify. English of the first row carries the verbatim tail of the preceding section because the source English column lags mid-row. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is]",
+ "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. Slice = Udyoga Parva Sections XXXIII-XL (Vidura-Prajagara), rows 27070-27804. Boundaries set by where the Sanskrit of Section XXXIII begins; verify. English of the first row carries the verbatim tail of the preceding section because the source English column lags mid-row. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is] [Row-shift repair: 1 stretches (9 units) where a sequence test on LaBSE sentence embeddings showed the english sitting 1 to 3 rows off its Sanskrit were merged into one unit each (ref first-last), so the pair covers the same passage on both sides.]",
  "reference_type": "translation",
  "english_rights": [
   "cc_by_sa"
