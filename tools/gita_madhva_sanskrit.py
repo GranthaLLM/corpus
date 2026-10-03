@@ -83,8 +83,8 @@ def apply():
         if le and 1.0 <= le / ls <= 3.5 and len(en) > 20:
             q["english"] = en
     for u in d["units"]:
-        if u.get("parts"):
-            u["english"] = "\n".join(q["english"] for q in u["parts"] if q.get("english")) or None
+        if u.get("parts") and any(q.get("english") for q in u["parts"]):
+            u["english"] = "\n".join(q["english"] for q in u["parts"] if q.get("english"))
     for u in d["units"]:
         if u.get("parts"):
             if u.get("scope") == "mula" and any(q["role"] != "mula" and q.get("sanskrit") for q in u["parts"]):
@@ -123,5 +123,32 @@ def plan_en(units, G):
     return out
 
 
+def split_mula_units():
+    p = ROOT / "philosophical/bg_madhva.json"
+    d = json.loads(p.read_text(encoding="utf-8"))
+    U = {u["ref"]: u for u in d["units"]}
+    G = groups()
+    for ref, decode in (("17/10", False), ("17/11-12", False), ("17/27-28", True), ("18/6", True)):
+        u = U[ref]
+        if u.get("parts"):
+            continue
+        paras = u["english"].split("\n")
+        mula = {"role": "mula", "sanskrit": u["sanskrit"], "english": paras[0]}
+        rest = "\n".join(paras[1:])
+        ch, lo, hi = unit_range(ref)
+        sk = "\n".join(x for x in (sanskrit_of(g["Tatparya Nirnaya"]) for g in G if g["ch"] == ch and g["lo"] >= lo and g["hi"] <= hi) if x) if decode else ""
+        tat = {"role": "tatparya", "english": rest}
+        if sk:
+            tat["sanskrit"] = sk
+        u["parts"] = [mula, tat]
+        if sk:
+            u["sanskrit"] = mula["sanskrit"] + "\n" + sk
+            u["scope"] = "mula+commentary"
+        else:
+            u["english"] = paras[0]
+    write("philosophical/bg_madhva.json", d)
+
+
 if __name__ == "__main__":
     apply()
+    split_mula_units()
