@@ -2283,6 +2283,74 @@
    }
   },
   {
+   "ref": "3.26.73",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "चित्तेन हृदयं चैत्त्यः क्षेत्रज्ञः प्राविशद् यदा। विराट् तदैव पुरुषः सलिलादुदतिष्ठत॥ ३/२७/७३॥",
+   "english": "However, when the inner controller, the deity presiding over consciousness, entered the heart with reason, at that very moment the Cosmic Being arose from the causal waters.",
+   "parts": [
+    {
+     "role": "mula",
+     "sanskrit": "चित्तेन हृदयं चैत्त्यः क्षेत्रज्ञः प्राविशद् यदा। विराट् तदैव पुरुषः सलिलादुदतिष्ठत॥ ३/२७/७३॥"
+    },
+    {
+     "role": "bhashya",
+     "sanskrit": "“अंशेन सुप्तो ब्रह्माऽपि अंशेन निरगात् तथा।\nस्वदेहाद् वायुसहितो विष्णुना च जगत्प्रभुः।\nतमुत्थापयितुं देवास्तानृते त्रीन् महाबलान्।\nनाशक्नुवुन् एकसंस्थास्ततस्ते त्वविशंस्त्रयः।\nउदतिष्ठद् ब्रह्मदेहस्तदा तेषां प्रभावतः।\nविशेषेण हरेरेव प्रभावेन श्रियःपतेः।\nचित्ताभिमानी ब्रह्मैव क्षेत्रज्ञस्तद्गतो हरिः।\nप्राणो वायुरिति प्रोक्तस्तयोरीशो हरिः स्वयम्॥”\nइति च ॥ ७३ ॥"
+    }
+   ],
+   "meta": {
+    "align": "content",
+    "vedabase_texts": [
+     "70-70"
+    ],
+    "english_verbatim": "However, when the inner controller, the deity presiding over consciousness, entered the heart with reason, at that very moment the Cosmic Being arose from the causal waters."
+   }
+  },
+  {
+   "ref": "3.26.74",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "यथा प्रसुप्तं पुरुषं प्राणेन्द्रियमनोधियः। प्रभवन्ति विना येन नोत्थापयितुमोजसा॥ ३/२७/७४॥",
+   "english": "When a man is sleeping, all his material assets — namely the vital energy, the senses for recording knowledge, the senses for working, the mind and the intelligence — cannot arouse him. He can be aroused only when the Supreme Self helps him.",
+   "meta": {
+    "align": "content",
+    "english_edits": [
+     {
+      "rule": "(the) Supersoul -> the Supreme Self",
+      "count": 1
+     }
+    ],
+    "vedabase_texts": [
+     "71-71"
+    ],
+    "english_verbatim": "When a man is sleeping, all his material assets — namely the vital energy, the senses for recording knowledge, the senses for working, the mind and the intelligence — cannot arouse him. He can be aroused only when the Supersoul helps him."
+   }
+  },
+  {
+   "ref": "3.26.75",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "तमस्मिन् प्रत्यगात्मानं धिया योगविपक्वया। भक्त्या विरक्त्या ज्ञानेन विविच्याऽऽत्मनि चिन्तयेत्॥ ३/२७/७५॥",
+   "english": "Therefore, through devotion, detachment and advancement in spiritual knowledge acquired through concentrated devotion, one should contemplate that the Supreme Self as present in this very body although simultaneously apart from it.",
+   "meta": {
+    "align": "content",
+    "english_edits": [
+     {
+      "rule": "devotional service -> devotion",
+      "count": 1
+     },
+     {
+      "rule": "(the) Supersoul -> the Supreme Self",
+      "count": 1
+     }
+    ],
+    "vedabase_texts": [
+     "72-72"
+    ],
+    "english_verbatim": "Therefore, through devotion, detachment and advancement in spiritual knowledge acquired through concentrated devotional service, one should contemplate that Supersoul as present in this very body although simultaneously apart from it."
+   }
+  },
+  {
    "ref": "3.27.1",
    "kind": "verse",
    "scope": "mula",
@@ -2842,6 +2910,20 @@
       "count": 1
      }
     ]
+   }
+  },
+  {
+   "ref": "3.27.31",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "यदा न योगोपचितासु चेतो मायासु सिद्धस्य विषज्जते च। अनन्यहेतुष्वथ मे गतिः स्यादात्यन्तिका यत्र न मृत्युहासः॥ ३/२८/३१॥",
+   "english": "When a perfect yogī’s attention is no longer attracted to the by-products of mystic powers, which are manifestations of the external energy, his progress towards Me becomes unlimited, and thus the power of death cannot overcome him.",
+   "meta": {
+    "align": "content",
+    "vedabase_texts": [
+     "30-30"
+    ],
+    "english_verbatim": "When a perfect yogī’s attention is no longer attracted to the by-products of mystic powers, which are manifestations of the external energy, his progress towards Me becomes unlimited, and thus the power of death cannot overcome him."
    }
   },
   {
@@ -5954,23 +6036,13 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "तामात्मनो विजानीयाद् भृत्यापत्यगृहात्मकम्। दैवोपसादितं मृत्युं मृगयोर्गायनं यथा॥ ३/३२/४४॥",
-   "english": "Due to his particular type of body, the materialistic living being wanders from one planet to another, following actions aimed at results. In this way, he involves himself in actions aimed at results and enjoys the result incessantly.",
+   "english": "A woman, therefore, should consider her husband, her house and her children to be the arrangement of the external energy of the Lord for her death, just as the sweet singing of the hunter is death for the deer.",
    "meta": {
     "align": "content",
-    "english_edits": [
-     {
-      "rule": "living entity/entities -> living being(s)",
-      "count": 1
-     },
-     {
-      "rule": "fruitive activities -> actions aimed at results",
-      "count": 2
-     }
-    ],
     "vedabase_texts": [
-     "43-43"
+     "42-42"
     ],
-    "english_verbatim": "Due to his particular type of body, the materialistic living entity wanders from one planet to another, following fruitive activities. In this way, he involves himself in fruitive activities and enjoys the result incessantly."
+    "english_verbatim": "A woman, therefore, should consider her husband, her house and her children to be the arrangement of the external energy of the Lord for her death, just as the sweet singing of the hunter is death for the deer."
    }
   },
   {
@@ -5978,7 +6050,7 @@
    "kind": "group",
    "scope": "mula",
    "sanskrit": "देहेन जीवभूतेन लोकाल्लोकमनुव्रजन्। भुञ्जान एव कर्माणि करोत्यविरतं पुमान्॥ ३/३२/४५॥\nजीवो यस्यानुगो देहो भूतेन्द्रियमनोमयः। तन्निरोधोऽस्य मरणमाविर्भावस्तु सम्भवः॥ ३/३२/४६॥",
-   "english": "In this way the living being gets a suitable body with a material mind and senses, according to his actions aimed at results. When the reaction of his particular activity comes to an end, that end is called death, and when a particular type of reaction begins, that beginning is called birth.",
+   "english": "Due to his particular type of body, the materialistic living being wanders from one planet to another, following actions aimed at results. In this way, he involves himself in actions aimed at results and enjoys the result incessantly.",
    "parts": [
     {
      "role": "mula",
@@ -5998,6 +6070,30 @@
      },
      {
       "rule": "fruitive activities -> actions aimed at results",
+      "count": 2
+     }
+    ],
+    "vedabase_texts": [
+     "43-43"
+    ],
+    "english_verbatim": "Due to his particular type of body, the materialistic living entity wanders from one planet to another, following fruitive activities. In this way, he involves himself in fruitive activities and enjoys the result incessantly."
+   }
+  },
+  {
+   "ref": "3.31.47",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "द्रव्योपलब्धिस्थानस्य द्रव्येक्षाऽयोग्यता यदा। तत् पञ्चत्वमहम्मानादुत्पत्तिर्द्रव्यदर्शनम्॥ ३/३२/४७॥",
+   "english": "In this way the living being gets a suitable body with a material mind and senses, according to his actions aimed at results. When the reaction of his particular activity comes to an end, that end is called death, and when a particular type of reaction begins, that beginning is called birth.",
+   "meta": {
+    "align": "content",
+    "english_edits": [
+     {
+      "rule": "living entity/entities -> living being(s)",
+      "count": 1
+     },
+     {
+      "rule": "fruitive activities -> actions aimed at results",
       "count": 1
      }
     ],
@@ -6008,31 +6104,11 @@
    }
   },
   {
-   "ref": "3.31.47",
-   "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "द्रव्योपलब्धिस्थानस्य द्रव्येक्षाऽयोग्यता यदा। तत् पञ्चत्वमहम्मानादुत्पत्तिर्द्रव्यदर्शनम्॥ ३/३२/४७॥",
-   "english": "When the eyes lose their power to see color or form due to morbid affliction of the optic nerve, the sense of sight becomes deadened. The living being, who is the seer of both the eyes and the sight, loses his power of vision. In the same way, when the physical body, the place where perception of objects occurs, is rendered incapable of perceiving, that is known as death. When one begins to view the physical body as one’s very self, that is called birth.",
-   "meta": {
-    "align": "content",
-    "english_edits": [
-     {
-      "rule": "living entity/entities -> living being(s)",
-      "count": 1
-     }
-    ],
-    "vedabase_texts": [
-     "45-46"
-    ],
-    "english_verbatim": "When the eyes lose their power to see color or form due to morbid affliction of the optic nerve, the sense of sight becomes deadened. The living entity, who is the seer of both the eyes and the sight, loses his power of vision. In the same way, when the physical body, the place where perception of objects occurs, is rendered incapable of perceiving, that is known as death. When one begins to view the physical body as one’s very self, that is called birth."
-   }
-  },
-  {
    "ref": "3.31.48",
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "यथाऽक्ष्णोर्द्रव्यावयवदर्शनायोग्यता यदा। तदैव चक्षुषो द्रष्टुर्द्रष्टृत्वं योग्यताऽनयोः॥ ३/३२/४८॥",
-   "english": "Therefore, one should not view death with horror, nor have recourse to defining the body as soul, nor give way to exaggeration in enjoying the bodily necessities of life. Realizing the true nature of the living being, one should move about in the world free from attachment and steadfast in purpose.",
+   "english": "When the eyes lose their power to see color or form due to morbid affliction of the optic nerve, the sense of sight becomes deadened. The living being, who is the seer of both the eyes and the sight, loses his power of vision. In the same way, when the physical body, the place where perception of objects occurs, is rendered incapable of perceiving, that is known as death. When one begins to view the physical body as one’s very self, that is called birth.",
    "parts": [
     {
      "role": "mula",
@@ -6052,9 +6128,49 @@
      }
     ],
     "vedabase_texts": [
+     "45-46"
+    ],
+    "english_verbatim": "When the eyes lose their power to see color or form due to morbid affliction of the optic nerve, the sense of sight becomes deadened. The living entity, who is the seer of both the eyes and the sight, loses his power of vision. In the same way, when the physical body, the place where perception of objects occurs, is rendered incapable of perceiving, that is known as death. When one begins to view the physical body as one’s very self, that is called birth."
+   }
+  },
+  {
+   "ref": "3.31.50",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "आत्मनः केवलं ज्ञानमर्थो देहाद्यसङ्गिनः। सुखदुःखादयो भावा न देहस्य न चात्मनः॥ ३/३२/५०॥",
+   "english": "Therefore, one should not view death with horror, nor have recourse to defining the body as soul, nor give way to exaggeration in enjoying the bodily necessities of life. Realizing the true nature of the living being, one should move about in the world free from attachment and steadfast in purpose.",
+   "meta": {
+    "align": "content",
+    "english_edits": [
+     {
+      "rule": "living entity/entities -> living being(s)",
+      "count": 1
+     }
+    ],
+    "vedabase_texts": [
      "47-47"
     ],
     "english_verbatim": "Therefore, one should not view death with horror, nor have recourse to defining the body as soul, nor give way to exaggeration in enjoying the bodily necessities of life. Realizing the true nature of the living entity, one should move about in the world free from attachment and steadfast in purpose."
+   }
+  },
+  {
+   "ref": "3.31.52",
+   "kind": "verse",
+   "scope": "mula",
+   "sanskrit": "सम्यग्दर्शनया बुद्ध्या योगवैराग्ययुक्तया। मायाविरचिते लोके चरेद् यस्य कळेबरम्॥ ३/३२/५२॥",
+   "english": "Endowed with right vision and strengthened by devotion and a pessimistic attitude towards material identity, one should relegate his body to this illusory world through his reason. Thus one can be unconcerned with this material world.",
+   "meta": {
+    "align": "content",
+    "english_edits": [
+     {
+      "rule": "devotional service -> devotion",
+      "count": 1
+     }
+    ],
+    "vedabase_texts": [
+     "48-48"
+    ],
+    "english_verbatim": "Endowed with right vision and strengthened by devotional service and a pessimistic attitude towards material identity, one should relegate his body to this illusory world through his reason. Thus one can be unconcerned with this material world."
    }
   },
   {
@@ -7573,7 +7689,7 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Vedabase SB 3.25-3.33 correspond to Setutila's chapters 26-34 (Setutila numbers one chapter higher in Skandha 3). Sanskrit is verse-only in 'sanskrit' (Setutila mula, speaker lines attached to the verse they introduce); Madhva's commentary blocks are in bhashya part and are NOT translated by the English. English = Prabhupada's verse translation per Vedabase 'Text' entry, fetched from the chapter pages. Setutila's verse numbers (from its own '॥ s/c/v ॥' marks) were matched to Vedabase 'Text' numbers; a chapter keeps number pairing only if the Sanskrit and English lengths stay proportional for at least 85% of pairs (align='number'; 385 units). In the other chapters (the two recensions split or number some verses differently, e.g. Setutila 11.8.20 = Vedabase Text 21) the whole chapter was aligned by Sanskrit-to-English length with 1-1, 1-2, 2-1 beads (align='length'; 0 units); spot checks were right but errors can accumulate, so filter on align == 'number' for the safest pairs. Units with align='none' have Sanskrit only (no Vedabase text found for that verse, typically the speaker-intro verse 1). A unit with several Sanskrit verses or Vedabase texts is a group. Prabhupada's translation is interpretive (purport-influenced) rather than literal, so `english` keeps his published wording untouched and `english` is a rule-based neutral variant: only the term swaps listed in meta.english_edits (per unit, with counts) were applied, e.g. '(Supreme) Personality of Godhead' -> 'the Lord', 'devotional service' -> 'devotion', 'living entity' -> 'living being', 'Supersoul' -> 'the Supreme Self', 'demigod' -> 'god', 'sense gratification' -> 'sense enjoyment', 'fruitive activities' -> 'actions aimed at results', 'spiritual master' -> 'teacher', 'pure devotee' -> 'devotee'; honorifics are dropped ('Sūta Gosvāmī' -> 'Sūta Paurāṇika', 'Śukadeva Gosvāmī' -> 'Śukācārya', other 'X Gosvāmī' -> 'X', 'Śrīla' and the honorific 'Śrī' before a name removed; 'Mahārāja X' and 'X Mahārāja' become 'King X'). Nothing was deleted or rewritten beyond these swaps; terms with no neutral equivalent are only listed in meta.english_flags (e.g. 'Kṛṣṇa consciousness'). english is an edit of the source text made for this benchmark, not a published translation; cite meta.english_verbatim, which is the text as published. [8 units with no english in any source were dropped so every unit is scoreable: 0 colophon units and 8 others (3.26.73, 3.26.74, 3.26.75, 3.27.31, 3.31.49, 3.31.50, 3.31.51, 3.31.52).] [Realigned by content: the Setutila Sanskrit and the Vedabase verse numbers drift apart inside chapters, so units were re-paired with a monotone dynamic-programming alignment over LaBSE sentence-embedding similarity between each Sanskrit verse and each Vedabase translation (146 units now carry a different translation than before). 9 Sanskrit verses with no counterpart were dropped (3.26.3, 3.26.25, 3.26.51, 3.27.7, 3.28.28, 3.28.42, 3.30.26, 3.31.5, 3.31.33); the leading '[Text N]' labels were stripped from the english.]",
+ "notes": "Vedabase SB 3.25-3.33 correspond to Setutila's chapters 26-34 (Setutila numbers one chapter higher in Skandha 3). Sanskrit is verse-only in 'sanskrit' (Setutila mula, speaker lines attached to the verse they introduce); Madhva's commentary blocks are in bhashya part and are NOT translated by the English. English = Prabhupada's verse translation per Vedabase 'Text' entry, fetched from the chapter pages. Setutila's verse numbers (from its own '॥ s/c/v ॥' marks) were matched to Vedabase 'Text' numbers; a chapter keeps number pairing only if the Sanskrit and English lengths stay proportional for at least 85% of pairs (align='number'; 385 units). In the other chapters (the two recensions split or number some verses differently, e.g. Setutila 11.8.20 = Vedabase Text 21) the whole chapter was aligned by Sanskrit-to-English length with 1-1, 1-2, 2-1 beads (align='length'; 0 units); spot checks were right but errors can accumulate, so filter on align == 'number' for the safest pairs. Units with align='none' have Sanskrit only (no Vedabase text found for that verse, typically the speaker-intro verse 1). A unit with several Sanskrit verses or Vedabase texts is a group. Prabhupada's translation is interpretive (purport-influenced) rather than literal, so `english` keeps his published wording untouched and `english` is a rule-based neutral variant: only the term swaps listed in meta.english_edits (per unit, with counts) were applied, e.g. '(Supreme) Personality of Godhead' -> 'the Lord', 'devotional service' -> 'devotion', 'living entity' -> 'living being', 'Supersoul' -> 'the Supreme Self', 'demigod' -> 'god', 'sense gratification' -> 'sense enjoyment', 'fruitive activities' -> 'actions aimed at results', 'spiritual master' -> 'teacher', 'pure devotee' -> 'devotee'; honorifics are dropped ('Sūta Gosvāmī' -> 'Sūta Paurāṇika', 'Śukadeva Gosvāmī' -> 'Śukācārya', other 'X Gosvāmī' -> 'X', 'Śrīla' and the honorific 'Śrī' before a name removed; 'Mahārāja X' and 'X Mahārāja' become 'King X'). Nothing was deleted or rewritten beyond these swaps; terms with no neutral equivalent are only listed in meta.english_flags (e.g. 'Kṛṣṇa consciousness'). english is an edit of the source text made for this benchmark, not a published translation; cite meta.english_verbatim, which is the text as published. [Realigned by content: the Setutila Sanskrit and the Vedabase verse numbers drift apart inside chapters, so every Sanskrit verse was re-paired with a Vedabase translation by a monotone dynamic-programming alignment over LaBSE sentence-embedding similarity (152 units now carry a different translation than before; 6 verses that had no translation got one). 11 Sanskrit verses with no counterpart were dropped (3.26.3, 3.26.25, 3.26.51, 3.27.7, 3.28.28, 3.28.42, 3.30.26, 3.31.5, 3.31.33, 3.31.49, 3.31.51); the leading '[Text N]' labels were stripped from the english.]",
  "reference_type": "translation",
  "english_rights": [
   "in_copyright_or_unclear"
