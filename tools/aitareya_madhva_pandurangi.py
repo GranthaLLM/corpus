@@ -88,6 +88,17 @@ def norm_keep(s):
     return "".join(s[k] for k in pos), pos
 
 
+COLO = re.compile(r"(?:[०-९]+/[०-९]+/[०-९]+\s*(?:\([०-९/]+\))?\s*॥?\s*॥?\s*|॥\s*[०-९]+/[०-९]+/[०-९]+\s*॥\s*॥?\s*)?इत्यैतरेयब्राह्मणारण्यककाण्डे[^॥]*(?:॥|$)\s*(?:\([०-९]+\)\s*)?")
+
+
+def sanitize(t):
+    t = re.sub(r"^समाप्त[^॥]*॥\s*(?:ॐ\s*॥\s*)?", "", t.strip())
+    t = COLO.sub(" ", t)
+    t = re.sub(r"\s*॥\s*[०-९]+/[०-९]+/[०-९]+\s*॥?\s*॥?\s*$", "॥", t)
+    t = re.sub(r"\s*\*\s*॥", "॥", re.sub(r"\s*[0-9]+\s*॥", "॥", t))
+    return re.sub(r"[ \t]+", " ", t).strip()
+
+
 def ordinal(tok):
     return next((v for k, v in ORD.items() if tok.startswith(k)), None)
 
@@ -122,23 +133,24 @@ def main():
             print("no match", n, it["dev"][:50])
             continue
         s, e = lo + a.dest_start, lo + a.dest_end
+        head, tail = q[:36], q[-36:]
+        h = fuzz.partial_ratio_alignment(head, N[max(0, s - 250):s + 250], score_cutoff=70)
+        if h is not None and len(q) > 80:
+            s = max(0, s - 250) + h.dest_start
+        t_ = fuzz.partial_ratio_alignment(tail, N[max(0, e - 250):e + 250], score_cutoff=70)
+        if t_ is not None and len(q) > 80:
+            e = max(0, e - 250) + t_.dest_end
         prev = e
         rs, re_ = pos[s], pos[e - 1] + 1
-        while rs > 0 and R[rs - 1] not in "।॥\n":
+        while rs > 0 and R[rs - 1] not in " \n":
             rs -= 1
-        while re_ < len(R) and R[re_ - 1] not in "।॥\n":
+        while re_ < len(R) and R[re_] not in " \n।॥":
+            re_ += 1
+        while re_ < len(R) and R[re_] in "।॥":
             re_ += 1
         spans.append([rs, re_, it])
-    import math
     for a, b in zip(spans, spans[1:]):
         a[1] = min(a[1], b[0])
-        ra, rb = len(a[2]["en"]) / max(1, a[1] - a[0]), len(b[2]["en"]) / max(1, b[1] - b[0])
-        if b[0] - a[1] <= 5 and (min(ra, rb) < 1.0 or max(ra, rb) > 3.4):
-            cuts = [k for k in range(a[0] + 20, b[1] - 20) if R[k - 1] in "।॥\n" and R[k] not in "।॥"]
-            cost = lambda c: abs(math.log(len(a[2]["en"]) / (c - a[0]) / 2.1)) + abs(math.log(len(b[2]["en"]) / (b[1] - c) / 2.1))
-            if cuts:
-                c = min(cuts, key=cost)
-                a[1], b[0] = c, c
         if len(a[2]["en"]) > 5 * (a[1] - a[0]):
             a[1] = b[0]
     spans = [s for s in spans if s[1] > s[0]]
@@ -154,13 +166,13 @@ def main():
             key = (ar, ad, kh)
             used[key] = used.get(key, 0) + 1
             sk = re.sub(r"[ \t]+", " ", R[rs:re_]).strip()
-            sk = re.sub(r"^इत्यैतरेयब्राह्मणारण्यककाण्डे[^॥]*॥\s*(\(\S+\)\s*)?", "", sk)
+            sk = sanitize(sk)
             if not it["en"]:
                 continue
             units.append({"ref": f"{ar}.{ad}.{kh}.{used[key]}", "kind": "prose", "scope": "mula", "sanskrit": sk, "english": it["en"]})
         b = part(u, "bhashya")
         if b and b.get("sanskrit"):
-            units.append({"ref": f"{ar}.{ad}.{kh}-bhashya", "kind": "prose", "scope": "commentary", "sanskrit": b["sanskrit"], "english": None})
+            units.append({"ref": f"{ar}.{ad}.{kh}-bhashya", "kind": "prose", "scope": "commentary", "sanskrit": sanitize(b["sanskrit"]), "english": None})
     covered = sum(len(u["sanskrit"]) for u in units if u["scope"] == "mula")
     d = {k: v for k, v in old.items() if k != "units"}
     d["units"] = units
@@ -173,7 +185,7 @@ def main():
                   f"{len(spans)} found, and the Sanskrit of each unit is the matching stretch of Setutila's text). Units 'A.B.C.n' (aranyaka.adhyaya.khanda.passage) are scope mula: the passage and its translation. "
                   "Pandurangi's 'Expl.' notes and his quotations from Madhva's bhashya are not part of the translation and are left out. "
                   "Madhva's bhashya is kept as one Sanskrit-only unit per khanda ('...-bhashya', scope commentary, no english) because Pandurangi translates it only in summary. "
-                  f"Mula text not matched by any passage ({len(R) - covered} of {len(R)} characters) is not in the units. Earlier versions of this file (khanda groups with english that also covered the bhashya) are in git history.")
+                  f"Mula text not matched by any passage ({len(R) - covered} of {len(R)} characters) is not in the units. Refs take the aranyaka, adhyaya and khanda of the Setutila unit that holds the start of the passage; Setutila groups some khandas, so a few labels lag one section behind the colophons inside the Sanskrit. Section colophons and numbering that Setutila leaves inside the mula text are stripped. Earlier versions of this file (khanda groups with english that also covered the bhashya) are in git history.")
     n = write(SRC, d)
     print(n, "units;", len(spans), "passages;", covered, "of", len(R), "mula characters covered")
 
