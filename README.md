@@ -30,6 +30,13 @@ See `schema.json`. Every file has `id`, `text`, `tradition`, `script` (always De
 - `slice_of`: row range when a file is a slice of a larger source file
 - `notes`: anything a user must know (source quirks, gaps, deviations from the corpus doc)
 
+### How a commentary work is organised
+
+- Verses and the commentary on them stay in order. Inside a unit with `scope` `mula+commentary`, `sanskrit` and `english` hold the verse first, then the commentary; `parts` names each piece (`mula`, `bhashya`, `tatparya`) with its own Sanskrit and English.
+- The opening of a work is its own units: `intro` holds the shanti invocation (`mula` part) and the commentator's mangalacharana (`bhashya` part); a second `intro-2` repeats the closing shanti where the Sanskrit source does; `colophon*` units hold the closing lines.
+- A commentary that the source gives as one continuous block, not mantra by mantra, is a unit of its own with `scope` `commentary` (Madhva's Kena commentary is the unit `bhashya` in `kena_madhva.json`).
+- A commentary part whose English is missing says so by having no `english`; the unit's own pair never mixes in text from outside it.
+
 Nothing is invented: a string is either verbatim from the cited source or `null`. A `null` `english` with `needs_ocr` or a note means the source is a scan that pass 2 will fill.
 
 Build order: the `build_*.py` scripts, then `normalize.py`, then `layout.py` (old per-field layout to the layout above), then `clean_english.py` (drops embedded Sanskrit verses and page headers from `english`), then `validate.py`.
