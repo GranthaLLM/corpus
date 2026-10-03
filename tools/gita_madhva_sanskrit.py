@@ -152,3 +152,5 @@ def split_mula_units():
 if __name__ == "__main__":
     apply()
     split_mula_units()
+    import bg_madhva_pair_parts
+    bg_madhva_pair_parts.main()
