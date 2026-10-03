@@ -7,7 +7,7 @@ ROWS = [
     ("1c", "Gita, Madhva", ["philosophical/bg_madhva"], "Bhashya + Tatparya Sanskrit (Setutila), English from Sonde PDF; verse groups"),
     ("2", "Brahmasutra, Śaṃkara", ["philosophical/bsb_shankara"], "Sanskrit Advaita Sharada; English Gambhirananda scan, 509/555 sutras"),
     ("3", "Sri Bhashya, Rāmānuja", ["philosophical/sribhashya_ramanuja"], "English Thibaut via wisdomlib; Sanskrit Bodhan OCR of the Annangaracharya scan (unproofread), aligned per sutra; 6 units hold two sutras"),
-    ("4", "Brahmasutra, Madhva", ["philosophical/bsb_madhva"], "From project docx (Sarvam OCR English); 16 sutras have no English (missing book pages)"),
+    ("4", "Brahmasutra, Madhva", ["philosophical/bsb_madhva"], "Sanskrit from the project docx; English Subba Rau (1904) where its OCR is clean, otherwise Sonde (decoded and translated PDFs); every sutra has English"),
     ("5", "Tarkasaṃgraha", ["philosophical/tarkasamgraha"], "Mula only (Dipika dropped); Sanskrit + English from the 1876/1851 scan (Sarvam OCR), book numbering 1-70; 63 sections, 7 lost to OCR numbering"),
     ("6", "Bhattasangraha", ["philosophical/bhattasangraha"], "Sanskrit archive.org OCR (adhyayas 1-12, one unit per adhikarana, unproofread, some headings lost); English is Pandurangi's summary of each adhikarana (not a translation): exposition in vols 1 and 3 paired by heading name, introduction summary in vol 2 paired by adhyaya.pada.number"),
     ("7", "Sarvadarshanasamgraha", ["philosophical/sarvadarshanasamgraha"], "Mitrasamgraha rows, bundled"),
