@@ -51,7 +51,8 @@ def mantra_items(body):
                 j -= 1
             dev = conv(" ".join(lines[j:i + 1]))
             k, en = i + 1, []
-            while k < len(lines) and (lines[k] == "" and not en or (lines[k] and sh.is_english(lines[k]) and not VERSE_END.search(lines[k]))):
+            plain = re.compile(r"^[A-Za-z0-9‘’“”‟„',.;:!?()\-– ]+$")
+            while k < len(lines) and (lines[k] == "" and not en or (lines[k] and not VERSE_END.search(lines[k]) and (sh.is_english(lines[k]) or (en and plain.match(lines[k]))))):
                 if lines[k]:
                     en.append(lines[k])
                 k += 1
@@ -166,6 +167,8 @@ def apply(name, sonde_file, cite):
     from common import write
     d, st = fill(name, sonde_file)
     n = st["filled"] + st["replaced"]
+    d["notes"] = re.sub(r" English for \d+ units is now Nagesh D\. Sonde's translation.*?keep the wisdomlib English\.", "", d["notes"], flags=re.S)
+    d["source_english"] = [s for s in (d["source_english"] if isinstance(d["source_english"], list) else [d["source_english"]]) if "Sonde" not in (s.get("citation") or "")]
     d["notes"] += (f" English for {n} units is now Nagesh D. Sonde's translation (his Sanskrit decoded with tools/shivaji_to_unicode.py and matched to the units by trigram coverage); "
                    f"{st['filled']} of them had no English before. Units where Sonde's quotes cover under 55% of the bhashya Sanskrit keep the wisdomlib English.")
     src = d["source_english"]
