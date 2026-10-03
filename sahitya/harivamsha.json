@@ -52296,5 +52296,9 @@
  "needs_ocr": false,
  "alignment": "row_aligned",
  "slice_of": null,
- "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering.  [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is]"
+ "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering.  [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is]",
+ "reference_type": "translation",
+ "english_rights": [
+  "cc_by_sa"
+ ]
 }

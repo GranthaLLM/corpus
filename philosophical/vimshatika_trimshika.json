@@ -1154,5 +1154,9 @@
  "needs_ocr": false,
  "alignment": "row_aligned",
  "slice_of": null,
- "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. TSV file name and content indicate the Viṃśatikā with its commentary (The Twenty Verses and Their Commentary); check whether the Triṃśikā is present before treating this as covering both works. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is]"
+ "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. TSV file name and content indicate the Viṃśatikā with its commentary (The Twenty Verses and Their Commentary); check whether the Triṃśikā is present before treating this as covering both works. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is]",
+ "reference_type": "translation",
+ "english_rights": [
+  "cc_by_sa"
+ ]
 }

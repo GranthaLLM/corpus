@@ -2403,5 +2403,9 @@
   "file": "GE07mbh-ganguly.tsv",
   "rows": "27805-28144"
  },
- "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. Slice = Udyoga Parva Sections XLI-XLVI (Sanat-sujata Parva), rows 27805-28144 of the source TSV; Section XLVII narrative conclusion excluded. Boundaries set by where the Sanskrit of each section begins; the first row's English carries a verbatim tail of the preceding section (source English column lags mid-row). Verify against the printed text before use. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is]"
+ "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. Slice = Udyoga Parva Sections XLI-XLVI (Sanat-sujata Parva), rows 27805-28144 of the source TSV; Section XLVII narrative conclusion excluded. Boundaries set by where the Sanskrit of each section begins; the first row's English carries a verbatim tail of the preceding section (source English column lags mid-row). Verify against the printed text before use. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is]",
+ "reference_type": "translation",
+ "english_rights": [
+  "cc_by_sa"
+ ]
 }

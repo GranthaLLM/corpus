@@ -2988,5 +2988,9 @@
  "needs_ocr": false,
  "alignment": "row_aligned",
  "slice_of": null,
- "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. 424 rows hold 519 verses (some rows pack two verses, '//' ends a verse). The source file ends at the wedding of Shiva and Parvati (canto 7); cantos 8-17 are not in the Mitrasamgraha dataset, so this file is partial relative to the full poem. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is]"
+ "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. 424 rows hold 519 verses (some rows pack two verses, '//' ends a verse). The source file ends at the wedding of Shiva and Parvati (canto 7); cantos 8-17 are not in the Mitrasamgraha dataset, so this file is partial relative to the full poem. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is]",
+ "reference_type": "translation",
+ "english_rights": [
+  "cc_by_sa"
+ ]
 }

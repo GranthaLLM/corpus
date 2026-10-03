@@ -6,7 +6,7 @@ KINDS = {"verse", "sutra", "prose", "group"}
 UNIT_KEYS = {"ref", "kind", "scope", "sanskrit", "english", "parts", "meta"}
 REQUIRED = {"ref", "kind", "scope", "sanskrit", "english"}
 ROLES = {"mula", "bhashya", "tatparya"}
-TOP = {"id", "text", "tradition", "commentator", "script", "units", "source_sanskrit", "source_english", "bundled", "needs_ocr", "alignment", "slice_of", "notes"}
+TOP = {"id", "text", "tradition", "commentator", "script", "units", "source_sanskrit", "source_english", "bundled", "needs_ocr", "alignment", "slice_of", "notes", "reference_type", "english_rights"}
 
 
 def check(f):

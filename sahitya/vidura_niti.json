@@ -5168,5 +5168,9 @@
   "file": "GE07mbh-ganguly.tsv",
   "rows": "27070-27804"
  },
- "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. Slice = Udyoga Parva Sections XXXIII-XL (Vidura-Prajagara), rows 27070-27804. Boundaries set by where the Sanskrit of Section XXXIII begins; verify. English of the first row carries the verbatim tail of the preceding section because the source English column lags mid-row. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is]"
+ "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. Slice = Udyoga Parva Sections XXXIII-XL (Vidura-Prajagara), rows 27070-27804. Boundaries set by where the Sanskrit of Section XXXIII begins; verify. English of the first row carries the verbatim tail of the preceding section because the source English column lags mid-row. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is]",
+ "reference_type": "translation",
+ "english_rights": [
+  "cc_by_sa"
+ ]
 }

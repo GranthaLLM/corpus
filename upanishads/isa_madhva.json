@@ -352,5 +352,9 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit from Setutila/Sarvamula JSON/ishavasya_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. English from wisdomlib matched by ref: 18 of 21 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [2 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 11, 15]"
+ "notes": "Sanskrit from Setutila/Sarvamula JSON/ishavasya_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. English from wisdomlib matched by ref: 18 of 21 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [2 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 11, 15]",
+ "reference_type": "translation",
+ "english_rights": [
+  "public_domain"
+ ]
 }

@@ -1340,5 +1340,9 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/prashna-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1928), joined by Devanagari verse text (34) or number-checked ref (32): 66 of 67 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika)."
+ "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/prashna-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1928), joined by Devanagari verse text (34) or number-checked ref (32): 66 of 67 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika).",
+ "reference_type": "translation",
+ "english_rights": [
+  "public_domain"
+ ]
 }

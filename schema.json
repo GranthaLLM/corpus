@@ -185,6 +185,28 @@
         "string",
         "null"
       ]
+    },
+    "reference_type": {
+      "type": "string",
+      "enum": [
+        "translation",
+        "interpretive",
+        "summary"
+      ],
+      "description": "translation: english translates the sanskrit; interpretive: translator's reading or expansion of it; summary: english summarises it"
+    },
+    "english_rights": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "public_domain",
+          "free_to_copy_per_author",
+          "cc_by_sa",
+          "in_copyright_or_unclear"
+        ]
+      },
+      "description": "rights status of the english sources used in the file; check before redistribution"
     }
   }
 }
