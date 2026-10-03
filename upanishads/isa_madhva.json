@@ -10,15 +10,17 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "ॐ॥ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते।\nपूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते॥\nओ३म् शान्तिः शान्तिः शान्तिः॥ ०॥\nॐ॥ नित्यानित्यजगद्धात्रे नित्याय ज्ञानमूर्तये।\nपूर्णानन्दाय हरये सर्वयज्ञभुजे नमः॥॥\nयस्माद् ब्रह्मेन्द्ररुद्रादिदेवतानां श्रियोऽपि च।\nज्ञानस्फूर्तिः सदा तस्मै हरये गुरवे नमः॥॥",
-   "english": null,
+   "english": "That is Full, this is full, from that Full, this full emanates. Taking away this full from that Full, the Full still remains behind. Om. Peace, Peace, Peace.\nSalutation to Hari, the Lord of all Sacrifices, who is full of bliss, whose body is of wisdom, and who is eternal, and the upholder of this universe which consists of the eternals and non-eternals. Salutation to the Guru, and to Hari from whom alone comes incessantly the illumination and increase of the knowledge of Brahmā, Rudra and of other devas, and even of Śrī.",
    "parts": [
     {
      "role": "mula",
-     "sanskrit": "ॐ॥ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते।\nपूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते॥\nओ३म् शान्तिः शान्तिः शान्तिः॥ ०॥"
+     "sanskrit": "ॐ॥ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते।\nपूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते॥\nओ३म् शान्तिः शान्तिः शान्तिः॥ ०॥",
+     "english": "That is Full, this is full, from that Full, this full emanates. Taking away this full from that Full, the Full still remains behind. Om. Peace, Peace, Peace."
     },
     {
      "role": "bhashya",
-     "sanskrit": "ॐ॥ नित्यानित्यजगद्धात्रे नित्याय ज्ञानमूर्तये।\nपूर्णानन्दाय हरये सर्वयज्ञभुजे नमः॥॥\nयस्माद् ब्रह्मेन्द्ररुद्रादिदेवतानां श्रियोऽपि च।\nज्ञानस्फूर्तिः सदा तस्मै हरये गुरवे नमः॥॥"
+     "sanskrit": "ॐ॥ नित्यानित्यजगद्धात्रे नित्याय ज्ञानमूर्तये।\nपूर्णानन्दाय हरये सर्वयज्ञभुजे नमः॥॥\nयस्माद् ब्रह्मेन्द्ररुद्रादिदेवतानां श्रियोऽपि च।\nज्ञानस्फूर्तिः सदा तस्मै हरये गुरवे नमः॥॥",
+     "english": "Salutation to Hari, the Lord of all Sacrifices, who is full of bliss, whose body is of wisdom, and who is eternal, and the upholder of this universe which consists of the eternals and non-eternals. Salutation to the Guru, and to Hari from whom alone comes incessantly the illumination and increase of the knowledge of Brahmā, Rudra and of other devas, and even of Śrī."
     }
    ]
   },
@@ -318,7 +320,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते।\nपूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते॥\nओ३म् शान्तिः शान्तिः शान्तिः॥ ००॥",
-   "english": null
+   "english": "That is Full, this is full, from that Full, this full emanates. Taking away this full from that Full, the Full still remains behind. Om. Peace, Peace, Peace."
   },
   {
    "ref": "colophon21",
@@ -352,7 +354,7 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit from Setutila/Sarvamula JSON/ishavasya_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. English from wisdomlib matched by ref: 18 of 21 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [2 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 11, 15] Stray source marks were removed from the Sanskrit (editorial brackets, asterisks, page headers, watermark text, OCR pipes for dandas).",
+ "notes": "Sanskrit from Setutila/Sarvamula JSON/ishavasya_bhashya.json (CC0, Tattvavada corpus; Madhva bhashya). ref = verse number path as printed in Setutila (Devanagari digits converted). sanskrit = mula + bhashya, mula part/bhashya part separate. English from wisdomlib matched by ref: 18 of 21 units have english (english = mula translation + commentary translation; mula english/bhashya english separate). Unmatched units have english null. [2 units where the source has no Sanskrit commentary but english covered verse plus commentary: english is now the verse translation only and the commentary translation is kept in parts (bhashya, english only): 11, 15] Stray source marks were removed from the Sanskrit (editorial brackets, asterisks, page headers, watermark text, OCR pipes for dandas). The shanti mantra and Madhva's two opening salutations (intro) are Vasu's translation as given on wisdomlib, without his notes.",
  "reference_type": "translation",
  "english_rights": [
   "public_domain"
