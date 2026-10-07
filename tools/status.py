@@ -38,7 +38,7 @@ def table():
 
 
 AUTHOR = {
-    "samkhyakarika": "Īśvarakṛṣṇa", "sarvadarshanasamgraha": "Mādhava", "tarkasamgraha": "Annambhaṭṭa",
+    "samkhyakarika": "Īśvarakṛṣṇa", "sarvadarshanasamgraha": "Mādhava Vidyāraṇya", "tarkasamgraha": "Annambhaṭṭa",
     "vimshatika_trimshika": "Vasubandhu", "harivamsha": "Vyāsa", "kumarasambhava": "Kālidāsa",
     "shatakatraya": "Bhartṛhari", "sanatsujatiya": "Vyāsa", "vidura_niti": "Vyāsa",
     "yaksha_prashna": "Vyāsa", "bhagavata_kapila": "Vyāsa", "bhagavata_uddhava": "Vyāsa",
