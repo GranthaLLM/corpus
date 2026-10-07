@@ -40,24 +40,38 @@ def table():
 MIX = {"text": "text", "mula": "mula", "commentary": "commentary", "mula+commentary": "mula+commentary"}
 
 
+AUTHOR = {
+    "samkhyakarika": "Īśvarakṛṣṇa", "sarvadarshanasamgraha": "Mādhava", "tarkasamgraha": "Annambhaṭṭa",
+    "vimshatika_trimshika": "Vasubandhu", "harivamsha": "Vyāsa (traditional)", "kumarasambhava": "Kālidāsa",
+    "shatakatraya": "Bhartṛhari", "sanatsujatiya": "Vyāsa (traditional)", "vidura_niti": "Vyāsa (traditional)",
+    "yaksha_prashna": "Vyāsa (traditional)", "bhagavata_kapila": "Vyāsa (traditional)", "bhagavata_uddhava": "Vyāsa (traditional)",
+}
+
+
+def title(t):
+    t = re.sub(r"(Madhva|Śāṃkara|Rāmānuja)bhāṣya\b", "Bhāṣya", t)
+    t = t.replace(" (Padabhāṣya)", "")
+    return re.sub(r"\s+of\s+(Madhva|Rāmānuja|Rāghavendratīrtha|Annambhaṭṭa|Mādhava|Vasubandhu|Īśvarakṛṣṇa)$", "", t)
+
+
 def files_table():
-    lines = ["| File | Work | Tradition | Units | Scoreable | Scope mix | Reference type |", "|---|---|---|---|---|---|---|"]
-    tot = ok_tot = 0
+    lines = ["| Work | Author | Units | Scope mix | Reference type |", "|---|---|---|---|---|"]
+    tot = 0
     for f in sorted(glob.glob(str(ROOT / "*" / "*.json"))):
         rel = f[len(str(ROOT)) + 1:]
         if rel.split("/")[0] in ("raw", "spotcheck") or rel == "schema.json":
             continue
         d = json.loads(open(f, encoding="utf-8").read())
         us = d["units"]
-        ok = sum(1 for u in us if u.get("sanskrit") and u.get("english"))
         tot += len(us)
-        ok_tot += ok
         mix = {}
         for u in us:
             mix[u["scope"]] = mix.get(u["scope"], 0) + 1
         mx = ", ".join(f"{MIX[k]} {v}" for k, v in sorted(mix.items(), key=lambda kv: -kv[1]))
-        lines.append(f"| `{rel}` | {d['text']} | {d.get('tradition') or '-'} | {len(us)} | {ok} | {mx} | {d.get('reference_type') or '-'} |")
-    lines.append(f"| **Total** | | | **{tot}** | **{ok_tot}** | | |")
+        stem = rel.split("/")[-1][:-5]
+        author = AUTHOR.get(stem) or d.get("commentator") or "-"
+        lines.append(f"| {title(d['text'])} | {author} | {len(us)} | {mx} | {d.get('reference_type') or '-'} |")
+    lines.append(f"| **Total** | | **{tot}** | | |")
     return "\n".join(lines)
 
 
