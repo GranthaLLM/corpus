@@ -416,16 +416,17 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "अथ प्राणमत्यवहत् ; स यदा मृत्युमत्यमुच्यत स वायुरभवत् ; सोऽयं वायुः परेण मृत्युमतिक्रान्तः पवते ॥ १३ ॥\nतथा — प्राणः घ्राणम् — वायुरभवत् ; स तु पवते मृत्युं परेणातिक्रान्तः । सर्वमन्यदुक्तार्थम् ॥",
-   "english": "13. Then it carried the nose. When it got rid of death, it became air. That air, having transcended death, blows beyond its reach.\nSimilarly the nose became air. It, having transcended death, blows beyond its reach. The rest has been explained.",
+   "english": "Then it carried the nose. When it got rid of death, it became air. That air, having transcended death, blows beyond its reach.\nSimilarly the nose became air. It, having transcended death, blows beyond its reach. The rest has been explained.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "अथ प्राणमत्यवहत् ; स यदा मृत्युमत्यमुच्यत स वायुरभवत् ; सोऽयं वायुः परेण मृत्युमतिक्रान्तः पवते ॥ १३ ॥",
-     "english": "13. Then it carried the nose. When it got rid of death, it became air. That air, having transcended death, blows beyond its reach.\nSimilarly the nose became air. It, having transcended death, blows beyond its reach. The rest has been explained."
+     "english": "Then it carried the nose. When it got rid of death, it became air. That air, having transcended death, blows beyond its reach."
     },
     {
      "role": "bhashya",
-     "sanskrit": "तथा — प्राणः घ्राणम् — वायुरभवत् ; स तु पवते मृत्युं परेणातिक्रान्तः । सर्वमन्यदुक्तार्थम् ॥"
+     "sanskrit": "तथा — प्राणः घ्राणम् — वायुरभवत् ; स तु पवते मृत्युं परेणातिक्रान्तः । सर्वमन्यदुक्तार्थम् ॥",
+     "english": "Similarly the nose became air. It, having transcended death, blows beyond its reach. The rest has been explained."
     }
    ]
   },
@@ -452,16 +453,17 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "अथ श्रोत्रमत्यवहत् ; तद्यदा मृत्युमत्यमुच्यत ता दिशोऽभवंस्ता इमा दिशः परेण मृत्युमतिक्रान्ताः ॥ १५ ॥\nतथा श्रोत्रं दिशोऽभवन् ; दिशः प्राच्यादिविभागेनावस्थिताः ॥",
-   "english": "15. Then it carried the ear. When the ear got rid of death, it became the quarters. Those quarters, having transcended death, remain beyond its reach.\nSimilarly the ear became the quarters. The quarters remain, divided into the east and so forth.",
+   "english": "Then it carried the ear. When the ear got rid of death, it became the quarters. Those quarters, having transcended death, remain beyond its reach.\nSimilarly the ear became the quarters. The quarters remain, divided into the east and so forth.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "अथ श्रोत्रमत्यवहत् ; तद्यदा मृत्युमत्यमुच्यत ता दिशोऽभवंस्ता इमा दिशः परेण मृत्युमतिक्रान्ताः ॥ १५ ॥",
-     "english": "15. Then it carried the ear. When the ear got rid of death, it became the quarters. Those quarters, having transcended death, remain beyond its reach.\nSimilarly the ear became the quarters. The quarters remain, divided into the east and so forth."
+     "english": "Then it carried the ear. When the ear got rid of death, it became the quarters. Those quarters, having transcended death, remain beyond its reach."
     },
     {
      "role": "bhashya",
-     "sanskrit": "तथा श्रोत्रं दिशोऽभवन् ; दिशः प्राच्यादिविभागेनावस्थिताः ॥"
+     "sanskrit": "तथा श्रोत्रं दिशोऽभवन् ; दिशः प्राच्यादिविभागेनावस्थिताः ॥",
+     "english": "Similarly the ear became the quarters. The quarters remain, divided into the east and so forth."
     }
    ]
   },
@@ -1150,16 +1152,17 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "पिता माता प्रजैत एव मन एव पिता वाङ्माता प्राणः प्रजा ॥ ७ ॥\nतथा त्रयो वेदा इत्यादीनि वाक्यानि ऋज्वर्थानि ॥",
-   "english": "7. These are the father, mother and child. The mind is the father, the organ of speech the mother, and the vital force the child.\nSimilarly these are the three Vedas, etc. These sentences are all easy.",
+   "english": "These are the father, mother and child. The mind is the father, the organ of speech the mother, and the vital force the child.\nSimilarly these are the three Vedas, etc. These sentences are all easy.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "पिता माता प्रजैत एव मन एव पिता वाङ्माता प्राणः प्रजा ॥ ७ ॥",
-     "english": "7. These are the father, mother and child. The mind is the father, the organ of speech the mother, and the vital force the child.\nSimilarly these are the three Vedas, etc. These sentences are all easy."
+     "english": "These are the father, mother and child. The mind is the father, the organ of speech the mother, and the vital force the child."
     },
     {
      "role": "bhashya",
-     "sanskrit": "तथा त्रयो वेदा इत्यादीनि वाक्यानि ऋज्वर्थानि ॥"
+     "sanskrit": "तथा त्रयो वेदा इत्यादीनि वाक्यानि ऋज्वर्थानि ॥",
+     "english": "Similarly these are the three Vedas, etc. These sentences are all easy."
     }
    ]
   },
@@ -1616,16 +1619,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "स होवाच गार्ग्यो य एवासौ विद्युति पुरुष एतमेवाहं ब्रह्मोपास इति स होवाचाजातशत्रुर्मा मैतस्मिन्संवदिष्ठास्तेजस्वीति वा अहमेतमुपास इति स य एतमेवमुपास्ते तेजस्वी ह भवति तेजस्विनी हास्य प्रजा भवति ॥ ४ ॥\nतथा विद्युति त्वचि हृदये च एका देवता ; तेजस्वीति विशेषणम् ; तस्यास्तत्फलम् — तेजस्वी ह भवति तेजस्विनी हास्य प्रजा भवति — विद्युतां बहुत्वस्याङ्गीकरणात् आत्मनि प्रजायां च फलबाहुल्यम् ॥",
-   "english": "4. Gārgya said, ‘That being who is in lightning, I meditate upon as Brahman.’ Ajātaśatru said, ‘Please don’t talk about him. I meditate upon him as powerful.’ He who meditates upon him as such becomes powerful, and his progeny too becomes powerful.\nLikewise there is one god in lightning, the skin and the heart. Powerful is the attribute. The result of this meditation is that he becomes powerful, and his progeny too becomes powerful. Because lightning may be of diverse forms, the result of the meditation reaches his progeny as well as himself.",
+   "english": "Gārgya said, ‘That being who is in lightning, I meditate upon as Brahman.’ Ajātaśatru said, ‘Please don’t talk about him. I meditate upon him as powerful.’ He who meditates upon him as such becomes powerful, and his progeny too becomes powerful.\nLikewise there is one god in lightning, the skin and the heart. Powerful is the attribute. The result of this meditation is that he becomes powerful, and his progeny too becomes powerful. Because lightning may be of diverse forms, the result of the meditation reaches his progeny as well as himself.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "स होवाच गार्ग्यो य एवासौ विद्युति पुरुष एतमेवाहं ब्रह्मोपास इति स होवाचाजातशत्रुर्मा मैतस्मिन्संवदिष्ठास्तेजस्वीति वा अहमेतमुपास इति स य एतमेवमुपास्ते तेजस्वी ह भवति तेजस्विनी हास्य प्रजा भवति ॥ ४ ॥",
-     "english": "4. Gārgya said, ‘That being who is in lightning, I meditate upon as Brahman.’ Ajātaśatru said, ‘Please don’t talk about him. I meditate upon him as powerful.’ He who meditates upon him as such becomes powerful, and his progeny too becomes powerful.\nLikewise there is one god in lightning, the skin and the heart. Powerful is the attribute. The result of this meditation is that he becomes powerful, and his progeny too becomes powerful. Because lightning may be of diverse forms, the result of the meditation reaches his progeny as well as himself."
+     "english": "Gārgya said, ‘That being who is in lightning, I meditate upon as Brahman.’ Ajātaśatru said, ‘Please don’t talk about him. I meditate upon him as powerful.’ He who meditates upon him as such becomes powerful, and his progeny too becomes powerful."
     },
     {
      "role": "bhashya",
-     "sanskrit": "तथा विद्युति त्वचि हृदये च एका देवता ; तेजस्वीति विशेषणम् ; तस्यास्तत्फलम् — तेजस्वी ह भवति तेजस्विनी हास्य प्रजा भवति — विद्युतां बहुत्वस्याङ्गीकरणात् आत्मनि प्रजायां च फलबाहुल्यम् ॥"
+     "sanskrit": "तथा विद्युति त्वचि हृदये च एका देवता ; तेजस्वीति विशेषणम् ; तस्यास्तत्फलम् — तेजस्वी ह भवति तेजस्विनी हास्य प्रजा भवति — विद्युतां बहुत्वस्याङ्गीकरणात् आत्मनि प्रजायां च फलबाहुल्यम् ॥",
+     "english": "Likewise there is one god in lightning, the skin and the heart. Powerful is the attribute. The result of this meditation is that he becomes powerful, and his progeny too becomes powerful. Because lightning may be of diverse forms, the result of the meditation reaches his progeny as well as himself."
     }
    ]
   },
@@ -1672,16 +1676,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "स होवाच गार्ग्यो य एवायमग्नौ पुरुष एतमेवाहं ब्रह्मोपास इति स होवाचाजातशत्रुर्मा मैतस्मिन्संवदिष्ठा विषासहिरिति वा अहमेतमुपास इति स य एतमेवमुपास्ते विषासहिर्ह भवति विषासहिर्हास्य प्रजा भवति ॥ ७ ॥\nअग्नौ वाचि हृदि च एका देवता ; तस्या विशेषणम् — विषासहिः मर्षयिता परेषाम् अग्निबाहुल्यात् फलबाहुल्यं पूर्ववत् ॥",
-   "english": "7. Gārgya said, ‘This being who is in fire, I meditate upon as Brahman.’ Ajātaśatru said, ‘Please don’t talk about him. I meditate upon him as forbearing.’ He who meditates upon him as such becomes forbearing, and his progeny too becomes forbearing.\nThere is one god in fire, speech and the heart. Forbearing, tolerant of others, is the attribute. As fire has many forms, the result includes the progeny, as before.",
+   "english": "Gārgya said, ‘This being who is in fire, I meditate upon as Brahman.’ Ajātaśatru said, ‘Please don’t talk about him. I meditate upon him as forbearing.’ He who meditates upon him as such becomes forbearing, and his progeny too becomes forbearing.\nThere is one god in fire, speech and the heart. Forbearing, tolerant of others, is the attribute. As fire has many forms, the result includes the progeny, as before.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "स होवाच गार्ग्यो य एवायमग्नौ पुरुष एतमेवाहं ब्रह्मोपास इति स होवाचाजातशत्रुर्मा मैतस्मिन्संवदिष्ठा विषासहिरिति वा अहमेतमुपास इति स य एतमेवमुपास्ते विषासहिर्ह भवति विषासहिर्हास्य प्रजा भवति ॥ ७ ॥",
-     "english": "7. Gārgya said, ‘This being who is in fire, I meditate upon as Brahman.’ Ajātaśatru said, ‘Please don’t talk about him. I meditate upon him as forbearing.’ He who meditates upon him as such becomes forbearing, and his progeny too becomes forbearing.\nThere is one god in fire, speech and the heart. Forbearing, tolerant of others, is the attribute. As fire has many forms, the result includes the progeny, as before."
+     "english": "Gārgya said, ‘This being who is in fire, I meditate upon as Brahman.’ Ajātaśatru said, ‘Please don’t talk about him. I meditate upon him as forbearing.’ He who meditates upon him as such becomes forbearing, and his progeny too becomes forbearing."
     },
     {
      "role": "bhashya",
-     "sanskrit": "अग्नौ वाचि हृदि च एका देवता ; तस्या विशेषणम् — विषासहिः मर्षयिता परेषाम् अग्निबाहुल्यात् फलबाहुल्यं पूर्ववत् ॥"
+     "sanskrit": "अग्नौ वाचि हृदि च एका देवता ; तस्या विशेषणम् — विषासहिः मर्षयिता परेषाम् अग्निबाहुल्यात् फलबाहुल्यं पूर्ववत् ॥",
+     "english": "There is one god in fire, speech and the heart. Forbearing, tolerant of others, is the attribute. As fire has many forms, the result includes the progeny, as before."
     }
    ]
   },
@@ -1709,16 +1714,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "स होवाच गार्ग्यो य एवायमादर्शे पुरुष एतमेवाहं ब्रह्मोपास इति स होवाचाजातशत्रुर्मा मैतस्मिन्संवदिष्ठा रोचिष्णुरिति वा अहमेतमुपास इति स य एतमेवमुपास्ते रोचिष्णुर्ह भवति रोचिष्णुर्हास्य प्रजा भवत्यथो यैः सन्निगच्छति सर्वां स्तानतिरोचते ॥ ९ ॥\nआदर्शे प्रसादस्वभावे चान्यत्र खड्गादौ, हार्दे च सत्त्वशुद्धिस्वाभाव्ये च एका देवता ; तस्या विशेषणम् — रोचिष्णुः दीप्तिस्वभावः ; फलं च तदेव, रोचनाधारबाहुल्यात्फलबाहुल्यम् ॥",
-   "english": "9. Gārgya said, ‘This being who is in a looking-glass and m other reflecting objects such as a sword, and in the intellect, which is pure of material. Shining, naturally bright, is the attribute. The result of the meditation is likewise. The progeny is included in the result, because there are many shining objects.\nThere is one god in a looking-glass and in other reflecting objects such as a sword, and in the intellect, which is pure of material. Shining, naturally bright, is the attribute. The result of the meditation is likewise. The progeny is included in the result, because there are many shining objects.",
+   "english": "Gārgya said, ‘This being who is in a looking-glass and m other reflecting objects such as a sword, and in the intellect, which is pure of material. Shining, naturally bright, is the attribute. The result of the meditation is likewise. The progeny is included in the result, because there are many shining objects.\nThere is one god in a looking-glass and in other reflecting objects such as a sword, and in the intellect, which is pure of material. Shining, naturally bright, is the attribute. The result of the meditation is likewise. The progeny is included in the result, because there are many shining objects.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "स होवाच गार्ग्यो य एवायमादर्शे पुरुष एतमेवाहं ब्रह्मोपास इति स होवाचाजातशत्रुर्मा मैतस्मिन्संवदिष्ठा रोचिष्णुरिति वा अहमेतमुपास इति स य एतमेवमुपास्ते रोचिष्णुर्ह भवति रोचिष्णुर्हास्य प्रजा भवत्यथो यैः सन्निगच्छति सर्वां स्तानतिरोचते ॥ ९ ॥",
-     "english": "9. Gārgya said, ‘This being who is in a looking-glass and m other reflecting objects such as a sword, and in the intellect, which is pure of material. Shining, naturally bright, is the attribute. The result of the meditation is likewise. The progeny is included in the result, because there are many shining objects.\nThere is one god in a looking-glass and in other reflecting objects such as a sword, and in the intellect, which is pure of material. Shining, naturally bright, is the attribute. The result of the meditation is likewise. The progeny is included in the result, because there are many shining objects."
+     "english": "Gārgya said, ‘This being who is in a looking-glass and m other reflecting objects such as a sword, and in the intellect, which is pure of material. Shining, naturally bright, is the attribute. The result of the meditation is likewise. The progeny is included in the result, because there are many shining objects."
     },
     {
      "role": "bhashya",
-     "sanskrit": "आदर्शे प्रसादस्वभावे चान्यत्र खड्गादौ, हार्दे च सत्त्वशुद्धिस्वाभाव्ये च एका देवता ; तस्या विशेषणम् — रोचिष्णुः दीप्तिस्वभावः ; फलं च तदेव, रोचनाधारबाहुल्यात्फलबाहुल्यम् ॥"
+     "sanskrit": "आदर्शे प्रसादस्वभावे चान्यत्र खड्गादौ, हार्दे च सत्त्वशुद्धिस्वाभाव्ये च एका देवता ; तस्या विशेषणम् — रोचिष्णुः दीप्तिस्वभावः ; फलं च तदेव, रोचनाधारबाहुल्यात्फलबाहुल्यम् ॥",
+     "english": "There is one god in a looking-glass and in other reflecting objects such as a sword, and in the intellect, which is pure of material. Shining, naturally bright, is the attribute. The result of the meditation is likewise. The progeny is included in the result, because there are many shining objects."
     }
    ]
   },
@@ -1765,16 +1771,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "स होवाच गार्ग्यो य एवायं छायामयः पुरुष एतमेवाहं ब्रह्मोपास इति स होवाचाजातशत्रुर्मा मैतस्मिन्संवदिष्ठा मृत्युरिति वा अहमेतमुपास इति स य एतमेवमुपास्ते सर्वं हैवास्मिंल्लोक आयुरेति नैनं पुरा कालान्मृत्युरागच्छति ॥ १२ ॥\nछायायां बाह्ये तमसि अध्यात्मं च आवरणात्मकेऽज्ञाने हृदि च एका देवता, तस्या विशेषणम् — मृत्युः ; फलं सर्वं पूर्ववत् , मृत्योरनागमनेन रोगादिपीडाभावो विशेषः ॥",
-   "english": "12. Gārgya said, ‘This being who identifies himself with the shadow, I meditate upon as Brahman.’ Ajātaśatru said, ‘Please don't talk about him. I meditate upon him as death.’ He who meditates upon him as such attains his full term of life in this world, and death does not overtake him before the completion of that term.\nThere is one god in the shadow or external darkness, internally in ignorance, which is a veil, and in the heart. His attribute is death. The result of the meditation is as before, the only difference being that in the absence of premature death he is free from suffering due to disease etc.",
+   "english": "Gārgya said, ‘This being who identifies himself with the shadow, I meditate upon as Brahman.’ Ajātaśatru said, ‘Please don't talk about him. I meditate upon him as death.’ He who meditates upon him as such attains his full term of life in this world, and death does not overtake him before the completion of that term.\nThere is one god in the shadow or external darkness, internally in ignorance, which is a veil, and in the heart. His attribute is death. The result of the meditation is as before, the only difference being that in the absence of premature death he is free from suffering due to disease etc.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "स होवाच गार्ग्यो य एवायं छायामयः पुरुष एतमेवाहं ब्रह्मोपास इति स होवाचाजातशत्रुर्मा मैतस्मिन्संवदिष्ठा मृत्युरिति वा अहमेतमुपास इति स य एतमेवमुपास्ते सर्वं हैवास्मिंल्लोक आयुरेति नैनं पुरा कालान्मृत्युरागच्छति ॥ १२ ॥",
-     "english": "12. Gārgya said, ‘This being who identifies himself with the shadow, I meditate upon as Brahman.’ Ajātaśatru said, ‘Please don't talk about him. I meditate upon him as death.’ He who meditates upon him as such attains his full term of life in this world, and death does not overtake him before the completion of that term.\nThere is one god in the shadow or external darkness, internally in ignorance, which is a veil, and in the heart. His attribute is death. The result of the meditation is as before, the only difference being that in the absence of premature death he is free from suffering due to disease etc."
+     "english": "Gārgya said, ‘This being who identifies himself with the shadow, I meditate upon as Brahman.’ Ajātaśatru said, ‘Please don't talk about him. I meditate upon him as death.’ He who meditates upon him as such attains his full term of life in this world, and death does not overtake him before the completion of that term."
     },
     {
      "role": "bhashya",
-     "sanskrit": "छायायां बाह्ये तमसि अध्यात्मं च आवरणात्मकेऽज्ञाने हृदि च एका देवता, तस्या विशेषणम् — मृत्युः ; फलं सर्वं पूर्ववत् , मृत्योरनागमनेन रोगादिपीडाभावो विशेषः ॥"
+     "sanskrit": "छायायां बाह्ये तमसि अध्यात्मं च आवरणात्मकेऽज्ञाने हृदि च एका देवता, तस्या विशेषणम् — मृत्युः ; फलं सर्वं पूर्ववत् , मृत्योरनागमनेन रोगादिपीडाभावो विशेषः ॥",
+     "english": "There is one god in the shadow or external darkness, internally in ignorance, which is a veil, and in the heart. His attribute is death. The result of the meditation is as before, the only difference being that in the absence of premature death he is free from suffering due to disease etc."
     }
    ]
   },
@@ -2496,16 +2503,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "अयमग्निः सर्वेषां भूतानां मध्वस्याग्नेः सर्वाणि भूतानि मधु यश्चायमस्मिन्नग्नौ तेजोमयोऽमृतमयः पुरुषो यश्चायमध्यात्मं वाङ्मयस्तेजोमयोऽमृतमयः पुरुषोऽयमेव स योऽयमात्मेदममृतमिदं ब्रह्मेदं सर्वम् ॥ ३ ॥\nतथा अग्निः । वाचि अग्नेर्विशेषतोऽवस्थानम् ॥",
-   "english": "3. This fire is like honey to all beings, and all beings are like honey to this fire. (The same with) the shining, immortal being who is in this fire, and the shining, immortal being identified with the organ of speech in the body. (These four) are but this Self. This (Self-knowledge) is (the means of) immortality, this (underlying unity) is Brahman, this (knowledge of Brahman) is (the means of becoming) all.\nSimilarly fire. It exists specially in the organ of speech.",
+   "english": "This fire is like honey to all beings, and all beings are like honey to this fire. (The same with) the shining, immortal being who is in this fire, and the shining, immortal being identified with the organ of speech in the body. (These four) are but this Self. This (Self-knowledge) is (the means of) immortality, this (underlying unity) is Brahman, this (knowledge of Brahman) is (the means of becoming) all.\nSimilarly fire. It exists specially in the organ of speech.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "अयमग्निः सर्वेषां भूतानां मध्वस्याग्नेः सर्वाणि भूतानि मधु यश्चायमस्मिन्नग्नौ तेजोमयोऽमृतमयः पुरुषो यश्चायमध्यात्मं वाङ्मयस्तेजोमयोऽमृतमयः पुरुषोऽयमेव स योऽयमात्मेदममृतमिदं ब्रह्मेदं सर्वम् ॥ ३ ॥",
-     "english": "3. This fire is like honey to all beings, and all beings are like honey to this fire. (The same with) the shining, immortal being who is in this fire, and the shining, immortal being identified with the organ of speech in the body. (These four) are but this Self. This (Self-knowledge) is (the means of) immortality, this (underlying unity) is Brahman, this (knowledge of Brahman) is (the means of becoming) all.\nSimilarly fire. It exists specially in the organ of speech."
+     "english": "This fire is like honey to all beings, and all beings are like honey to this fire. (The same with) the shining, immortal being who is in this fire, and the shining, immortal being identified with the organ of speech in the body. (These four) are but this Self. This (Self-knowledge) is (the means of) immortality, this (underlying unity) is Brahman, this (knowledge of Brahman) is (the means of becoming) all."
     },
     {
      "role": "bhashya",
-     "sanskrit": "तथा अग्निः । वाचि अग्नेर्विशेषतोऽवस्थानम् ॥"
+     "sanskrit": "तथा अग्निः । वाचि अग्नेर्विशेषतोऽवस्थानम् ॥",
+     "english": "Similarly fire. It exists specially in the organ of speech."
     }
    ]
   },
@@ -2533,16 +2541,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "अयमादित्यः सर्वेषां भूतानां मध्वस्यादित्यस्य सर्वाणि भूतानि मधु यश्चायमस्मिन्नादित्ये तेजोमयोऽमृतमयः पुरुषो यश्चायमध्यात्मं चाक्षुषस्तेजोमयोऽमृतमयः पुरुषोऽयमेव स योऽयमात्मेदममृतमिदं ब्रह्मेदं सर्वम् ॥ ५ ॥\nतथा आदित्यो मधु, चाक्षुषः अध्यात्मम् ॥",
-   "english": "5. This sun is like honey to all beings, and all beings are like honey to this sun. (The same with) the shining, immortal being who is in this sun, and the shining, immortal being identified with the eye in the body. (These four) are but this Self. This (Self-knowledge) is (the means of) immortality; this (underlying unity) is Brahman; this (knowledge of Brahman) is (the means of becoming) all.\nSo also the sun is like honey. In the body, the being identified with the eye.",
+   "english": "This sun is like honey to all beings, and all beings are like honey to this sun. (The same with) the shining, immortal being who is in this sun, and the shining, immortal being identified with the eye in the body. (These four) are but this Self. This (Self-knowledge) is (the means of) immortality; this (underlying unity) is Brahman; this (knowledge of Brahman) is (the means of becoming) all.\nSo also the sun is like honey. In the body, the being identified with the eye.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "अयमादित्यः सर्वेषां भूतानां मध्वस्यादित्यस्य सर्वाणि भूतानि मधु यश्चायमस्मिन्नादित्ये तेजोमयोऽमृतमयः पुरुषो यश्चायमध्यात्मं चाक्षुषस्तेजोमयोऽमृतमयः पुरुषोऽयमेव स योऽयमात्मेदममृतमिदं ब्रह्मेदं सर्वम् ॥ ५ ॥",
-     "english": "5. This sun is like honey to all beings, and all beings are like honey to this sun. (The same with) the shining, immortal being who is in this sun, and the shining, immortal being identified with the eye in the body. (These four) are but this Self. This (Self-knowledge) is (the means of) immortality; this (underlying unity) is Brahman; this (knowledge of Brahman) is (the means of becoming) all.\nSo also the sun is like honey. In the body, the being identified with the eye."
+     "english": "This sun is like honey to all beings, and all beings are like honey to this sun. (The same with) the shining, immortal being who is in this sun, and the shining, immortal being identified with the eye in the body. (These four) are but this Self. This (Self-knowledge) is (the means of) immortality; this (underlying unity) is Brahman; this (knowledge of Brahman) is (the means of becoming) all."
     },
     {
      "role": "bhashya",
-     "sanskrit": "तथा आदित्यो मधु, चाक्षुषः अध्यात्मम् ॥"
+     "sanskrit": "तथा आदित्यो मधु, चाक्षुषः अध्यात्मम् ॥",
+     "english": "So also the sun is like honey. In the body, the being identified with the eye."
     }
    ]
   },
@@ -2570,16 +2579,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "अयं चन्द्रः सर्वेषां भूतानां मध्वस्य चन्द्रस्य सर्वाणि भूतानि मधु यश्चायमस्मिंश्चन्द्रे तेजोमयोऽमृतमयः पुरुषो यश्चायमध्यात्मं मानसस्तेजोमयोऽमृतमयः पुरुषोऽयमेव स योऽयमात्मेदममृतमिदं ब्रह्मेदं सर्वम् ॥ ७ ॥\nतथा चन्द्रः, अध्यात्मं मानसः ॥",
-   "english": "7. This moon is like honey to all beings, and all beings are like honey to this moon. (The same with) the shining, immortal being who is in this moon, and the shining, immortal being identified with the mind in the body. (These four) are but this Self. This (Self-knowledge) is (the means of) immortality; this (underlying unity) is Brahman; this (knowledge of Brahman) is (the means of becoming) all.\nSimilarly the moon. In body, the being identified with the mind.",
+   "english": "This moon is like honey to all beings, and all beings are like honey to this moon. (The same with) the shining, immortal being who is in this moon, and the shining, immortal being identified with the mind in the body. (These four) are but this Self. This (Self-knowledge) is (the means of) immortality; this (underlying unity) is Brahman; this (knowledge of Brahman) is (the means of becoming) all.\nSimilarly the moon. In body, the being identified with the mind.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "अयं चन्द्रः सर्वेषां भूतानां मध्वस्य चन्द्रस्य सर्वाणि भूतानि मधु यश्चायमस्मिंश्चन्द्रे तेजोमयोऽमृतमयः पुरुषो यश्चायमध्यात्मं मानसस्तेजोमयोऽमृतमयः पुरुषोऽयमेव स योऽयमात्मेदममृतमिदं ब्रह्मेदं सर्वम् ॥ ७ ॥",
-     "english": "7. This moon is like honey to all beings, and all beings are like honey to this moon. (The same with) the shining, immortal being who is in this moon, and the shining, immortal being identified with the mind in the body. (These four) are but this Self. This (Self-knowledge) is (the means of) immortality; this (underlying unity) is Brahman; this (knowledge of Brahman) is (the means of becoming) all.\nSimilarly the moon. In body, the being identified with the mind."
+     "english": "This moon is like honey to all beings, and all beings are like honey to this moon. (The same with) the shining, immortal being who is in this moon, and the shining, immortal being identified with the mind in the body. (These four) are but this Self. This (Self-knowledge) is (the means of) immortality; this (underlying unity) is Brahman; this (knowledge of Brahman) is (the means of becoming) all."
     },
     {
      "role": "bhashya",
-     "sanskrit": "तथा चन्द्रः, अध्यात्मं मानसः ॥"
+     "sanskrit": "तथा चन्द्रः, अध्यात्मं मानसः ॥",
+     "english": "Similarly the moon. In body, the being identified with the mind."
     }
    ]
   },
@@ -2588,16 +2598,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "इयं विद्युत्सर्वेषां भूतानां मध्वस्यै विद्युतः सर्वाणि भूतानि मधु यश्चायमस्यां विद्युति तेजोमयोऽमृतमयः पुरुषो यश्चायमध्यात्मं तैजसस्तेजोमयोऽमृतमयः पुरुषोऽयमेव स योऽयमात्मेदममृतमिदं ब्रह्मेदं सर्वम् ॥ ८ ॥\nतथा विद्युत् , त्वक्तेजसि भवः तैजसः अध्यात्मम् ॥",
-   "english": "8. This lighthing is like honey to all beings, and all beings are like honey to this lightning. (The same with) the shining, immortal being who is in this lightning, and the shining, immortal being identified with light in the body. (These four) are but this Self. This (Self-knowledge) is (the means of) immortality; this (underlying unity) is Brahman; this (knowledge of Brahman) is (the means of becoming) all.\nSo also lightning. In the body, the being identified with the light that is in the organ of touch.",
+   "english": "This lighthing is like honey to all beings, and all beings are like honey to this lightning. (The same with) the shining, immortal being who is in this lightning, and the shining, immortal being identified with light in the body. (These four) are but this Self. This (Self-knowledge) is (the means of) immortality; this (underlying unity) is Brahman; this (knowledge of Brahman) is (the means of becoming) all.\nSo also lightning. In the body, the being identified with the light that is in the organ of touch.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "इयं विद्युत्सर्वेषां भूतानां मध्वस्यै विद्युतः सर्वाणि भूतानि मधु यश्चायमस्यां विद्युति तेजोमयोऽमृतमयः पुरुषो यश्चायमध्यात्मं तैजसस्तेजोमयोऽमृतमयः पुरुषोऽयमेव स योऽयमात्मेदममृतमिदं ब्रह्मेदं सर्वम् ॥ ८ ॥",
-     "english": "8. This lighthing is like honey to all beings, and all beings are like honey to this lightning. (The same with) the shining, immortal being who is in this lightning, and the shining, immortal being identified with light in the body. (These four) are but this Self. This (Self-knowledge) is (the means of) immortality; this (underlying unity) is Brahman; this (knowledge of Brahman) is (the means of becoming) all.\nSo also lightning. In the body, the being identified with the light that is in the organ of touch."
+     "english": "This lighthing is like honey to all beings, and all beings are like honey to this lightning. (The same with) the shining, immortal being who is in this lightning, and the shining, immortal being identified with light in the body. (These four) are but this Self. This (Self-knowledge) is (the means of) immortality; this (underlying unity) is Brahman; this (knowledge of Brahman) is (the means of becoming) all."
     },
     {
      "role": "bhashya",
-     "sanskrit": "तथा विद्युत् , त्वक्तेजसि भवः तैजसः अध्यात्मम् ॥"
+     "sanskrit": "तथा विद्युत् , त्वक्तेजसि भवः तैजसः अध्यात्मम् ॥",
+     "english": "So also lightning. In the body, the being identified with the light that is in the organ of touch."
     }
    ]
   },
@@ -2606,16 +2617,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "अयं स्तनयित्नुः सर्वेषां भूतानां मध्वस्य स्तनयित्नोः सर्वाणि भूतानि मधु यश्चायमस्मिन्स्तनयित्नौ तेजोमयोऽमृतमयः पुरुषो यश्चायमध्यात्मं शाब्दः सौवरस्तेजोमयोऽमृतमयः पुरुषोऽयमेव स योऽयमात्मेदममृतमिदं ब्रह्मेदं सर्वम् ॥ ९ ॥\nतथा स्तनयित्नुः । शब्दे भवः शाब्दोऽध्यात्मं यद्यपि, तथापि स्वरे विशेषतो भवतीति सौवरः अध्यात्मम् ॥",
-   "english": "9. This cloud is like honey to all beings, and all beings are like honey to this cloud. (The same with) the shining, immortal being who is in this cloud, and\" the shining, immortal being identified with sound and voice in the body. (These • four) are but this Self. This (Self-knowledge) is (the means of) immortality; this (underlying unity) is Brahman; this (knowledge of Brahman) is (the means of becoming) all.\nLikewise the cloud. Although the being identified with sound is the one represented the body, yet as he is specially manifest in voice, he is here mentioned as such.",
+   "english": "This cloud is like honey to all beings, and all beings are like honey to this cloud. (The same with) the shining, immortal being who is in this cloud, and\" the shining, immortal being identified with sound and voice in the body. (These • four) are but this Self. This (Self-knowledge) is (the means of) immortality; this (underlying unity) is Brahman; this (knowledge of Brahman) is (the means of becoming) all.\nLikewise the cloud. Although the being identified with sound is the one represented the body, yet as he is specially manifest in voice, he is here mentioned as such.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "अयं स्तनयित्नुः सर्वेषां भूतानां मध्वस्य स्तनयित्नोः सर्वाणि भूतानि मधु यश्चायमस्मिन्स्तनयित्नौ तेजोमयोऽमृतमयः पुरुषो यश्चायमध्यात्मं शाब्दः सौवरस्तेजोमयोऽमृतमयः पुरुषोऽयमेव स योऽयमात्मेदममृतमिदं ब्रह्मेदं सर्वम् ॥ ९ ॥",
-     "english": "9. This cloud is like honey to all beings, and all beings are like honey to this cloud. (The same with) the shining, immortal being who is in this cloud, and\" the shining, immortal being identified with sound and voice in the body. (These • four) are but this Self. This (Self-knowledge) is (the means of) immortality; this (underlying unity) is Brahman; this (knowledge of Brahman) is (the means of becoming) all.\nLikewise the cloud. Although the being identified with sound is the one represented the body, yet as he is specially manifest in voice, he is here mentioned as such."
+     "english": "This cloud is like honey to all beings, and all beings are like honey to this cloud. (The same with) the shining, immortal being who is in this cloud, and\" the shining, immortal being identified with sound and voice in the body. (These • four) are but this Self. This (Self-knowledge) is (the means of) immortality; this (underlying unity) is Brahman; this (knowledge of Brahman) is (the means of becoming) all."
     },
     {
      "role": "bhashya",
-     "sanskrit": "तथा स्तनयित्नुः । शब्दे भवः शाब्दोऽध्यात्मं यद्यपि, तथापि स्वरे विशेषतो भवतीति सौवरः अध्यात्मम् ॥"
+     "sanskrit": "तथा स्तनयित्नुः । शब्दे भवः शाब्दोऽध्यात्मं यद्यपि, तथापि स्वरे विशेषतो भवतीति सौवरः अध्यात्मम् ॥",
+     "english": "Likewise the cloud. Although the being identified with sound is the one represented the body, yet as he is specially manifest in voice, he is here mentioned as such."
     }
    ]
   },
@@ -2838,16 +2850,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "घृतकौशिकाद्घृतकौशिकः पाराशर्यायणात्पाराशर्यायणः पाराशर्यात्पाराशर्यो जातूकर्ण्याज्जातूकर्ण्य आसुरायणाच्च यास्काच्चासुरायणस्त्रैवणेस्त्रैवणिरौपजन्धनेरौपजन्धनिरासुरेरासुरिर्भारद्वाजाद्भारद्वाज आत्रेयादात्रेयो माण्टेर्माण्टिर्गौतमाद्गौतमो गौतमाद्गौतमो वात्स्याद्वात्स्यः शाण्डिल्याच्छाण्डिल्यः कैशोर्यात्काप्यात्कैशोर्यः काप्यः कुमारहारितात्कुमारहारितो गालवाद्गालवो विदर्भीकौण्डिन्याद्विदर्भीकौण्डिन्यो वत्सनपातो बाभ्रवाद्वत्सनपाद्बाभ्रवः पथः सौभरात्पन्थाः सौभरोऽयास्यादाङ्गिरसादयास्य आङ्गिरस आभूतेस्त्वाष्ट्रादाभूतिस्त्वाष्ट्रो विश्वरूपात्त्वाष्ट्राद्विश्वरूपस्त्वाष्ट्रोऽश्विभ्यामश्विनौ दधीच आथर्वणाद्दध्यङ्ङाथर्वणोऽथर्वणो दैवादथर्वा दैवो मृत्योः प्राध्वंसनान्मृत्युः प्राध्वंसनः प्रध्वंसनात्प्रध्वंसन एकर्षेरेकर्षिर्विप्रचित्तेर्विप्रचित्तिर्व्यष्टेर्व्यष्टिः सनारोः सनारुः सनातनात्सनातनः सनगात्सनगः परमेष्ठिनः परमेष्ठी ब्रह्मणो ब्रह्म स्वयम्भु ब्रह्मणे नमः ॥ ३ ॥\nअथेदानीं ब्रह्मविद्यार्थस्य मधुकाण्डस्य वंशः स्तुत्यर्थो ब्रह्मविद्यायाः । मन्त्रश्चायं स्वाध्यायार्थो जपार्थश्च । तत्र वंश इव वंशः — यथा वेणुः वंशः पर्वणः पर्वणो हि भिद्यते तद्वत् अग्रात्प्रभृति आ मूलप्राप्तेः अयं वंशः ; अध्यायचतुष्टयस्य आचार्यपरम्पराक्रमो वंश इत्युच्यते ; तत्र प्रथमान्तः शिष्यः पञ्चम्यन्त आचार्यः ; परमेष्ठी विराट् ; ब्रह्मणो हिरण्यगर्भात् ; ततः परम् आचार्यपरम्परा नास्ति । यत्पुनर्ब्रह्म, तन्नित्यं स्वयम्भु, तस्मै ब्रह्मणे स्वयम्भुवे नमः ॥",
-   "english": "3. From Ghṛtakauśika. Ghṛtakauśika from Pārāśaryāyaṇa. He from Pārāśarya. Pārāśarya from Jātūkarṇya. Jātūkarṇya from Āsurāyaṇa and Yāska. Āsurāyaṇa from Traivaṇi. Traivaṇi from. Aupajandhani. He from Āsuri. Āsuri from Bhāradvāja. Bhāradvāja from Ātreya. Ātreya from Māṇṭi. Māṇṭi from Gautama. Gautama from another Gautama. He from Vātsya. Vātsya from Śāṇḍilya. Śāṇḍilya from Kaiśorya Kāpya. He from Kumārahārita. Kumārahārita from Gālava. Gālava from Vidarbhīkauṇḍinya. He from Vatsanapāt Bābhrava. He from Pathin Saubhara. He from Ayāsya Āṅgirasa. He from Ābhūti Tvāṣṭra. He from Viśvarūpa Tvāṣṭra. He from the Aśvins. They from Dadhyac Ātharvaṇa. He from Atharvan Daiva. He from Mṛtyu Prādhvaṃsana. He from Prādhvaṃsana. Prādhvaṃsana from Ekarṣi. Ekarṣi from Viprachitti. Viprachitti from Vyaṣṭi. Vyaṣṭi from Sanāru. Sanāru from Sanātana. Sanātana from Sanaga. Sanaga from Parameṣṭhin (Virāj). He from Brahman (Hiraṇyagarbha). Brahman is self-born. Salutation to Brahman.\nNow the line of teachers for the first two chapters called Madhukāṇḍa, which aim at expounding the knowledge of Brahman, is being given as a eulogy on the latter. This is also a Mantra to be expounded and regularly repeated. The word ‘Vaṃśa’ (line of teachers) is so called because of its resemblance to a bamboo. Just as a bamboo is divided into sections, so is this line of teachers divided into sections beginning from the top down to the root. The order of succession of teachers of the first four chapters (of the last book of the Śatapatha Brāhmaṇa) is here spoken of as ‘Vaṃśa.’ In this list the names in the nominative case stand for the disciples, and those in the ablative case stand for the teachers. Parameṣṭhin is Virāj. From Brahman or Hiraṇyagarbha; beyond him the line of teachers does not extend. As for Brahman, It is self horn, eternal. Salutation to that eternal Brahman.\nFootnotes and references:",
+   "english": "From Ghṛtakauśika. Ghṛtakauśika from Pārāśaryāyaṇa. He from Pārāśarya. Pārāśarya from Jātūkarṇya. Jātūkarṇya from Āsurāyaṇa and Yāska. Āsurāyaṇa from Traivaṇi. Traivaṇi from. Aupajandhani. He from Āsuri. Āsuri from Bhāradvāja. Bhāradvāja from Ātreya. Ātreya from Māṇṭi. Māṇṭi from Gautama. Gautama from another Gautama. He from Vātsya. Vātsya from Śāṇḍilya. Śāṇḍilya from Kaiśorya Kāpya. He from Kumārahārita. Kumārahārita from Gālava. Gālava from Vidarbhīkauṇḍinya. He from Vatsanapāt Bābhrava. He from Pathin Saubhara. He from Ayāsya Āṅgirasa. He from Ābhūti Tvāṣṭra. He from Viśvarūpa Tvāṣṭra. He from the Aśvins. They from Dadhyac Ātharvaṇa. He from Atharvan Daiva. He from Mṛtyu Prādhvaṃsana. He from Prādhvaṃsana. Prādhvaṃsana from Ekarṣi. Ekarṣi from Viprachitti. Viprachitti from Vyaṣṭi. Vyaṣṭi from Sanāru. Sanāru from Sanātana. Sanātana from Sanaga. Sanaga from Parameṣṭhin (Virāj). He from Brahman (Hiraṇyagarbha). Brahman is self-born. Salutation to Brahman.\nNow the line of teachers for the first two chapters called Madhukāṇḍa, which aim at expounding the knowledge of Brahman, is being given as a eulogy on the latter. This is also a Mantra to be expounded and regularly repeated. The word ‘Vaṃśa’ (line of teachers) is so called because of its resemblance to a bamboo. Just as a bamboo is divided into sections, so is this line of teachers divided into sections beginning from the top down to the root. The order of succession of teachers of the first four chapters (of the last book of the Śatapatha Brāhmaṇa) is here spoken of as ‘Vaṃśa.’ In this list the names in the nominative case stand for the disciples, and those in the ablative case stand for the teachers. Parameṣṭhin is Virāj. From Brahman or Hiraṇyagarbha; beyond him the line of teachers does not extend. As for Brahman, It is self horn, eternal. Salutation to that eternal Brahman.\nFootnotes and references:",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "घृतकौशिकाद्घृतकौशिकः पाराशर्यायणात्पाराशर्यायणः पाराशर्यात्पाराशर्यो जातूकर्ण्याज्जातूकर्ण्य आसुरायणाच्च यास्काच्चासुरायणस्त्रैवणेस्त्रैवणिरौपजन्धनेरौपजन्धनिरासुरेरासुरिर्भारद्वाजाद्भारद्वाज आत्रेयादात्रेयो माण्टेर्माण्टिर्गौतमाद्गौतमो गौतमाद्गौतमो वात्स्याद्वात्स्यः शाण्डिल्याच्छाण्डिल्यः कैशोर्यात्काप्यात्कैशोर्यः काप्यः कुमारहारितात्कुमारहारितो गालवाद्गालवो विदर्भीकौण्डिन्याद्विदर्भीकौण्डिन्यो वत्सनपातो बाभ्रवाद्वत्सनपाद्बाभ्रवः पथः सौभरात्पन्थाः सौभरोऽयास्यादाङ्गिरसादयास्य आङ्गिरस आभूतेस्त्वाष्ट्रादाभूतिस्त्वाष्ट्रो विश्वरूपात्त्वाष्ट्राद्विश्वरूपस्त्वाष्ट्रोऽश्विभ्यामश्विनौ दधीच आथर्वणाद्दध्यङ्ङाथर्वणोऽथर्वणो दैवादथर्वा दैवो मृत्योः प्राध्वंसनान्मृत्युः प्राध्वंसनः प्रध्वंसनात्प्रध्वंसन एकर्षेरेकर्षिर्विप्रचित्तेर्विप्रचित्तिर्व्यष्टेर्व्यष्टिः सनारोः सनारुः सनातनात्सनातनः सनगात्सनगः परमेष्ठिनः परमेष्ठी ब्रह्मणो ब्रह्म स्वयम्भु ब्रह्मणे नमः ॥ ३ ॥",
-     "english": "3. From Ghṛtakauśika. Ghṛtakauśika from Pārāśaryāyaṇa. He from Pārāśarya. Pārāśarya from Jātūkarṇya. Jātūkarṇya from Āsurāyaṇa and Yāska. Āsurāyaṇa from Traivaṇi. Traivaṇi from. Aupajandhani. He from Āsuri. Āsuri from Bhāradvāja. Bhāradvāja from Ātreya. Ātreya from Māṇṭi. Māṇṭi from Gautama. Gautama from another Gautama. He from Vātsya. Vātsya from Śāṇḍilya. Śāṇḍilya from Kaiśorya Kāpya. He from Kumārahārita. Kumārahārita from Gālava. Gālava from Vidarbhīkauṇḍinya. He from Vatsanapāt Bābhrava. He from Pathin Saubhara. He from Ayāsya Āṅgirasa. He from Ābhūti Tvāṣṭra. He from Viśvarūpa Tvāṣṭra. He from the Aśvins. They from Dadhyac Ātharvaṇa. He from Atharvan Daiva. He from Mṛtyu Prādhvaṃsana. He from Prādhvaṃsana. Prādhvaṃsana from Ekarṣi. Ekarṣi from Viprachitti. Viprachitti from Vyaṣṭi. Vyaṣṭi from Sanāru. Sanāru from Sanātana. Sanātana from Sanaga. Sanaga from Parameṣṭhin (Virāj). He from Brahman (Hiraṇyagarbha). Brahman is self-born. Salutation to Brahman.\nNow the line of teachers for the first two chapters called Madhukāṇḍa, which aim at expounding the knowledge of Brahman, is being given as a eulogy on the latter. This is also a Mantra to be expounded and regularly repeated. The word ‘Vaṃśa’ (line of teachers) is so called because of its resemblance to a bamboo. Just as a bamboo is divided into sections, so is this line of teachers divided into sections beginning from the top down to the root. The order of succession of teachers of the first four chapters (of the last book of the Śatapatha Brāhmaṇa) is here spoken of as ‘Vaṃśa.’ In this list the names in the nominative case stand for the disciples, and those in the ablative case stand for the teachers. Parameṣṭhin is Virāj. From Brahman or Hiraṇyagarbha; beyond him the line of teachers does not extend. As for Brahman, It is self horn, eternal. Salutation to that eternal Brahman.\nFootnotes and references:"
+     "english": "From Ghṛtakauśika. Ghṛtakauśika from Pārāśaryāyaṇa. He from Pārāśarya. Pārāśarya from Jātūkarṇya. Jātūkarṇya from Āsurāyaṇa and Yāska. Āsurāyaṇa from Traivaṇi. Traivaṇi from. Aupajandhani. He from Āsuri. Āsuri from Bhāradvāja. Bhāradvāja from Ātreya. Ātreya from Māṇṭi. Māṇṭi from Gautama. Gautama from another Gautama. He from Vātsya. Vātsya from Śāṇḍilya. Śāṇḍilya from Kaiśorya Kāpya. He from Kumārahārita. Kumārahārita from Gālava. Gālava from Vidarbhīkauṇḍinya. He from Vatsanapāt Bābhrava. He from Pathin Saubhara. He from Ayāsya Āṅgirasa. He from Ābhūti Tvāṣṭra. He from Viśvarūpa Tvāṣṭra. He from the Aśvins. They from Dadhyac Ātharvaṇa. He from Atharvan Daiva. He from Mṛtyu Prādhvaṃsana. He from Prādhvaṃsana. Prādhvaṃsana from Ekarṣi. Ekarṣi from Viprachitti. Viprachitti from Vyaṣṭi. Vyaṣṭi from Sanāru. Sanāru from Sanātana. Sanātana from Sanaga. Sanaga from Parameṣṭhin (Virāj). He from Brahman (Hiraṇyagarbha). Brahman is self-born. Salutation to Brahman."
     },
     {
      "role": "bhashya",
-     "sanskrit": "अथेदानीं ब्रह्मविद्यार्थस्य मधुकाण्डस्य वंशः स्तुत्यर्थो ब्रह्मविद्यायाः । मन्त्रश्चायं स्वाध्यायार्थो जपार्थश्च । तत्र वंश इव वंशः — यथा वेणुः वंशः पर्वणः पर्वणो हि भिद्यते तद्वत् अग्रात्प्रभृति आ मूलप्राप्तेः अयं वंशः ; अध्यायचतुष्टयस्य आचार्यपरम्पराक्रमो वंश इत्युच्यते ; तत्र प्रथमान्तः शिष्यः पञ्चम्यन्त आचार्यः ; परमेष्ठी विराट् ; ब्रह्मणो हिरण्यगर्भात् ; ततः परम् आचार्यपरम्परा नास्ति । यत्पुनर्ब्रह्म, तन्नित्यं स्वयम्भु, तस्मै ब्रह्मणे स्वयम्भुवे नमः ॥"
+     "sanskrit": "अथेदानीं ब्रह्मविद्यार्थस्य मधुकाण्डस्य वंशः स्तुत्यर्थो ब्रह्मविद्यायाः । मन्त्रश्चायं स्वाध्यायार्थो जपार्थश्च । तत्र वंश इव वंशः — यथा वेणुः वंशः पर्वणः पर्वणो हि भिद्यते तद्वत् अग्रात्प्रभृति आ मूलप्राप्तेः अयं वंशः ; अध्यायचतुष्टयस्य आचार्यपरम्पराक्रमो वंश इत्युच्यते ; तत्र प्रथमान्तः शिष्यः पञ्चम्यन्त आचार्यः ; परमेष्ठी विराट् ; ब्रह्मणो हिरण्यगर्भात् ; ततः परम् आचार्यपरम्परा नास्ति । यत्पुनर्ब्रह्म, तन्नित्यं स्वयम्भु, तस्मै ब्रह्मणे स्वयम्भुवे नमः ॥",
+     "english": "Now the line of teachers for the first two chapters called Madhukāṇḍa, which aim at expounding the knowledge of Brahman, is being given as a eulogy on the latter. This is also a Mantra to be expounded and regularly repeated. The word ‘Vaṃśa’ (line of teachers) is so called because of its resemblance to a bamboo. Just as a bamboo is divided into sections, so is this line of teachers divided into sections beginning from the top down to the root. The order of succession of teachers of the first four chapters (of the last book of the Śatapatha Brāhmaṇa) is here spoken of as ‘Vaṃśa.’ In this list the names in the nominative case stand for the disciples, and those in the ablative case stand for the teachers. Parameṣṭhin is Virāj. From Brahman or Hiraṇyagarbha; beyond him the line of teachers does not extend. As for Brahman, It is self horn, eternal. Salutation to that eternal Brahman.\nFootnotes and references:"
     }
    ]
   },
@@ -3174,18 +3187,19 @@
   {
    "ref": "3.2.9",
    "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "त्वग्वै ग्रहः स स्पर्शेनातिग्राहेण गृहीतस्त्वचा हि स्पर्शान्वेदयत इत्येतेऽष्टौ ग्रहा अष्टावतिग्रहाः ॥ ९ ॥",
-   "english": "9. The skin indeed is the Graha; it is controlled by the Atigraha, touch, for one feels touch through the skin. These are the eight Grahas and eight Atigrahas..",
+   "scope": "mula+commentary",
+   "sanskrit": "त्वग्वै ग्रहः स स्पर्शेनातिग्राहेण गृहीतस्त्वचा हि स्पर्शान्वेदयत इत्येतेऽष्टौ ग्रहा अष्टावतिग्रहाः ॥ ९ ॥\nवाग्वै ग्रहः — वाचा हि अध्यात्मपरिच्छिन्नया आसङ्गविषयास्पदया असत्यानृतासभ्यबीभत्सादिवचनेषु व्यापृतया गृहीतो लोकः अपहृतः, तेन वाक् ग्रहः ; स नाम्नातिग्राहेण गृहीतः — सः वागाख्यो ग्रहः, नाम्ना वक्तव्येन विषयेण, अतिग्राहेण । अतिग्राहेणेति दैर्घ्यं छान्दसम् ; वक्तव्यार्था हि वाक् ; तेन वक्तव्येनार्थेन तादर्थ्येन प्रयुक्ता वाक् तेन वशीकृता ; तेन तत्कार्यमकृत्वा नैव तस्या मोक्षः ; अतः नाम्नातिग्राहेण गृहीता वागित्युच्यते ; वक्तव्यासङ्गेन प्रवृत्ता सर्वानर्थैर्युज्यते । समानमन्यत् । इत्येते त्वक्पर्यन्ता अष्टौ ग्रहाः स्पर्शपर्यन्ताश्चैते अष्टावतिग्रहा इति ॥",
+   "english": "The skin indeed is the Graha; it is controlled by the Atigraha, touch, for one feels touch through the skin. These are the eight Grahas and eight Atigrahas..\nThe rest is to be explained as before. These, the organs up to the skin, are the eight Grahas and the objects up to touch are the eight Atigrahas.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "त्वग्वै ग्रहः स स्पर्शेनातिग्राहेण गृहीतस्त्वचा हि स्पर्शान्वेदयत इत्येतेऽष्टौ ग्रहा अष्टावतिग्रहाः ॥ ९ ॥",
-     "english": "9. The skin indeed is the Graha; it is controlled by the Atigraha, touch, for one feels touch through the skin. These are the eight Grahas and eight Atigrahas..\nThe rest is to be explained as before. These, the organs up to the skin, are the eight Grahas and the objects up to touch are the eight Atigrahas."
+     "english": "The skin indeed is the Graha; it is controlled by the Atigraha, touch, for one feels touch through the skin. These are the eight Grahas and eight Atigrahas.."
     },
     {
      "role": "bhashya",
-     "sanskrit": "वाग्वै ग्रहः — वाचा हि अध्यात्मपरिच्छिन्नया आसङ्गविषयास्पदया असत्यानृतासभ्यबीभत्सादिवचनेषु व्यापृतया गृहीतो लोकः अपहृतः, तेन वाक् ग्रहः ; स नाम्नातिग्राहेण गृहीतः — सः वागाख्यो ग्रहः, नाम्ना वक्तव्येन विषयेण, अतिग्राहेण । अतिग्राहेणेति दैर्घ्यं छान्दसम् ; वक्तव्यार्था हि वाक् ; तेन वक्तव्येनार्थेन तादर्थ्येन प्रयुक्ता वाक् तेन वशीकृता ; तेन तत्कार्यमकृत्वा नैव तस्या मोक्षः ; अतः नाम्नातिग्राहेण गृहीता वागित्युच्यते ; वक्तव्यासङ्गेन प्रवृत्ता सर्वानर्थैर्युज्यते । समानमन्यत् । इत्येते त्वक्पर्यन्ता अष्टौ ग्रहाः स्पर्शपर्यन्ताश्चैते अष्टावतिग्रहा इति ॥"
+     "sanskrit": "वाग्वै ग्रहः — वाचा हि अध्यात्मपरिच्छिन्नया आसङ्गविषयास्पदया असत्यानृतासभ्यबीभत्सादिवचनेषु व्यापृतया गृहीतो लोकः अपहृतः, तेन वाक् ग्रहः ; स नाम्नातिग्राहेण गृहीतः — सः वागाख्यो ग्रहः, नाम्ना वक्तव्येन विषयेण, अतिग्राहेण । अतिग्राहेणेति दैर्घ्यं छान्दसम् ; वक्तव्यार्था हि वाक् ; तेन वक्तव्येनार्थेन तादर्थ्येन प्रयुक्ता वाक् तेन वशीकृता ; तेन तत्कार्यमकृत्वा नैव तस्या मोक्षः ; अतः नाम्नातिग्राहेण गृहीता वागित्युच्यते ; वक्तव्यासङ्गेन प्रवृत्ता सर्वानर्थैर्युज्यते । समानमन्यत् । इत्येते त्वक्पर्यन्ता अष्टौ ग्रहाः स्पर्शपर्यन्ताश्चैते अष्टावतिग्रहा इति ॥",
+     "english": "The rest is to be explained as before. These, the organs up to the skin, are the eight Grahas and the objects up to touch are the eight Atigrahas."
     }
    ]
   },
@@ -3793,16 +3807,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "सा होवाच यदूर्ध्वं याज्ञवल्क्य दिवो यदवाक्पृथिव्या यदन्तरा द्यावापृथिवी इमे यद्भूतं च भवच्च भविष्यच्चेत्याचक्षते कस्मिंस्तदोतं च प्रोतं चेति ॥ ६ ॥\nव्याख्यातमन्यत् । सा होवाच यदूर्ध्वं याज्ञवल्क्येत्यादिप्रश्नः प्रतिवचनं च उक्तस्यैवार्थस्यावधारणार्थं पुनरुच्यते ; न किञ्चिदपूर्वमर्थान्तरमुच्यते ॥",
-   "english": "6. She said, ‘By what, O Yājñavalkya, is that pervaded which is above heaven and below the earth, which is this heaven and earth as well as between them, and which they say was, is and will be?’\nAll this has been explained. The question and the answer are repeated in this and the next paragraph in order to emphasise the truth already stated by Yājñavalkya. Nothing new is introduced.",
+   "english": "She said, ‘By what, O Yājñavalkya, is that pervaded which is above heaven and below the earth, which is this heaven and earth as well as between them, and which they say was, is and will be?’\nAll this has been explained. The question and the answer are repeated in this and the next paragraph in order to emphasise the truth already stated by Yājñavalkya. Nothing new is introduced.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "सा होवाच यदूर्ध्वं याज्ञवल्क्य दिवो यदवाक्पृथिव्या यदन्तरा द्यावापृथिवी इमे यद्भूतं च भवच्च भविष्यच्चेत्याचक्षते कस्मिंस्तदोतं च प्रोतं चेति ॥ ६ ॥",
-     "english": "6. She said, ‘By what, O Yājñavalkya, is that pervaded which is above heaven and below the earth, which is this heaven and earth as well as between them, and which they say was, is and will be?’\nAll this has been explained. The question and the answer are repeated in this and the next paragraph in order to emphasise the truth already stated by Yājñavalkya. Nothing new is introduced."
+     "english": "She said, ‘By what, O Yājñavalkya, is that pervaded which is above heaven and below the earth, which is this heaven and earth as well as between them, and which they say was, is and will be?’"
     },
     {
      "role": "bhashya",
-     "sanskrit": "व्याख्यातमन्यत् । सा होवाच यदूर्ध्वं याज्ञवल्क्येत्यादिप्रश्नः प्रतिवचनं च उक्तस्यैवार्थस्यावधारणार्थं पुनरुच्यते ; न किञ्चिदपूर्वमर्थान्तरमुच्यते ॥"
+     "sanskrit": "व्याख्यातमन्यत् । सा होवाच यदूर्ध्वं याज्ञवल्क्येत्यादिप्रश्नः प्रतिवचनं च उक्तस्यैवार्थस्यावधारणार्थं पुनरुच्यते ; न किञ्चिदपूर्वमर्थान्तरमुच्यते ॥",
+     "english": "All this has been explained. The question and the answer are repeated in this and the next paragraph in order to emphasise the truth already stated by Yājñavalkya. Nothing new is introduced."
     }
    ]
   },
@@ -4135,16 +4150,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "काम एव यस्यायतनं हृदयं लोको मनो ज्योतिर्यो वै तं पुरुषं विद्यात्सर्वस्यात्मनः परायणं स वै वेदिता स्यात् । याज्ञवल्क्य वेद वा अहं तं पुरुषं सर्वस्यात्मनः परायणं यमात्थ य एवायं काममयः पुरुषः स एष वदैव शाकल्य तस्य का देवतेति स्त्रिय इति होवाच ॥ ११ ॥\nकाम एव यस्यायतनम् । स्त्रीव्यतिकराभिलाषः कामः कामशरीर इत्यर्थः । हृदयं लोकः, हृदयेन बुद्ध्या पश्यति । य एवायं काममयः पुरुषः अध्यात्ममपि काममय एव, तस्य का देवतेति — स्त्रिय इति होवाच ; स्त्रीतो हि कामस्य दीप्तिर्जायते ॥",
-   "english": "11. ‘He who knows that being whose abode is lust, whose instrument of vision is the intellect, whose light is the Manas, and who is the ultimate resort of the entire body and organs, knows truly, O Yājñavalkya.’ ‘I know that being of whom you speak—who is the ultimate resort of the entire body and organs. It is the being who is identified with lust. Go on, Śākalya.’ ‘Who is his deity?’ ‘Women,’ said he.\n‘Whose abode is lust,’ or the desire for sex pleasures; that is, who has lust as his body. ‘Whose instrument of vision is the intellect,’ i.e. who sees through the intellect. ‘It is the being identified with lust,’ and the same in the body as well. ‘Who is his deity?’ ‘Women,’ said he, for men’s desire is inflamed through them.",
+   "english": "‘He who knows that being whose abode is lust, whose instrument of vision is the intellect, whose light is the Manas, and who is the ultimate resort of the entire body and organs, knows truly, O Yājñavalkya.’ ‘I know that being of whom you speak—who is the ultimate resort of the entire body and organs. It is the being who is identified with lust. Go on, Śākalya.’ ‘Who is his deity?’ ‘Women,’ said he.\n‘Whose abode is lust,’ or the desire for sex pleasures; that is, who has lust as his body. ‘Whose instrument of vision is the intellect,’ i.e. who sees through the intellect. ‘It is the being identified with lust,’ and the same in the body as well. ‘Who is his deity?’ ‘Women,’ said he, for men’s desire is inflamed through them.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "काम एव यस्यायतनं हृदयं लोको मनो ज्योतिर्यो वै तं पुरुषं विद्यात्सर्वस्यात्मनः परायणं स वै वेदिता स्यात् । याज्ञवल्क्य वेद वा अहं तं पुरुषं सर्वस्यात्मनः परायणं यमात्थ य एवायं काममयः पुरुषः स एष वदैव शाकल्य तस्य का देवतेति स्त्रिय इति होवाच ॥ ११ ॥",
-     "english": "11. ‘He who knows that being whose abode is lust, whose instrument of vision is the intellect, whose light is the Manas, and who is the ultimate resort of the entire body and organs, knows truly, O Yājñavalkya.’ ‘I know that being of whom you speak—who is the ultimate resort of the entire body and organs. It is the being who is identified with lust. Go on, Śākalya.’ ‘Who is his deity?’ ‘Women,’ said he.\n‘Whose abode is lust,’ or the desire for sex pleasures; that is, who has lust as his body. ‘Whose instrument of vision is the intellect,’ i.e. who sees through the intellect. ‘It is the being identified with lust,’ and the same in the body as well. ‘Who is his deity?’ ‘Women,’ said he, for men’s desire is inflamed through them."
+     "english": "‘He who knows that being whose abode is lust, whose instrument of vision is the intellect, whose light is the Manas, and who is the ultimate resort of the entire body and organs, knows truly, O Yājñavalkya.’ ‘I know that being of whom you speak—who is the ultimate resort of the entire body and organs. It is the being who is identified with lust. Go on, Śākalya.’ ‘Who is his deity?’ ‘Women,’ said he."
     },
     {
      "role": "bhashya",
-     "sanskrit": "काम एव यस्यायतनम् । स्त्रीव्यतिकराभिलाषः कामः कामशरीर इत्यर्थः । हृदयं लोकः, हृदयेन बुद्ध्या पश्यति । य एवायं काममयः पुरुषः अध्यात्ममपि काममय एव, तस्य का देवतेति — स्त्रिय इति होवाच ; स्त्रीतो हि कामस्य दीप्तिर्जायते ॥"
+     "sanskrit": "काम एव यस्यायतनम् । स्त्रीव्यतिकराभिलाषः कामः कामशरीर इत्यर्थः । हृदयं लोकः, हृदयेन बुद्ध्या पश्यति । य एवायं काममयः पुरुषः अध्यात्ममपि काममय एव, तस्य का देवतेति — स्त्रिय इति होवाच ; स्त्रीतो हि कामस्य दीप्तिर्जायते ॥",
+     "english": "‘Whose abode is lust,’ or the desire for sex pleasures; that is, who has lust as his body. ‘Whose instrument of vision is the intellect,’ i.e. who sees through the intellect. ‘It is the being identified with lust,’ and the same in the body as well. ‘Who is his deity?’ ‘Women,’ said he, for men’s desire is inflamed through them."
     }
    ]
   },
@@ -4153,16 +4169,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "रूपाण्येव यस्यायतनं चक्षुर्लोको मनोज्योतिर्यो वै तं पुरुषं विद्यात्सर्वस्यात्मनः परायणं स वै वेदिता स्यात् । याज्ञवल्क्य वेद वा अहं तं पुरुषं सर्वस्यात्मनः परायणं यमात्थ य एवासावादित्ये पुरुषः स एष वदैव शाकल्य तस्य का देवतेति सत्यमिति होवाच ॥ १२ ॥\nरूपाण्येव यस्यायतनम् । रूपाणि शुक्लकृष्णादीनि । य एवासावादित्ये पुरुषः — सर्वेषां हि रूपाणां विशिष्टं कार्यमादित्ये पुरुषः, तस्य का देवतेति — सत्यमिति होवाच ; सत्यमिति चक्षुरुच्यते ; चक्षुषो हि अध्यात्मत आदित्यस्याधिदैवतस्य निष्पत्तिः ॥",
-   "english": "12. ‘He who knows that being whose abode is colours, whose instrument of vision is the eye, whose light is the Manas, and who is the ultimate resort of the entire body and organs, knows truly, O Yājñavalkya.’ ‘I know that being of whom you speak—who is the ultimate resort of the entire body and organs. It is the being who is in the sun. Go on. śākalya.’ ‘Who is his deity?’ ‘Truth (the eye),’ said he.\n'Whose abode is colours.’ white, black, etc. ‘It is the being who is in the sun.’ for he is the particular effect of all colours.’ ‘Who is his deity?’ ‘Truth.’ said he. ‘Truth’ here means the eye, for the sun among the gods is the product of the eye in one’s body.",
+   "english": "‘He who knows that being whose abode is colours, whose instrument of vision is the eye, whose light is the Manas, and who is the ultimate resort of the entire body and organs, knows truly, O Yājñavalkya.’ ‘I know that being of whom you speak—who is the ultimate resort of the entire body and organs. It is the being who is in the sun. Go on. śākalya.’ ‘Who is his deity?’ ‘Truth (the eye),’ said he.\n'Whose abode is colours.’ white, black, etc. ‘It is the being who is in the sun.’ for he is the particular effect of all colours.’ ‘Who is his deity?’ ‘Truth.’ said he. ‘Truth’ here means the eye, for the sun among the gods is the product of the eye in one’s body.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "रूपाण्येव यस्यायतनं चक्षुर्लोको मनोज्योतिर्यो वै तं पुरुषं विद्यात्सर्वस्यात्मनः परायणं स वै वेदिता स्यात् । याज्ञवल्क्य वेद वा अहं तं पुरुषं सर्वस्यात्मनः परायणं यमात्थ य एवासावादित्ये पुरुषः स एष वदैव शाकल्य तस्य का देवतेति सत्यमिति होवाच ॥ १२ ॥",
-     "english": "12. ‘He who knows that being whose abode is colours, whose instrument of vision is the eye, whose light is the Manas, and who is the ultimate resort of the entire body and organs, knows truly, O Yājñavalkya.’ ‘I know that being of whom you speak—who is the ultimate resort of the entire body and organs. It is the being who is in the sun. Go on. śākalya.’ ‘Who is his deity?’ ‘Truth (the eye),’ said he.\n'Whose abode is colours.’ white, black, etc. ‘It is the being who is in the sun.’ for he is the particular effect of all colours.’ ‘Who is his deity?’ ‘Truth.’ said he. ‘Truth’ here means the eye, for the sun among the gods is the product of the eye in one’s body."
+     "english": "‘He who knows that being whose abode is colours, whose instrument of vision is the eye, whose light is the Manas, and who is the ultimate resort of the entire body and organs, knows truly, O Yājñavalkya.’ ‘I know that being of whom you speak—who is the ultimate resort of the entire body and organs. It is the being who is in the sun. Go on. śākalya.’ ‘Who is his deity?’ ‘Truth (the eye),’ said he."
     },
     {
      "role": "bhashya",
-     "sanskrit": "रूपाण्येव यस्यायतनम् । रूपाणि शुक्लकृष्णादीनि । य एवासावादित्ये पुरुषः — सर्वेषां हि रूपाणां विशिष्टं कार्यमादित्ये पुरुषः, तस्य का देवतेति — सत्यमिति होवाच ; सत्यमिति चक्षुरुच्यते ; चक्षुषो हि अध्यात्मत आदित्यस्याधिदैवतस्य निष्पत्तिः ॥"
+     "sanskrit": "रूपाण्येव यस्यायतनम् । रूपाणि शुक्लकृष्णादीनि । य एवासावादित्ये पुरुषः — सर्वेषां हि रूपाणां विशिष्टं कार्यमादित्ये पुरुषः, तस्य का देवतेति — सत्यमिति होवाच ; सत्यमिति चक्षुरुच्यते ; चक्षुषो हि अध्यात्मत आदित्यस्याधिदैवतस्य निष्पत्तिः ॥",
+     "english": "'Whose abode is colours.’ white, black, etc. ‘It is the being who is in the sun.’ for he is the particular effect of all colours.’ ‘Who is his deity?’ ‘Truth.’ said he. ‘Truth’ here means the eye, for the sun among the gods is the product of the eye in one’s body."
     }
    ]
   },
@@ -4171,16 +4188,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "आकाश एव यस्यायतनं श्रोत्रं लोको मनोज्योतिर्यो वै तं पुरुषं विद्यात्सर्वस्यात्मनः परायणं स वै वेदिता स्यात् । याज्ञवल्क्य वेद वा अहं तं पुरषं सर्वस्यात्मनः परायणं यमात्थ य एवायं श्रौत्रः प्रातिश्रुत्कः पुरुषः स एष वदैव शाकल्य तस्य का देवतेति दिश इति होवाच ॥ १३ ॥\nआकाश एव यस्यायतनम् । य एवायं श्रोत्रे भवः श्रौत्रः, तत्रापि प्रतिश्रवणवेलायां विशेषतो भवतीति प्रातिश्रुत्कः, तस्य का देवतेति — दिश इति होवाच ; दिग्भ्यो ह्यसौ आध्यात्मिको निष्पद्यते ॥",
-   "english": "13. ‘He who knows that being whose abode is the ether, whose instrument of vision is the ear, whose light is the Manas, and who is the ultimate resort of the entire body and organs, knows truly, O Yājñavalkya.’ ‘I know that being of whom you speak—who is the ultimate resort of the entire body and organs. It is the being who is identified with the ear and with the time of hearing. Go on, Śākalya.’ ‘Who is his deity?’ ‘The quarters,’ said he.\n‘Whose abode is the ether,’ etc. ‘It is the being who is identified with the ear and particularly with the time of hearing.’ ‘Who is his deity?’ ‘The quarters,’ said he, for (the śrutis say) it is from the quarters that this particular being within the body is produced.",
+   "english": "‘He who knows that being whose abode is the ether, whose instrument of vision is the ear, whose light is the Manas, and who is the ultimate resort of the entire body and organs, knows truly, O Yājñavalkya.’ ‘I know that being of whom you speak—who is the ultimate resort of the entire body and organs. It is the being who is identified with the ear and with the time of hearing. Go on, Śākalya.’ ‘Who is his deity?’ ‘The quarters,’ said he.\n‘Whose abode is the ether,’ etc. ‘It is the being who is identified with the ear and particularly with the time of hearing.’ ‘Who is his deity?’ ‘The quarters,’ said he, for (the śrutis say) it is from the quarters that this particular being within the body is produced.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "आकाश एव यस्यायतनं श्रोत्रं लोको मनोज्योतिर्यो वै तं पुरुषं विद्यात्सर्वस्यात्मनः परायणं स वै वेदिता स्यात् । याज्ञवल्क्य वेद वा अहं तं पुरषं सर्वस्यात्मनः परायणं यमात्थ य एवायं श्रौत्रः प्रातिश्रुत्कः पुरुषः स एष वदैव शाकल्य तस्य का देवतेति दिश इति होवाच ॥ १३ ॥",
-     "english": "13. ‘He who knows that being whose abode is the ether, whose instrument of vision is the ear, whose light is the Manas, and who is the ultimate resort of the entire body and organs, knows truly, O Yājñavalkya.’ ‘I know that being of whom you speak—who is the ultimate resort of the entire body and organs. It is the being who is identified with the ear and with the time of hearing. Go on, Śākalya.’ ‘Who is his deity?’ ‘The quarters,’ said he.\n‘Whose abode is the ether,’ etc. ‘It is the being who is identified with the ear and particularly with the time of hearing.’ ‘Who is his deity?’ ‘The quarters,’ said he, for (the śrutis say) it is from the quarters that this particular being within the body is produced."
+     "english": "‘He who knows that being whose abode is the ether, whose instrument of vision is the ear, whose light is the Manas, and who is the ultimate resort of the entire body and organs, knows truly, O Yājñavalkya.’ ‘I know that being of whom you speak—who is the ultimate resort of the entire body and organs. It is the being who is identified with the ear and with the time of hearing. Go on, Śākalya.’ ‘Who is his deity?’ ‘The quarters,’ said he."
     },
     {
      "role": "bhashya",
-     "sanskrit": "आकाश एव यस्यायतनम् । य एवायं श्रोत्रे भवः श्रौत्रः, तत्रापि प्रतिश्रवणवेलायां विशेषतो भवतीति प्रातिश्रुत्कः, तस्य का देवतेति — दिश इति होवाच ; दिग्भ्यो ह्यसौ आध्यात्मिको निष्पद्यते ॥"
+     "sanskrit": "आकाश एव यस्यायतनम् । य एवायं श्रोत्रे भवः श्रौत्रः, तत्रापि प्रतिश्रवणवेलायां विशेषतो भवतीति प्रातिश्रुत्कः, तस्य का देवतेति — दिश इति होवाच ; दिग्भ्यो ह्यसौ आध्यात्मिको निष्पद्यते ॥",
+     "english": "‘Whose abode is the ether,’ etc. ‘It is the being who is identified with the ear and particularly with the time of hearing.’ ‘Who is his deity?’ ‘The quarters,’ said he, for (the śrutis say) it is from the quarters that this particular being within the body is produced."
     }
    ]
   },
@@ -4189,16 +4207,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "तम एव यस्यायतनं हृदयं लोको मनोज्योतिर्यो वै तं पुरुषं विद्यात्सर्वस्यात्मनः परायणं स वै वेदिता स्यात् । याज्ञवल्क्य वेद वा अहं तं पुरुषं सर्वस्यात्मनः परायणं यमात्थ य एवायं छायामयः पुरुषः स एष वदैव शाकल्य तस्य का देवतेति मृत्युरिति होवाच ॥ १४ ॥\nतम एव यस्यायतनम् । तम इति शार्वराद्यन्धकारः परिगृह्यते ; अध्यात्मं छायामयः अज्ञानमयः पुरुषः ; तस्य का देवतेति — मृत्युरिति होवाच ; मृत्युरधिदैवतं तस्य निष्पत्तिकारणम् ॥",
-   "english": "14. ‘He who knows that being whose abode is darkness, whose instrument of vision is the intellect, whose light is the Manas, and who is the ultimate resort of the entire body and organs, knows truly, O Yājñavalkya.' ‘I know that being of whom you speak—who is the ultimate resort of the entire body and organs. It is the being who is identified with shadow (ignorance). Go on, Śākalya.’ ‘Who is his deity?’ ‘Death,’ said he.\n‘Whose abode is darkness’ such as that of the night. In the body 'it is the being identified with shadow, or ignorance.’ ‘Who is his deity?’ ‘Death,’ said he. Among the gods this is his cause (according to the Śrutis).",
+   "english": "‘He who knows that being whose abode is darkness, whose instrument of vision is the intellect, whose light is the Manas, and who is the ultimate resort of the entire body and organs, knows truly, O Yājñavalkya.' ‘I know that being of whom you speak—who is the ultimate resort of the entire body and organs. It is the being who is identified with shadow (ignorance). Go on, Śākalya.’ ‘Who is his deity?’ ‘Death,’ said he.\n‘Whose abode is darkness’ such as that of the night. In the body 'it is the being identified with shadow, or ignorance.’ ‘Who is his deity?’ ‘Death,’ said he. Among the gods this is his cause (according to the Śrutis).",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "तम एव यस्यायतनं हृदयं लोको मनोज्योतिर्यो वै तं पुरुषं विद्यात्सर्वस्यात्मनः परायणं स वै वेदिता स्यात् । याज्ञवल्क्य वेद वा अहं तं पुरुषं सर्वस्यात्मनः परायणं यमात्थ य एवायं छायामयः पुरुषः स एष वदैव शाकल्य तस्य का देवतेति मृत्युरिति होवाच ॥ १४ ॥",
-     "english": "14. ‘He who knows that being whose abode is darkness, whose instrument of vision is the intellect, whose light is the Manas, and who is the ultimate resort of the entire body and organs, knows truly, O Yājñavalkya.' ‘I know that being of whom you speak—who is the ultimate resort of the entire body and organs. It is the being who is identified with shadow (ignorance). Go on, Śākalya.’ ‘Who is his deity?’ ‘Death,’ said he.\n‘Whose abode is darkness’ such as that of the night. In the body 'it is the being identified with shadow, or ignorance.’ ‘Who is his deity?’ ‘Death,’ said he. Among the gods this is his cause (according to the Śrutis)."
+     "english": "‘He who knows that being whose abode is darkness, whose instrument of vision is the intellect, whose light is the Manas, and who is the ultimate resort of the entire body and organs, knows truly, O Yājñavalkya.' ‘I know that being of whom you speak—who is the ultimate resort of the entire body and organs. It is the being who is identified with shadow (ignorance). Go on, Śākalya.’ ‘Who is his deity?’ ‘Death,’ said he."
     },
     {
      "role": "bhashya",
-     "sanskrit": "तम एव यस्यायतनम् । तम इति शार्वराद्यन्धकारः परिगृह्यते ; अध्यात्मं छायामयः अज्ञानमयः पुरुषः ; तस्य का देवतेति — मृत्युरिति होवाच ; मृत्युरधिदैवतं तस्य निष्पत्तिकारणम् ॥"
+     "sanskrit": "तम एव यस्यायतनम् । तम इति शार्वराद्यन्धकारः परिगृह्यते ; अध्यात्मं छायामयः अज्ञानमयः पुरुषः ; तस्य का देवतेति — मृत्युरिति होवाच ; मृत्युरधिदैवतं तस्य निष्पत्तिकारणम् ॥",
+     "english": "‘Whose abode is darkness’ such as that of the night. In the body 'it is the being identified with shadow, or ignorance.’ ‘Who is his deity?’ ‘Death,’ said he. Among the gods this is his cause (according to the Śrutis)."
     }
    ]
   },
@@ -4226,16 +4245,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "आप एव यस्यायतनं हृदयं लोको मनोज्योतिर्यो वै तं पुरुषं विद्यात्सर्वस्यात्मनः परायणं स वै वेदिता स्यात् । याज्ञवल्क्य वेद वा अहं तं पुरुषं सर्वस्यात्मनः परायणं यमात्थ य एवायमप्सु पुरुषः स एष वदैव शाकल्य तस्य का देवतेति वरुण इति होवाच ॥ १६ ॥\nआप एव यस्य आयतनम् । साधारणाः सर्वा आप आयतनम् ; वापीकूपतडागाद्याश्रयासु अप्सु विशेषावस्थानम् ; तस्य का देवतेति, वरुण इति — वरुणात् सङ्घातकर्त्र्यः अध्यात्मम् आप एव वाप्याद्यपां निष्पत्तिकारणम् ॥",
-   "english": "16. ‘He who knows that being whose abode is water, whose instrument of vision is the intellect, whose light is the Manas, and who is the ultimate resort of the entire body and organs, knows truly, O Yājñavalkya.’ ‘I know that being of whom you speak—who is the ultimate resort of the entire body and organs. It is the being who is in water. Go on, śākalya.’ ‘Who is his deity?’ ‘Varuṇa (rain),’ said he.\n‘Whose abode is water’ in general. He specially lives in the water of reservoirs, wells, tanks, etc. ‘Who is his deity?’ ‘Varuṇa (rain).’ Because the water that is (drunk and) forms the body comes from rain; it is again the cause of the water of reservoirs etc.",
+   "english": "‘He who knows that being whose abode is water, whose instrument of vision is the intellect, whose light is the Manas, and who is the ultimate resort of the entire body and organs, knows truly, O Yājñavalkya.’ ‘I know that being of whom you speak—who is the ultimate resort of the entire body and organs. It is the being who is in water. Go on, śākalya.’ ‘Who is his deity?’ ‘Varuṇa (rain),’ said he.\n‘Whose abode is water’ in general. He specially lives in the water of reservoirs, wells, tanks, etc. ‘Who is his deity?’ ‘Varuṇa (rain).’ Because the water that is (drunk and) forms the body comes from rain; it is again the cause of the water of reservoirs etc.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "आप एव यस्यायतनं हृदयं लोको मनोज्योतिर्यो वै तं पुरुषं विद्यात्सर्वस्यात्मनः परायणं स वै वेदिता स्यात् । याज्ञवल्क्य वेद वा अहं तं पुरुषं सर्वस्यात्मनः परायणं यमात्थ य एवायमप्सु पुरुषः स एष वदैव शाकल्य तस्य का देवतेति वरुण इति होवाच ॥ १६ ॥",
-     "english": "16. ‘He who knows that being whose abode is water, whose instrument of vision is the intellect, whose light is the Manas, and who is the ultimate resort of the entire body and organs, knows truly, O Yājñavalkya.’ ‘I know that being of whom you speak—who is the ultimate resort of the entire body and organs. It is the being who is in water. Go on, śākalya.’ ‘Who is his deity?’ ‘Varuṇa (rain),’ said he.\n‘Whose abode is water’ in general. He specially lives in the water of reservoirs, wells, tanks, etc. ‘Who is his deity?’ ‘Varuṇa (rain).’ Because the water that is (drunk and) forms the body comes from rain; it is again the cause of the water of reservoirs etc."
+     "english": "‘He who knows that being whose abode is water, whose instrument of vision is the intellect, whose light is the Manas, and who is the ultimate resort of the entire body and organs, knows truly, O Yājñavalkya.’ ‘I know that being of whom you speak—who is the ultimate resort of the entire body and organs. It is the being who is in water. Go on, śākalya.’ ‘Who is his deity?’ ‘Varuṇa (rain),’ said he."
     },
     {
      "role": "bhashya",
-     "sanskrit": "आप एव यस्य आयतनम् । साधारणाः सर्वा आप आयतनम् ; वापीकूपतडागाद्याश्रयासु अप्सु विशेषावस्थानम् ; तस्य का देवतेति, वरुण इति — वरुणात् सङ्घातकर्त्र्यः अध्यात्मम् आप एव वाप्याद्यपां निष्पत्तिकारणम् ॥"
+     "sanskrit": "आप एव यस्य आयतनम् । साधारणाः सर्वा आप आयतनम् ; वापीकूपतडागाद्याश्रयासु अप्सु विशेषावस्थानम् ; तस्य का देवतेति, वरुण इति — वरुणात् सङ्घातकर्त्र्यः अध्यात्मम् आप एव वाप्याद्यपां निष्पत्तिकारणम् ॥",
+     "english": "‘Whose abode is water’ in general. He specially lives in the water of reservoirs, wells, tanks, etc. ‘Who is his deity?’ ‘Varuṇa (rain).’ Because the water that is (drunk and) forms the body comes from rain; it is again the cause of the water of reservoirs etc."
     }
    ]
   },
@@ -4540,16 +4560,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "यदेव ते कश्चिदब्रवीत्तच्छृणवामेत्यब्रवीन्मे बर्कुर्वार्ष्णश्चक्षुर्वै ब्रह्मेति यथा मातृमान्पितृमानाचार्यवान्ब्रूयात्तथा तद्वार्ष्णोऽब्रवीच्चक्षुर्वै ब्रह्मेत्यपश्यतो हि किं स्यादित्यब्रवीत्तु ते तस्यायतनं प्रतिष्ठां न मेऽब्रवीदित्येकपाद्वा एतत्सम्राडिति स वै नो ब्रूहि याज्ञवल्क्य चक्षुरेवायतनमाकाशः प्रतिष्ठा सत्यमित्येनदुपासीत का सत्यता याज्ञवल्क्य चक्षुरेव सम्राडिति होवाच चक्षुषा वै सम्राट्पश्यन्तमाहुरद्राक्षीरिति स आहाद्राक्षमिति तत्सत्यं भवति चक्षुर्वै सम्राट्परमं ब्रह्म नैनं चक्षुर्जहाति सर्वाण्येनं भूतान्यभिक्षरन्ति देवो भूत्वा देवानप्येति य एवं विद्वानेतदुपास्ते हस्त्यृषभं सहस्रं ददामीति होवाच जनको वैदेहः स होवाच याज्ञवल्क्यः पिता मेऽमन्यत नाननुशिष्य हरेतेति ॥ ४ ॥\nयदेव ते कश्चित् बर्कुरिति नामतः वृष्णस्यापत्यं वार्ष्णः ; चक्षुर्वै ब्रह्मेति — आदित्यो देवता चक्षुषि । उपनिषत् — सत्यम् ; यस्मात् श्रोत्रेण श्रुतमनृतमपि स्यात् , न तु चक्षुषा दृष्टम् , तस्माद्वै, सम्राट् , पश्यन्तमाहुः — अद्राक्षीस्त्वं हस्तिनमिति, स चेत् अद्राक्षमित्याह, तत्सत्यमेव भवति ; यस्त्वन्यो ब्रूयात् — अहमश्रौषमिति, तद्व्यभिचरति ; यत्तु चक्षुषा दृष्टं तत् अव्यभिचारित्वात् सत्यमेव भवति ॥",
-   "english": "4. ‘Let me hear whatever any one may have told you.’ ‘Barku, the son of Vṛṣṇa, has told me that the eye (sun) is Brahman.’ ‘As one who has a mother, father and teacher should say, so has the son of Vṛṣṇa said this—that the eye is Brahman. For what can a person have who cannot see? But did he tell you about its abode and support?’ ‘No, he did not.’ ‘This Brahman is only one-footed, O Emperor.’ ‘Then you tell us, Yājñavalkya.’ ‘The eye is its abode, and the ether (the Undifferentiated) its support. It should be meditated upon as truth.’ ’What is truth, Yājñavalkya?’ ‘The eye itself, O Emperor,’ said Yājñavalkya, ’ if a person, O Emperor, says to one who has seen with the eyes, “Have you seen?” and one answers, “Yes, I have,” then it is true. The eye, O Emperor, is the Supreme Brahman. The eye never leaves him who knowing thus meditates upon it; all beings eagerly come to him; and being a god, he attains the gods,’ ‘I give you a thousand cows with a bull like an elephant,' said Emperor Janaka. Yājñavalkya replied, ‘My father was of opinion that one should not accept (wealth) from a disciple without fully instructing him.’\n‘Let me hear,’ etc. Barku, the son of Vrsna, etc. The eye is Brahman: The sun is the presiding deity of the eye. The secret name is truth, ‘Because what one hears with the ears may be false, but not what one sees with the eyes, therefore if a person, O Emperor, says to one who has seen with the eyes, “Have you seen the elephant?” and he answers, “Yes, I have,” then it is considered true; while if another says, “I have heard of it,” it may not correspond with fact. But what is seen with the eyes is always true, as it corresponds with fact.’",
+   "english": "‘Let me hear whatever any one may have told you.’ ‘Barku, the son of Vṛṣṇa, has told me that the eye (sun) is Brahman.’ ‘As one who has a mother, father and teacher should say, so has the son of Vṛṣṇa said this—that the eye is Brahman. For what can a person have who cannot see? But did he tell you about its abode and support?’ ‘No, he did not.’ ‘This Brahman is only one-footed, O Emperor.’ ‘Then you tell us, Yājñavalkya.’ ‘The eye is its abode, and the ether (the Undifferentiated) its support. It should be meditated upon as truth.’ ’What is truth, Yājñavalkya?’ ‘The eye itself, O Emperor,’ said Yājñavalkya, ’ if a person, O Emperor, says to one who has seen with the eyes, “Have you seen?” and one answers, “Yes, I have,” then it is true. The eye, O Emperor, is the Supreme Brahman. The eye never leaves him who knowing thus meditates upon it; all beings eagerly come to him; and being a god, he attains the gods,’ ‘I give you a thousand cows with a bull like an elephant,' said Emperor Janaka. Yājñavalkya replied, ‘My father was of opinion that one should not accept (wealth) from a disciple without fully instructing him.’\n‘Let me hear,’ etc. Barku, the son of Vrsna, etc. The eye is Brahman: The sun is the presiding deity of the eye. The secret name is truth, ‘Because what one hears with the ears may be false, but not what one sees with the eyes, therefore if a person, O Emperor, says to one who has seen with the eyes, “Have you seen the elephant?” and he answers, “Yes, I have,” then it is considered true; while if another says, “I have heard of it,” it may not correspond with fact. But what is seen with the eyes is always true, as it corresponds with fact.’",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "यदेव ते कश्चिदब्रवीत्तच्छृणवामेत्यब्रवीन्मे बर्कुर्वार्ष्णश्चक्षुर्वै ब्रह्मेति यथा मातृमान्पितृमानाचार्यवान्ब्रूयात्तथा तद्वार्ष्णोऽब्रवीच्चक्षुर्वै ब्रह्मेत्यपश्यतो हि किं स्यादित्यब्रवीत्तु ते तस्यायतनं प्रतिष्ठां न मेऽब्रवीदित्येकपाद्वा एतत्सम्राडिति स वै नो ब्रूहि याज्ञवल्क्य चक्षुरेवायतनमाकाशः प्रतिष्ठा सत्यमित्येनदुपासीत का सत्यता याज्ञवल्क्य चक्षुरेव सम्राडिति होवाच चक्षुषा वै सम्राट्पश्यन्तमाहुरद्राक्षीरिति स आहाद्राक्षमिति तत्सत्यं भवति चक्षुर्वै सम्राट्परमं ब्रह्म नैनं चक्षुर्जहाति सर्वाण्येनं भूतान्यभिक्षरन्ति देवो भूत्वा देवानप्येति य एवं विद्वानेतदुपास्ते हस्त्यृषभं सहस्रं ददामीति होवाच जनको वैदेहः स होवाच याज्ञवल्क्यः पिता मेऽमन्यत नाननुशिष्य हरेतेति ॥ ४ ॥",
-     "english": "4. ‘Let me hear whatever any one may have told you.’ ‘Barku, the son of Vṛṣṇa, has told me that the eye (sun) is Brahman.’ ‘As one who has a mother, father and teacher should say, so has the son of Vṛṣṇa said this—that the eye is Brahman. For what can a person have who cannot see? But did he tell you about its abode and support?’ ‘No, he did not.’ ‘This Brahman is only one-footed, O Emperor.’ ‘Then you tell us, Yājñavalkya.’ ‘The eye is its abode, and the ether (the Undifferentiated) its support. It should be meditated upon as truth.’ ’What is truth, Yājñavalkya?’ ‘The eye itself, O Emperor,’ said Yājñavalkya, ’ if a person, O Emperor, says to one who has seen with the eyes, “Have you seen?” and one answers, “Yes, I have,” then it is true. The eye, O Emperor, is the Supreme Brahman. The eye never leaves him who knowing thus meditates upon it; all beings eagerly come to him; and being a god, he attains the gods,’ ‘I give you a thousand cows with a bull like an elephant,' said Emperor Janaka. Yājñavalkya replied, ‘My father was of opinion that one should not accept (wealth) from a disciple without fully instructing him.’\n‘Let me hear,’ etc. Barku, the son of Vrsna, etc. The eye is Brahman: The sun is the presiding deity of the eye. The secret name is truth, ‘Because what one hears with the ears may be false, but not what one sees with the eyes, therefore if a person, O Emperor, says to one who has seen with the eyes, “Have you seen the elephant?” and he answers, “Yes, I have,” then it is considered true; while if another says, “I have heard of it,” it may not correspond with fact. But what is seen with the eyes is always true, as it corresponds with fact.’"
+     "english": "‘Let me hear whatever any one may have told you.’ ‘Barku, the son of Vṛṣṇa, has told me that the eye (sun) is Brahman.’ ‘As one who has a mother, father and teacher should say, so has the son of Vṛṣṇa said this—that the eye is Brahman. For what can a person have who cannot see? But did he tell you about its abode and support?’ ‘No, he did not.’ ‘This Brahman is only one-footed, O Emperor.’ ‘Then you tell us, Yājñavalkya.’ ‘The eye is its abode, and the ether (the Undifferentiated) its support. It should be meditated upon as truth.’ ’What is truth, Yājñavalkya?’ ‘The eye itself, O Emperor,’ said Yājñavalkya, ’ if a person, O Emperor, says to one who has seen with the eyes, “Have you seen?” and one answers, “Yes, I have,” then it is true. The eye, O Emperor, is the Supreme Brahman. The eye never leaves him who knowing thus meditates upon it; all beings eagerly come to him; and being a god, he attains the gods,’ ‘I give you a thousand cows with a bull like an elephant,' said Emperor Janaka. Yājñavalkya replied, ‘My father was of opinion that one should not accept (wealth) from a disciple without fully instructing him.’"
     },
     {
      "role": "bhashya",
-     "sanskrit": "यदेव ते कश्चित् बर्कुरिति नामतः वृष्णस्यापत्यं वार्ष्णः ; चक्षुर्वै ब्रह्मेति — आदित्यो देवता चक्षुषि । उपनिषत् — सत्यम् ; यस्मात् श्रोत्रेण श्रुतमनृतमपि स्यात् , न तु चक्षुषा दृष्टम् , तस्माद्वै, सम्राट् , पश्यन्तमाहुः — अद्राक्षीस्त्वं हस्तिनमिति, स चेत् अद्राक्षमित्याह, तत्सत्यमेव भवति ; यस्त्वन्यो ब्रूयात् — अहमश्रौषमिति, तद्व्यभिचरति ; यत्तु चक्षुषा दृष्टं तत् अव्यभिचारित्वात् सत्यमेव भवति ॥"
+     "sanskrit": "यदेव ते कश्चित् बर्कुरिति नामतः वृष्णस्यापत्यं वार्ष्णः ; चक्षुर्वै ब्रह्मेति — आदित्यो देवता चक्षुषि । उपनिषत् — सत्यम् ; यस्मात् श्रोत्रेण श्रुतमनृतमपि स्यात् , न तु चक्षुषा दृष्टम् , तस्माद्वै, सम्राट् , पश्यन्तमाहुः — अद्राक्षीस्त्वं हस्तिनमिति, स चेत् अद्राक्षमित्याह, तत्सत्यमेव भवति ; यस्त्वन्यो ब्रूयात् — अहमश्रौषमिति, तद्व्यभिचरति ; यत्तु चक्षुषा दृष्टं तत् अव्यभिचारित्वात् सत्यमेव भवति ॥",
+     "english": "‘Let me hear,’ etc. Barku, the son of Vrsna, etc. The eye is Brahman: The sun is the presiding deity of the eye. The secret name is truth, ‘Because what one hears with the ears may be false, but not what one sees with the eyes, therefore if a person, O Emperor, says to one who has seen with the eyes, “Have you seen the elephant?” and he answers, “Yes, I have,” then it is considered true; while if another says, “I have heard of it,” it may not correspond with fact. But what is seen with the eyes is always true, as it corresponds with fact.’"
     }
    ]
   },
@@ -4558,16 +4579,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "यदेव ते कश्चिदब्रवीत्तच्छृणवामेत्यब्रवीन्मे गर्दभीविपीतो भारद्वाजः श्रोत्रं वै ब्रह्मेति यथा मातृमान्पितृमानाचार्यवान्ब्रूयात्तथा तद्भारद्वाजोऽब्रवीच्छ्रोत्रं वै ब्रह्मेत्यशृण्वतो हि किं स्यादित्यब्रवीत्तु ते तस्यायतनं प्रतिष्ठां न मेऽब्रवीदित्येकपाद्वा एतत्सम्राडिति स वै नो ब्रूहि याज्ञवल्क्य श्रोत्रमेवायतनमाकाशः प्रतिष्ठानन्त इत्येनदुपासीत कानन्तता याज्ञवल्क्य दिश एव सम्राडिति होवाच तस्माद्वै सम्राडपि यां कां च दिशं गच्छति नैवास्या अन्तं गच्छत्यनन्ता हि दिशो दिशो वै सम्राट् श्रोत्रं श्रोत्रं वै सम्राट्परमं ब्रह्म नैनं श्रोत्रं जहाति सर्वाण्येनं भूतान्यभिक्षरन्ति देवो भूत्वा देवानप्येति य एवं विद्वानेतदुपास्ते हस्त्यृषभं सहस्रं ददामीति होवाच जनको वैदेहः स होवाच याज्ञवल्क्यः पिता मेऽमन्यत नाननुशिष्य हरेतेति ॥ ५ ॥\nयदेव ते गर्दभीविपीत इति नामतः भारद्वाजो गोत्रतः ; श्रोत्रं वै ब्रह्मेति — श्रोत्रे दिक् देवता । अनन्त इत्येनदुपासीत ; का अनन्तता श्रोत्रस्य ? दिश एव श्रोत्रस्य आनन्त्यं यस्मात् , तस्माद्वै, सम्राट् , प्राचीमुदीचीं वा यां काञ्चिदपि दिशं गच्छति, नैवास्य अन्तं गच्छति कश्चिदपि ; अतोऽनन्ता हि दिशः ; दिशो वै सम्राट् , श्रोत्रम् ; तस्मात् दिगानन्त्यमेव श्रोत्रस्य आनन्त्यम् ॥",
-   "english": "5. ‘Let me hear whatever any one may have told you.' ‘Gardabhīvipīta, of the Hne of Bharadvāja, has told me that the ear (the quarters) is Brahman.’ ‘As one who has a mother, father and teacher should say, so has the descendant of Bharadvāja said this—that the ear is Brahman, for what can a person have who cannot hear? But did he tell you about its abode and support?’ ‘No, he did not.’ ‘This .Brahman is only one-footed, O Emperor.’ ‘Then you tell us, Yājñavalkya.’ ‘The ear is its abode, and the ether (the Undifferentiated) its support. It should be meditated upon as infinite.’ ‘What is infinity, Yājñavalkya, ‘the quarters them-selves, O Emperor,’ said Yājñavalkya, ‘therefore, O Emperor, to whatever direction one may go, one never reaches its end. (Hence) the quarters are infinite. The quarters, O Emperor, are the ear, and the ear, O Emperor, is the Supreme Brahman. The ear never leaves him who knowing thus meditates upon it; all beings eagerly come to him; and being a god, he attains the gods.’ ‘I give you a thousand cows with a bull like an elephant,’ said Emperor Janaka. Yājñavalkya replied, ‘My father was of opinion that one should not accept (wealth) from a disciple without fully instructing him.’\n‘Let me hear,’ etc. Gardabhīvipīta, of the line of Bharadvāja, etc. The ear is Brahman: The quarters are the presiding deities of the ear. 'It should be meditated upon as infinite.’ ‘What is the infinity of the ear?’ Because the quarters themselves  are the infinity, therefore, O Emperor, to whatever direction, east or north, one may go, one never reaches its end. Hence the quarters are infinite. The quarters, O Emperor, are the ear. Therefore the infinity of the quarters is also that of the ear.’",
+   "english": "‘Let me hear whatever any one may have told you.' ‘Gardabhīvipīta, of the Hne of Bharadvāja, has told me that the ear (the quarters) is Brahman.’ ‘As one who has a mother, father and teacher should say, so has the descendant of Bharadvāja said this—that the ear is Brahman, for what can a person have who cannot hear? But did he tell you about its abode and support?’ ‘No, he did not.’ ‘This .Brahman is only one-footed, O Emperor.’ ‘Then you tell us, Yājñavalkya.’ ‘The ear is its abode, and the ether (the Undifferentiated) its support. It should be meditated upon as infinite.’ ‘What is infinity, Yājñavalkya, ‘the quarters them-selves, O Emperor,’ said Yājñavalkya, ‘therefore, O Emperor, to whatever direction one may go, one never reaches its end. (Hence) the quarters are infinite. The quarters, O Emperor, are the ear, and the ear, O Emperor, is the Supreme Brahman. The ear never leaves him who knowing thus meditates upon it; all beings eagerly come to him; and being a god, he attains the gods.’ ‘I give you a thousand cows with a bull like an elephant,’ said Emperor Janaka. Yājñavalkya replied, ‘My father was of opinion that one should not accept (wealth) from a disciple without fully instructing him.’\n‘Let me hear,’ etc. Gardabhīvipīta, of the line of Bharadvāja, etc. The ear is Brahman: The quarters are the presiding deities of the ear. 'It should be meditated upon as infinite.’ ‘What is the infinity of the ear?’ Because the quarters themselves  are the infinity, therefore, O Emperor, to whatever direction, east or north, one may go, one never reaches its end. Hence the quarters are infinite. The quarters, O Emperor, are the ear. Therefore the infinity of the quarters is also that of the ear.’",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "यदेव ते कश्चिदब्रवीत्तच्छृणवामेत्यब्रवीन्मे गर्दभीविपीतो भारद्वाजः श्रोत्रं वै ब्रह्मेति यथा मातृमान्पितृमानाचार्यवान्ब्रूयात्तथा तद्भारद्वाजोऽब्रवीच्छ्रोत्रं वै ब्रह्मेत्यशृण्वतो हि किं स्यादित्यब्रवीत्तु ते तस्यायतनं प्रतिष्ठां न मेऽब्रवीदित्येकपाद्वा एतत्सम्राडिति स वै नो ब्रूहि याज्ञवल्क्य श्रोत्रमेवायतनमाकाशः प्रतिष्ठानन्त इत्येनदुपासीत कानन्तता याज्ञवल्क्य दिश एव सम्राडिति होवाच तस्माद्वै सम्राडपि यां कां च दिशं गच्छति नैवास्या अन्तं गच्छत्यनन्ता हि दिशो दिशो वै सम्राट् श्रोत्रं श्रोत्रं वै सम्राट्परमं ब्रह्म नैनं श्रोत्रं जहाति सर्वाण्येनं भूतान्यभिक्षरन्ति देवो भूत्वा देवानप्येति य एवं विद्वानेतदुपास्ते हस्त्यृषभं सहस्रं ददामीति होवाच जनको वैदेहः स होवाच याज्ञवल्क्यः पिता मेऽमन्यत नाननुशिष्य हरेतेति ॥ ५ ॥",
-     "english": "5. ‘Let me hear whatever any one may have told you.' ‘Gardabhīvipīta, of the Hne of Bharadvāja, has told me that the ear (the quarters) is Brahman.’ ‘As one who has a mother, father and teacher should say, so has the descendant of Bharadvāja said this—that the ear is Brahman, for what can a person have who cannot hear? But did he tell you about its abode and support?’ ‘No, he did not.’ ‘This .Brahman is only one-footed, O Emperor.’ ‘Then you tell us, Yājñavalkya.’ ‘The ear is its abode, and the ether (the Undifferentiated) its support. It should be meditated upon as infinite.’ ‘What is infinity, Yājñavalkya, ‘the quarters them-selves, O Emperor,’ said Yājñavalkya, ‘therefore, O Emperor, to whatever direction one may go, one never reaches its end. (Hence) the quarters are infinite. The quarters, O Emperor, are the ear, and the ear, O Emperor, is the Supreme Brahman. The ear never leaves him who knowing thus meditates upon it; all beings eagerly come to him; and being a god, he attains the gods.’ ‘I give you a thousand cows with a bull like an elephant,’ said Emperor Janaka. Yājñavalkya replied, ‘My father was of opinion that one should not accept (wealth) from a disciple without fully instructing him.’\n‘Let me hear,’ etc. Gardabhīvipīta, of the line of Bharadvāja, etc. The ear is Brahman: The quarters are the presiding deities of the ear. 'It should be meditated upon as infinite.’ ‘What is the infinity of the ear?’ Because the quarters themselves  are the infinity, therefore, O Emperor, to whatever direction, east or north, one may go, one never reaches its end. Hence the quarters are infinite. The quarters, O Emperor, are the ear. Therefore the infinity of the quarters is also that of the ear.’"
+     "english": "‘Let me hear whatever any one may have told you.' ‘Gardabhīvipīta, of the Hne of Bharadvāja, has told me that the ear (the quarters) is Brahman.’ ‘As one who has a mother, father and teacher should say, so has the descendant of Bharadvāja said this—that the ear is Brahman, for what can a person have who cannot hear? But did he tell you about its abode and support?’ ‘No, he did not.’ ‘This .Brahman is only one-footed, O Emperor.’ ‘Then you tell us, Yājñavalkya.’ ‘The ear is its abode, and the ether (the Undifferentiated) its support. It should be meditated upon as infinite.’ ‘What is infinity, Yājñavalkya, ‘the quarters them-selves, O Emperor,’ said Yājñavalkya, ‘therefore, O Emperor, to whatever direction one may go, one never reaches its end. (Hence) the quarters are infinite. The quarters, O Emperor, are the ear, and the ear, O Emperor, is the Supreme Brahman. The ear never leaves him who knowing thus meditates upon it; all beings eagerly come to him; and being a god, he attains the gods.’ ‘I give you a thousand cows with a bull like an elephant,’ said Emperor Janaka. Yājñavalkya replied, ‘My father was of opinion that one should not accept (wealth) from a disciple without fully instructing him.’"
     },
     {
      "role": "bhashya",
-     "sanskrit": "यदेव ते गर्दभीविपीत इति नामतः भारद्वाजो गोत्रतः ; श्रोत्रं वै ब्रह्मेति — श्रोत्रे दिक् देवता । अनन्त इत्येनदुपासीत ; का अनन्तता श्रोत्रस्य ? दिश एव श्रोत्रस्य आनन्त्यं यस्मात् , तस्माद्वै, सम्राट् , प्राचीमुदीचीं वा यां काञ्चिदपि दिशं गच्छति, नैवास्य अन्तं गच्छति कश्चिदपि ; अतोऽनन्ता हि दिशः ; दिशो वै सम्राट् , श्रोत्रम् ; तस्मात् दिगानन्त्यमेव श्रोत्रस्य आनन्त्यम् ॥"
+     "sanskrit": "यदेव ते गर्दभीविपीत इति नामतः भारद्वाजो गोत्रतः ; श्रोत्रं वै ब्रह्मेति — श्रोत्रे दिक् देवता । अनन्त इत्येनदुपासीत ; का अनन्तता श्रोत्रस्य ? दिश एव श्रोत्रस्य आनन्त्यं यस्मात् , तस्माद्वै, सम्राट् , प्राचीमुदीचीं वा यां काञ्चिदपि दिशं गच्छति, नैवास्य अन्तं गच्छति कश्चिदपि ; अतोऽनन्ता हि दिशः ; दिशो वै सम्राट् , श्रोत्रम् ; तस्मात् दिगानन्त्यमेव श्रोत्रस्य आनन्त्यम् ॥",
+     "english": "‘Let me hear,’ etc. Gardabhīvipīta, of the line of Bharadvāja, etc. The ear is Brahman: The quarters are the presiding deities of the ear. 'It should be meditated upon as infinite.’ ‘What is the infinity of the ear?’ Because the quarters themselves  are the infinity, therefore, O Emperor, to whatever direction, east or north, one may go, one never reaches its end. Hence the quarters are infinite. The quarters, O Emperor, are the ear. Therefore the infinity of the quarters is also that of the ear.’"
     }
    ]
   },
@@ -4576,16 +4598,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "यदेव ते कश्चिदब्रवीत्तच्छृणवामेत्यब्रवीन्मे सत्यकामो जाबालो मनो वै ब्रह्मेति यथा मातृमान्पितृमानाचार्यवान्ब्रूयात्तथा तज्जाबालोऽब्रवीन्मनो वै ब्रह्मेत्यमनसो हि किं स्यादित्यब्रवीत्तु ते तस्यायतनं प्रतिष्ठां न मेऽब्रवीदित्येकपाद्वा एतत्सम्राडिति स वै नो ब्रूहि याज्ञवल्क्य मन एवायतनमाकाशः प्रतिष्ठानन्द इत्येनदुपासीत कानन्दता याज्ञवल्क्य मन एव सम्राडिति होवाच मनसा वै सम्राट्स्त्रियमभिहार्यते तस्यां प्रतिरूपः पुत्रो जायते स आनन्दो मनो वै सम्राट्परमं ब्रह्म नैनं मनो जहाति सर्वाण्येनं भूतान्यभिक्षरन्ति देवो भूत्वा देवानप्येति य एवं विद्वानेतदुपास्ते हस्त्यृषभं सहस्रं ददामीति होवाच जनको वैदेहः स होवाच याज्ञवल्क्यः पिता मेऽमन्यत नाननुशिष्य हरेतेति ॥ ६ ॥\nसत्यकाम इति नामतः जबालाया अपत्यं जाबालः । चन्द्रमा मनसि देवता । आनन्द इत्युपनिषत् ; यस्मान्मन एव आनन्दः, तस्मात् मनसा वै, सम्राट् , स्त्रियमभिकामयमानः अभिहार्यते प्रार्थयत इत्यर्थः ; तस्मात् यां स्त्रियमभिकामयमानोऽभिहार्यते, तस्यां प्रतिरूपः अनुरूपः पुत्रो जायते ; स आनन्दहेतुः पुत्रः ; स येन मनसा निर्वर्त्यते, तन्मनः आनन्दः ॥",
-   "english": "6. ‘Let me hear whatever any one may have told you.’ ‘Satyakāma, the son of Jabālā, has told me that the Manas (here, the moon) is Brahman.’ ‘As one who has a mother, father and teacher should say, so has the son of Jabālā said this—that the Manas is Brahman, for what can a person without the Manas have? But did he tell you about its abode and support?’ ‘No, he did not.’ ‘This Brahman is only one-footed, O Emperor.’ ‘Then you tell us, Yājñavalkya.’ ‘The Manas is its abode, and the ether (the Undifferentiated) its support. It should be meditated upon as bliss.’ ‘What is bliss, Yājñavalkya?’ ‘The Manas itself. O Emperor,’ said Yājñavalkya, ‘with the Manas, O Emperor, a man (fancies and) woos a woman. A sod resembling him is born of her, and he is the cause of bliss. Thé Manas, O Emperor, is the Supreme Brahman. The Manas never leaves him who knowing thus meditates upon it; all beings eagerly come to him; and being a god, he attains the gods.’ ‘I give you a thousand cows with a bull like an elephant,’ said Emperor Janaka. Yājñavalkya replied, ‘My father was of opinion that one should not accept (wealth) from a disciple without fully instructing him.’\n‘Satyakāma, the son of Jabālā,’ etc. The moon is the presiding deity of the Manas. The secret name is bliss. ‘Because the Manas itself is bliss, therefore with the Manas a man fancies and woos a woman.  From that a son resembling him is born of that woman, and that son is the cause of bliss; therefore the Manas which brings this son into being, is bliss.’",
+   "english": "‘Let me hear whatever any one may have told you.’ ‘Satyakāma, the son of Jabālā, has told me that the Manas (here, the moon) is Brahman.’ ‘As one who has a mother, father and teacher should say, so has the son of Jabālā said this—that the Manas is Brahman, for what can a person without the Manas have? But did he tell you about its abode and support?’ ‘No, he did not.’ ‘This Brahman is only one-footed, O Emperor.’ ‘Then you tell us, Yājñavalkya.’ ‘The Manas is its abode, and the ether (the Undifferentiated) its support. It should be meditated upon as bliss.’ ‘What is bliss, Yājñavalkya?’ ‘The Manas itself. O Emperor,’ said Yājñavalkya, ‘with the Manas, O Emperor, a man (fancies and) woos a woman. A sod resembling him is born of her, and he is the cause of bliss. Thé Manas, O Emperor, is the Supreme Brahman. The Manas never leaves him who knowing thus meditates upon it; all beings eagerly come to him; and being a god, he attains the gods.’ ‘I give you a thousand cows with a bull like an elephant,’ said Emperor Janaka. Yājñavalkya replied, ‘My father was of opinion that one should not accept (wealth) from a disciple without fully instructing him.’\n‘Satyakāma, the son of Jabālā,’ etc. The moon is the presiding deity of the Manas. The secret name is bliss. ‘Because the Manas itself is bliss, therefore with the Manas a man fancies and woos a woman.  From that a son resembling him is born of that woman, and that son is the cause of bliss; therefore the Manas which brings this son into being, is bliss.’",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "यदेव ते कश्चिदब्रवीत्तच्छृणवामेत्यब्रवीन्मे सत्यकामो जाबालो मनो वै ब्रह्मेति यथा मातृमान्पितृमानाचार्यवान्ब्रूयात्तथा तज्जाबालोऽब्रवीन्मनो वै ब्रह्मेत्यमनसो हि किं स्यादित्यब्रवीत्तु ते तस्यायतनं प्रतिष्ठां न मेऽब्रवीदित्येकपाद्वा एतत्सम्राडिति स वै नो ब्रूहि याज्ञवल्क्य मन एवायतनमाकाशः प्रतिष्ठानन्द इत्येनदुपासीत कानन्दता याज्ञवल्क्य मन एव सम्राडिति होवाच मनसा वै सम्राट्स्त्रियमभिहार्यते तस्यां प्रतिरूपः पुत्रो जायते स आनन्दो मनो वै सम्राट्परमं ब्रह्म नैनं मनो जहाति सर्वाण्येनं भूतान्यभिक्षरन्ति देवो भूत्वा देवानप्येति य एवं विद्वानेतदुपास्ते हस्त्यृषभं सहस्रं ददामीति होवाच जनको वैदेहः स होवाच याज्ञवल्क्यः पिता मेऽमन्यत नाननुशिष्य हरेतेति ॥ ६ ॥",
-     "english": "6. ‘Let me hear whatever any one may have told you.’ ‘Satyakāma, the son of Jabālā, has told me that the Manas (here, the moon) is Brahman.’ ‘As one who has a mother, father and teacher should say, so has the son of Jabālā said this—that the Manas is Brahman, for what can a person without the Manas have? But did he tell you about its abode and support?’ ‘No, he did not.’ ‘This Brahman is only one-footed, O Emperor.’ ‘Then you tell us, Yājñavalkya.’ ‘The Manas is its abode, and the ether (the Undifferentiated) its support. It should be meditated upon as bliss.’ ‘What is bliss, Yājñavalkya?’ ‘The Manas itself. O Emperor,’ said Yājñavalkya, ‘with the Manas, O Emperor, a man (fancies and) woos a woman. A sod resembling him is born of her, and he is the cause of bliss. Thé Manas, O Emperor, is the Supreme Brahman. The Manas never leaves him who knowing thus meditates upon it; all beings eagerly come to him; and being a god, he attains the gods.’ ‘I give you a thousand cows with a bull like an elephant,’ said Emperor Janaka. Yājñavalkya replied, ‘My father was of opinion that one should not accept (wealth) from a disciple without fully instructing him.’\n‘Satyakāma, the son of Jabālā,’ etc. The moon is the presiding deity of the Manas. The secret name is bliss. ‘Because the Manas itself is bliss, therefore with the Manas a man fancies and woos a woman.  From that a son resembling him is born of that woman, and that son is the cause of bliss; therefore the Manas which brings this son into being, is bliss.’"
+     "english": "‘Let me hear whatever any one may have told you.’ ‘Satyakāma, the son of Jabālā, has told me that the Manas (here, the moon) is Brahman.’ ‘As one who has a mother, father and teacher should say, so has the son of Jabālā said this—that the Manas is Brahman, for what can a person without the Manas have? But did he tell you about its abode and support?’ ‘No, he did not.’ ‘This Brahman is only one-footed, O Emperor.’ ‘Then you tell us, Yājñavalkya.’ ‘The Manas is its abode, and the ether (the Undifferentiated) its support. It should be meditated upon as bliss.’ ‘What is bliss, Yājñavalkya?’ ‘The Manas itself. O Emperor,’ said Yājñavalkya, ‘with the Manas, O Emperor, a man (fancies and) woos a woman. A sod resembling him is born of her, and he is the cause of bliss. Thé Manas, O Emperor, is the Supreme Brahman. The Manas never leaves him who knowing thus meditates upon it; all beings eagerly come to him; and being a god, he attains the gods.’ ‘I give you a thousand cows with a bull like an elephant,’ said Emperor Janaka. Yājñavalkya replied, ‘My father was of opinion that one should not accept (wealth) from a disciple without fully instructing him.’"
     },
     {
      "role": "bhashya",
-     "sanskrit": "सत्यकाम इति नामतः जबालाया अपत्यं जाबालः । चन्द्रमा मनसि देवता । आनन्द इत्युपनिषत् ; यस्मान्मन एव आनन्दः, तस्मात् मनसा वै, सम्राट् , स्त्रियमभिकामयमानः अभिहार्यते प्रार्थयत इत्यर्थः ; तस्मात् यां स्त्रियमभिकामयमानोऽभिहार्यते, तस्यां प्रतिरूपः अनुरूपः पुत्रो जायते ; स आनन्दहेतुः पुत्रः ; स येन मनसा निर्वर्त्यते, तन्मनः आनन्दः ॥"
+     "sanskrit": "सत्यकाम इति नामतः जबालाया अपत्यं जाबालः । चन्द्रमा मनसि देवता । आनन्द इत्युपनिषत् ; यस्मान्मन एव आनन्दः, तस्मात् मनसा वै, सम्राट् , स्त्रियमभिकामयमानः अभिहार्यते प्रार्थयत इत्यर्थः ; तस्मात् यां स्त्रियमभिकामयमानोऽभिहार्यते, तस्यां प्रतिरूपः अनुरूपः पुत्रो जायते ; स आनन्दहेतुः पुत्रः ; स येन मनसा निर्वर्त्यते, तन्मनः आनन्दः ॥",
+     "english": "‘Satyakāma, the son of Jabālā,’ etc. The moon is the presiding deity of the Manas. The secret name is bliss. ‘Because the Manas itself is bliss, therefore with the Manas a man fancies and woos a woman.  From that a son resembling him is born of that woman, and that son is the cause of bliss; therefore the Manas which brings this son into being, is bliss.’"
     }
    ]
   },
@@ -4757,16 +4780,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "अस्तमित आदित्ये याज्ञवल्क्य किञ्ज्योतिरेवायं पुरुष इति चन्द्रमा एवास्य ज्योतिर्भवतीति चन्द्रमसैवायं ज्येतिषास्ते पल्ययते कर्म कुरुते विपल्येतीत्येवमेवैतद्याज्ञवल्क्य ॥ ३ ॥\nतथा अस्तमिते आदित्ये, याज्ञवल्क्य, किञ्ज्योतिरेवायं पुरुष इति — चन्द्रमा एवास्य ज्योतिः ॥",
-   "english": "3. ‘When the sun has set, Yājñavalkya, what serves as the light for a man?’ 'The moon serves as his light. It is through the light of the moon that he sits, goes out, works and returns.’ ‘Just so, Yājñavalkya.’\nLikewise, ‘When the sun has set, Yājñavalkya, what serves as the light for a man?’ ‘The moon serves as his light.’",
+   "english": "‘When the sun has set, Yājñavalkya, what serves as the light for a man?’ 'The moon serves as his light. It is through the light of the moon that he sits, goes out, works and returns.’ ‘Just so, Yājñavalkya.’\nLikewise, ‘When the sun has set, Yājñavalkya, what serves as the light for a man?’ ‘The moon serves as his light.’",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "अस्तमित आदित्ये याज्ञवल्क्य किञ्ज्योतिरेवायं पुरुष इति चन्द्रमा एवास्य ज्योतिर्भवतीति चन्द्रमसैवायं ज्येतिषास्ते पल्ययते कर्म कुरुते विपल्येतीत्येवमेवैतद्याज्ञवल्क्य ॥ ३ ॥",
-     "english": "3. ‘When the sun has set, Yājñavalkya, what serves as the light for a man?’ 'The moon serves as his light. It is through the light of the moon that he sits, goes out, works and returns.’ ‘Just so, Yājñavalkya.’\nLikewise, ‘When the sun has set, Yājñavalkya, what serves as the light for a man?’ ‘The moon serves as his light.’"
+     "english": "‘When the sun has set, Yājñavalkya, what serves as the light for a man?’ 'The moon serves as his light. It is through the light of the moon that he sits, goes out, works and returns.’ ‘Just so, Yājñavalkya.’"
     },
     {
      "role": "bhashya",
-     "sanskrit": "तथा अस्तमिते आदित्ये, याज्ञवल्क्य, किञ्ज्योतिरेवायं पुरुष इति — चन्द्रमा एवास्य ज्योतिः ॥"
+     "sanskrit": "तथा अस्तमिते आदित्ये, याज्ञवल्क्य, किञ्ज्योतिरेवायं पुरुष इति — चन्द्रमा एवास्य ज्योतिः ॥",
+     "english": "Likewise, ‘When the sun has set, Yājñavalkya, what serves as the light for a man?’ ‘The moon serves as his light.’"
     }
    ]
   },
@@ -6191,16 +6215,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "अथ हैनं मनुष्या ऊचुर्ब्रवीतु नो भवानिति तेभ्यो हैतदेवाक्षरमुवाच द इति व्यज्ञासिष्टा३ इति व्यज्ञासिष्मेति होचुर्दत्तेति न आत्थेत्योमिति होवाच व्यज्ञासिष्टेति ॥ २ ॥\nसमानमन्यत् । स्वभावतो लुब्धा यूयम् , अतो यथाशक्ति संविभजत दत्तेति नः अस्मान् आत्थ, किमन्यद्ब्रूयात् नो हितमिति मनुष्याः ॥",
-   "english": "2. Then the men said to him, ‘Please instruct us.’ He told them the same syllable ‘Da’ (and asked), ‘Have you understood?’ (They) said, ‘We have. You tell us: Give.’ (He) said, ‘Yes, you have understood.’\nThe common portions are to be explained as before. ‘You tell us: Give—distribute your wealth to the best of your might, for you are naturally avaricious. What else would you say for our benefit?’—so said the men.",
+   "english": "Then the men said to him, ‘Please instruct us.’ He told them the same syllable ‘Da’ (and asked), ‘Have you understood?’ (They) said, ‘We have. You tell us: Give.’ (He) said, ‘Yes, you have understood.’\nThe common portions are to be explained as before. ‘You tell us: Give—distribute your wealth to the best of your might, for you are naturally avaricious. What else would you say for our benefit?’—so said the men.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "अथ हैनं मनुष्या ऊचुर्ब्रवीतु नो भवानिति तेभ्यो हैतदेवाक्षरमुवाच द इति व्यज्ञासिष्टा३ इति व्यज्ञासिष्मेति होचुर्दत्तेति न आत्थेत्योमिति होवाच व्यज्ञासिष्टेति ॥ २ ॥",
-     "english": "2. Then the men said to him, ‘Please instruct us.’ He told them the same syllable ‘Da’ (and asked), ‘Have you understood?’ (They) said, ‘We have. You tell us: Give.’ (He) said, ‘Yes, you have understood.’\nThe common portions are to be explained as before. ‘You tell us: Give—distribute your wealth to the best of your might, for you are naturally avaricious. What else would you say for our benefit?’—so said the men."
+     "english": "Then the men said to him, ‘Please instruct us.’ He told them the same syllable ‘Da’ (and asked), ‘Have you understood?’ (They) said, ‘We have. You tell us: Give.’ (He) said, ‘Yes, you have understood.’"
     },
     {
      "role": "bhashya",
-     "sanskrit": "समानमन्यत् । स्वभावतो लुब्धा यूयम् , अतो यथाशक्ति संविभजत दत्तेति नः अस्मान् आत्थ, किमन्यद्ब्रूयात् नो हितमिति मनुष्याः ॥"
+     "sanskrit": "समानमन्यत् । स्वभावतो लुब्धा यूयम् , अतो यथाशक्ति संविभजत दत्तेति नः अस्मान् आत्थ, किमन्यद्ब्रूयात् नो हितमिति मनुष्याः ॥",
+     "english": "The common portions are to be explained as before. ‘You tell us: Give—distribute your wealth to the best of your might, for you are naturally avaricious. What else would you say for our benefit?’—so said the men."
     }
    ]
   },
@@ -7074,16 +7099,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "रेतो होच्चक्राम तत्संवत्सरं प्रोष्यागत्योवाच कथमशकत मदृते जीवितुमिति ते होचुर्यथा क्लीबा अप्रजायमाना रेतसा प्राणन्तः प्राणेन वदन्तो वाचा पश्यन्तश्चक्षुषा शृण्वन्तः श्रोत्रेण विद्वांसो मनसैवमजीविष्मेति प्रविवेश ह रेतः ॥ १२ ॥\nतथा चक्षुर्होच्चक्रामेत्यादि पूर्ववत् । श्रोत्रं मनः प्रजातिरिति ॥",
-   "english": "12. The organ of generation went out. After staying a whole year out it came back and said, ‘How did you manage to live without me?’ They said, ‘We lived just as eunuchs do, without having children through the organ of generation, but living through the vital force, speaking through the organ of speech, seeing through the eye, hearing through the ear and knowing through the mind.’ So the organ of generation entered.\nLikewise the eye went out, etc. All this is to be explained as before. The ear, the mind, the organ of generation.",
+   "english": "The organ of generation went out. After staying a whole year out it came back and said, ‘How did you manage to live without me?’ They said, ‘We lived just as eunuchs do, without having children through the organ of generation, but living through the vital force, speaking through the organ of speech, seeing through the eye, hearing through the ear and knowing through the mind.’ So the organ of generation entered.\nLikewise the eye went out, etc. All this is to be explained as before. The ear, the mind, the organ of generation.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "रेतो होच्चक्राम तत्संवत्सरं प्रोष्यागत्योवाच कथमशकत मदृते जीवितुमिति ते होचुर्यथा क्लीबा अप्रजायमाना रेतसा प्राणन्तः प्राणेन वदन्तो वाचा पश्यन्तश्चक्षुषा शृण्वन्तः श्रोत्रेण विद्वांसो मनसैवमजीविष्मेति प्रविवेश ह रेतः ॥ १२ ॥",
-     "english": "12. The organ of generation went out. After staying a whole year out it came back and said, ‘How did you manage to live without me?’ They said, ‘We lived just as eunuchs do, without having children through the organ of generation, but living through the vital force, speaking through the organ of speech, seeing through the eye, hearing through the ear and knowing through the mind.’ So the organ of generation entered.\nLikewise the eye went out, etc. All this is to be explained as before. The ear, the mind, the organ of generation."
+     "english": "The organ of generation went out. After staying a whole year out it came back and said, ‘How did you manage to live without me?’ They said, ‘We lived just as eunuchs do, without having children through the organ of generation, but living through the vital force, speaking through the organ of speech, seeing through the eye, hearing through the ear and knowing through the mind.’ So the organ of generation entered."
     },
     {
      "role": "bhashya",
-     "sanskrit": "तथा चक्षुर्होच्चक्रामेत्यादि पूर्ववत् । श्रोत्रं मनः प्रजातिरिति ॥"
+     "sanskrit": "तथा चक्षुर्होच्चक्रामेत्यादि पूर्ववत् । श्रोत्रं मनः प्रजातिरिति ॥",
+     "english": "Likewise the eye went out, etc. All this is to be explained as before. The ear, the mind, the organ of generation."
     }
    ]
   },
@@ -7224,18 +7250,19 @@
   {
    "ref": "6.2.5",
    "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "स होवाच प्रतिज्ञातो म एष वरो यां तु कुमारस्यान्ते वाचमभाषथास्तां मे ब्रूहीति ॥ ५ ॥",
-   "english": "5. Āruṇi said, ‘You have promised me this boon. Please tell me what you spoke to my boy about.’",
+   "scope": "mula+commentary",
+   "sanskrit": "स होवाच प्रतिज्ञातो म एष वरो यां तु कुमारस्यान्ते वाचमभाषथास्तां मे ब्रूहीति ॥ ५ ॥\nस होवाच गौतमः — प्रतिज्ञातः मे मम एष वरः त्वया ; अस्यां प्रतिज्ञायां दृढीकुरु आत्मानम् ; यां तु वाचं कुमारस्य मम पुत्रस्य अन्ते समीपे वाचमभाषथाः प्रश्नरूपाम् , तामेव मे ब्रूहि ; स एव नो वर इति ॥",
+   "english": "Āruṇi said, ‘You have promised me this boon. Please tell me what you spoke to my boy about.’\nGautama said, ‘You have promised me this boon. Make yourself firm in this promise. Please tell me what you spoke to my boy, or son, about —those questions. This is my boon.’",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "स होवाच प्रतिज्ञातो म एष वरो यां तु कुमारस्यान्ते वाचमभाषथास्तां मे ब्रूहीति ॥ ५ ॥",
-     "english": "5. Āruṇi said, ‘You have promised me this boon. Please tell me what you spoke to my boy about.’\nGautama said, ‘You have promised me this boon. Make yourself firm in this promise. Please tell me what you spoke to my boy, or son, about —those questions. This is my boon.’"
+     "english": "Āruṇi said, ‘You have promised me this boon. Please tell me what you spoke to my boy about.’"
     },
     {
      "role": "bhashya",
-     "sanskrit": "स होवाच गौतमः — प्रतिज्ञातः मे मम एष वरः त्वया ; अस्यां प्रतिज्ञायां दृढीकुरु आत्मानम् ; यां तु वाचं कुमारस्य मम पुत्रस्य अन्ते समीपे वाचमभाषथाः प्रश्नरूपाम् , तामेव मे ब्रूहि ; स एव नो वर इति ॥"
+     "sanskrit": "स होवाच गौतमः — प्रतिज्ञातः मे मम एष वरः त्वया ; अस्यां प्रतिज्ञायां दृढीकुरु आत्मानम् ; यां तु वाचं कुमारस्य मम पुत्रस्य अन्ते समीपे वाचमभाषथाः प्रश्नरूपाम् , तामेव मे ब्रूहि ; स एव नो वर इति ॥",
+     "english": "Gautama said, ‘You have promised me this boon. Make yourself firm in this promise. Please tell me what you spoke to my boy, or son, about —those questions. This is my boon.’"
     }
    ]
   },
@@ -7506,16 +7533,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "अथैनमभिमृशति भ्रमदसि ज्वलदसि पूर्णमसि प्रस्तब्धमस्येकसभमसि हिङ्कृतमसि हिङ्क्रियमाणमस्युद्गीथमस्युद्गीयमानमसि श्रावितमसि प्रत्याश्रावितमस्यार्द्रे सन्दीप्तमसि विभूरसि प्रभूरस्यन्नमसि ज्योतिरसि निधनमसि संवर्गोऽसीति ॥ ४ ॥\nअथैनमभिमृशति ‘भ्रमदसि’ इत्यनेन मन्त्रेण ॥",
-   "english": "4. Then he touches the paste saying, ‘You move (as the vital force), you burn (as fire), you are infinite (as Brahman), you are still (as the sky). You combine eveiything in yourself. You are the sound ‘Hiṃ,’ and are uttered as ‘Hiṃ’ (in the sacrifice by the Prastotṛ). You are the Udgītha and are chanted (by the Udgātṛ). You are recited (by the Adhvaryu) and recited back (by the Agnīdhra). You are fully ablaze in a humid (cloud). You are omnipresent, and master. You are food (as the moon), and light (as fire). You are death, and you are that in which all things merge.’\nThen he touches the paste uttering the Mantra,. ‘You move,’ etc.",
+   "english": "Then he touches the paste saying, ‘You move (as the vital force), you burn (as fire), you are infinite (as Brahman), you are still (as the sky). You combine eveiything in yourself. You are the sound ‘Hiṃ,’ and are uttered as ‘Hiṃ’ (in the sacrifice by the Prastotṛ). You are the Udgītha and are chanted (by the Udgātṛ). You are recited (by the Adhvaryu) and recited back (by the Agnīdhra). You are fully ablaze in a humid (cloud). You are omnipresent, and master. You are food (as the moon), and light (as fire). You are death, and you are that in which all things merge.’\nThen he touches the paste uttering the Mantra,. ‘You move,’ etc.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "अथैनमभिमृशति भ्रमदसि ज्वलदसि पूर्णमसि प्रस्तब्धमस्येकसभमसि हिङ्कृतमसि हिङ्क्रियमाणमस्युद्गीथमस्युद्गीयमानमसि श्रावितमसि प्रत्याश्रावितमस्यार्द्रे सन्दीप्तमसि विभूरसि प्रभूरस्यन्नमसि ज्योतिरसि निधनमसि संवर्गोऽसीति ॥ ४ ॥",
-     "english": "4. Then he touches the paste saying, ‘You move (as the vital force), you burn (as fire), you are infinite (as Brahman), you are still (as the sky). You combine eveiything in yourself. You are the sound ‘Hiṃ,’ and are uttered as ‘Hiṃ’ (in the sacrifice by the Prastotṛ). You are the Udgītha and are chanted (by the Udgātṛ). You are recited (by the Adhvaryu) and recited back (by the Agnīdhra). You are fully ablaze in a humid (cloud). You are omnipresent, and master. You are food (as the moon), and light (as fire). You are death, and you are that in which all things merge.’\nThen he touches the paste uttering the Mantra,. ‘You move,’ etc."
+     "english": "Then he touches the paste saying, ‘You move (as the vital force), you burn (as fire), you are infinite (as Brahman), you are still (as the sky). You combine eveiything in yourself. You are the sound ‘Hiṃ,’ and are uttered as ‘Hiṃ’ (in the sacrifice by the Prastotṛ). You are the Udgītha and are chanted (by the Udgātṛ). You are recited (by the Adhvaryu) and recited back (by the Agnīdhra). You are fully ablaze in a humid (cloud). You are omnipresent, and master. You are food (as the moon), and light (as fire). You are death, and you are that in which all things merge.’"
     },
     {
      "role": "bhashya",
-     "sanskrit": "अथैनमभिमृशति ‘भ्रमदसि’ इत्यनेन मन्त्रेण ॥"
+     "sanskrit": "अथैनमभिमृशति ‘भ्रमदसि’ इत्यनेन मन्त्रेण ॥",
+     "english": "Then he touches the paste uttering the Mantra,. ‘You move,’ etc."
     }
    ]
   },
@@ -7524,16 +7552,17 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "अथैनमुद्यच्छत्यामं स्यामं हि ते महि स हि राजेशानोऽधिपतिः स मां राजेशानोऽधिपतिं करोत्विति ॥ ५ ॥\nअथैनमुद्यच्छति सह पात्रेण हस्ते गृह्णाति ‘आमंस्यामंहि ते महि’ इत्यनेन ॥",
-   "english": "5. Then he takes it up saying, ‘You know all (as the vital force); we too are aware of your greathess. The vital force is the king, the lord, the ruler. May it make me king, lord and ruler!’\nThen he takes it up with the vessel, in his hand,. saying, ‘You know all,’ etc.",
+   "english": "Then he takes it up saying, ‘You know all (as the vital force); we too are aware of your greathess. The vital force is the king, the lord, the ruler. May it make me king, lord and ruler!’\nThen he takes it up with the vessel, in his hand,. saying, ‘You know all,’ etc.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "अथैनमुद्यच्छत्यामं स्यामं हि ते महि स हि राजेशानोऽधिपतिः स मां राजेशानोऽधिपतिं करोत्विति ॥ ५ ॥",
-     "english": "5. Then he takes it up saying, ‘You know all (as the vital force); we too are aware of your greathess. The vital force is the king, the lord, the ruler. May it make me king, lord and ruler!’\nThen he takes it up with the vessel, in his hand,. saying, ‘You know all,’ etc."
+     "english": "Then he takes it up saying, ‘You know all (as the vital force); we too are aware of your greathess. The vital force is the king, the lord, the ruler. May it make me king, lord and ruler!’"
     },
     {
      "role": "bhashya",
-     "sanskrit": "अथैनमुद्यच्छति सह पात्रेण हस्ते गृह्णाति ‘आमंस्यामंहि ते महि’ इत्यनेन ॥"
+     "sanskrit": "अथैनमुद्यच्छति सह पात्रेण हस्ते गृह्णाति ‘आमंस्यामंहि ते महि’ इत्यनेन ॥",
+     "english": "Then he takes it up with the vessel, in his hand,. saying, ‘You know all,’ etc."
     }
    ]
   },
@@ -7793,16 +7822,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "अथ य इच्छेत्पुत्रो मे कपिलः पिङ्गलो जायते द्वौ वेदावनुब्रुवीत् सर्वमायुरियादिति दध्योदनं पाचयित्वा सर्पिष्मन्तमश्नीयातामीश्वरौ जनयितवै ॥ १५ ॥\nदध्योदनं दध्ना चरुं पाचयित्वा ; द्विवेदं चेदिच्छति पुत्रम् , तदा एवमशननियमः ॥",
-   "english": "15. He who wishes that his son should be born tawny or brown, study two Vedas and attain a full term of life, should have rice cooked in curd, and he and his wife should eat it with clarified butter. Then they would be able to produce such a son.\nHave rice cooked in curd. If he wishes his son to be versed in two Vedas, he should follow this rule-about eating.",
+   "english": "He who wishes that his son should be born tawny or brown, study two Vedas and attain a full term of life, should have rice cooked in curd, and he and his wife should eat it with clarified butter. Then they would be able to produce such a son.\nHave rice cooked in curd. If he wishes his son to be versed in two Vedas, he should follow this rule-about eating.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "अथ य इच्छेत्पुत्रो मे कपिलः पिङ्गलो जायते द्वौ वेदावनुब्रुवीत् सर्वमायुरियादिति दध्योदनं पाचयित्वा सर्पिष्मन्तमश्नीयातामीश्वरौ जनयितवै ॥ १५ ॥",
-     "english": "15. He who wishes that his son should be born tawny or brown, study two Vedas and attain a full term of life, should have rice cooked in curd, and he and his wife should eat it with clarified butter. Then they would be able to produce such a son.\nHave rice cooked in curd. If he wishes his son to be versed in two Vedas, he should follow this rule-about eating."
+     "english": "He who wishes that his son should be born tawny or brown, study two Vedas and attain a full term of life, should have rice cooked in curd, and he and his wife should eat it with clarified butter. Then they would be able to produce such a son."
     },
     {
      "role": "bhashya",
-     "sanskrit": "दध्योदनं दध्ना चरुं पाचयित्वा ; द्विवेदं चेदिच्छति पुत्रम् , तदा एवमशननियमः ॥"
+     "sanskrit": "दध्योदनं दध्ना चरुं पाचयित्वा ; द्विवेदं चेदिच्छति पुत्रम् , तदा एवमशननियमः ॥",
+     "english": "Have rice cooked in curd. If he wishes his son to be versed in two Vedas, he should follow this rule-about eating."
     }
    ]
   },
@@ -7811,16 +7841,17 @@
    "kind": "prose",
    "scope": "mula+commentary",
    "sanskrit": "अथ य इच्छेत्पुत्रो मे श्यामो लोहिताक्षो जायेत त्रीन्वेदाननुब्रुवीत सर्वमायुरियादित्युदौदनं पाचयित्वा सर्पिष्मन्तमश्नीयातामीश्वरौ जनयितवै ॥ १६ ॥\nकेवलमेव स्वाभाविकमोदनम् । उदग्रहणम् अन्यप्रसङ्गनिवृत्त्यर्थम् ॥",
-   "english": "16. He who wishes that his son should be born dark with red eyes, study three Vedas and attain a full term of life, should have rice cooked in water, and he and his wife should eat it with clarified butter. Then they would be able to produce such a son.\nSimple, natural rice is meant. The mention of water is for precluding other ingredients.",
+   "english": "He who wishes that his son should be born dark with red eyes, study three Vedas and attain a full term of life, should have rice cooked in water, and he and his wife should eat it with clarified butter. Then they would be able to produce such a son.\nSimple, natural rice is meant. The mention of water is for precluding other ingredients.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "अथ य इच्छेत्पुत्रो मे श्यामो लोहिताक्षो जायेत त्रीन्वेदाननुब्रुवीत सर्वमायुरियादित्युदौदनं पाचयित्वा सर्पिष्मन्तमश्नीयातामीश्वरौ जनयितवै ॥ १६ ॥",
-     "english": "16. He who wishes that his son should be born dark with red eyes, study three Vedas and attain a full term of life, should have rice cooked in water, and he and his wife should eat it with clarified butter. Then they would be able to produce such a son.\nSimple, natural rice is meant. The mention of water is for precluding other ingredients."
+     "english": "He who wishes that his son should be born dark with red eyes, study three Vedas and attain a full term of life, should have rice cooked in water, and he and his wife should eat it with clarified butter. Then they would be able to produce such a son."
     },
     {
      "role": "bhashya",
-     "sanskrit": "केवलमेव स्वाभाविकमोदनम् । उदग्रहणम् अन्यप्रसङ्गनिवृत्त्यर्थम् ॥"
+     "sanskrit": "केवलमेव स्वाभाविकमोदनम् । उदग्रहणम् अन्यप्रसङ्गनिवृत्त्यर्थम् ॥",
+     "english": "Simple, natural rice is meant. The mention of water is for precluding other ingredients."
     }
    ]
   },
@@ -7905,16 +7936,17 @@
    "kind": "verse",
    "scope": "mula+commentary",
    "sanskrit": "जातेऽग्निमुपसमाधायाङ्क आधाय कंसे पृषदाज्यं सन्नीय पृषदाज्यस्योपघातं जुहोत्यस्मिन्सहस्रं पुष्यासमेधमानः स्वे गृहे । अस्योपसन्द्यां मा च्छैत्सीत्प्रजया च पशुभिश्च स्वाहा । मयि प्राणांस्त्वयि मनसा जुहोमि स्वाहा । यत्कर्मणात्यरीरिचं यद्वा न्यूनमिहाकरम् । अग्निष्टत्स्विष्टकृद्विद्वान्स्विष्टं सुहुतं करोतु नः स्वाहेति ॥ २४ ॥\nअथ जातकर्म । जातेऽग्निमुपसमाधाय अङ्के आधाय पुत्रम् , कंसे पृषदाज्यं सन्नीय संयोज्य दधिघृते, पृषदाज्यस्य उपघातं जुहोति ‘अस्मिन्सहस्रम्’ इत्याद्यावापस्थाने ॥",
-   "english": "24. When (the son) is born, he should bring in the fire, take him in his lap, put a mixture of curd and clarified butter in a cup, and offer oblations again and again with that, saying, ‘Growing in this home of mine (as the son), may I maintain a thousand people! May (the goddess of fortune) never depart with children and animals from his line! Svāhā. The vital force that is in me, I mentally transfer to you. Svāhā. If I have done anything too much or too little in this ceremony, may the all-knowing beneficent fire make it just right for me—neither too much nor too little! Svāhā.’\nNow the post-natal ceremony is being described. When the son is born, he should bring in the fire, take the son in his lap, put a mixture of curd and clarified, butter in a cup, and offer oblations again and again (in little quantities) with that in the prescribed part of the fire, uttering the following Mantra: ‘Growing in this,’ etc.",
+   "english": "When (the son) is born, he should bring in the fire, take him in his lap, put a mixture of curd and clarified butter in a cup, and offer oblations again and again with that, saying, ‘Growing in this home of mine (as the son), may I maintain a thousand people! May (the goddess of fortune) never depart with children and animals from his line! Svāhā. The vital force that is in me, I mentally transfer to you. Svāhā. If I have done anything too much or too little in this ceremony, may the all-knowing beneficent fire make it just right for me—neither too much nor too little! Svāhā.’\nNow the post-natal ceremony is being described. When the son is born, he should bring in the fire, take the son in his lap, put a mixture of curd and clarified, butter in a cup, and offer oblations again and again (in little quantities) with that in the prescribed part of the fire, uttering the following Mantra: ‘Growing in this,’ etc.",
    "parts": [
     {
      "role": "mula",
      "sanskrit": "जातेऽग्निमुपसमाधायाङ्क आधाय कंसे पृषदाज्यं सन्नीय पृषदाज्यस्योपघातं जुहोत्यस्मिन्सहस्रं पुष्यासमेधमानः स्वे गृहे । अस्योपसन्द्यां मा च्छैत्सीत्प्रजया च पशुभिश्च स्वाहा । मयि प्राणांस्त्वयि मनसा जुहोमि स्वाहा । यत्कर्मणात्यरीरिचं यद्वा न्यूनमिहाकरम् । अग्निष्टत्स्विष्टकृद्विद्वान्स्विष्टं सुहुतं करोतु नः स्वाहेति ॥ २४ ॥",
-     "english": "24. When (the son) is born, he should bring in the fire, take him in his lap, put a mixture of curd and clarified butter in a cup, and offer oblations again and again with that, saying, ‘Growing in this home of mine (as the son), may I maintain a thousand people! May (the goddess of fortune) never depart with children and animals from his line! Svāhā. The vital force that is in me, I mentally transfer to you. Svāhā. If I have done anything too much or too little in this ceremony, may the all-knowing beneficent fire make it just right for me—neither too much nor too little! Svāhā.’\nNow the post-natal ceremony is being described. When the son is born, he should bring in the fire, take the son in his lap, put a mixture of curd and clarified, butter in a cup, and offer oblations again and again (in little quantities) with that in the prescribed part of the fire, uttering the following Mantra: ‘Growing in this,’ etc."
+     "english": "When (the son) is born, he should bring in the fire, take him in his lap, put a mixture of curd and clarified butter in a cup, and offer oblations again and again with that, saying, ‘Growing in this home of mine (as the son), may I maintain a thousand people! May (the goddess of fortune) never depart with children and animals from his line! Svāhā. The vital force that is in me, I mentally transfer to you. Svāhā. If I have done anything too much or too little in this ceremony, may the all-knowing beneficent fire make it just right for me—neither too much nor too little! Svāhā.’"
     },
     {
      "role": "bhashya",
-     "sanskrit": "अथ जातकर्म । जातेऽग्निमुपसमाधाय अङ्के आधाय पुत्रम् , कंसे पृषदाज्यं सन्नीय संयोज्य दधिघृते, पृषदाज्यस्य उपघातं जुहोति ‘अस्मिन्सहस्रम्’ इत्याद्यावापस्थाने ॥"
+     "sanskrit": "अथ जातकर्म । जातेऽग्निमुपसमाधाय अङ्के आधाय पुत्रम् , कंसे पृषदाज्यं सन्नीय संयोज्य दधिघृते, पृषदाज्यस्य उपघातं जुहोति ‘अस्मिन्सहस्रम्’ इत्याद्यावापस्थाने ॥",
+     "english": "Now the post-natal ceremony is being described. When the son is born, he should bring in the fire, take the son in his lap, put a mixture of curd and clarified, butter in a cup, and offer oblations again and again (in little quantities) with that in the prescribed part of the fire, uttering the following Mantra: ‘Growing in this,’ etc."
     }
    ]
   },
