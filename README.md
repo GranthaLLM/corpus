@@ -16,7 +16,7 @@ The English is a **reference to score against**, not something the project needs
 
 ## At a glance
 
-- 40 files, 20,213 units. Only Bhattasangraha has units without English (62), and those are skipped when scoring.
+- 41 files, 20,344 units. Only Bhattasangraha has units without English (62), and those are skipped when scoring.
 - Three folders: `philosophical/` (Gita, Brahmasutra and other shastra works), `upanishads/` (ten Upanishads, Shankara and Madhva tracks each), `sahitya/` (Mahabharata excerpts, Bhagavata excerpts, Harivamsha, Kumarasambhava, Shatakatraya).
 - All Sanskrit is Devanagari. English is English.
 - `schema.json` is the JSON Schema for a work file. `tools/` holds the scripts that built the files.
