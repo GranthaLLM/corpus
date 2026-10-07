@@ -2,7 +2,7 @@
 
 1.109: Joglekar (Bombay, c. 1915, public domain). 3.40, 3.98: Swami Madhavananda, Vairagya-Satakam (Advaita Ashrama, 7th ed. 1976).
 3.100*2: Swami Bhoomananda Tirtha's translation, with 'son' changed to 'friend' to follow this unit's Sanskrit (satyam mitram).
-1.39: written for this corpus (the verse is an unattributed subhashita some Niti editions carry). 2.101 stays Sanskrit-only: no translation found.
+1.39: written for this corpus (the verse is an unattributed subhashita some Niti editions carry). 2.101: written for this corpus too, following the Marathi verse rendering on sanskritdeepika.org (no English found).
 """
 import json
 import subprocess
@@ -12,7 +12,7 @@ REL = "sahitya/shatakatraya.json"
 EN = {
     "1.39": "Earn wealth, O descendant of Kakutstha; this world has wealth as its root. I do not know any difference between a poor man and a dead man.",
     "1.109": "Spirited men, who are devoted to the resolution of being truthful, readily give up even their life rather than swerve from their word which to them is like their own mother who instils the sense of shame and various other qualities [in their minds], is perfectly pure-hearted, and wholly devoted to them.",
-    "2.101": None,
+    "2.101": "If a thing holds no charm for a person, he has no longing for it, however pleasing it may be to others: the moon is lovely, yet the lotus-pond's heart has no desire for it.",
     "3.40": "There is one Enjoyment and one alone, lasting, immutable, and supreme, of which the taste renders tasteless the greatest possessions, such as the sovereignty of the three worlds, and established in which a Brahma, Indra, or the gods (i.e. their positions) appear like particles of grass. Do not, oh Sadhu, set your heart on any ephemeral enjoyment other than that.",
     "3.98": "Will those happy days come to me when on the bank of the Ganga, sitting in the lotus-posture on a piece of stone in the Himalayas, I shall fall into the yoga-nidra (i.e. lose all consciousness in Samadhi or perfect concentration) resulting from a regular practice of the contemplation of Brahman, and when old antelopes having nothing to fear, will rub their limbs against my body!",
     "3.100*2": "A Yogi for whom composure is his father, forbearance his mother, calmness of mind his wife, truth his friend, compassion his sister, control of mind his brother, and for whom this earth is the bed, the directions, the attire and the nectarine knowledge the food - for whom all these are members of his family, tell me O friend, from what would such a Yogi fear?",
@@ -27,7 +27,7 @@ for ref, en in EN.items():
         continue
     u = dict(oldu[ref])
     u["english"] = en
-    if ref == "1.39":
+    if ref in ("1.39", "2.101"):
         u.setdefault("meta", {})["english_source"] = "written for this corpus"
     k = order.index(ref)
     idx = {x["ref"]: i for i, x in enumerate(d["units"])}
