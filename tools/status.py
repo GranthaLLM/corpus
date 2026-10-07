@@ -20,6 +20,7 @@ ROWS = [
     ("22a-b", "Bhagavata: Kapila (3.25-33), Uddhava Gita (11.7-29)", ["sahitya/bhagavata_kapila", "sahitya/bhagavata_uddhava"], "Sanskrit Setutila; English Prabhupada via Vedabase (neutralised terms; verbatim in meta.english_verbatim)"),
     ("23", "Harivamsha", ["sahitya/harivamsha"], "Mitrasamgraha rows"),
     ("24", "Kumarasambhava", ["sahitya/kumarasambhava"], "Mitrasamgraha rows; cantos 1-7 only (source ends there)"),
+    ("26", "Vedārthasaṃgraha", ["philosophical/vedarthasamgraha"], "Sanskrit GRETIL (IAST converted to Devanagari); English Raghavachar 1978; paragraphs aligned by content (Ramanuja's treatise on the Upanishads)"),
     ("25", "Shatakatraya", ["sahitya/shatakatraya"], "Sanskrit GRETIL; English Wortham 1886 (OCR, unproofread) paired by content, Niti and Vairagya; Shringarashataka gaps from Kennedy 1913 and Gopalachariar 1954 (in copyright)"),
 ]
 
