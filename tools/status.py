@@ -39,9 +39,9 @@ def table():
 
 AUTHOR = {
     "samkhyakarika": "Īśvarakṛṣṇa", "sarvadarshanasamgraha": "Mādhava", "tarkasamgraha": "Annambhaṭṭa",
-    "vimshatika_trimshika": "Vasubandhu", "harivamsha": "Vyāsa (traditional)", "kumarasambhava": "Kālidāsa",
-    "shatakatraya": "Bhartṛhari", "sanatsujatiya": "Vyāsa (traditional)", "vidura_niti": "Vyāsa (traditional)",
-    "yaksha_prashna": "Vyāsa (traditional)", "bhagavata_kapila": "Vyāsa (traditional)", "bhagavata_uddhava": "Vyāsa (traditional)",
+    "vimshatika_trimshika": "Vasubandhu", "harivamsha": "Vyāsa", "kumarasambhava": "Kālidāsa",
+    "shatakatraya": "Bhartṛhari", "sanatsujatiya": "Vyāsa", "vidura_niti": "Vyāsa",
+    "yaksha_prashna": "Vyāsa", "bhagavata_kapila": "Vyāsa", "bhagavata_uddhava": "Vyāsa",
 }
 
 
