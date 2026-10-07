@@ -26,7 +26,7 @@ for u in d["units"]:
     if not (m and b and b.get("sanskrit") and not b.get("english") and m.get("sanskrit")):
         continue
     en = m.get("english", "")
-    if len(en) <= 6 * len(m["sanskrit"]) or len(en) <= 800:
+    if len(en) <= 3 * len(m["sanskrit"]) or len(en) <= 300:
         continue
     r = split(en)
     if not r:
