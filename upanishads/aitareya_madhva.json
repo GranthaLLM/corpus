@@ -10,7 +10,7 @@
    "kind": "verse",
    "scope": "commentary",
    "sanskrit": "नारायणं निखिलपूर्णगुणैकदेहं सर्वज्ञमच्युतमपेतसमस्तदोषम्।\nप्राणस्य सर्वचिदचित्परमेश्वरस्य साक्षादधीश्वरमियां शरणं रमेशम्॥",
-   "english": null
+   "english": "I go for refuge to Narayana, the Lord of Rama (Rameshvara), whose one body is the whole of perfect attributes, who is all-knowing and unfallen (Achyuta), free from every defect, and who is the direct overlord of Prana (Vayu), himself the supreme lord of all that is conscious and unconscious."
   },
   {
    "ref": "intro-bhashya",
@@ -829,14 +829,14 @@
    "kind": "verse",
    "scope": "commentary",
    "sanskrit": "सवैश्च वैदिकपदैरपि\nलोकशब्दैर्मेघाग्निवारिधितलादिरवैश्च\nसर्वैः।\nएकोऽभिधेय परिपूर्णगुणः प्रियोऽलं नारायणो मम सदैव सुतुष्टिमेतु॥",
-   "english": null
+   "english": "By all Vedic words and all worldly words, and by all the sounds of clouds, fire, oceans, the earth and the rest, the one Narayana, full of perfect attributes, is what is denoted. May he, so dear to me, be ever fully pleased."
   },
   {
    "ref": "closing-verse-2",
    "kind": "verse",
    "scope": "commentary",
    "sanskrit": "यस्य त्रीण्युदितानि वेदवचने रूपाणि दिव्यान्यलं\nवट् तद् दर्शतमित्थमेव निहितं देवस्य भर्गो महत्।\nवायो रामवचोनयं प्रथमकं पृक्षो द्वितीयं वपु-\nर्मध्वो यत् तु तृतीयकं कृतमिदं भाष्यं हि तेन प्रभौ॥",
-   "english": null
+   "english": "He whose three divine forms are declared in the Veda, the great splendour of the God that is set down in just this way: the first is the one who carried out Rama's word (Hanuman), the second is Prksha (Bhima) in body, and the third is Madhva, by whom this commentary was made for the Lord."
   },
   {
    "ref": "closing-bhashya",
@@ -850,7 +850,7 @@
    "kind": "verse",
    "scope": "commentary",
    "sanskrit": "पूर्णागण्यगुणोदारधाम्ने नित्याय वेधसे।\nअमन्दानन्दसान्द्राय प्रेयसे विष्णवे नमः॥",
-   "english": null
+   "english": "Endowed with all-comprehensive attributes and with best of the forms, immutable and entirely blissful, Sri Vishnu, dearer than the dear ones. To such one supreme Lord are my obeisance."
   }
  ],
  "source_sanskrit": {
@@ -867,7 +867,7 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit from Setutila/Sarvamula (aitareya.json mula and aitareya_bhashya.json). English: Pandurangi's translation of each Upanishad passage as Madhva reads it, from the scan OCR'd page by page with Bodhan's IndicOCR (the Devanagari in his book marks each passage with 'Upanishad:'; those passages were matched to the Setutila mula by character alignment, 89 found, and the Sanskrit of each unit is the matching stretch of Setutila's text). Units 'A.B.C.n' (aranyaka.adhyaya.khanda.passage) are scope mula: the passage and its translation. Pandurangi's 'Expl.' notes and his quotations from Madhva's bhashya are not part of the translation and are left out. Madhva's bhashya is kept as one Sanskrit-only unit per khanda ('...-bhashya', scope commentary, no english) because Pandurangi translates it only in summary. Mula text not matched by any passage (4852 of 38532 characters) is not in the units. Refs take the aranyaka, adhyaya and khanda of the Setutila unit that holds the start of the passage; Setutila groups some khandas, so a few labels lag one section behind the colophons inside the Sanskrit. Section colophons and numbering that Setutila leaves inside the mula text are stripped. Earlier versions of this file (khanda groups with english that also covered the bhashya) are in git history. [Madhva's bhashya on each khanda is kept as 31 Sanskrit-only units (english null, skipped when scoring), with the opening verses as units 'mangalacharana' and 'intro-bhashya' and the closing verses (the sarvashabdavacyatva verse 'sarvaisca vaidikapadairapi lokasabdaih' among them) as 'closing-verse-1', 'closing-verse-2', 'closing-bhashya', 'closing-namaskara': no English translation of Madhva's Aitareya bhashya was found, Pandurangi only summarises it.] [intro-bhashya takes Pandurangi's explanatory note (1989) on those verses as its english: a paraphrase, not a literal translation.]",
+ "notes": "Sanskrit from Setutila/Sarvamula (aitareya.json mula and aitareya_bhashya.json). English: Pandurangi's translation of each Upanishad passage as Madhva reads it, from the scan OCR'd page by page with Bodhan's IndicOCR (the Devanagari in his book marks each passage with 'Upanishad:'; those passages were matched to the Setutila mula by character alignment, 89 found, and the Sanskrit of each unit is the matching stretch of Setutila's text). Units 'A.B.C.n' (aranyaka.adhyaya.khanda.passage) are scope mula: the passage and its translation. Pandurangi's 'Expl.' notes and his quotations from Madhva's bhashya are not part of the translation and are left out. Madhva's bhashya is kept as one Sanskrit-only unit per khanda ('...-bhashya', scope commentary, no english) because Pandurangi translates it only in summary. Mula text not matched by any passage (4852 of 38532 characters) is not in the units. Refs take the aranyaka, adhyaya and khanda of the Setutila unit that holds the start of the passage; Setutila groups some khandas, so a few labels lag one section behind the colophons inside the Sanskrit. Section colophons and numbering that Setutila leaves inside the mula text are stripped. Earlier versions of this file (khanda groups with english that also covered the bhashya) are in git history. [Madhva's bhashya on each khanda is kept as 27 Sanskrit-only units (english null, skipped when scoring), with the opening verses as units 'mangalacharana' and 'intro-bhashya' and the closing verses (the sarvashabdavacyatva verse 'sarvaisca vaidikapadairapi lokasabdaih' among them) as 'closing-verse-1', 'closing-verse-2', 'closing-bhashya', 'closing-namaskara': no English translation of Madhva's Aitareya bhashya was found, Pandurangi only summarises it.] [intro-bhashya takes Pandurangi's explanatory note (1989) on those verses as its english: a paraphrase, not a literal translation.]",
  "reference_type": "interpretive",
  "english_rights": [
   "in_copyright_or_unclear"
