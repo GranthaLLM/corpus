@@ -37,7 +37,7 @@ def table():
     return "\n".join(lines)
 
 
-MIX = {"text": "text", "mula": "mula", "commentary": "commentary", "mula+commentary": "mula+commentary"}
+MIX = {"text": "whole text", "mula": "mula only", "commentary": "commentary only", "mula+commentary": "mula + commentary"}
 
 
 AUTHOR = {
@@ -55,7 +55,7 @@ def title(t):
 
 
 def files_table():
-    lines = ["| Work | Author | Units | Scope mix | Reference type |", "|---|---|---|---|---|"]
+    lines = ["| Work | Author | Units | Scope mix |", "|---|---|---|---|"]
     tot = 0
     for f in sorted(glob.glob(str(ROOT / "*" / "*.json"))):
         rel = f[len(str(ROOT)) + 1:]
@@ -70,8 +70,8 @@ def files_table():
         mx = ", ".join(f"{MIX[k]} {v}" for k, v in sorted(mix.items(), key=lambda kv: -kv[1]))
         stem = rel.split("/")[-1][:-5]
         author = AUTHOR.get(stem) or d.get("commentator") or "-"
-        lines.append(f"| {title(d['text'])} | {author} | {len(us)} | {mx} | {d.get('reference_type') or '-'} |")
-    lines.append(f"| **Total** | | **{tot}** | | |")
+        lines.append(f"| {title(d['text'])} | {author} | {len(us)} | {mx} |")
+    lines.append(f"| **Total** | | **{tot}** | |")
     return "\n".join(lines)
 
 
