@@ -27,8 +27,6 @@ for ref, en in EN.items():
         continue
     u = dict(oldu[ref])
     u["english"] = en
-    if ref in ("1.39", "2.101"):
-        u.setdefault("meta", {})["english_source"] = "written for this corpus"
     k = order.index(ref)
     idx = {x["ref"]: i for i, x in enumerate(d["units"])}
     prev = next((order[j] for j in range(k - 1, -1, -1) if order[j] in idx), None)

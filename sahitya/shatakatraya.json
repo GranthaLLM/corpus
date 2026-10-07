@@ -276,10 +276,7 @@
    "kind": "verse",
    "scope": "text",
    "sanskrit": "धनम् अर्जय काकुत्स्थ\nधनमूलम् इदं जगत् ।\nअन्तरं नाभिजानामि\nनिर्धनस्य मृतस्य च ॥",
-   "english": "Earn wealth, O descendant of Kakutstha; this world has wealth as its root. I do not know any difference between a poor man and a dead man.",
-   "meta": {
-    "english_source": "written for this corpus"
-   }
+   "english": "Earn wealth, O descendant of Kakutstha; this world has wealth as its root. I do not know any difference between a poor man and a dead man."
   },
   {
    "ref": "1.40",
@@ -1490,10 +1487,7 @@
    "kind": "verse",
    "scope": "text",
    "sanskrit": "यद्य् अस्य नास्ति रुचिरं तस्मिंस् तस्य स्पृहा मनोज्ञे ऽपि ।\nरमणीये ऽपि सुधांशौ न मनःकामः सरोजिन्याः ॥",
-   "english": "If a thing holds no charm for a person, he has no longing for it, however pleasing it may be to others: the moon is lovely, yet the lotus-pond's heart has no desire for it.",
-   "meta": {
-    "english_source": "written for this corpus"
-   }
+   "english": "If a thing holds no charm for a person, he has no longing for it, however pleasing it may be to others: the moon is lovely, yet the lotus-pond's heart has no desire for it."
   },
   {
    "ref": "2.102",
@@ -2294,7 +2288,7 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit: GRETIL IAST converted to Devanagari with tools/translit.py (hyphens dropped, compounds joined). English: Wortham 1886 (archive.org djvu OCR text, unproofread; stray OCR noise remains). Wortham translates only the Niti and Vairagya satakas, so all Shringarashataka units (2.x) have no English. Wortham follows Telang's order and numbering, which differs from GRETIL's, so units were paired by content (machine translation of each GRETIL verse compared with Wortham, then checked by hand against the Sanskrit); the pairing is MAP in tools/shataka_english.py. 215 of 324 units have English. Wortham verses with no GRETIL counterpart are unused, and GRETIL verses with no Wortham counterpart (1.39, 1.109, 3.40, 3.98, 3.100*2) have english null. ref = shataka.verse (1 Nitishataka, 2 Shringarashataka, 3 Vairagyashataka). [normalized: 0 empty heading-only units dropped, 2 repeated refs suffixed -2/-3 (the source repeats the number); a repeated unit never reuses the first unit's English.] [Shringarashataka English from J. M. Kennedy, The Satakas or Wise Sayings of Bhartrihari (1913), OCR from archive.org, a free paraphrase; 75 of 104 units paired. Kennedy orders the verses differently from GRETIL, so units were paired by content (machine translation + TF-IDF to propose, then each pair read against the Sanskrit) and chains of constant offset were filled in; the MAP is in tools/shataka_kennedy.py. Units not in MAP have no counterpart found: Kennedy omits some verses, replaces some with Latin or a cross reference, and his verse 63 only points to Vairagya 18.] Kennedy pairs 2.17 and 2.40 were removed after audit (they matched different verses). [Shringarashataka gaps filled from K. Gopalachariar's English translation (1954, in copyright; OCR from archive.org, free-copy rendering of verses 2.17-2.100, numbered as in this edition); 2.101 has no counterpart. Applied by direct number match after content check.] [Six verses restored: 1.109 from Joglekar (public domain), 3.40 and 3.98 from Madhavananda's Vairagya-Satakam, 3.100*2 from Bhoomananda (with 'son' changed to 'friend' to match the Sanskrit), 1.39 and 2.101 written for this corpus (no published English found; 2.101 is a Niti miscellany verse that GRETIL files under Shringara, and the sense follows the Marathi verse rendering on sanskritdeepika.org).]",
+ "notes": "Sanskrit: GRETIL IAST converted to Devanagari with tools/translit.py (hyphens dropped, compounds joined). English: Wortham 1886 (archive.org djvu OCR text, unproofread; stray OCR noise remains). Wortham translates only the Niti and Vairagya satakas, so all Shringarashataka units (2.x) have no English. Wortham follows Telang's order and numbering, which differs from GRETIL's, so units were paired by content (machine translation of each GRETIL verse compared with Wortham, then checked by hand against the Sanskrit); the pairing is MAP in tools/shataka_english.py. 215 of 324 units have English. Wortham verses with no GRETIL counterpart are unused, and GRETIL verses with no Wortham counterpart (1.39, 1.109, 3.40, 3.98, 3.100*2) have english null. ref = shataka.verse (1 Nitishataka, 2 Shringarashataka, 3 Vairagyashataka). [normalized: 0 empty heading-only units dropped, 2 repeated refs suffixed -2/-3 (the source repeats the number); a repeated unit never reuses the first unit's English.] [Shringarashataka English from J. M. Kennedy, The Satakas or Wise Sayings of Bhartrihari (1913), OCR from archive.org, a free paraphrase; 75 of 104 units paired. Kennedy orders the verses differently from GRETIL, so units were paired by content (machine translation + TF-IDF to propose, then each pair read against the Sanskrit) and chains of constant offset were filled in; the MAP is in tools/shataka_kennedy.py. Units not in MAP have no counterpart found: Kennedy omits some verses, replaces some with Latin or a cross reference, and his verse 63 only points to Vairagya 18.] Kennedy pairs 2.17 and 2.40 were removed after audit (they matched different verses). [Shringarashataka gaps filled from K. Gopalachariar's English translation (1954, in copyright; OCR from archive.org, free-copy rendering of verses 2.17-2.100, numbered as in this edition); 2.101 has no counterpart. Applied by direct number match after content check.] [Six verses restored: 1.109 from Joglekar (public domain), 3.40 and 3.98 from Madhavananda's Vairagya-Satakam, 3.100*2 from Bhoomananda (with 'son' changed to 'friend' to match the Sanskrit); 1.39 and 2.101 have no published English and are translated here.]",
  "reference_type": "translation",
  "english_rights": [
   "public_domain",
