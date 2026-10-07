@@ -272,3 +272,13 @@ Filter on `reference_type` when scoring, so literal translations and interpretiv
 ### Units without `parts`
 
 Some `mula+commentary` units hold the pair without `parts` because the source gives mula and commentary as one block (all of `sribhashya_ramanuja`, 539 units). For those the pair is the only copy and there is no separate mula or commentary score.
+
+## Addressing a unit
+
+A unit or one of its parts is addressed as `file:ref` or `file:ref.role`, where `file` is the file name without `.json` and `role` is `mula`, `bhashya` or `tatparya`:
+
+- `bsb_madhva:1.1.1` is the sutra and its bhashya together, with the split parts.
+- `bsb_madhva:1.1.1.mula` is the sutra alone, `bsb_madhva:1.1.1.bhashya` the commentary alone.
+- `bg_madhva:3/4.tatparya` and `aitareya_madhva:mangalacharana` work the same way.
+
+`python3 tools/lookup.py bsb_madhva:1.1.1.bhashya` prints the text, `--json` returns it as JSON. A unit that holds its pair without parts (all of `sribhashya_ramanuja`) answers only to the whole address. Run `python3 tools/test_lookup.py` to test it.
