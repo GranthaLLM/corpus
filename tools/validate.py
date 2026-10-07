@@ -1,4 +1,4 @@
-import json, glob, re, sys, collections
+import json, glob, re, sys, collections, statistics
 from common import ROOT
 
 SCOPES = {"text", "mula", "commentary", "mula+commentary"}
@@ -6,6 +6,7 @@ KINDS = {"verse", "sutra", "prose", "group"}
 UNIT_KEYS = {"ref", "kind", "scope", "sanskrit", "english", "parts", "meta"}
 REQUIRED = {"ref", "kind", "scope", "sanskrit", "english"}
 ROLES = {"mula", "bhashya", "tatparya"}
+JUNK = re.compile(r"Footnotes and references|\[back to top\]|Tranlsation and commentary is missing|NOTE: The following page is missing|Article published on|Last Updated:")
 TOP = {"id", "text", "tradition", "commentator", "script", "units", "source_sanskrit", "source_english", "bundled", "needs_ocr", "alignment", "slice_of", "notes", "reference_type", "english_rights"}
 
 
@@ -21,6 +22,8 @@ def check(f):
     if d.get("script") != "Devanagari":
         errs.append(f"script {d.get('script')}")
     seen = set()
+    ratios = [len(u["english"]) / len(u["sanskrit"]) for u in d["units"] if u.get("sanskrit") and u.get("english")]
+    med = statistics.median(ratios) if len(ratios) >= 15 and d.get("reference_type") != "summary" else None
     for u in d["units"]:
         r = u.get("ref")
         if set(u) - UNIT_KEYS or REQUIRED - set(u):
@@ -50,6 +53,19 @@ def check(f):
                         errs.append(f"{r}: scope mula but {role} is in sanskrit")
         if u["scope"] == "mula+commentary" and parts and not any(p.get("sanskrit") and p["role"] != "mula" for p in parts):
             errs.append(f"{r}: mula+commentary without commentary part")
+        for k in ("english",):
+            texts = [("pair", u[k])] + [(p.get("role"), p.get(k)) for p in parts]
+            for where, t in texts:
+                if t and JUNK.search(t):
+                    errs.append(f"{r}: junk string in {where} english: {JUNK.search(t).group(0)}")
+        pe = len(u["english"] or "")
+        for p in parts:
+            if u["scope"] == "mula+commentary" and p.get("english") and u["english"] and len(p["english"]) > 2.5 * pe + 500:
+                errs.append(f"{r}: {p.get('role')} part english ({len(p['english'])}) far longer than the pair ({pe}); part has drifted")
+        if med and u["sanskrit"] and u["english"] and len(s) > 40:
+            x = len(u["english"]) / len(s) / med
+            if x > 4.5 or x < 0.3:
+                warns.append(f"{r}: english/sanskrit length ratio {x:.1f}x the file median")
         if u["sanskrit"] and u["english"] and u["scope"] == "mula+commentary" and len(u["english"]) < 0.8 * len(s):
             warns.append(f"{r}: english much shorter than sanskrit for scope mula+commentary")
         if re.search(r"[a-zA-Z]", re.sub(r"\(BhGR_[^)]*\)|bbs_[\d,.]+[a-z]?|\bfn\.?:|_+", "", s)) and name not in ("harivamsha.json"):
