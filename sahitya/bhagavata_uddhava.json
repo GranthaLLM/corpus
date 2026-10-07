@@ -9568,11 +9568,11 @@
    }
   },
   {
-   "ref": "11.19.19",
+   "ref": "11.19.19-24",
    "kind": "verse",
    "scope": "mula",
-   "sanskrit": "आदरः परिचर्यायां सर्वाङ्गैरभिवन्दनम्।\nमद्भक्तपूजाऽभ्यधिका सर्वभूतेषु मन्मतिः॥ ११/१९/१९॥",
-   "english": "When one’s peaceful consciousness, strengthened by the mode of goodness, is fixed on the Lord, one achieves religiosity, knowledge, detachment and opulence.",
+   "sanskrit": "आदरः परिचर्यायां सर्वाङ्गैरभिवन्दनम्।\nमद्भक्तपूजाऽभ्यधिका सर्वभूतेषु मन्मतिः॥ ११/१९/१९॥\nमदर्थेष्वङ्गचेष्टा च वचसा मद्गुणेरणम्।\nमय्यर्पणं च मनसः सर्वकामविसर्जनम्॥ ११/१९/२०॥\nमदर्थे च परित्यागो भोगस्य च सुखस्य च।\nइष्टं दत्तं हुतं भुक्तं मदर्थं यद् व्रतं तपः॥ ११/१९/२१॥\nएवं धर्मैर्मनुष्याणामुद्धवात्मनिवेदिनाम्।\nमयि सञ्जायते भक्तिः कोऽन्योऽर्थोऽस्यावशिष्यते॥ ११/१९/२२॥\nयदा मय्यर्पितं चित्तं शान्तं सत्वोपबृंहितम्।\nधर्मं ज्ञानं सवैराग्यमैश्वर्यं चाभिपद्यते॥ ११/१९/२३॥\nयद्यर्पितं तद् विकल्प इन्द्रियैः परिधावति।\nरजस्वलमसन्निष्ठं चित्तं विद्धि विपर्ययम्॥ ११/१९/२४॥",
+   "english": "When one’s peaceful consciousness, strengthened by the mode of goodness, is fixed on the Lord, one achieves religiosity, knowledge, detachment and opulence. When consciousness is fixed on the material body, home and other, similar objects of sense enjoyment, one spends one’s life chasing after material objects with the help of the senses. Consciousness, thus powerfully affected by the mode of passion, becomes dedicated to impermanent things, and in this way irreligion, ignorance, attachment and wretchedness arise.",
    "meta": {
     "align": "content",
     "english_edits": [
@@ -9585,26 +9585,6 @@
      "25-25"
     ],
     "english_verbatim": "When one’s peaceful consciousness, strengthened by the mode of goodness, is fixed on the Personality of Godhead, one achieves religiosity, knowledge, detachment and opulence."
-   }
-  },
-  {
-   "ref": "11.19.20-24",
-   "kind": "group",
-   "scope": "mula",
-   "sanskrit": "मदर्थेष्वङ्गचेष्टा च वचसा मद्गुणेरणम्।\nमय्यर्पणं च मनसः सर्वकामविसर्जनम्॥ ११/१९/२०॥\nमदर्थे च परित्यागो भोगस्य च सुखस्य च।\nइष्टं दत्तं हुतं भुक्तं मदर्थं यद् व्रतं तपः॥ ११/१९/२१॥\nएवं धर्मैर्मनुष्याणामुद्धवात्मनिवेदिनाम्।\nमयि सञ्जायते भक्तिः कोऽन्योऽर्थोऽस्यावशिष्यते॥ ११/१९/२२॥\nयदा मय्यर्पितं चित्तं शान्तं सत्वोपबृंहितम्।\nधर्मं ज्ञानं सवैराग्यमैश्वर्यं चाभिपद्यते॥ ११/१९/२३॥\nयद्यर्पितं तद् विकल्प इन्द्रियैः परिधावति।\nरजस्वलमसन्निष्ठं चित्तं विद्धि विपर्ययम्॥ ११/१९/२४॥",
-   "english": "When consciousness is fixed on the material body, home and other, similar objects of sense enjoyment, one spends one’s life chasing after material objects with the help of the senses. Consciousness, thus powerfully affected by the mode of passion, becomes dedicated to impermanent things, and in this way irreligion, ignorance, attachment and wretchedness arise.",
-   "meta": {
-    "align": "content",
-    "english_edits": [
-     {
-      "rule": "sense gratification -> sense enjoyment",
-      "count": 1
-     }
-    ],
-    "vedabase_texts": [
-     "26-26"
-    ],
-    "english_verbatim": "When consciousness is fixed on the material body, home and other, similar objects of sense gratification, one spends one’s life chasing after material objects with the help of the senses. Consciousness, thus powerfully affected by the mode of passion, becomes dedicated to impermanent things, and in this way irreligion, ignorance, attachment and wretchedness arise."
    }
   },
   {
@@ -12280,37 +12260,17 @@
    }
   },
   {
-   "ref": "11.22.57",
+   "ref": "11.22.57-59",
    "kind": "verse",
    "scope": "mula",
-   "sanskrit": "क्षिप्तोऽवमानितोऽसद्भिः प्रलब्धः शापितोपि वा।\nताडितः सन्निरुद्धो वा वृत्त्या वा परिहापितः॥ ११/२२/५७॥",
-   "english": "Even though neglected, insulted, ridiculed or envied by bad men, or even though repeatedly agitated by being beaten, tied up or deprived of one’s occupation, spat upon or polluted with urine by ignorant people, one who desires the highest goal in life should in spite of all these difficulties use his intelligence to keep himself safe on the spiritual platform.",
+   "sanskrit": "क्षिप्तोऽवमानितोऽसद्भिः प्रलब्धः शापितोपि वा।\nताडितः सन्निरुद्धो वा वृत्त्या वा परिहापितः॥ ११/२२/५७॥\nविष्ठितो मूत्रितो वाऽज्ञैर्बहुधैवं प्रकम्पितः।\nश्रेयस्कामः कृच्छ्रगत आत्मनाऽऽत्मानमुद्धरेत्॥ ११/२२/५८॥\nउद्धव उवाच\nयथैवमनुबुध्येयं वद नो वदतां वर।\nसुदुःसहमहं मन्ये आत्मन्यसदतिक्रमम्॥ ११/२२/५९॥",
+   "english": "Even though neglected, insulted, ridiculed or envied by bad men, or even though repeatedly agitated by being beaten, tied up or deprived of one’s occupation, spat upon or polluted with urine by ignorant people, one who desires the highest goal in life should in spite of all these difficulties use his intelligence to keep himself safe on the spiritual platform. Uddhava said: O best of all speakers, please explain to me how I may properly understand this.",
    "meta": {
     "align": "content",
     "vedabase_texts": [
      "58-59"
     ],
     "english_verbatim": "Even though neglected, insulted, ridiculed or envied by bad men, or even though repeatedly agitated by being beaten, tied up or deprived of one’s occupation, spat upon or polluted with urine by ignorant people, one who desires the highest goal in life should in spite of all these difficulties use his intelligence to keep himself safe on the spiritual platform."
-   }
-  },
-  {
-   "ref": "11.22.58-59",
-   "kind": "group",
-   "scope": "mula",
-   "sanskrit": "विष्ठितो मूत्रितो वाऽज्ञैर्बहुधैवं प्रकम्पितः।\nश्रेयस्कामः कृच्छ्रगत आत्मनाऽऽत्मानमुद्धरेत्॥ ११/२२/५८॥\nउद्धव उवाच\nयथैवमनुबुध्येयं वद नो वदतां वर।\nसुदुःसहमहं मन्ये आत्मन्यसदतिक्रमम्॥ ११/२२/५९॥",
-   "english": "Uddhava said: O best of all speakers, please explain to me how I may properly understand this.",
-   "meta": {
-    "align": "content",
-    "vedabase_texts": [
-     "60-60"
-    ],
-    "english_verbatim": "Śrī Uddhava said: O best of all speakers, please explain to me how I may properly understand this.",
-    "english_edits": [
-     {
-      "rule": "honorific Śrī before a name removed",
-      "count": 1
-     }
-    ]
    }
   },
   {
@@ -15468,11 +15428,11 @@
    }
   },
   {
-   "ref": "11.27.37",
+   "ref": "11.27.37-41",
    "kind": "verse",
    "scope": "mula",
-   "sanskrit": "तप्तजाम्बूनदप्रख्यं शङ्खचक्रगदाम्बुजैः।\nलसच्चतुर्भुजं शान्तं पदम्किञ्जल्कवाससम्॥ ११/२७/३७॥",
-   "english": "The intelligent devotee should meditate upon that form of the Lord whose color is like molten gold, whose four arms are resplendent with the conchshell, disc, club and lotus flower, and who is always peaceful and dressed in a garment colored like the filaments within a lotus flower. His helmet, bracelets, belt and fine arm ornaments shine brilliantly. The symbol of Śrīvatsa is on His chest, along with the glowing Kaustubha gem and a garland of forest flowers. The devotee should then worship that Lord by taking pieces of firewood soaked in the sacrificial ghee and throwing them into the fire. He should perform the ritual of āghāra, presenting into the fire the various items of oblation drenched in ghee. He should then offer to sixteen gods, beginning with Yamarāja, the oblation called sviṣṭi-kṛt, reciting the basic mantras of each deity and the sixteen-line Puruṣa-sūkta hymn. Pouring one oblation after each line of the Puruṣa-sūkta, he should utter the particular mantra naming each deity.",
+   "sanskrit": "तप्तजाम्बूनदप्रख्यं शङ्खचक्रगदाम्बुजैः।\nलसच्चतुर्भुजं शान्तं पदम्किञ्जल्कवाससम्॥ ११/२७/३७॥\nस्फुरत्किरीटकटककटिसूत्रवराङ्गदम्।\nश्रीवत्सवक्षसं भ्राजत्कौस्तुभं वनमालिनम्॥ ११/२७/३८॥\nध्यायर्न्नभ्यच्य दारूणि हविषाऽभियुतानि च।\nप्रास्याज्यभागावाघार्य दत्वा चाज्यप्लुतं हविः॥ ११/२७/३९॥\nजुहुयान्मूलमन्त्रेण षोडषार्चाविधानतः।\nधर्मादिभ्यो यथान्यायं मन्त्रैः स्विष्टकृतं बुधः॥ ११/२७/४०॥\nअर्भ्यच्याग्निं नमस्कृत्य पार्षदेभ्यो बलिं हरेत्।\nमूलमन्त्रं जपेद् ब्रह्म स्मरन् नारायणात्मकम्॥ ११/२७/४१॥",
+   "english": "The intelligent devotee should meditate upon that form of the Lord whose color is like molten gold, whose four arms are resplendent with the conchshell, disc, club and lotus flower, and who is always peaceful and dressed in a garment colored like the filaments within a lotus flower. His helmet, bracelets, belt and fine arm ornaments shine brilliantly. The symbol of Śrīvatsa is on His chest, along with the glowing Kaustubha gem and a garland of forest flowers. The devotee should then worship that Lord by taking pieces of firewood soaked in the sacrificial ghee and throwing them into the fire. He should perform the ritual of āghāra, presenting into the fire the various items of oblation drenched in ghee. He should then offer to sixteen gods, beginning with Yamarāja, the oblation called sviṣṭi-kṛt, reciting the basic mantras of each deity and the sixteen-line Puruṣa-sūkta hymn. Pouring one oblation after each line of the Puruṣa-sūkta, he should utter the particular mantra naming each deity. Having thus worshiped the Lord in the sacrificial fire, the devotee should offer his obeisances to the Lord’s personal associates by bowing down and should then present offerings to them. He should then chant quietly the mūla-mantra of the Deity of the Lord, remembering the Absolute Truth as the Supreme Personality, Nārāyaṇa.",
    "meta": {
     "align": "content",
     "vedabase_texts": [
@@ -15485,20 +15445,6 @@
       "count": 1
      }
     ]
-   }
-  },
-  {
-   "ref": "11.27.38-41",
-   "kind": "group",
-   "scope": "mula",
-   "sanskrit": "स्फुरत्किरीटकटककटिसूत्रवराङ्गदम्।\nश्रीवत्सवक्षसं भ्राजत्कौस्तुभं वनमालिनम्॥ ११/२७/३८॥\nध्यायर्न्नभ्यच्य दारूणि हविषाऽभियुतानि च।\nप्रास्याज्यभागावाघार्य दत्वा चाज्यप्लुतं हविः॥ ११/२७/३९॥\nजुहुयान्मूलमन्त्रेण षोडषार्चाविधानतः।\nधर्मादिभ्यो यथान्यायं मन्त्रैः स्विष्टकृतं बुधः॥ ११/२७/४०॥\nअर्भ्यच्याग्निं नमस्कृत्य पार्षदेभ्यो बलिं हरेत्।\nमूलमन्त्रं जपेद् ब्रह्म स्मरन् नारायणात्मकम्॥ ११/२७/४१॥",
-   "english": "Having thus worshiped the Lord in the sacrificial fire, the devotee should offer his obeisances to the Lord’s personal associates by bowing down and should then present offerings to them. He should then chant quietly the mūla-mantra of the Deity of the Lord, remembering the Absolute Truth as the Supreme Personality, Nārāyaṇa.",
-   "meta": {
-    "align": "content",
-    "vedabase_texts": [
-     "42-42"
-    ],
-    "english_verbatim": "Having thus worshiped the Lord in the sacrificial fire, the devotee should offer his obeisances to the Lord’s personal associates by bowing down and should then present offerings to them. He should then chant quietly the mūla-mantra of the Deity of the Lord, remembering the Absolute Truth as the Supreme Personality, Nārāyaṇa."
    }
   },
   {

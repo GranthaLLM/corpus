@@ -62,25 +62,11 @@
    "english": "Vidura then received him with the rites prescribed by ordinance."
   },
   {
-   "ref": "27813",
+   "ref": "27813-27815",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "सुख उपविष्टम् विश्रान्तम् अथ एनम् विदुरः अब्रवीत् भगवन् संशयः कः चित् धृतराष्ट्रस्य मानसे यः न शक्यः मया वक्तुम् तम् अस्मै वक्तुम् अर्हसि",
-   "english": "And when, having rested a while, the Rishi was seated at his ease, Vidura addressed him, saying, 'O illustrious one, there is a doubt in Dhritarashtra's mind which is incapable of being explained away by me."
-  },
-  {
-   "ref": "27814",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "यम् श्रुत्वा अयम् मनुष्य इन्द्रः सुख दुःख अतिगः भवेत्",
-   "english": "It behoveth thee, therefore, to expound it, so that listening to thy discourse, this chief of men may tide over all this sorrows, and to that gain and loss, what is agreeable and what disagreeable, decrepitude and death, fright and jealously, hunger and thirst, pride and prosperity, dislike, sleep, lust and wrath, and decrease and increase may all be borne by him!'\" SECTION XLII \"Vaisampayana said, 'Then the illustrious and wise king Dhritarashtra, having applauded the words spoken by Vidura, questioned Sanat-sujata in secret, desirous of obtaining the highest of all knowledge."
-  },
-  {
-   "ref": "27815",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "सनत्सुजात यदि इदम् शृणोमि मृत्युः हि न अस्ति इति तव उपदेशम्",
-   "english": "And the king questioned the Rishi saying, 'O Sanat-sujata, I hear that thou art of the opinion that there is no Death."
+   "sanskrit": "सुख उपविष्टम् विश्रान्तम् अथ एनम् विदुरः अब्रवीत् भगवन् संशयः कः चित् धृतराष्ट्रस्य मानसे यः न शक्यः मया वक्तुम् तम् अस्मै वक्तुम् अर्हसि यम् श्रुत्वा अयम् मनुष्य इन्द्रः सुख दुःख अतिगः भवेत् सनत्सुजात यदि इदम् शृणोमि मृत्युः हि न अस्ति इति तव उपदेशम्",
+   "english": "And when, having rested a while, the Rishi was seated at his ease, Vidura addressed him, saying, 'O illustrious one, there is a doubt in Dhritarashtra's mind which is incapable of being explained away by me. It behoveth thee, therefore, to expound it, so that listening to thy discourse, this chief of men may tide over all this sorrows, and to that gain and loss, what is agreeable and what disagreeable, decrepitude and death, fright and jealously, hunger and thirst, pride and prosperity, dislike, sleep, lust and wrath, and decrease and increase may all be borne by him!'\" SECTION XLII \"Vaisampayana said, 'Then the illustrious and wise king Dhritarashtra, having applauded the words spoken by Vidura, questioned Sanat-sujata in secret, desirous of obtaining the highest of all knowledge. And the king questioned the Rishi saying, 'O Sanat-sujata, I hear that thou art of the opinion that there is no Death."
   },
   {
    "ref": "27816",
@@ -90,25 +76,11 @@
    "english": "Again it is said that the gods and the Asuras, practise ascetic austerities in order to avoid death."
   },
   {
-   "ref": "27817",
+   "ref": "27817-27819",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "अमृत्यवे तत् कतरत् नु सत्यम् सनत्सुजातः उवाच",
-   "english": "Of these two opinions, then, which is true?' \"Sanat-sujata said, 'Some say, death is avertable by particular acts;"
-  },
-  {
-   "ref": "27818",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "अमृत्युः कर्मणा के चित् मृत्युः न अस्ति इति च अपरे",
-   "english": "others' opinion there is no death;"
-  },
-  {
-   "ref": "27819",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "शृणु मे ब्रुवतः राजन् यथा एतत् मा विशङ्किथाः",
-   "english": "Listen to me, O king, as I discourse to thee on this, so that thy doubts may be removed."
+   "sanskrit": "अमृत्यवे तत् कतरत् नु सत्यम् सनत्सुजातः उवाच अमृत्युः कर्मणा के चित् मृत्युः न अस्ति इति च अपरे शृणु मे ब्रुवतः राजन् यथा एतत् मा विशङ्किथाः",
+   "english": "Of these two opinions, then, which is true?' \"Sanat-sujata said, 'Some say, death is avertable by particular acts; others' opinion there is no death; Listen to me, O king, as I discourse to thee on this, so that thy doubts may be removed."
   },
   {
    "ref": "27820",
@@ -216,32 +188,11 @@
    "english": "It is for this that ignorance receives the name of death."
   },
   {
-   "ref": "27835",
+   "ref": "27835-27838",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "कर्म उदये कर्म फल अनुरागाः",
-   "english": "Those men that desire the fruits of action when the time cometh for enjoying those fruits, proceed to heaven, casting off their bodies."
-  },
-  {
-   "ref": "27836",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "तत्र अनु यान्ति न तरन्ति मृत्युम् सत् अर्थ योगान् अवगमात् समन्तात्",
-   "english": "Hence they cannot avoid death."
-  },
-  {
-   "ref": "27837",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "प्रवर्तते भोग योगेन देही",
-   "english": "Embodied creatures, from inability to attain the knowledge of Brahman and from their connection with earthly enjoyments, are obliged to sojourn in a cycle of re-births, up and down and around, The natural inclination of man towards pursuits that are unreal is alone the cause of the senses being led to error."
-  },
-  {
-   "ref": "27838",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "मिथ्या अर्थ योगस्य गतिः हि नित्या मिथ्या अर्थ योग अभिहत अन्तरात्मा स्मरन् उपास्ते विषयान् समन्तात्",
-   "english": "The soul that is constantly affected by the pursuit of objects that are unreal, remembering only that with which it is always engaged, adoreth only earthly enjoyments that surround it."
+   "sanskrit": "कर्म उदये कर्म फल अनुरागाः तत्र अनु यान्ति न तरन्ति मृत्युम् सत् अर्थ योगान् अवगमात् समन्तात् प्रवर्तते भोग योगेन देही मिथ्या अर्थ योगस्य गतिः हि नित्या मिथ्या अर्थ योग अभिहत अन्तरात्मा स्मरन् उपास्ते विषयान् समन्तात्",
+   "english": "Those men that desire the fruits of action when the time cometh for enjoying those fruits, proceed to heaven, casting off their bodies. Hence they cannot avoid death. Embodied creatures, from inability to attain the knowledge of Brahman and from their connection with earthly enjoyments, are obliged to sojourn in a cycle of re-births, up and down and around, The natural inclination of man towards pursuits that are unreal is alone the cause of the senses being led to error. The soul that is constantly affected by the pursuit of objects that are unreal, remembering only that with which it is always engaged, adoreth only earthly enjoyments that surround it."
   },
   {
    "ref": "27839",
@@ -314,25 +265,11 @@
    "english": "That soul, which is in thy body, associated as it is with wrath and covetousness and filled with ignorance, that is death."
   },
   {
-   "ref": "27849",
+   "ref": "27849-27851",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "एवम् मृत्युम् जायमानम् विदित्वा ज्ञाने तिष्ठन् न बिभेति इह मृत्योः विनश्यते विषये तस्य मृत्युः",
-   "english": "Knowing that death arises in this way, he that relies on knowledge, entertaineth no fear of death."
-  },
-  {
-   "ref": "27850",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "मृत्योः यथा विषयम् प्राप्य मर्त्यः",
-   "english": "Indeed, as the body is destroyed when brought under the influence of death, so death itself is destroyed when it comes under the influence of knowledge.' \"Dhritarashtra said, 'The Vedas declare the emancipating capacity of those highly sacred and eternal regions, that are said to be obtainable by the regenerate classes by prayers and sacrifices."
-  },
-  {
-   "ref": "27851",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "एतत् विद्वान् न एति कथम् नु कर्म एवम् हि अ विद्वान् उपयाति तत्र तथा अर्थ जातम् च वदन्ति वेदाः",
-   "english": "Knowing this, why should not a learned person have recourse to (religious) acts?'[3] \"Sanat-sujata said, 'Indeed, he that is without knowledge proceedeth thither by the path indicated by thee, and the Vedas also declare that thither are both bliss and emancipation."
+   "sanskrit": "एवम् मृत्युम् जायमानम् विदित्वा ज्ञाने तिष्ठन् न बिभेति इह मृत्योः विनश्यते विषये तस्य मृत्युः मृत्योः यथा विषयम् प्राप्य मर्त्यः एतत् विद्वान् न एति कथम् नु कर्म एवम् हि अ विद्वान् उपयाति तत्र तथा अर्थ जातम् च वदन्ति वेदाः",
+   "english": "Knowing that death arises in this way, he that relies on knowledge, entertaineth no fear of death. Indeed, as the body is destroyed when brought under the influence of death, so death itself is destroyed when it comes under the influence of knowledge.' \"Dhritarashtra said, 'The Vedas declare the emancipating capacity of those highly sacred and eternal regions, that are said to be obtainable by the regenerate classes by prayers and sacrifices. Knowing this, why should not a learned person have recourse to (religious) acts?'[3] \"Sanat-sujata said, 'Indeed, he that is without knowledge proceedeth thither by the path indicated by thee, and the Vedas also declare that thither are both bliss and emancipation."
   },
   {
    "ref": "27852",
@@ -419,25 +356,11 @@
    "english": "On the other hand, the materialist acquireth merit (by action) and (as the consequence thereof) emancipation."
   },
   {
-   "ref": "27864",
+   "ref": "27864-27866",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "तथागतम् पापम् उपैति सिद्धम्",
-   "english": "He hath also (in course of his pursuit) to incur sin."
-  },
-  {
-   "ref": "27865",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "गत्वा उभयम् कर्मणा भुज्यते अस्थिरम्",
-   "english": "Having obtained again fruits of both virtue and vice which are transitory, (heaven having its end as also hell in respect of the virtuous and the sinful), the man of action becometh once more addicted to action as the consequence of his own previous virtues and vices."
-  },
-  {
-   "ref": "27866",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "शुभस्य पापस्य स च अपि कर्मणा धर्मेण अधर्मम् प्रणुदति इह विद्वान्",
-   "english": "The man of action, however, who possesseth intelligence, destroyeth his sins by his virtuous acts."
+   "sanskrit": "तथागतम् पापम् उपैति सिद्धम् गत्वा उभयम् कर्मणा भुज्यते अस्थिरम् शुभस्य पापस्य स च अपि कर्मणा धर्मेण अधर्मम् प्रणुदति इह विद्वान्",
+   "english": "He hath also (in course of his pursuit) to incur sin. Having obtained again fruits of both virtue and vice which are transitory, (heaven having its end as also hell in respect of the virtuous and the sinful), the man of action becometh once more addicted to action as the consequence of his own previous virtues and vices. The man of action, however, who possesseth intelligence, destroyeth his sins by his virtuous acts."
   },
   {
    "ref": "27867",
@@ -447,25 +370,11 @@
    "english": "Virtue, therefore, is strong, and hence the success of the man of action.' \"Dhritarashtra said, 'Tell me, according to their gradation, of those eternal regions that are said to be attainable, as the fruits of their own virtuous acts, by regenerate persons, engaged in the practice of virtue."
   },
   {
-   "ref": "27868",
+   "ref": "27868-27870",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "तेषाम् परिक्रमान् कथयन्तः ततस् अन्यान्",
-   "english": "Speak unto me of others' regions also of a similar kind."
-  },
-  {
-   "ref": "27869",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "येषाम् बले न विस्पर्धा बले बलवताम् इव",
-   "english": "O learned sire, I do not wish to hear of actions (towards which man's heart naturally inclineth, however interdicted or sinful they may be).' \"Sanat-sujata said, 'Those regenerate persons that take pride in their Yoga practices, like strong men in their own strength, departing hence, shine in the region of Brahman."
-  },
-  {
-   "ref": "27870",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "येषाम् धर्मे न च स्पर्धा तेषाम् तद् ज्ञान साधनम् ते ब्राह्मणाः इतस् मुक्ताः स्वर्गम् यान्ति त्रिविष्टपम्",
-   "english": "Those regenerate persons that proudly exert in performing sacrifices and other Vedic rites, as the fruit of that knowledge which is theirs, in consequence of those acts, freed from this world, proceed to that region which is the abode of the deities."
+   "sanskrit": "तेषाम् परिक्रमान् कथयन्तः ततस् अन्यान् येषाम् बले न विस्पर्धा बले बलवताम् इव येषाम् धर्मे न च स्पर्धा तेषाम् तद् ज्ञान साधनम् ते ब्राह्मणाः इतस् मुक्ताः स्वर्गम् यान्ति त्रिविष्टपम्",
+   "english": "Speak unto me of others' regions also of a similar kind. O learned sire, I do not wish to hear of actions (towards which man's heart naturally inclineth, however interdicted or sinful they may be).' \"Sanat-sujata said, 'Those regenerate persons that take pride in their Yoga practices, like strong men in their own strength, departing hence, shine in the region of Brahman. Those regenerate persons that proudly exert in performing sacrifices and other Vedic rites, as the fruit of that knowledge which is theirs, in consequence of those acts, freed from this world, proceed to that region which is the abode of the deities."
   },
   {
    "ref": "27871",
@@ -902,18 +811,11 @@
    "english": "As regards this last attribute, it involves eight qualities."
   },
   {
-   "ref": "27933",
+   "ref": "27933-27934",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "सत्यम् ध्यानम् समाधानम् चोद्यम् वैराग्यम् एव च अस्तेयः ब्रह्मचर्यम् च तथा असंग्रहः एव च",
-   "english": "These are truth, meditation, distinction of subject and object, capacity for drawing inferences, withdrawal from the world, never taking what belongeth to others, the practices of Brahmacharya vows (abstinence), and non-acceptance (of gifts)."
-  },
-  {
-   "ref": "27934",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "एवम् दोषाः मदस्य उक्ताः तान् दोषान् परिवर्जयेत्",
-   "english": "These faults should be avoided."
+   "sanskrit": "सत्यम् ध्यानम् समाधानम् चोद्यम् वैराग्यम् एव च अस्तेयः ब्रह्मचर्यम् च तथा असंग्रहः एव च एवम् दोषाः मदस्य उक्ताः तान् दोषान् परिवर्जयेत्",
+   "english": "These are truth, meditation, distinction of subject and object, capacity for drawing inferences, withdrawal from the world, never taking what belongeth to others, the practices of Brahmacharya vows (abstinence), and non-acceptance (of gifts). These faults should be avoided."
   },
   {
    "ref": "27935",
@@ -944,32 +846,11 @@
    "english": "The Ordainer hath ordained that truth alone should be the vow of the righteous."
   },
   {
-   "ref": "27939",
+   "ref": "27939-27942",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "एतत् पाप हरम् शुद्धम् जन्म मृत्यु जरा अपहम् धृतराष्ट्रः उवाच आख्यान पञ्चमैः वेदैः भूयिष्ठम् कथ्यते जनः",
-   "english": "Asceticism, that is dissociated from these faults and endued with these virtues, becomes the source of great prosperity, I have now briefly told these about that sin-destroying and sacred subject which thou hadst asked me and which is capable of liberating a person from birth, death, and decrepitude.' \"Dhritarashtra said, 'With Akhyana (Puranas) as their fifth, the Vedas declare the Supreme Soul to be this universe consisting of mobile and immobile things."
-  },
-  {
-   "ref": "27940",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "तथा एव अन्ये चतुर् वेदाः त्रि वेदाः च तथा अपरे",
-   "english": "and others three;"
-  },
-  {
-   "ref": "27941",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "द्वि वेदाः च एक वेदाः च अनृचः च तथा अपरे",
-   "english": "and others only one;"
-  },
-  {
-   "ref": "27942",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "तेषाम् तु कतमः स स्यात् यम् अहम् वेद ब्राह्मणम् सनत्सुजातः उवाच",
-   "english": "Amongst these, which should I know to be really possessed of the knowledge of Brahman.' \"Sanat-sujata, 'There is but one Brahman which is Truth's self."
+   "sanskrit": "एतत् पाप हरम् शुद्धम् जन्म मृत्यु जरा अपहम् धृतराष्ट्रः उवाच आख्यान पञ्चमैः वेदैः भूयिष्ठम् कथ्यते जनः तथा एव अन्ये चतुर् वेदाः त्रि वेदाः च तथा अपरे द्वि वेदाः च एक वेदाः च अनृचः च तथा अपरे तेषाम् तु कतमः स स्यात् यम् अहम् वेद ब्राह्मणम् सनत्सुजातः उवाच",
+   "english": "Asceticism, that is dissociated from these faults and endued with these virtues, becomes the source of great prosperity, I have now briefly told these about that sin-destroying and sacred subject which thou hadst asked me and which is capable of liberating a person from birth, death, and decrepitude.' \"Dhritarashtra said, 'With Akhyana (Puranas) as their fifth, the Vedas declare the Supreme Soul to be this universe consisting of mobile and immobile things. and others three; and others only one; Amongst these, which should I know to be really possessed of the knowledge of Brahman.' \"Sanat-sujata, 'There is but one Brahman which is Truth's self."
   },
   {
    "ref": "27943",
@@ -1070,25 +951,11 @@
    "english": "They cannot be regarded as acquainted with the Chhandas who are acquainted only with the modes of sacrifice enjoined in the Vedas."
   },
   {
-   "ref": "27957",
+   "ref": "27957-27959",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "वेद्येन वेदम् न विदुः न वेद्यम्",
-   "english": "On the other hand, having waited upon those that are acquainted with the Vedas, have not the righteous attained to the Object that is knowable by the Vedas? There is none who hath truly caught the sense of the Vedas or there may be some who have, O king, caught the sense."
-  },
-  {
-   "ref": "27958",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "यः वेद वेदम् स च वेद वेद्यम्",
-   "english": "He that hath only read the Vedas, doth not know the Object knowable by them."
-  },
-  {
-   "ref": "27959",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "यः वेद वेद्यम् न स वेद सत्यम् यः वेद वेदान् स च वेद वेद्यम्",
-   "english": "He, however, that is established in Truth, know the Object knowable by the Vedas."
+   "sanskrit": "वेद्येन वेदम् न विदुः न वेद्यम् यः वेद वेदम् स च वेद वेद्यम् यः वेद वेद्यम् न स वेद सत्यम् यः वेद वेदान् स च वेद वेद्यम्",
+   "english": "On the other hand, having waited upon those that are acquainted with the Vedas, have not the righteous attained to the Object that is knowable by the Vedas? There is none who hath truly caught the sense of the Vedas or there may be some who have, O king, caught the sense. He that hath only read the Vedas, doth not know the Object knowable by them. He, however, that is established in Truth, know the Object knowable by the Vedas."
   },
   {
    "ref": "27960",
@@ -1385,25 +1252,11 @@
    "english": "Without requiring the preceptor by payment of the final gift, a wise disciple must not betake to another mode of life;"
   },
   {
-   "ref": "28002",
+   "ref": "28002-28004",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "इति इव मन्येत न भाषयेत",
-   "english": "nor should he say or even think of in his mind,--I make this gift."
-  },
-  {
-   "ref": "28003",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "स वै चतुर्थः ब्रह्मचर्यस्य पादः एवम् वसन्तम् यत् उपप्लवेत् हि",
-   "english": "This is the fourth step of Brahmacharya."
-  },
-  {
-   "ref": "28004",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "स वै चतुर्थः ब्रह्मचर्यस्य पादः कालेन पादम् लभते तथार्थम्",
-   "english": "He attaineth the first step of (knowledge of Brahman which is) the object of Brahmacharya by aid of time;"
+   "sanskrit": "इति इव मन्येत न भाषयेत स वै चतुर्थः ब्रह्मचर्यस्य पादः एवम् वसन्तम् यत् उपप्लवेत् हि स वै चतुर्थः ब्रह्मचर्यस्य पादः कालेन पादम् लभते तथार्थम्",
+   "english": "nor should he say or even think of in his mind,--I make this gift. This is the fourth step of Brahmacharya. He attaineth the first step of (knowledge of Brahman which is) the object of Brahmacharya by aid of time;"
   },
   {
    "ref": "28005",
@@ -1910,32 +1763,11 @@
    "english": "It is from that Seed that directions (points of the compass) and rivers spring, and the vast seas also have derived their origin."
   },
   {
-   "ref": "28077",
+   "ref": "28077-28080",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "योगिनः तम् प्रपश्यन्ति भगवन्तम् सनातनम्",
-   "english": "The Eternal One endued with Divinity is beheld by Yogins (by their mental eye)."
-  },
-  {
-   "ref": "28078",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "चक्रे रथस्य तिष्ठन्तम् ध्रुवस्य अव्यय कर्मणः",
-   "english": "Its acts, however, are undying."
-  },
-  {
-   "ref": "28079",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "योगिनः तम् प्रपश्यन्ति भगवन्तम् सनातनम्",
-   "english": "Tied to the wheels of that car (which are represented by the acts of past lives), the senses, that are as steeds, lead, through the region of consciousness, the man of wisdom towards that Increate and Unchangeable One, that One endued with Divinity is beheld by Yogins (by their mental eye)."
-  },
-  {
-   "ref": "28080",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "न सादृश्ये तिष्ठति रूपम् अस्य",
-   "english": "The form of that One cannot be displayed by any comparison."
+   "sanskrit": "योगिनः तम् प्रपश्यन्ति भगवन्तम् सनातनम् चक्रे रथस्य तिष्ठन्तम् ध्रुवस्य अव्यय कर्मणः योगिनः तम् प्रपश्यन्ति भगवन्तम् सनातनम् न सादृश्ये तिष्ठति रूपम् अस्य",
+   "english": "The Eternal One endued with Divinity is beheld by Yogins (by their mental eye). Its acts, however, are undying. Tied to the wheels of that car (which are represented by the acts of past lives), the senses, that are as steeds, lead, through the region of consciousness, the man of wisdom towards that Increate and Unchangeable One, that One endued with Divinity is beheld by Yogins (by their mental eye). The form of that One cannot be displayed by any comparison."
   },
   {
    "ref": "28081",
@@ -2099,25 +1931,11 @@
    "english": "That Eternal One endued with Divinity is beheld by Yogins (by their mental eye)."
   },
   {
-   "ref": "28104",
+   "ref": "28104-28106",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "अङ्गुष्ठ मात्रः पुरुषः अन्तरात्मा",
-   "english": "Of the measure of the thumb, ever Full, and different from this eternal organism, coming in contact with the Vital airs, the Will, the Intellect, and the ten Senses, it moveth to and fro."
-  },
-  {
-   "ref": "28105",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "तम् ईशम् ईड्यम् अनुकल्पम् आद्यम् पश्यन्ति मूढाः न विराजमानम्",
-   "english": "Fools alone do not behold him;"
-  },
-  {
-   "ref": "28106",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "योगिनः तम् प्रपश्यन्ति भगवन्तम् सनातनम्",
-   "english": "that Eternal One endued with Divinity is beheld by Yogins (by their mental eye)."
+   "sanskrit": "अङ्गुष्ठ मात्रः पुरुषः अन्तरात्मा तम् ईशम् ईड्यम् अनुकल्पम् आद्यम् पश्यन्ति मूढाः न विराजमानम् योगिनः तम् प्रपश्यन्ति भगवन्तम् सनातनम्",
+   "english": "Of the measure of the thumb, ever Full, and different from this eternal organism, coming in contact with the Vital airs, the Will, the Intellect, and the ten Senses, it moveth to and fro. Fools alone do not behold him; that Eternal One endued with Divinity is beheld by Yogins (by their mental eye)."
   },
   {
    "ref": "28107",
@@ -2183,25 +2001,11 @@
    "english": "His form cannot be an object of sight."
   },
   {
-   "ref": "28116",
+   "ref": "28116-28118",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "पश्यन्ति च एनम् सु विशुद्ध सत्त्वाः",
-   "english": "They only, that are of pure hearts, can behold him."
-  },
-  {
-   "ref": "28117",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "हितः मनीषी मनसा अभिपश्येत्",
-   "english": "When one seeketh the good of all, succeedeth in controlling his mind, and never suffereth his heart to be affected by grief, then he is said to have purified his heart."
-  },
-  {
-   "ref": "28118",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "ये तम् श्रयेयुः अमृताः ते भवन्ति",
-   "english": "Those again that can abandon the world and all its cares, become immortal."
+   "sanskrit": "पश्यन्ति च एनम् सु विशुद्ध सत्त्वाः हितः मनीषी मनसा अभिपश्येत् ये तम् श्रयेयुः अमृताः ते भवन्ति",
+   "english": "They only, that are of pure hearts, can behold him. When one seeketh the good of all, succeedeth in controlling his mind, and never suffereth his heart to be affected by grief, then he is said to have purified his heart. Those again that can abandon the world and all its cares, become immortal."
   },
   {
    "ref": "28119",
@@ -2403,7 +2207,7 @@
   "file": "GE07mbh-ganguly.tsv",
   "rows": "27805-28144"
  },
- "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. Slice = Udyoga Parva Sections XLI-XLVI (Sanat-sujata Parva), rows 27805-28144 of the source TSV; Section XLVII narrative conclusion excluded. Boundaries set by where the Sanskrit of each section begins; the first row's English carries a verbatim tail of the preceding section (source English column lags mid-row). Verify against the printed text before use. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is]",
+ "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. Slice = Udyoga Parva Sections XLI-XLVI (Sanat-sujata Parva), rows 27805-28144 of the source TSV; Section XLVII narrative conclusion excluded. Boundaries set by where the Sanskrit of each section begins; the first row's English carries a verbatim tail of the preceding section (source English column lags mid-row). Verify against the printed text before use. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is] [Length-outlier repair: 12 runs of units merged with neighbours so both columns cover the same passage.] [Length-outlier repair: 1 runs of units merged with neighbours so both columns cover the same passage.]",
  "reference_type": "translation",
  "english_rights": [
   "cc_by_sa"

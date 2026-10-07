@@ -727,18 +727,11 @@
    "english": "If the agglomeration isn't something other, then they can't refer to it. c If it is not accepted that the agglomeration is something other than the atoms, then shade and blockage can't be demonstrated as occurring in reference to the agglomeration only."
   },
   {
-   "ref": "104",
+   "ref": "104-105",
    "kind": "verse",
    "scope": "text",
-   "sanskrit": "संनिवेशपरिकल्प एषः परमाणुः संघात इति वा ॥ किम् अनया चिन्तया लक्षणं ।",
-   "english": "This is simply an attachment to mental construction. “Atoms” or “aggregations\" what's the point of worrying with those, if “their basic characteristics of being visibles, etc.\""
-  },
-  {
-   "ref": "105",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "तु रूपादि यदि न प्रतिषिध्यते ।",
-   "english": "are not refuted ?"
+   "sanskrit": "संनिवेशपरिकल्प एषः परमाणुः संघात इति वा ॥ किम् अनया चिन्तया लक्षणं । तु रूपादि यदि न प्रतिषिध्यते ।",
+   "english": "This is simply an attachment to mental construction. “Atoms” or “aggregations\" what's the point of worrying with those, if “their basic characteristics of being visibles, etc.\" are not refuted ?"
   },
   {
    "ref": "106",
@@ -762,25 +755,11 @@
    "english": "If a sense-object for the eye, and so on, is accepted in the form of blue, yellow, etc. then are these one entity, or several ?"
   },
   {
-   "ref": "109",
+   "ref": "109-111",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "किं चातः ।",
-   "english": "Now what follows from this?"
-  },
-  {
-   "ref": "110",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "अनेकत्वे दोष उक्तं ।",
-   "english": "The flaw inherent in assuming their severalness has already been discussed (in relation to the arguments on atomic aggregation)."
-  },
-  {
-   "ref": "111",
-   "kind": "verse",
-   "scope": "text",
-   "sanskrit": "एकत्वे न क्रमेणेतिर् युगपन् न ग्रहाग्रहौ । विच्छिन्नानेकवृत्तिश् च सूक्ष्मानीक्षा च नो भवेत् ॥",
-   "english": "If their unity existed, one couldn't arrive at anything gradually, there couldn't be apprehension and non-apprehension simultaneously, there couldn't be separate, several, developments, and there would be no reason for the non-seeing of the very subtle."
+   "sanskrit": "किं चातः । अनेकत्वे दोष उक्तं । एकत्वे न क्रमेणेतिर् युगपन् न ग्रहाग्रहौ । विच्छिन्नानेकवृत्तिश् च सूक्ष्मानीक्षा च नो भवेत् ॥",
+   "english": "Now what follows from this? The flaw inherent in assuming their severalness has already been discussed (in relation to the arguments on atomic aggregation). If their unity existed, one couldn't arrive at anything gradually, there couldn't be apprehension and non-apprehension simultaneously, there couldn't be separate, several, developments, and there would be no reason for the non-seeing of the very subtle."
   },
   {
    "ref": "112",
@@ -1154,7 +1133,7 @@
  "needs_ocr": false,
  "alignment": "row_aligned",
  "slice_of": null,
- "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. TSV file name and content indicate the Viṃśatikā with its commentary (The Twenty Verses and Their Commentary); check whether the Triṃśikā is present before treating this as covering both works. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is] Stray source marks were removed from the Sanskrit (editorial brackets, asterisks, page headers, watermark text, OCR pipes for dandas).",
+ "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. TSV file name and content indicate the Viṃśatikā with its commentary (The Twenty Verses and Their Commentary); check whether the Triṃśikā is present before treating this as covering both works. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is] Stray source marks were removed from the Sanskrit (editorial brackets, asterisks, page headers, watermark text, OCR pipes for dandas). [Length-outlier repair: 2 runs of units merged with neighbours so both columns cover the same passage.]",
  "reference_type": "translation",
  "english_rights": [
   "cc_by_sa"

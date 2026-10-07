@@ -230,25 +230,11 @@
    "english": "They that are wise, O bull of the Bharata race, always delight in honest deeds, do what tendeth to their happiness and prosperity, and never sneer at what is good."
   },
   {
-   "ref": "27102",
+   "ref": "27102-27104",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "न हृष्यति आत्म संमाने न अवमानेन तप्यते गाङ्गः ह्रदः इव अक्षोभ्यः यः स पण्डितः उच्यते",
-   "english": "He who exulteth not at honours, and grieveth not at slights, and remaineth cool and unagitated like a lake in the course of Ganga, is reckoned as wise."
-  },
-  {
-   "ref": "27103",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "तत्त्व ज्ञः सर्व भूतानाम् योग ज्ञः सर्व कर्मणाम्",
-   "english": "That man who knoweth the nature of all creatures (viz., that everything is subject to destruction), who is cognisant also of the connections of all acts, and who is proficient in the knowledge of the means that men may resort to (for attaining their objects), is reckoned as wise."
-  },
-  {
-   "ref": "27104",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "उपाय ज्ञः मनुष्याणाम् नरः पण्डितः उच्यते प्रवृत्त वाच् चित्र कथः ऊहवान् प्रतिभानवान्",
-   "english": "He who speaketh boldly, can converse on various subjects, knoweth the science of argumentation, possesseth genius, and can interpret the meaning of what is writ in books, is reckoned as wise."
+   "sanskrit": "न हृष्यति आत्म संमाने न अवमानेन तप्यते गाङ्गः ह्रदः इव अक्षोभ्यः यः स पण्डितः उच्यते तत्त्व ज्ञः सर्व भूतानाम् योग ज्ञः सर्व कर्मणाम् उपाय ज्ञः मनुष्याणाम् नरः पण्डितः उच्यते प्रवृत्त वाच् चित्र कथः ऊहवान् प्रतिभानवान्",
+   "english": "He who exulteth not at honours, and grieveth not at slights, and remaineth cool and unagitated like a lake in the course of Ganga, is reckoned as wise. That man who knoweth the nature of all creatures (viz., that everything is subject to destruction), who is cognisant also of the connections of all acts, and who is proficient in the knowledge of the means that men may resort to (for attaining their objects), is reckoned as wise. He who speaketh boldly, can converse on various subjects, knoweth the science of argumentation, possesseth genius, and can interpret the meaning of what is writ in books, is reckoned as wise."
   },
   {
    "ref": "27105",
@@ -671,25 +657,11 @@
    "english": "persons whose desires have been gratified, women; they who have achieved success, they who had rendered aid;"
   },
   {
-   "ref": "27165",
+   "ref": "27165-27167",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "नावम् निस्तीर्ण कान्ताराः आतुराः च चिकित्सकम्",
-   "english": "and patients that have been cured, their physicians."
-  },
-  {
-   "ref": "27166",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "षट् जीव लोकस्य सुखानि राजन्",
-   "english": "Health, unindebtedness, living at home, companionship with good men, certainty as regards the means of livelihood, and living without fear, these six. O king, conduce to the happiness of men."
-  },
-  {
-   "ref": "27167",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "ईर्षुः घृणी न संतुष्टः क्रोधनः नित्य शङ्कितः पर भाग्य उपजीवी च षट् एते नित्य दुःखिताः अर्थ आगमः नित्यम् अरोगि ता च",
-   "english": "These six are always miserable, viz., the envious, the malicious, the discontented, the irascible, the ever-suspicious, and those depending upon the fortunes of others."
+   "sanskrit": "नावम् निस्तीर्ण कान्ताराः आतुराः च चिकित्सकम् षट् जीव लोकस्य सुखानि राजन् ईर्षुः घृणी न संतुष्टः क्रोधनः नित्य शङ्कितः पर भाग्य उपजीवी च षट् एते नित्य दुःखिताः अर्थ आगमः नित्यम् अरोगि ता च",
+   "english": "and patients that have been cured, their physicians. Health, unindebtedness, living at home, companionship with good men, certainty as regards the means of livelihood, and living without fear, these six. O king, conduce to the happiness of men. These six are always miserable, viz., the envious, the malicious, the discontented, the irascible, the ever-suspicious, and those depending upon the fortunes of others."
   },
   {
    "ref": "27168",
@@ -860,25 +832,11 @@
    "english": "That illustrious person who doth not grieve when a calamity hath already come upon him, who exerteth with all his senses collected, and who patiently beareth misery in season, is certainly the foremost of persons, and all his foes are vanquished."
   },
   {
-   "ref": "27192",
+   "ref": "27192-27194",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "पापैः संधिम् पर दार अभिमर्शम् दम्भम् स्तैन्यम् पैशुनम् मद्य पानम् न सेवते यः स सुखी सदा एव",
-   "english": "He who doth not live away from hope uselessly, who doth not make friends with sinful persons, who never outrageth another's wife, who never betrayeth arrogance, and who never committeth a theft or showeth ingratitude or indulgeth in drinking is always happy."
-  },
-  {
-   "ref": "27193",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "न अ पूजितः कुप्यति च अपि अ मूढः",
-   "english": "He who never boastfully striveth to attain the three objects of human pursuit, who when asked, telleth the truth, who quarreleth not even for the sake of friends, and who never becometh angry though slighted, is reckoned as wise."
-  },
-  {
-   "ref": "27194",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "न अति आह किम् चित् क्षमते विवादम् सर्वत्र तादृश् लभते प्रशंसाम् यः न उद्धतम् कुरुते जातु वेषम्",
-   "english": "He who beareth not malice towards others but is kind to all, who being weak disputeth not with others, who speaketh not arrogantly, and forgeteth a quarrel, is praised everywhere."
+   "sanskrit": "पापैः संधिम् पर दार अभिमर्शम् दम्भम् स्तैन्यम् पैशुनम् मद्य पानम् न सेवते यः स सुखी सदा एव न अ पूजितः कुप्यति च अपि अ मूढः न अति आह किम् चित् क्षमते विवादम् सर्वत्र तादृश् लभते प्रशंसाम् यः न उद्धतम् कुरुते जातु वेषम्",
+   "english": "He who doth not live away from hope uselessly, who doth not make friends with sinful persons, who never outrageth another's wife, who never betrayeth arrogance, and who never committeth a theft or showeth ingratitude or indulgeth in drinking is always happy. He who never boastfully striveth to attain the three objects of human pursuit, who when asked, telleth the truth, who quarreleth not even for the sake of friends, and who never becometh angry though slighted, is reckoned as wise. He who beareth not malice towards others but is kind to all, who being weak disputeth not with others, who speaketh not arrogantly, and forgeteth a quarrel, is praised everywhere."
   },
   {
    "ref": "27195",
@@ -1028,32 +986,11 @@
    "english": "Apprehending future evils."
   },
   {
-   "ref": "27216",
+   "ref": "27216-27219",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "कवे तत् मे ब्रूहि सर्वम् यथावन् मनीषितम् सर्वम् अजातशत्रोः विदुरः उवाच",
-   "english": "I look back only on my previous guilt: I ask thee with anxious heart, O learned one, tell me what is exactly in Ajatasatru's mind,' \"Vidura said, 'Even if unasked, one should speak truly, whether his words be good or bad, hateful or pleasing, unto him whose defeat one doth not wish."
-  },
-  {
-   "ref": "27217",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "तस्मात् वक्ष्यामि ते राजन् भवम् इच्छन् कुरून् प्रति",
-   "english": "I shall, therefore, say, O king, what is for the good of the Kurus."
-  },
-  {
-   "ref": "27218",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "वचः श्रेयस्करम् धर्म्यम् ब्रुवतः तत् निबोध मे",
-   "english": "Listen to me."
-  },
-  {
-   "ref": "27219",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "मिथ्या उपेतानि कर्माणि सिध्येयुः यानि भारत अनुपाय प्रयुक्तानि मा स्म तेषु मनः कृथाः",
-   "english": "Do not, O Bharata, set the heart upon means of success that are unjust and improper."
+   "sanskrit": "कवे तत् मे ब्रूहि सर्वम् यथावन् मनीषितम् सर्वम् अजातशत्रोः विदुरः उवाच तस्मात् वक्ष्यामि ते राजन् भवम् इच्छन् कुरून् प्रति वचः श्रेयस्करम् धर्म्यम् ब्रुवतः तत् निबोध मे मिथ्या उपेतानि कर्माणि सिध्येयुः यानि भारत अनुपाय प्रयुक्तानि मा स्म तेषु मनः कृथाः",
+   "english": "I look back only on my previous guilt: I ask thee with anxious heart, O learned one, tell me what is exactly in Ajatasatru's mind,' \"Vidura said, 'Even if unasked, one should speak truly, whether his words be good or bad, hateful or pleasing, unto him whose defeat one doth not wish. I shall, therefore, say, O king, what is for the good of the Kurus. Listen to me. Do not, O Bharata, set the heart upon means of success that are unjust and improper."
   },
   {
    "ref": "27220",
@@ -1476,25 +1413,11 @@
    "english": "And beholding the Brahmana arrived, Kesini, O bull of the Bharata race, rising up from hers, offered him a seat, water to wash his feet, and Arghya."
   },
   {
-   "ref": "27280",
+   "ref": "27280-27282",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "इति ह उवाच वचनम् विरोचनम् अनुत्तमम् सुधन्वा उवाच अन्वालभे हिरण्मयम् प्राह्रादे अहम् तव आसनम्",
-   "english": "And asked by Virochana (to share his seat) Sudhanwan said, 'O son of Prahlada, I touch thy excellent golden seat."
-  },
-  {
-   "ref": "27281",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "एक त्वम् उपसंपन्नः न तु आसेयम् त्वया सह",
-   "english": "I cannot, however, suffer myself to be regarded as thy equal, and sit on it with thee.' Virochana said, 'A piece of wooden plank, an animal skin, or a mat of grass or straw,--these only, O Sudhanwan, are fit for thee."
-  },
-  {
-   "ref": "27282",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "सुधन्वन् न त्वम् अर्हः असि मया सह समासनम् सुधन्वा उवाच",
-   "english": "Thou deservest not, however, the same seat with me.' Sudhanwan said, 'Father and son."
+   "sanskrit": "इति ह उवाच वचनम् विरोचनम् अनुत्तमम् सुधन्वा उवाच अन्वालभे हिरण्मयम् प्राह्रादे अहम् तव आसनम् एक त्वम् उपसंपन्नः न तु आसेयम् त्वया सह सुधन्वन् न त्वम् अर्हः असि मया सह समासनम् सुधन्वा उवाच",
+   "english": "And asked by Virochana (to share his seat) Sudhanwan said, 'O son of Prahlada, I touch thy excellent golden seat. I cannot, however, suffer myself to be regarded as thy equal, and sit on it with thee.' Virochana said, 'A piece of wooden plank, an animal skin, or a mat of grass or straw,--these only, O Sudhanwan, are fit for thee. Thou deservest not, however, the same seat with me.' Sudhanwan said, 'Father and son."
   },
   {
    "ref": "27283",
@@ -1560,53 +1483,11 @@
    "english": "A white and fat cow is ready for thee.' Sudhanwan said, 'Water and honey and curds, have been presented to me on my way hither."
   },
   {
-   "ref": "27292",
+   "ref": "27292-27298",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "प्रह्राद त्वम् तु नौ प्रश्नम् तथ्यम् प्रब्रूहि पृच्छतोः किम् ब्राह्मणाः स्विद् श्रेयांसः उत अहो स्विद् विरोचनः",
-   "english": "Prahlada, answer it truly! are Brahmanas superior, or is Virochana superior?' Prahlada said, O Brahmana, this one is my only son."
-  },
-  {
-   "ref": "27293",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "पुत्रः वा अन्यः भवान् ब्रह्मन् साक्ष्ये च एव भवेत् स्थितः",
-   "english": "Thou also art present here in person."
-  },
-  {
-   "ref": "27294",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "एतत् सुधन्वन् पृच्छामि दुर्विवक्ता स्म किम् वसेत्",
-   "english": "How can one like us answer a question about which ye two have quarrelled? Sudhanwan said, 'Give unto thy son thy kine and other precious wealth that thou mayst have, but, O wise one, thou shouldst declare the truth when we two are disputing about it.' Prahlada said, 'How doth that misuser of his tongue suffer, O Sudhanwan, who answereth not truly but falsely, a question that is put to him? I ask thee this.' Sudhanwan said, 'The person that misuseth his tongue suffers like the deserted wife, who pineth, at night, beholding her husband sleeping in the arms of a co-wife;"
-  },
-  {
-   "ref": "27295",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "याम् च भार अभितप्त अङ्गः दुर्विवक्ता स्म ताम् वसेत्",
-   "english": "like a person who hath lost at dice, or who is weighed down with an unbearable load of anxieties."
-  },
-  {
-   "ref": "27296",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "नगरे प्रतिरुद्धः सन् बहिस् द्वारे बुभुक्षितः",
-   "english": "Such a man hath also to stay, starving outside the citygates, into which his admission is barred."
-  },
-  {
-   "ref": "27297",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "सर्व स्वेन च यः हीनः दुर्विवक्ता तु ताम् वसेत्",
-   "english": "Indeed, he that giveth false evidence is destined to always find his foes."
-  },
-  {
-   "ref": "27298",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "पञ्च पशु अनृते हन्ति दश हन्ति गवानृते",
-   "english": "He that speaketh a lie on account of an animal, casteth down from heaven five of his sires of the ascending order. He that speaketh a lie on account of a cow casteth down from heaven ten of his ancestors."
+   "sanskrit": "प्रह्राद त्वम् तु नौ प्रश्नम् तथ्यम् प्रब्रूहि पृच्छतोः किम् ब्राह्मणाः स्विद् श्रेयांसः उत अहो स्विद् विरोचनः पुत्रः वा अन्यः भवान् ब्रह्मन् साक्ष्ये च एव भवेत् स्थितः एतत् सुधन्वन् पृच्छामि दुर्विवक्ता स्म किम् वसेत् याम् च भार अभितप्त अङ्गः दुर्विवक्ता स्म ताम् वसेत् नगरे प्रतिरुद्धः सन् बहिस् द्वारे बुभुक्षितः सर्व स्वेन च यः हीनः दुर्विवक्ता तु ताम् वसेत् पञ्च पशु अनृते हन्ति दश हन्ति गवानृते",
+   "english": "Prahlada, answer it truly! are Brahmanas superior, or is Virochana superior?' Prahlada said, O Brahmana, this one is my only son. Thou also art present here in person. How can one like us answer a question about which ye two have quarrelled? Sudhanwan said, 'Give unto thy son thy kine and other precious wealth that thou mayst have, but, O wise one, thou shouldst declare the truth when we two are disputing about it.' Prahlada said, 'How doth that misuser of his tongue suffer, O Sudhanwan, who answereth not truly but falsely, a question that is put to him? I ask thee this.' Sudhanwan said, 'The person that misuseth his tongue suffers like the deserted wife, who pineth, at night, beholding her husband sleeping in the arms of a co-wife; like a person who hath lost at dice, or who is weighed down with an unbearable load of anxieties. Such a man hath also to stay, starving outside the citygates, into which his admission is barred. Indeed, he that giveth false evidence is destined to always find his foes. He that speaketh a lie on account of an animal, casteth down from heaven five of his sires of the ascending order. He that speaketh a lie on account of a cow casteth down from heaven ten of his ancestors."
   },
   {
    "ref": "27299",
@@ -2098,39 +1979,11 @@
    "english": "Avoid words that are harsh and fraught with anger."
   },
   {
-   "ref": "27376",
+   "ref": "27376-27380",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "मर्माणि अस्थीनि हृदयम् तथा असून् घोराः वाचः निर्दहन्ति इह पुंसाम्",
-   "english": "Harsh words burn and scorch the very vitals, bones, heart, and the very sources of the life of men."
-  },
-  {
-   "ref": "27377",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "तस्मात् वाचम् रुशतीम् रूक्ष रूपाम् धर्म आरामः नित्यशस् वर्जयीत अरुंतुदम् परुषम् रूक्ष वाचम्",
-   "english": "Therefore, he, that is virtuous, should always abstain from harsh and angry words."
-  },
-  {
-   "ref": "27378",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "वाच् कण्टकैः वितुदन्तम् मनुष्यान्",
-   "english": "That worst of men is of harsh and wrathful speech, who pierceth the vitals of others with wordy thorns, beareth hell in his tongue, and should ever be regarded as a dispenser of misery to men."
-  },
-  {
-   "ref": "27379",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "भृशम् सु तीक्ष्णैः अनल अर्क दीप्तैः विरिच्यमानः अपि अतिरिच्यमानः विद्यात् कविः सु कृतम् मे दधाति",
-   "english": "The man that is wise, pierced by another's wordy arrows, sharp-pointed and smarting like fire or the sun, should, even if deeply wounded and burning with pain, bear them patiently remembering that the slanderer's merits become his."
-  },
-  {
-   "ref": "27380",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "वासः यथा रङ्ग वशम् प्रयाति",
-   "english": "He that waiteth upon one that is good or upon one that is wicked, upon one that is possessed of ascetic merit or upon one that is a thief, soon taketh the colour from that companion of his, like a cloth from the dye in which it is soaked."
+   "sanskrit": "मर्माणि अस्थीनि हृदयम् तथा असून् घोराः वाचः निर्दहन्ति इह पुंसाम् तस्मात् वाचम् रुशतीम् रूक्ष रूपाम् धर्म आरामः नित्यशस् वर्जयीत अरुंतुदम् परुषम् रूक्ष वाचम् वाच् कण्टकैः वितुदन्तम् मनुष्यान् भृशम् सु तीक्ष्णैः अनल अर्क दीप्तैः विरिच्यमानः अपि अतिरिच्यमानः विद्यात् कविः सु कृतम् मे दधाति वासः यथा रङ्ग वशम् प्रयाति",
+   "english": "Harsh words burn and scorch the very vitals, bones, heart, and the very sources of the life of men. Therefore, he, that is virtuous, should always abstain from harsh and angry words. That worst of men is of harsh and wrathful speech, who pierceth the vitals of others with wordy thorns, beareth hell in his tongue, and should ever be regarded as a dispenser of misery to men. The man that is wise, pierced by another's wordy arrows, sharp-pointed and smarting like fire or the sun, should, even if deeply wounded and burning with pain, bear them patiently remembering that the slanderer's merits become his. He that waiteth upon one that is good or upon one that is wicked, upon one that is possessed of ascetic merit or upon one that is a thief, soon taketh the colour from that companion of his, like a cloth from the dye in which it is soaked."
   },
   {
    "ref": "27381",
@@ -2238,32 +2091,11 @@
    "english": "proneness to give way to wrath, ungratefulness;"
   },
   {
-   "ref": "27396",
+   "ref": "27396-27399",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "न कस्य चित् मित्रम् अथो दुरात्मा",
-   "english": "inability to become another's friend, and wickedness of heart."
-  },
-  {
-   "ref": "27397",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "न श्रद्दधाति कल्याणम् परेभ्यः अपि आत्म शङ्कितः निराकरोति मित्राणि यः वै सः अधम पूरुषः",
-   "english": "He too is the worst of men, who is dissatisfied with any good that may come to him from others who is suspicious of his own self, and who driveth away from himself all his true friends."
-  },
-  {
-   "ref": "27398",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "उत्तमान् एव सेवेत प्राप्ते काले तु मध्यमान् अधमान् तु न सेवेत यः इच्छेत् श्रेयः आत्मनः",
-   "english": "He that desireth prosperity to himself, should wait upon them that are good, and at times upon them that are indifferent, but never upon them that are bad."
-  },
-  {
-   "ref": "27399",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "न तु एव सम्यक् लभते प्रशंसाम् न वृत्तम् आप्नोति महा कुलानाम् धृतराष्ट्रः उवाच",
-   "english": "He that is wicked, earneth wealth, it is true, by putting forth his strength, by constant effort, by intelligence, and by prowess, but he can never win honest fame, nor can he acquire the virtues and manners of high families (in any of which he may be born).' \"Dhritarashtra said, 'The gods, they that regard both virtue and profit without swerving from either, and they that are possessed of great learning, express a liking for high families."
+   "sanskrit": "न कस्य चित् मित्रम् अथो दुरात्मा न श्रद्दधाति कल्याणम् परेभ्यः अपि आत्म शङ्कितः निराकरोति मित्राणि यः वै सः अधम पूरुषः उत्तमान् एव सेवेत प्राप्ते काले तु मध्यमान् अधमान् तु न सेवेत यः इच्छेत् श्रेयः आत्मनः न तु एव सम्यक् लभते प्रशंसाम् न वृत्तम् आप्नोति महा कुलानाम् धृतराष्ट्रः उवाच",
+   "english": "inability to become another's friend, and wickedness of heart. He too is the worst of men, who is dissatisfied with any good that may come to him from others who is suspicious of his own self, and who driveth away from himself all his true friends. He that desireth prosperity to himself, should wait upon them that are good, and at times upon them that are indifferent, but never upon them that are bad. He that is wicked, earneth wealth, it is true, by putting forth his strength, by constant effort, by intelligence, and by prowess, but he can never win honest fame, nor can he acquire the virtues and manners of high families (in any of which he may be born).' \"Dhritarashtra said, 'The gods, they that regard both virtue and profit without swerving from either, and they that are possessed of great learning, express a liking for high families."
   },
   {
    "ref": "27400",
@@ -2434,25 +2266,11 @@
    "english": "Beest thou poor or beest thou rich, thou shouldst honour thy friends."
   },
   {
-   "ref": "27424",
+   "ref": "27424-27426",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "न अनर्थयन् विजानाति मित्राणाम् सार फल्गु ताम्",
-   "english": "Until some service is asked, the sincerity or otherwise of friends cannot be known."
-  },
-  {
-   "ref": "27425",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "संतापात् भ्रश्यते रूपम् संतापात् भ्रश्यते बलम्",
-   "english": "sorrow killeth strength;"
-  },
-  {
-   "ref": "27426",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "संतापात् भ्रश्यते ज्ञानम् संतापात् व्याधिम् ऋच्छति",
-   "english": "sorrow killeth the understanding; and sorrow bringeth on disease."
+   "sanskrit": "न अनर्थयन् विजानाति मित्राणाम् सार फल्गु ताम् संतापात् भ्रश्यते रूपम् संतापात् भ्रश्यते बलम् संतापात् भ्रश्यते ज्ञानम् संतापात् व्याधिम् ऋच्छति",
+   "english": "Until some service is asked, the sincerity or otherwise of friends cannot be known. sorrow killeth strength; sorrow killeth the understanding; and sorrow bringeth on disease."
   },
   {
    "ref": "27427",
@@ -2938,60 +2756,25 @@
    "english": "Even this is consistent with social polity."
   },
   {
-   "ref": "27496",
+   "ref": "27496-27499",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "माया आचारः मायया वर्तितव्यः",
-   "english": "One may behave deceitfully towards him that behaveth deceitfully, but honestly towards him that is honest in his behaviour."
+   "sanskrit": "माया आचारः मायया वर्तितव्यः जरा रूपम् हरति हि धैर्यम् आशा मृत्युः प्राणान् धर्म चर्याम् असूया कामः ह्रियम् वृत्तम् अनार्य सेवा",
+   "english": "One may behave deceitfully towards him that behaveth deceitfully, but honestly towards him that is honest in his behaviour. Old age killeth beauty; patience, hope; death, life; the practice of virtue, worldly enjoyments; lust, modesty;"
   },
   {
-   "ref": "27497",
+   "ref": "27500-27501",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "जरा रूपम् हरति हि धैर्यम् आशा",
-   "english": "Old age killeth beauty; patience, hope;"
+   "sanskrit": "क्रोधः श्रियम् सर्वम् एव अभिमानः धृतराष्ट्रः उवाच शतायुः उक्तः पुरुषः सर्व वेदेषु वै यदा",
+   "english": "anger, prosperity; and pride, everything.' \"Dhritarashtra said, 'Man hath been spoken of in all the Vedas as having hundred years for the period of his life."
   },
   {
-   "ref": "27498",
+   "ref": "27502-27503",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "मृत्युः प्राणान् धर्म चर्याम् असूया",
-   "english": "death, life; the practice of virtue, worldly enjoyments;"
-  },
-  {
-   "ref": "27499",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "कामः ह्रियम् वृत्तम् अनार्य सेवा",
-   "english": "lust, modesty;"
-  },
-  {
-   "ref": "27500",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "क्रोधः श्रियम् सर्वम् एव अभिमानः",
-   "english": "anger, prosperity;"
-  },
-  {
-   "ref": "27501",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "धृतराष्ट्रः उवाच शतायुः उक्तः पुरुषः सर्व वेदेषु वै यदा",
-   "english": "and pride, everything.' \"Dhritarashtra said, 'Man hath been spoken of in all the Vedas as having hundred years for the period of his life."
-  },
-  {
-   "ref": "27502",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "न आप्नोति अथ च तत् सर्वम् आयुः केन इह हेतुना विदुरः उवाच अतिवादः अतिमानः च तथा अत्यागः नराधिप",
-   "english": "For what reason then, do not all men attain the allotted period?' \"Vidura said, 'Excess of pride, excess in speech, excess in eating, anger, the desire of enjoyment, and intestine dissensions,--these, O king, are six sharp swords that cut off the period of life allotted to creatures."
-  },
-  {
-   "ref": "27503",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "एते एव असयः तीक्ष्णाः कृन्तन्ति आयूंषि देहिनाम् एतानि मानवान् घ्नन्ति न मृत्युः भद्रम् अस्तु ते",
-   "english": "It is these which kill men, and not death."
+   "sanskrit": "न आप्नोति अथ च तत् सर्वम् आयुः केन इह हेतुना विदुरः उवाच अतिवादः अतिमानः च तथा अत्यागः नराधिप एते एव असयः तीक्ष्णाः कृन्तन्ति आयूंषि देहिनाम् एतानि मानवान् घ्नन्ति न मृत्युः भद्रम् अस्तु ते",
+   "english": "For what reason then, do not all men attain the allotted period?' \"Vidura said, 'Excess of pride, excess in speech, excess in eating, anger, the desire of enjoyment, and intestine dissensions,--these, O king, are six sharp swords that cut off the period of life allotted to creatures. It is these which kill men, and not death."
   },
   {
    "ref": "27504",
@@ -3204,32 +2987,11 @@
    "english": "No man should confidently enter an enemy's house after dusk even with notice."
   },
   {
-   "ref": "27534",
+   "ref": "27534-27537",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "न चत्वरे निशि तिष्ठेत् निगूढः न राजन्याम् योषितम् प्रार्थयीत न निह्नवम् सत्र गतस्य गच्छेत्",
-   "english": "One should not at night lurk in the yard of another's premises, nor should one seek to enjoy a woman to whom the king himself might make love."
-  },
-  {
-   "ref": "27535",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "संसृष्ट मन्त्रस्य कु संगतस्य",
-   "english": "Never set thyself against the decision to which a person hath arrived who keepeth low company and who is in the habit of consulting all he meeteth."
-  },
-  {
-   "ref": "27536",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "न च ब्रूयात् न आश्वसामि त्वयि इति स कारणम् व्यपदेशम् तु कुर्यात्",
-   "english": "Never tell him,--I do not believe thee,--but assigning some reason send him away on a pretext."
-  },
-  {
-   "ref": "27537",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "पुत्रः भ्राता विधवा बाल पुत्रा",
-   "english": "A king who is exceedingly merciful, a woman of lewd character, the servant of a king, a son, a brother, a widow having an infant son one serving in the army, and one that hath suffered great losses, should never be engaged in pecuniary transactions of lending or borrowing."
+   "sanskrit": "न चत्वरे निशि तिष्ठेत् निगूढः न राजन्याम् योषितम् प्रार्थयीत न निह्नवम् सत्र गतस्य गच्छेत् संसृष्ट मन्त्रस्य कु संगतस्य न च ब्रूयात् न आश्वसामि त्वयि इति स कारणम् व्यपदेशम् तु कुर्यात् पुत्रः भ्राता विधवा बाल पुत्रा",
+   "english": "One should not at night lurk in the yard of another's premises, nor should one seek to enjoy a woman to whom the king himself might make love. Never set thyself against the decision to which a person hath arrived who keepeth low company and who is in the habit of consulting all he meeteth. Never tell him,--I do not believe thee,--but assigning some reason send him away on a pretext. A king who is exceedingly merciful, a woman of lewd character, the servant of a king, a son, a brother, a widow having an infant son one serving in the army, and one that hath suffered great losses, should never be engaged in pecuniary transactions of lending or borrowing."
   },
   {
    "ref": "27538",
@@ -3526,32 +3288,11 @@
    "english": "Without its lions the forest is doomed to destruction, and lions also are doomed to destruction without the forest (to shelter them).'\" SECTION XXXVIII \"Vidura said, 'The heart of a young man, when an aged and venerable person cometh to his house (as a guest), soareth aloft."
   },
   {
-   "ref": "27580",
+   "ref": "27580-27583",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "प्रत्युत्थान अभिवादाभ्याम् पुनर् तान् प्रतिपद्यते पीठम् दत्त्वा साधवे अभ्यागताय",
-   "english": "By advancing forward and saluting him, he getteth it back."
-  },
-  {
-   "ref": "27581",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "आनीय अपः परिनिर्णिज्य पादौ सुखम् पृष्ट्वा प्रतिवेद्य आत्म संस्थम् ततस् दद्यात् अन्नम् अवेक्ष्य धीरः",
-   "english": "He that is self-controlled, first offering a seat, and bringing water and causing his guest's feet to be washed and making the usual enquiries of welcome, should then speak of his own affairs, and taking everything into consideration, offer him food."
-  },
-  {
-   "ref": "27582",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "यस्य उदकम् मधुपर्कम् च गाम् च न मन्त्र विद् प्रतिगृह्णाति गेहे लोभात् भयात् अर्थ कार्पण्यतः वा",
-   "english": "The wise have said that man liveth in vain in whose dwelling a Brahmana conversant with mantras doth not accept water, honey and curds, and kine from fear of being unable to appropriate them, or from miserliness and unwillingness with which the gifts are made."
-  },
-  {
-   "ref": "27583",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "सेनाजीवी श्रुतिविक्रायकः च भृशम् प्रियः अपि अतिथिः न उदक अर्हः",
-   "english": "A physician, a maker of arrows, even one that hath given up the vow of Brahmacharya before it is complete, a thief, a crooked-minded man, a Brahmana that drinks, one that causeth miscarriage, one that liveth by serving in the army, and one that selleth the Vedas, when arrived as a guest, however undeserving he may be the offer of water should be regarded (by a householder) as exceedingly dear."
+   "sanskrit": "प्रत्युत्थान अभिवादाभ्याम् पुनर् तान् प्रतिपद्यते पीठम् दत्त्वा साधवे अभ्यागताय आनीय अपः परिनिर्णिज्य पादौ सुखम् पृष्ट्वा प्रतिवेद्य आत्म संस्थम् ततस् दद्यात् अन्नम् अवेक्ष्य धीरः यस्य उदकम् मधुपर्कम् च गाम् च न मन्त्र विद् प्रतिगृह्णाति गेहे लोभात् भयात् अर्थ कार्पण्यतः वा सेनाजीवी श्रुतिविक्रायकः च भृशम् प्रियः अपि अतिथिः न उदक अर्हः",
+   "english": "By advancing forward and saluting him, he getteth it back. He that is self-controlled, first offering a seat, and bringing water and causing his guest's feet to be washed and making the usual enquiries of welcome, should then speak of his own affairs, and taking everything into consideration, offer him food. The wise have said that man liveth in vain in whose dwelling a Brahmana conversant with mantras doth not accept water, honey and curds, and kine from fear of being unable to appropriate them, or from miserliness and unwillingness with which the gifts are made. A physician, a maker of arrows, even one that hath given up the vow of Brahmacharya before it is complete, a thief, a crooked-minded man, a Brahmana that drinks, one that causeth miscarriage, one that liveth by serving in the army, and one that selleth the Vedas, when arrived as a guest, however undeserving he may be the offer of water should be regarded (by a householder) as exceedingly dear."
   },
   {
    "ref": "27584",
@@ -3890,25 +3631,11 @@
    "english": "They, O Bharata, who upon being angry endanger one's possessions and means of acquisition, should always be propitiated like the very gods."
   },
   {
-   "ref": "27632",
+   "ref": "27632-27634",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "ये अर्थाः स्त्रीषु समासक्ताः प्रथम उत्पतितेषु च",
-   "english": "Those objects that depend upon women, careless persons, men that have fallen away from the duties of their caste, and those that are wicked in disposition, are doubtful of success."
-  },
-  {
-   "ref": "27633",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "ये च अनार्य समासक्ताः सर्वे ते संशयम् गताः",
-   "english": "They sink helplessly."
-  },
-  {
-   "ref": "27634",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "यत्र स्त्री यत्र कितवः यत्र बालः अनुशास्ति च मज्जन्ति ते अवशाः देशाः नद्याम् अश्म प्लवाः इव",
-   "english": "O king, like a raft made of stone, who have a woman, a deceitful person, or a child, for their guide."
+   "sanskrit": "ये अर्थाः स्त्रीषु समासक्ताः प्रथम उत्पतितेषु च ये च अनार्य समासक्ताः सर्वे ते संशयम् गताः यत्र स्त्री यत्र कितवः यत्र बालः अनुशास्ति च मज्जन्ति ते अवशाः देशाः नद्याम् अश्म प्लवाः इव",
+   "english": "Those objects that depend upon women, careless persons, men that have fallen away from the duties of their caste, and those that are wicked in disposition, are doubtful of success. They sink helplessly. O king, like a raft made of stone, who have a woman, a deceitful person, or a child, for their guide."
   },
   {
    "ref": "27635",
@@ -4835,25 +4562,11 @@
    "english": "one angry Brahmana destroyeth a whole kingdom."
   },
   {
-   "ref": "27767",
+   "ref": "27767-27769",
    "kind": "prose",
    "scope": "text",
-   "sanskrit": "वृद्धः ज्ञातिः अवसन्नः वयस्य एतानि ते सन्तु गृहे सदा एव अज उक्षा चन्दनम् वीणा आदर्शः मधु सर्पिषी",
-   "english": "Let goats, brass, silver, honey, antidotes of poison, birds, Brahmanas versed in the Vedas, old relatives, and men of high birth sunk in poverty, be always present in thy house."
-  },
-  {
-   "ref": "27768",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "गृहे स्थापयितव्यानि धन्यानि मनुः अब्रवीत्",
-   "english": "O Bharata, Manu hath said that goats, bulls, sandal, lyres, mirrors, honey, clarified butter, iron, copper, conch-shells, salagram (the stony-image of Vishnu with gold within) and gorochana should always be kept in one's house for the worship of the gods."
-  },
-  {
-   "ref": "27769",
-   "kind": "prose",
-   "scope": "text",
-   "sanskrit": "देव ब्राह्मण पूजा अर्थम् अतिथीनाम् च भारत",
-   "english": "Brahmanas, and guests, for all those objects are auspicious."
+   "sanskrit": "वृद्धः ज्ञातिः अवसन्नः वयस्य एतानि ते सन्तु गृहे सदा एव अज उक्षा चन्दनम् वीणा आदर्शः मधु सर्पिषी गृहे स्थापयितव्यानि धन्यानि मनुः अब्रवीत् देव ब्राह्मण पूजा अर्थम् अतिथीनाम् च भारत",
+   "english": "Let goats, brass, silver, honey, antidotes of poison, birds, Brahmanas versed in the Vedas, old relatives, and men of high birth sunk in poverty, be always present in thy house. O Bharata, Manu hath said that goats, bulls, sandal, lyres, mirrors, honey, clarified butter, iron, copper, conch-shells, salagram (the stony-image of Vishnu with gold within) and gorochana should always be kept in one's house for the worship of the gods. Brahmanas, and guests, for all those objects are auspicious."
   },
   {
    "ref": "27770",
@@ -5118,7 +4831,7 @@
   "file": "GE07mbh-ganguly.tsv",
   "rows": "27070-27804"
  },
- "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. Slice = Udyoga Parva Sections XXXIII-XL (Vidura-Prajagara), rows 27070-27804. Boundaries set by where the Sanskrit of Section XXXIII begins; verify. English of the first row carries the verbatim tail of the preceding section because the source English column lags mid-row. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is] [Row-shift repair: 1 stretches (9 units) where a sequence test on LaBSE sentence embeddings showed the english sitting 1 to 3 rows off its Sanskrit were merged into one unit each (ref first-last), so the pair covers the same passage on both sides.]",
+ "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. Slice = Udyoga Parva Sections XXXIII-XL (Vidura-Prajagara), rows 27070-27804. Boundaries set by where the Sanskrit of Section XXXIII begins; verify. English of the first row carries the verbatim tail of the preceding section because the source English column lags mid-row. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is] [Row-shift repair: 1 stretches (9 units) where a sequence test on LaBSE sentence embeddings showed the english sitting 1 to 3 rows off its Sanskrit were merged into one unit each (ref first-last), so the pair covers the same passage on both sides.] [Length-outlier repair: 10 runs of units merged with neighbours so both columns cover the same passage.] [Length-outlier repair: 7 runs of units merged with neighbours so both columns cover the same passage.]",
  "reference_type": "translation",
  "english_rights": [
   "cc_by_sa"
