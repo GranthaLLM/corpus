@@ -243,7 +243,7 @@ The start of a work is its own units, so an invocation is not glued to the first
 ```json
 {
   "ref": "mangalacharana",
-  "kind": "prose",
+  "kind": "verse",
   "scope": "commentary",
   "sanskrit": "ॐ॥ नारायणं गुणैः सर्वैरुदीर्णं दोषवर्जितम्।  ज्ञेयं गम्यं गुरूंश्चापि नत्वा सूत्रार्थ उच्यते॥",
   "english": "Having bowed to Narayana, who is full of excellence in all qualities and free from defects, ..."
