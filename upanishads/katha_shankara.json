@@ -189,7 +189,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "शान्तसङ्कल्पः सुमना यथा स्याद्वीतमन्युर्गौतमो माभिमृत्यो ।\nत्वत्प्रसृष्टं माभिवदेत्प्रतीत एतत्त्रयाणां प्रथमं वरं वृणे ॥ १० ॥",
-   "english": "10. (Nachiketas said) That Gautama may be freed from anxiety, be calm in mind, not wrath against me, that he may recognise and welcome me let go by you—is, Oh Death, the first of the three boons I ask.\nCom.—But Nachiketas replies ‘if willing to grant boons, that my father be freed from anxiety, i.e., about me as to what his son would be doing after reaching Death, be calm in mind and not wrath against me; and again my father remember and believe me as the very son sent by him to you and sent home back by you and welcome me recognizing, Oh Death—is the first of the three boons I ask, the end of which is to gladden my father.’",
+   "english": "10. (Nachiketas said) That Gautama may be freed from anxiety, be calm in mind, not wrath against me, that he may recognise and welcome me let go by you—is, Oh Death, the first of the three boons I ask.",
    "parts": [
     {
      "role": "mula",
@@ -1253,7 +1253,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः ।\nपुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः ॥ ११ ॥",
-   "english": "Beyond the great Ātman is the Unmanifested; beyond the Unmanifested is the Puruṣa (the Cosmic Soul); beyond the Puruṣa there is nothing. That is the end that is the final goal.\nNOTE: Tranlsation and commentary is missing from the book. The alternate translation for the verse presented above is from Swami Paramananda.",
+   "english": "Beyond the great Ātman is the Unmanifested; beyond the Unmanifested is the Puruṣa (the Cosmic Soul); beyond the Puruṣa there is nothing. That is the end that is the final goal.",
    "parts": [
     {
      "role": "mula",
@@ -1461,7 +1461,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "स्वप्नान्तं जागरितान्तं चोभौ येनानुपश्यति ।\nमहान्तं विभुमात्मानं मत्वा धीरो न शोचति ॥ ४ ॥",
-   "english": "svapnāntaṃ jāgaritāntaṃ cobhau yenānupaśyati ।\nmahāntaṃ vibhumātmānaṃ matvā dhīro na śocati\nThat by which a mortal perceives, both in dream and in waking, by knowing that great all-pervading Ātman the wise man grieves no more.\nNOTE: Tranlsation and commentary is missing from the book. The alternate translation for the verse presented above is from Swami Paramananda.",
+   "english": "That by which a mortal perceives, both in dream and in waking, by knowing that great all-pervading Ātman the wise man grieves no more.",
    "parts": [
     {
      "role": "mula",
@@ -1479,7 +1479,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "य इमं मध्वदं वेद आत्मानं जीवमन्तिकात् ।\nईशानं भूतभव्यस्य न ततो विजुगुप्सते । एतद्वै तत् ॥ ५ ॥",
-   "english": "He who knows this Ātman, the honey- eater (perceiver and enjoyer of objects), ever near, as the lord of the past and future, fears no more. This verily is That.\nNOTE: Tranlsation and commentary is missing from the book. The alternate translation for the verse presented above is from Swami Paramananda.",
+   "english": "He who knows this Ātman, the honey- eater (perceiver and enjoyer of objects), ever near, as the lord of the past and future, fears no more. This verily is That.",
    "parts": [
     {
      "role": "mula",
@@ -1611,7 +1611,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "अङ्गुष्ठमात्रः पुरुषो मध्य आत्मनि तिष्ठति ।\nईशानं भूतभव्यस्य न ततो विजुगुप्सते । एतद्वै तत् ॥ १२ ॥",
-   "english": "The Puruṣa (Self), of the size of a thumb, resides in the middle of the body as the lord of the past and the future, (he who knows Him) fears no more. This verily is That.\nNOTE: Tranlsation and commentary is missing from the book. The alternate translation for the verse presented above is from Swami Paramananda.",
+   "english": "The Puruṣa (Self), of the size of a thumb, resides in the middle of the body as the lord of the past and the future, (he who knows Him) fears no more. This verily is That.",
    "parts": [
     {
      "role": "mula",
@@ -1629,7 +1629,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "अङ्गुष्ठमात्रः पुरुषो ज्योतिरिवाधूमकः ।\nईशानो भूतभव्यस्य स एवाद्य स उ श्वः । एतद्वै तत् ॥ १३ ॥",
-   "english": "That Puruṣa, of the size of a thumb, is like a light without smoke, lord of the past and the future. He is the same today and tomorrow. This verily is That.\nNOTE: Tranlsation and commentary is missing from the book. The alternate translation for the verse presented above is from Swami Paramananda.",
+   "english": "That Puruṣa, of the size of a thumb, is like a light without smoke, lord of the past and the future. He is the same today and tomorrow. This verily is That.",
    "parts": [
     {
      "role": "mula",
@@ -1647,7 +1647,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "यथोदकं दुर्गे वृष्टं पर्वतेषु विधावति ।\nएवं धर्मान्पृथक्पश्यंस्तानेवानुविधावति ॥ १४ ॥",
-   "english": "As rain water, (falling) on the mountain top, runs down over the rocks on all sides; similarly, he who sees difference (between visible forms) runs after them in various directions.\nNOTE: Tranlsation and commentary is missing from the book. The alternate translation for the verse presented above is from Swami Paramananda.",
+   "english": "As rain water, (falling) on the mountain top, runs down over the rocks on all sides; similarly, he who sees difference (between visible forms) runs after them in various directions.",
    "parts": [
     {
      "role": "mula",
@@ -2159,7 +2159,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "यदा पञ्चावतिष्ठन्ते ज्ञानानि मनसा सह ।\nबुद्धिश्च न विचेष्टति तामाहुः परमां गतिम् ॥ १० ॥",
-   "english": "When the five organs of perception become still, together with the mind, and the intellect ceases to be active: that is called the highest state.\nNOTE: Tranlsation and commentary is missing from the book. The alternate translation for the verse presented above is from Swami Paramananda.",
+   "english": "When the five organs of perception become still, together with the mind, and the intellect ceases to be active: that is called the highest state.",
    "parts": [
     {
      "role": "mula",
@@ -2177,7 +2177,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "तां योगमिति मन्यन्ते स्थिरामिन्द्रियधारणाम् ।\nअप्रमत्तस्तदा भवति योगो हि प्रभवाप्ययौ ॥ ११ ॥",
-   "english": "This firm holding back of the senses is what is known as Yoga. Then one should become watchful, for Yoga comes and goes.\nNOTE: Tranlsation and commentary is missing from the book. The alternate translation for the verse presented above is from Swami Paramananda.",
+   "english": "This firm holding back of the senses is what is known as Yoga. Then one should become watchful, for Yoga comes and goes.",
    "parts": [
     {
      "role": "mula",
@@ -2376,7 +2376,7 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/kathaka-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1928), joined by Devanagari verse text (92) or number-checked ref (28): 120 of 120 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [12 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 1.1.10, 1.3.11, 1.3.12, 2.1.4, 2.1.5, 2.1.12, 2.1.13, 2.1.14, 2.3.9, 2.3.10, 2.3.11, 2.3.19] [Colophon units restored (8): the english is a formulaic translation written for this corpus (meta.english_source), since no source translates colophons.] [intro-2.1 folded into 2.1.1: its english already translates the dropped Sanskrit, so the Sanskrit was folded into the unit.] [intro-1.1 restored from the end of Shankara's introduction only: wisdomlib's page lacks its first two pages, so the Sanskrit of this unit starts at the matching sentence (the etymology of 'upanishad' that precedes it is not translated in the source and was cut).]",
+ "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/kathaka-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1928), joined by Devanagari verse text (92) or number-checked ref (28): 120 of 120 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [12 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 1.1.10, 1.3.11, 1.3.12, 2.1.4, 2.1.5, 2.1.12, 2.1.13, 2.1.14, 2.3.9, 2.3.10, 2.3.11, 2.3.19] [Colophon units restored (8): the english is a formulaic translation written for this corpus (meta.english_source), since no source translates colophons.] [intro-2.1 folded into 2.1.1: its english already translates the dropped Sanskrit, so the Sanskrit was folded into the unit.] [intro-1.1 restored from the end of Shankara's introduction only: wisdomlib's page lacks its first two pages, so the Sanskrit of this unit starts at the matching sentence (the etymology of 'upanishad' that precedes it is not translated in the source and was cut).] [Length-outlier repair: mula-scope units whose english carried commentary paragraphs, source notes or IAST were cut to the translation only.] [Length-outlier repair: mula-scope units whose english carried commentary paragraphs, source notes or IAST were cut to the translation only.] [Length-outlier repair: mula-scope units whose english carried commentary paragraphs, source notes or IAST were cut to the translation only.]",
  "reference_type": "translation",
  "english_rights": [
   "public_domain"
