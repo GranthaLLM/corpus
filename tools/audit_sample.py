@@ -1,6 +1,6 @@
 """Draw a stratified random sample of scoreable units and write a self-contained HTML sheet to mark them.
 
-Usage: python3 tools/audit_sample.py [--total 300] [--seed 7] [--out DIR] [--only stem,stem]
+Usage: python3 tools/audit_sample.py [--total 300] [--seed 7] [--out DIR] [--only stem,stem] [--ids PREVIOUS_SAMPLE.json]
 Output: DIR/audit.html (open in a browser; marks live in the browser's localStorage and export as JSON or CSV)
         DIR/sample.json (the drawn units with their stratum sizes, for weighting the estimate)
 Allocation: 5 units per file plus the remainder split by the square root of file size, so small works are seen
@@ -23,6 +23,7 @@ def arg(name, default):
 
 TOTAL, SEED = arg("--total", 300), arg("--seed", 7)
 ONLY = arg("--only", "").split(",") if arg("--only", "") else []
+IDS = set(u["id"] for u in json.loads(Path(arg("--ids", "")).read_text(encoding="utf-8"))["units"]) if arg("--ids", "") else set()
 OUT = Path(arg("--out", str(ROOT.parent / "audit")))
 
 LABELS = [
@@ -57,13 +58,15 @@ def main():
     for stem, d, us in pools:
         m = min(len(us), base + round(rest * math.sqrt(len(us)) / wsum))
         strata.append({"file": stem, "work": d["text"], "author": d.get("commentator") or "", "n": len(us), "m": m})
-        for u in rnd.sample(us, m):
+        for u in (us if IDS else rnd.sample(us, m)):
             sample.append({
                 "id": f"{stem}:{u['ref']}", "file": stem, "work": d["text"], "author": d.get("commentator") or "",
                 "scope": u["scope"], "kind": u["kind"], "reftype": d.get("reference_type") or "",
                 "sanskrit": u["sanskrit"], "english": u["english"],
                 "parts": [{"role": p["role"], "sanskrit": p.get("sanskrit") or "", "english": p.get("english") or ""} for p in u.get("parts") or []],
             })
+    if IDS:
+        sample = [u for u in sample if u["id"] in IDS]
     rnd.shuffle(sample)
     OUT.mkdir(parents=True, exist_ok=True)
     payload = {"seed": SEED, "labels": LABELS, "strata": strata, "units": sample}
