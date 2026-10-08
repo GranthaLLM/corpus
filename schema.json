@@ -1,219 +1,212 @@
 {
- "$schema": "https://json-schema.org/draft/2020-12/schema",
- "title": "Grantha corpus work file",
- "type": "object",
- "required": [
-  "id",
-  "text",
-  "tradition",
-  "units",
-  "source_sanskrit",
-  "source_english",
-  "bundled",
-  "needs_ocr",
-  "notes",
-  "script"
- ],
- "properties": {
-  "id": {
-   "type": "string"
-  },
-  "text": {
-   "type": "string"
-  },
-  "tradition": {
-   "type": [
-    "string",
-    "null"
-   ]
-  },
-  "commentator": {
-   "type": [
-    "string",
-    "null"
-   ]
-  },
-  "script": {
-   "const": "Devanagari",
-   "description": "Script of every sanskrit string. English is English."
-  },
-  "units": {
-   "type": "array",
-   "items": {
-    "type": "object",
-    "additionalProperties": false,
-    "required": [
-     "ref",
-     "kind",
-     "scope",
-     "sanskrit",
-     "english"
-    ],
-    "properties": {
-     "ref": {
-      "type": "string",
-      "description": "Numbering as the source uses it; unique within the file"
-     },
-     "kind": {
-      "enum": [
-       "verse",
-       "sutra",
-       "prose",
-       "group"
-      ],
-      "description": "Form of the text; group = several verses the source joins"
-     },
-     "scope": {
-      "enum": [
-       "text",
-       "mula",
-       "commentary",
-       "mula+commentary"
-      ],
-      "description": "What `sanskrit` and `english` both hold. text = an independent work (prakarana, kavya, itihasa); mula = verse/sutra only; commentary = commentary or intro prose only; mula+commentary = both"
-     },
-     "sanskrit": {
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Grantha corpus work file",
+  "type": "object",
+  "required": [
+    "id",
+    "text",
+    "tradition",
+    "units",
+    "source_sanskrit",
+    "source_english",
+    "bundled",
+    "needs_ocr",
+    "notes",
+    "script"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    },
+    "tradition": {
       "type": [
-       "string",
-       "null"
-      ],
-      "description": "Eval input. Null = no input, unit is skipped"
-     },
-     "english": {
+        "string",
+        "null"
+      ]
+    },
+    "commentator": {
       "type": [
-       "string",
-       "null"
-      ],
-      "description": "Reference translation of exactly `sanskrit` (same scope). Null = unit is skipped"
-     },
-     "parts": {
+        "string",
+        "null"
+      ]
+    },
+    "script": {
+      "const": "Devanagari",
+      "description": "Script of every sanskrit string. English is English."
+    },
+    "units": {
       "type": "array",
-      "description": "Optional metadata, never scored: the pieces of a commentary unit. A part with sanskrit but no english, or a part outside `scope`, is allowed",
       "items": {
-       "type": "object",
-       "additionalProperties": false,
-       "required": [
-        "role"
-       ],
-       "properties": {
-        "role": {
-         "enum": [
-          "mula",
-          "bhashya",
-          "tatparya"
-         ]
-        },
-        "sanskrit": {
-         "type": "string"
-        },
-        "english": {
-         "type": "string"
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "ref",
+          "kind",
+          "scope",
+          "sanskrit",
+          "english"
+        ],
+        "properties": {
+          "ref": {
+            "type": "string",
+            "description": "Numbering as the source uses it; unique within the file"
+          },
+          "kind": {
+            "enum": [
+              "verse",
+              "sutra",
+              "prose",
+              "group"
+            ],
+            "description": "Form of the text; group = several verses the source joins"
+          },
+          "scope": {
+            "enum": [
+              "text",
+              "mula",
+              "commentary",
+              "mula+commentary"
+            ],
+            "description": "What `sanskrit` and `english` both hold. text = an independent work (prakarana, kavya, itihasa); mula = verse/sutra only; commentary = commentary or intro prose only; mula+commentary = both"
+          },
+          "sanskrit": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Eval input. Null = no input, unit is skipped"
+          },
+          "english": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Reference translation of exactly `sanskrit` (same scope). Null = unit is skipped"
+          },
+          "parts": {
+            "type": "array",
+            "description": "Optional metadata, never scored: the pieces of a commentary unit. A part with sanskrit but no english, or a part outside `scope`, is allowed",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "role"
+              ],
+              "properties": {
+                "role": {
+                  "enum": [
+                    "mula",
+                    "bhashya",
+                    "tatparya"
+                  ]
+                },
+                "sanskrit": {
+                  "type": "string"
+                },
+                "english": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "meta": {
+            "type": "object",
+            "description": "Source-specific extras (alignment method, edit logs, verbatim English)"
+          }
         }
-       }
       }
-     },
-     "meta": {
-      "type": "object",
-      "description": "Source-specific extras (alignment method, edit logs, verbatim English)"
-     }
+    },
+    "source_sanskrit": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "properties": {
+        "citation": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "license": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "source_english": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "properties": {
+        "citation": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "license": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "bundled": {
+      "type": "boolean"
+    },
+    "needs_ocr": {
+      "type": "boolean"
+    },
+    "alignment": {
+      "enum": [
+        "row_aligned",
+        "by_ref",
+        "unaligned",
+        "not_applicable"
+      ],
+      "description": "How english relates to sanskrit per unit. row_aligned: source pairs them. by_ref: same ref scheme in two editions, not verified. unaligned: english has no per-unit split yet."
+    },
+    "slice_of": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "reference_type": {
+      "type": "string",
+      "enum": [
+        "translation",
+        "interpretive",
+        "summary"
+      ],
+      "description": "translation: english translates the sanskrit; interpretive: translator's reading or expansion of it; summary: english summarises it"
+    },
+    "english_rights": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "public_domain",
+          "free_to_copy_per_author",
+          "cc_by_sa",
+          "in_copyright_or_unclear"
+        ]
+      },
+      "description": "rights status of the english sources used in the file; check before redistribution"
     }
-   }
-  },
-  "source_sanskrit": {
-   "type": [
-    "object",
-    "null"
-   ],
-   "properties": {
-    "citation": {
-     "type": "string"
-    },
-    "url": {
-     "type": "string"
-    },
-    "license": {
-     "type": [
-      "string",
-      "null"
-     ]
-    }
-   }
-  },
-  "source_english": {
-   "type": [
-    "object",
-    "null"
-   ],
-   "properties": {
-    "citation": {
-     "type": "string"
-    },
-    "url": {
-     "type": "string"
-    },
-    "license": {
-     "type": [
-      "string",
-      "null"
-     ]
-    }
-   }
-  },
-  "bundled": {
-   "type": "boolean"
-  },
-  "needs_ocr": {
-   "type": "boolean"
-  },
-  "alignment": {
-   "enum": [
-    "row_aligned",
-    "by_ref",
-    "unaligned",
-    "not_applicable"
-   ],
-   "description": "How english relates to sanskrit per unit. row_aligned: source pairs them. by_ref: same ref scheme in two editions, not verified. unaligned: english has no per-unit split yet."
-  },
-  "slice_of": {
-   "type": [
-    "object",
-    "null"
-   ]
-  },
-  "notes": {
-   "type": [
-    "string",
-    "null"
-   ]
-  },
-  "reference_type": {
-   "type": "string",
-   "enum": [
-    "translation",
-    "interpretive",
-    "summary"
-   ],
-   "description": "translation: english translates the sanskrit; interpretive: translator's reading or expansion of it; summary: english summarises it"
-  },
-  "english_rights": {
-   "type": "array",
-   "items": {
-    "type": "string",
-    "enum": [
-     "public_domain",
-     "free_to_copy_per_author",
-     "cc_by_sa",
-     "in_copyright_or_unclear"
-    ]
-   },
-   "description": "rights status of the english sources used in the file; check before redistribution"
-  },
-  "quality": {
-   "enum": [
-    "noisy_alignment",
-    "unproofread_ocr"
-   ],
-   "description": "Optional. noisy_alignment: row-aligned sentence-aligner output where about half the rows carry a phrase from a neighbouring row; fine for coarse comparison, not an exact reference. unproofread_ocr: the sanskrit is raw OCR."
   }
- }
 }

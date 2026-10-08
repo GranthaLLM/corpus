@@ -94,7 +94,6 @@ Every file is one JSON object. Fields:
 | `alignment` | `row_aligned` (the source pairs them), `by_ref` (two sources joined on ref), `unaligned` |
 | `reference_type` | `translation` (english translates the sanskrit), `interpretive` (the translator's reading, e.g. Pandurangi's Aitareya), `summary` (Bhattasangraha). Filter on it when scoring |
 | `english_rights` | Best-effort rights status: `public_domain`, `free_to_copy_per_author`, `cc_by_sa`, `in_copyright_or_unclear` |
-| `quality` | Optional. `noisy_alignment` (Harivaṃśa, Vidura Nīti, Sanatsujātīya, Yakṣa Praśna): row-aligned sentence-aligner output, and in a random sample about half the rows carry a phrase from a neighbouring row, so use them for coarse comparison, not as exact references. `unproofread_ocr` (Bhāṭṭasaṅgraha): the Sanskrit is raw OCR. |
 | `bundled`, `needs_ocr`, `slice_of` | Source flags |
 | `notes` | Anything a user must know: source quirks, gaps, edits made |
 
