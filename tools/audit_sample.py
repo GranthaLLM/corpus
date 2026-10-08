@@ -1,6 +1,6 @@
 """Draw a stratified random sample of scoreable units and write a self-contained HTML sheet to mark them.
 
-Usage: python3 tools/audit_sample.py [--total 300] [--seed 7] [--out DIR]
+Usage: python3 tools/audit_sample.py [--total 300] [--seed 7] [--out DIR] [--only stem,stem]
 Output: DIR/audit.html (open in a browser; marks live in the browser's localStorage and export as JSON or CSV)
         DIR/sample.json (the drawn units with their stratum sizes, for weighting the estimate)
 Allocation: 5 units per file plus the remainder split by the square root of file size, so small works are seen
@@ -22,6 +22,7 @@ def arg(name, default):
 
 
 TOTAL, SEED = arg("--total", 300), arg("--seed", 7)
+ONLY = arg("--only", "").split(",") if arg("--only", "") else []
 OUT = Path(arg("--out", str(ROOT.parent / "audit")))
 
 LABELS = [
@@ -47,7 +48,9 @@ def main():
         d = json.loads(Path(f).read_text(encoding="utf-8"))
         us = [u for u in d["units"] if u.get("sanskrit") and u.get("english")]
         pools.append((Path(f).stem, d, us))
-    base = 5
+    if ONLY:
+        pools = [x for x in pools if x[0] in ONLY]
+    base = 5 if not ONLY else TOTAL // max(1, len(pools))
     rest = max(0, TOTAL - base * len(pools))
     wsum = sum(math.sqrt(len(us)) for _, _, us in pools)
     sample, strata = [], []
