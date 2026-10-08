@@ -776,5 +776,6 @@
  "reference_type": "translation",
  "english_rights": [
   "cc_by_sa"
- ]
+ ],
+ "quality": "noisy_alignment"
 }

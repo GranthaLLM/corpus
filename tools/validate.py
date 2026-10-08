@@ -7,7 +7,7 @@ UNIT_KEYS = {"ref", "kind", "scope", "sanskrit", "english", "parts", "meta"}
 REQUIRED = {"ref", "kind", "scope", "sanskrit", "english"}
 ROLES = {"mula", "bhashya", "tatparya"}
 JUNK = re.compile(r"Footnotes and references|\[back to top\]|Tranlsation and commentary is missing|NOTE: The following page is missing|Article published on|Last Updated:")
-TOP = {"id", "text", "tradition", "commentator", "script", "units", "source_sanskrit", "source_english", "bundled", "needs_ocr", "alignment", "slice_of", "notes", "reference_type", "english_rights"}
+TOP = {"id", "text", "tradition", "commentator", "script", "units", "source_sanskrit", "source_english", "bundled", "needs_ocr", "alignment", "slice_of", "notes", "reference_type", "english_rights", "quality"}
 
 
 def check(f):
