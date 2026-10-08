@@ -32,8 +32,12 @@ def clean_block(b):
     return " ".join(" ".join(ls).split())
 
 
+INLINE_HEAD = re.compile(r"[-\dIl]{1,6}\s*[\]|]\s*(?:The\s+)?[A-Z][A-Za-z’'\- ]{2,40}?\s*\d{1,3}\s*\]?")
+
+
 def tidy_english(t):
     t = re.sub(r"\S*[ऀ-ॿ]\S*", " ", t)
+    t = INLINE_HEAD.sub(" ", t)
     t = re.sub(r"(\w)- (?=[a-z])", r"\1", t)
     return re.sub(r"\s+", " ", t).strip()
 
@@ -97,7 +101,7 @@ def main():
         _, ci, u = best
         ptr = ci
         vs = fuzz.partial_ratio(dn, vnorm[u]) if vnorm[u] else 0
-        role = "mula" if vs >= 88 and len(dn) <= len(vnorm[u]) * 1.3 else "bhashya"
+        role = "mula" if vs >= 78 and len(dn) <= len(vnorm[u]) * 1.15 else "bhashya"
         got.setdefault(u, []).append((role, tidy_english(et)))
         cov[u] = cov.get(u, 0) + len(dn)
     n_ok = 0
