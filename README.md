@@ -282,3 +282,11 @@ A unit or one of its parts is addressed as `file:ref` or `file:ref.role`, where 
 - `bg_madhva:3/4.tatparya` and `aitareya_madhva:mangalacharana` work the same way.
 
 `python3 tools/lookup.py bsb_madhva:1.1.1.bhashya` prints the text, `--json` returns it as JSON. A unit that holds its pair without parts (all of `sribhashya_ramanuja`) answers only to the whole address. Run `python3 tools/test_lookup.py` to test it.
+
+## Known issues
+
+- **Units without English** (skipped when scoring): Bhattasangraha 62 units (its English is Pandurangi's summary, `reference_type: summary`, and exists for only part of the work), Aitareya Madhva bhashya 27 units (Pandurangi only summarises it; `reference_type: interpretive` for the rest of that file), Brihadaranyaka Madhva Panchagni 1 unit.
+- **English written for this corpus** (no source translates it; named in each file's notes): Isa Madhva 16, 17, 18; Katha Shankara 1.3.10-12 and nine commentary passages Sastri skips; bsb_madhva 1.1.24, 1.3.1, 1.3.43, 1.4.29, 2.1.8, 2.4.1 and the closing line of 3.3.68, 2.3.39, 3.1.22; bg_shankara 5.27, 7.30, 18.25; brihadaranyaka_shankara 6.4.2; bg_ramanuja 1.1; the colophon units.
+- **Known mismatches:** sanatsujatiya row 28124 (Sanskrit row is a fragment, English covers several rows); Mitrasamgraha rows in the Mahabharata files whose prose has no Sanskrit row.
+- **Shankara Upanishad and Brahma Sutra files** still have open items listed in `spotcheck/shankara_upanishad_bhashya_flaws.md` and `spotcheck/bsb_shankara_mismatches.md` (for example sutra-translation heads missing in bsb_shankara 3.1.1, 4.1.1, 4.3.1, 4.4.1, mid-unit spills in several bsb_shankara units, damaged punctuation in Chandogya Shankara English, 16 avatarika spills in Brihadaranyaka Shankara). Treat those files as less reliable than the Madhva Upanishad files.
+- **Not hand-verified:** all checks so far are scripted (alignment audits, length ratios, duplicate detection) plus reading of flagged units. No random sample has been checked by hand yet.
