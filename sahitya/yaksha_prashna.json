@@ -696,7 +696,7 @@
    "kind": "verse",
    "scope": "text",
    "sanskrit": "तस्य अग्नयः न लुप्येरन् प्रथमः अस्तु वरः मम",
-   "english": "Therefore, the first boon that I shall ask, is, may that Brahmana's adorations to Agni be not interrupted!' The Yaksha said,--'O Kunti's son endued with splendour, it was I who for examining thee, was carrying away, in the guise of a deer, that Brahmana's fire-sticks!\" Vaisampayana continued,--\"Thereupon that worshipful one said,--'I give thee this boon! Good betide thee! O thou that are like unto an immortal, ask thou a fresh boon! Yudhishthira said,--'We have spent these twelve years in the forest;"
+   "english": "Therefore, the first boon that I shall ask, is, may that Brahmana's adorations to Agni be not interrupted!'"
   },
   {
    "ref": "23498",
@@ -772,7 +772,7 @@
   "file": "GE07mbh-ganguly.tsv",
   "rows": "23390-23505"
  },
- "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. Slice = Vana (Aranyaka) Parva Sections CCCXI-CCCXII and the closing rows of the episode, rows 23390-23505. Boundaries set by where the Sanskrit of Section CCCXI begins; first row's English carries a verbatim tail of the preceding text. Verify. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is] [Length-outlier repair: 2 runs of units merged with neighbours so both columns cover the same passage.] [Length-outlier repair: 2 runs of units merged with neighbours so both columns cover the same passage.]",
+ "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. Slice = Vana (Aranyaka) Parva Sections CCCXI-CCCXII and the closing rows of the episode, rows 23390-23505. Boundaries set by where the Sanskrit of Section CCCXI begins; first row's English carries a verbatim tail of the preceding text. Verify. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is] [Length-outlier repair: 2 runs of units merged with neighbours so both columns cover the same passage.] [Length-outlier repair: 2 runs of units merged with neighbours so both columns cover the same passage.] [2026-10-09: english of row 23497 cut to the part its Sanskrit covers; the narrative prose that followed has no Sanskrit row.]",
  "reference_type": "translation",
  "english_rights": [
   "cc_by_sa"
