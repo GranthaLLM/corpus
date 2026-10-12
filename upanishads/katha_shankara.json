@@ -1464,9 +1464,9 @@
   {
    "ref": "2.1.4",
    "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "स्वप्नान्तं जागरितान्तं चोभौ येनानुपश्यति ।\nमहान्तं विभुमात्मानं मत्वा धीरो न शोचति ॥ ४ ॥",
-   "english": "That by which a mortal perceives, both in dream and in waking, by knowing that great all-pervading Ātman the wise man grieves no more.",
+   "scope": "mula+commentary",
+   "sanskrit": "स्वप्नान्तं जागरितान्तं चोभौ येनानुपश्यति ।\nमहान्तं विभुमात्मानं मत्वा धीरो न शोचति ॥ ४ ॥\nअतिसूक्ष्मत्वाद्दुर्विज्ञेयमिति मत्वैतमेवार्थं पुनः पुनराह — स्वप्नान्तं स्वप्नमध्यं स्वप्नविज्ञेयमित्येतत् । तथा जागरितान्तं जागरितमध्यं जागरितविज्ञेयं च । उभौ स्वप्नजागरितान्तौ येन आत्मना अनुपश्यति लोकः इति सर्वं पूर्ववत् । तं महान्तं विभुमात्मानं मत्वा अवगम्यात्मभावेन साक्षादहमस्मि परमात्मेति धीरः न शोचति ॥",
+   "english": "That by which a mortal perceives, both in dream and in waking, by knowing that great all-pervading Ātman the wise man grieves no more.\nThinking that it is hard to know because of its extreme subtlety, he repeats this very matter again and again: ‘svapnānta’ means the middle of dream, that is, what is known in dream; likewise ‘jāgaritānta’ is the middle of waking, what is known in waking. By which Ātman the world perceives both the end of dream and the end of waking: all as before. Knowing that great, all-pervading Ātman, realising it directly in the form of the Self, ‘I am the Paramātman’, the wise man does not grieve.",
    "parts": [
     {
      "role": "mula",
@@ -1475,16 +1475,17 @@
     },
     {
      "role": "bhashya",
-     "sanskrit": "अतिसूक्ष्मत्वाद्दुर्विज्ञेयमिति मत्वैतमेवार्थं पुनः पुनराह — स्वप्नान्तं स्वप्नमध्यं स्वप्नविज्ञेयमित्येतत् । तथा जागरितान्तं जागरितमध्यं जागरितविज्ञेयं च । उभौ स्वप्नजागरितान्तौ येन आत्मना अनुपश्यति लोकः इति सर्वं पूर्ववत् । तं महान्तं विभुमात्मानं मत्वा अवगम्यात्मभावेन साक्षादहमस्मि परमात्मेति धीरः न शोचति ॥"
+     "sanskrit": "अतिसूक्ष्मत्वाद्दुर्विज्ञेयमिति मत्वैतमेवार्थं पुनः पुनराह — स्वप्नान्तं स्वप्नमध्यं स्वप्नविज्ञेयमित्येतत् । तथा जागरितान्तं जागरितमध्यं जागरितविज्ञेयं च । उभौ स्वप्नजागरितान्तौ येन आत्मना अनुपश्यति लोकः इति सर्वं पूर्ववत् । तं महान्तं विभुमात्मानं मत्वा अवगम्यात्मभावेन साक्षादहमस्मि परमात्मेति धीरः न शोचति ॥",
+     "english": "Thinking that it is hard to know because of its extreme subtlety, he repeats this very matter again and again: ‘svapnānta’ means the middle of dream, that is, what is known in dream; likewise ‘jāgaritānta’ is the middle of waking, what is known in waking. By which Ātman the world perceives both the end of dream and the end of waking: all as before. Knowing that great, all-pervading Ātman, realising it directly in the form of the Self, ‘I am the Paramātman’, the wise man does not grieve."
     }
    ]
   },
   {
    "ref": "2.1.5",
    "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "य इमं मध्वदं वेद आत्मानं जीवमन्तिकात् ।\nईशानं भूतभव्यस्य न ततो विजुगुप्सते । एतद्वै तत् ॥ ५ ॥",
-   "english": "He who knows this Ātman, the honey- eater (perceiver and enjoyer of objects), ever near, as the lord of the past and future, fears no more. This verily is That.",
+   "scope": "mula+commentary",
+   "sanskrit": "य इमं मध्वदं वेद आत्मानं जीवमन्तिकात् ।\nईशानं भूतभव्यस्य न ततो विजुगुप्सते । एतद्वै तत् ॥ ५ ॥\nकिञ्च, यः कश्चित् इमं मध्वदं कर्मफलभुजं जीवं प्राणादिकलापस्य धारयितारमात्मानं वेद विजानाति अन्तिकात् अन्तिके समीपे ईशानम् ईशितारं भूतभव्यस्य कालत्रयस्य, ततः तद्विज्ञानादूर्ध्वमात्मानं न विजुगुप्सते न गोपायितुमिच्छति, अभयप्राप्तत्वात् । यावद्धि भयमध्यस्थोऽनित्यमात्मानं मन्यते तावद्गोपायितुमिच्छत्यात्मानम् । यदा तु नित्यमद्वैतमात्मानं विजानाति, तदा कः किं कुतो वा गोपायितुमिच्छेत् । एतद्वै तदिति पूर्ववत् ॥",
+   "english": "He who knows this Ātman, the honey- eater (perceiver and enjoyer of objects), ever near, as the lord of the past and future, fears no more. This verily is That.\nFurther: whoever knows this honey-eater, that is, the jīva who enjoys the fruits of action, the sustainer of the group of prāṇa and the rest, the Ātman, near, close at hand, as the ruler of the past and the future, that is, of the three times, thereafter, from that knowledge onward, does not wish to protect himself, since he has attained fearlessness. For as long as one stands amid fear and thinks of oneself as non-eternal, so long he wishes to protect himself; but when he knows the Ātman as eternal and non-dual, then who would wish to protect what, or from what? ‘This verily is That’ as before.",
    "parts": [
     {
      "role": "mula",
@@ -1493,7 +1494,8 @@
     },
     {
      "role": "bhashya",
-     "sanskrit": "किञ्च, यः कश्चित् इमं मध्वदं कर्मफलभुजं जीवं प्राणादिकलापस्य धारयितारमात्मानं वेद विजानाति अन्तिकात् अन्तिके समीपे ईशानम् ईशितारं भूतभव्यस्य कालत्रयस्य, ततः तद्विज्ञानादूर्ध्वमात्मानं न विजुगुप्सते न गोपायितुमिच्छति, अभयप्राप्तत्वात् । यावद्धि भयमध्यस्थोऽनित्यमात्मानं मन्यते तावद्गोपायितुमिच्छत्यात्मानम् । यदा तु नित्यमद्वैतमात्मानं विजानाति, तदा कः किं कुतो वा गोपायितुमिच्छेत् । एतद्वै तदिति पूर्ववत् ॥"
+     "sanskrit": "किञ्च, यः कश्चित् इमं मध्वदं कर्मफलभुजं जीवं प्राणादिकलापस्य धारयितारमात्मानं वेद विजानाति अन्तिकात् अन्तिके समीपे ईशानम् ईशितारं भूतभव्यस्य कालत्रयस्य, ततः तद्विज्ञानादूर्ध्वमात्मानं न विजुगुप्सते न गोपायितुमिच्छति, अभयप्राप्तत्वात् । यावद्धि भयमध्यस्थोऽनित्यमात्मानं मन्यते तावद्गोपायितुमिच्छत्यात्मानम् । यदा तु नित्यमद्वैतमात्मानं विजानाति, तदा कः किं कुतो वा गोपायितुमिच्छेत् । एतद्वै तदिति पूर्ववत् ॥",
+     "english": "Further: whoever knows this honey-eater, that is, the jīva who enjoys the fruits of action, the sustainer of the group of prāṇa and the rest, the Ātman, near, close at hand, as the ruler of the past and the future, that is, of the three times, thereafter, from that knowledge onward, does not wish to protect himself, since he has attained fearlessness. For as long as one stands amid fear and thinks of oneself as non-eternal, so long he wishes to protect himself; but when he knows the Ātman as eternal and non-dual, then who would wish to protect what, or from what? ‘This verily is That’ as before."
     }
    ]
   },
@@ -1614,9 +1616,9 @@
   {
    "ref": "2.1.12",
    "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "अङ्गुष्ठमात्रः पुरुषो मध्य आत्मनि तिष्ठति ।\nईशानं भूतभव्यस्य न ततो विजुगुप्सते । एतद्वै तत् ॥ १२ ॥",
-   "english": "The Puruṣa (Self), of the size of a thumb, resides in the middle of the body as the lord of the past and the future, (he who knows Him) fears no more. This verily is That.",
+   "scope": "mula+commentary",
+   "sanskrit": "अङ्गुष्ठमात्रः पुरुषो मध्य आत्मनि तिष्ठति ।\nईशानं भूतभव्यस्य न ततो विजुगुप्सते । एतद्वै तत् ॥ १२ ॥\nपुनरपि तदेव प्रकृतं ब्रह्माह — अङ्गुष्ठमात्रः अङ्गुष्ठपरिमाणः । अङ्गुष्ठपरिमाणं हृदयपुण्डरीकं तच्छिद्रवर्त्यन्तःकरणोपाधिरङ्गुष्ठमात्रः अङ्गुष्ठमात्रवंशपर्वमध्यवर्त्यम्बरवत् । पुरुषः पूर्णमनेन सर्वमिति । मध्ये आत्मनि शरीरे तिष्ठति यः तम् आत्मानम् ईशानं भूतभव्यस्य विदित्वा, न तत इत्यादि पूर्ववत् ॥",
+   "english": "The Puruṣa (Self), of the size of a thumb, resides in the middle of the body as the lord of the past and the future, (he who knows Him) fears no more. This verily is That.\nAgain he speaks of that same Brahman which is under discussion: ‘of the measure of a thumb’, of the size of a thumb. The lotus of the heart is of the size of a thumb, and the Ātman limited by the inner organ lodged in its cavity is ‘of thumb size’, like the space in the middle of a bamboo joint of thumb length. ‘Puruṣa’: full, since by him all is filled. In the middle, in the body, he abides. Knowing him, the Ātman, the ruler of the past and the future, he does not shrink from it, and so on, as before.",
    "parts": [
     {
      "role": "mula",
@@ -1625,16 +1627,17 @@
     },
     {
      "role": "bhashya",
-     "sanskrit": "पुनरपि तदेव प्रकृतं ब्रह्माह — अङ्गुष्ठमात्रः अङ्गुष्ठपरिमाणः । अङ्गुष्ठपरिमाणं हृदयपुण्डरीकं तच्छिद्रवर्त्यन्तःकरणोपाधिरङ्गुष्ठमात्रः अङ्गुष्ठमात्रवंशपर्वमध्यवर्त्यम्बरवत् । पुरुषः पूर्णमनेन सर्वमिति । मध्ये आत्मनि शरीरे तिष्ठति यः तम् आत्मानम् ईशानं भूतभव्यस्य विदित्वा, न तत इत्यादि पूर्ववत् ॥"
+     "sanskrit": "पुनरपि तदेव प्रकृतं ब्रह्माह — अङ्गुष्ठमात्रः अङ्गुष्ठपरिमाणः । अङ्गुष्ठपरिमाणं हृदयपुण्डरीकं तच्छिद्रवर्त्यन्तःकरणोपाधिरङ्गुष्ठमात्रः अङ्गुष्ठमात्रवंशपर्वमध्यवर्त्यम्बरवत् । पुरुषः पूर्णमनेन सर्वमिति । मध्ये आत्मनि शरीरे तिष्ठति यः तम् आत्मानम् ईशानं भूतभव्यस्य विदित्वा, न तत इत्यादि पूर्ववत् ॥",
+     "english": "Again he speaks of that same Brahman which is under discussion: ‘of the measure of a thumb’, of the size of a thumb. The lotus of the heart is of the size of a thumb, and the Ātman limited by the inner organ lodged in its cavity is ‘of thumb size’, like the space in the middle of a bamboo joint of thumb length. ‘Puruṣa’: full, since by him all is filled. In the middle, in the body, he abides. Knowing him, the Ātman, the ruler of the past and the future, he does not shrink from it, and so on, as before."
     }
    ]
   },
   {
    "ref": "2.1.13",
    "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "अङ्गुष्ठमात्रः पुरुषो ज्योतिरिवाधूमकः ।\nईशानो भूतभव्यस्य स एवाद्य स उ श्वः । एतद्वै तत् ॥ १३ ॥",
-   "english": "That Puruṣa, of the size of a thumb, is like a light without smoke, lord of the past and the future. He is the same today and tomorrow. This verily is That.",
+   "scope": "mula+commentary",
+   "sanskrit": "अङ्गुष्ठमात्रः पुरुषो ज्योतिरिवाधूमकः ।\nईशानो भूतभव्यस्य स एवाद्य स उ श्वः । एतद्वै तत् ॥ १३ ॥\nकिञ्च, अङ्गुष्ठमात्रः पुरुषः ज्योतिरिव अधूमकः, अधूमकमिति युक्तं ज्योतिःपरत्वात् । यस्त्वेवं लक्षितो योगिभिर्हृदये ईशानः भूतभव्यस्य स एव नित्यः कूटस्थः अद्य इदानीं प्राणिषु वर्तमानः स उ श्वोऽपि वर्तिष्यते, नान्यस्तत्समोऽन्यश्च जनिष्यत इत्यर्थः । अनेन ‘नायमस्तीति चैके’(क. उ. १ । १ । २०) इत्ययं पक्षो न्यायतोऽप्राप्तोऽपि स्ववचनेन श्रुत्या प्रत्युक्तः, तथा क्षणभङ्गवादश्च ।",
+   "english": "That Puruṣa, of the size of a thumb, is like a light without smoke, lord of the past and the future. He is the same today and tomorrow. This verily is That.\nFurther: the Puruṣa of thumb size is like a flame without smoke; ‘without smoke’ is fitting, since the comparison is with light. He who is thus marked out by the yogis in the heart, the ruler of the past and the future, he alone, the eternal, the unchanging, is present today in living beings and will be so tomorrow as well; no other like him exists or will be born: this is the meaning. Thereby the view ‘This Ātman does not exist’ (I.i.20), though it is not reached by reasoning, is refuted by the Śruti in its own words, and so is the doctrine of momentariness.",
    "parts": [
     {
      "role": "mula",
@@ -1643,16 +1646,17 @@
     },
     {
      "role": "bhashya",
-     "sanskrit": "किञ्च, अङ्गुष्ठमात्रः पुरुषः ज्योतिरिव अधूमकः, अधूमकमिति युक्तं ज्योतिःपरत्वात् । यस्त्वेवं लक्षितो योगिभिर्हृदये ईशानः भूतभव्यस्य स एव नित्यः कूटस्थः अद्य इदानीं प्राणिषु वर्तमानः स उ श्वोऽपि वर्तिष्यते, नान्यस्तत्समोऽन्यश्च जनिष्यत इत्यर्थः । अनेन ‘नायमस्तीति चैके’(क. उ. १ । १ । २०) इत्ययं पक्षो न्यायतोऽप्राप्तोऽपि स्ववचनेन श्रुत्या प्रत्युक्तः, तथा क्षणभङ्गवादश्च ।"
+     "sanskrit": "किञ्च, अङ्गुष्ठमात्रः पुरुषः ज्योतिरिव अधूमकः, अधूमकमिति युक्तं ज्योतिःपरत्वात् । यस्त्वेवं लक्षितो योगिभिर्हृदये ईशानः भूतभव्यस्य स एव नित्यः कूटस्थः अद्य इदानीं प्राणिषु वर्तमानः स उ श्वोऽपि वर्तिष्यते, नान्यस्तत्समोऽन्यश्च जनिष्यत इत्यर्थः । अनेन ‘नायमस्तीति चैके’(क. उ. १ । १ । २०) इत्ययं पक्षो न्यायतोऽप्राप्तोऽपि स्ववचनेन श्रुत्या प्रत्युक्तः, तथा क्षणभङ्गवादश्च ।",
+     "english": "Further: the Puruṣa of thumb size is like a flame without smoke; ‘without smoke’ is fitting, since the comparison is with light. He who is thus marked out by the yogis in the heart, the ruler of the past and the future, he alone, the eternal, the unchanging, is present today in living beings and will be so tomorrow as well; no other like him exists or will be born: this is the meaning. Thereby the view ‘This Ātman does not exist’ (I.i.20), though it is not reached by reasoning, is refuted by the Śruti in its own words, and so is the doctrine of momentariness."
     }
    ]
   },
   {
    "ref": "2.1.14",
    "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "यथोदकं दुर्गे वृष्टं पर्वतेषु विधावति ।\nएवं धर्मान्पृथक्पश्यंस्तानेवानुविधावति ॥ १४ ॥",
-   "english": "As rain water, (falling) on the mountain top, runs down over the rocks on all sides; similarly, he who sees difference (between visible forms) runs after them in various directions.",
+   "scope": "mula+commentary",
+   "sanskrit": "यथोदकं दुर्गे वृष्टं पर्वतेषु विधावति ।\nएवं धर्मान्पृथक्पश्यंस्तानेवानुविधावति ॥ १४ ॥\nपुनरपि भेददर्शनापवादं ब्रह्मण आह — यथा उदकं दुर्गे दुर्गमे देशे उच्छ्रिते वृष्टं सिक्तं पर्वतेषु पर्ववत्सु निम्नप्रदेशेषु विधावति विकीर्णं सद्विनश्यति, एवं धर्मान् आत्मनोऽभिन्नान् पृथक् पश्यन् पृथगेव प्रतिशरीरं पश्यन् तानेव शरीरभेदानुवर्तिनः अनुविधावति । शरीरभेदमेव पृथक् पुनः पुनः प्रतिपद्यत इत्यर्थः ॥",
+   "english": "As rain water, (falling) on the mountain top, runs down over the rocks on all sides; similarly, he who sees difference (between visible forms) runs after them in various directions.\nAgain he speaks of the fault of seeing difference in Brahman: as water falling on a rugged, high place runs down in different directions among the mountains, that is, scattered, perishes, so he who sees the qualities as distinct from the Ātman, seeing them separately in each body, runs after those very qualities, the distinctions of the bodies; he attains again and again only distinctions of body. This is the meaning.",
    "parts": [
     {
      "role": "mula",
@@ -1661,7 +1665,8 @@
     },
     {
      "role": "bhashya",
-     "sanskrit": "पुनरपि भेददर्शनापवादं ब्रह्मण आह — यथा उदकं दुर्गे दुर्गमे देशे उच्छ्रिते वृष्टं सिक्तं पर्वतेषु पर्ववत्सु निम्नप्रदेशेषु विधावति विकीर्णं सद्विनश्यति, एवं धर्मान् आत्मनोऽभिन्नान् पृथक् पश्यन् पृथगेव प्रतिशरीरं पश्यन् तानेव शरीरभेदानुवर्तिनः अनुविधावति । शरीरभेदमेव पृथक् पुनः पुनः प्रतिपद्यत इत्यर्थः ॥"
+     "sanskrit": "पुनरपि भेददर्शनापवादं ब्रह्मण आह — यथा उदकं दुर्गे दुर्गमे देशे उच्छ्रिते वृष्टं सिक्तं पर्वतेषु पर्ववत्सु निम्नप्रदेशेषु विधावति विकीर्णं सद्विनश्यति, एवं धर्मान् आत्मनोऽभिन्नान् पृथक् पश्यन् पृथगेव प्रतिशरीरं पश्यन् तानेव शरीरभेदानुवर्तिनः अनुविधावति । शरीरभेदमेव पृथक् पुनः पुनः प्रतिपद्यत इत्यर्थः ॥",
+     "english": "Again he speaks of the fault of seeing difference in Brahman: as water falling on a rugged, high place runs down in different directions among the mountains, that is, scattered, perishes, so he who sees the qualities as distinct from the Ātman, seeing them separately in each body, runs after those very qualities, the distinctions of the bodies; he attains again and again only distinctions of body. This is the meaning."
     }
    ]
   },
@@ -2144,9 +2149,9 @@
   {
    "ref": "2.3.9",
    "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "न सन्दृशे तिष्ठति रूपमस्य न चक्षुषा पश्यति कश्चनैनम् ।\nहृदा मनीषा मनसाभिक्लृप्तो य एतद्विदुरमृतास्ते भवन्ति ॥ ९ ॥",
-   "english": "His form stands not within the fold of vision. None sees him with the eye. By the intellect controlling the mind, and by constant meditation is he revealed. Whoso knows that becomes immortal.",
+   "scope": "mula+commentary",
+   "sanskrit": "न सन्दृशे तिष्ठति रूपमस्य न चक्षुषा पश्यति कश्चनैनम् ।\nहृदा मनीषा मनसाभिक्लृप्तो य एतद्विदुरमृतास्ते भवन्ति ॥ ९ ॥\nकथं तर्हि तस्य अलिङ्गस्य दर्शनमुपपद्यत इति, उच्यते — न सन्दृशे सन्दर्शनविषये न तिष्ठति प्रत्यगात्मनः अस्य रूपम् । अतः न चक्षुषा सर्वेन्द्रियेण, चक्षुर्ग्रहणस्योपलक्षणार्थत्वात् , पश्यति नोपलभते कश्चन कश्चिदपि एनं प्रकृतमात्मानम् । कथं तर्हि तं पश्येदिति, उच्यते — हृदा हृत्स्थया बुद्ध्या, मनीषा मनसः सङ्कल्पादिरूपस्य ईष्टे नियन्तृत्वेनेति मनीट् तया मनीषा विकल्पवर्जितया बुद्ध्या । मनसा मननरूपेण सम्यग्दर्शनेन अभिक्लृप्तः अभिसमर्थितः अभिप्रकाशित इत्येतत् । आत्मा ज्ञातुं शक्य इति वाक्यशेषः । तमात्मानं ब्रह्म एतत् ये विदुः अमृताः ते भवन्ति ॥",
+   "english": "His form stands not within the fold of vision. None sees him with the eye. By the intellect controlling the mind, and by constant meditation is he revealed. Whoso knows that becomes immortal.\nHow then is that which has no mark seen? It is said: his form does not stand within the range of sight; therefore no one sees this innermost Ātman with the eye. ‘Eye’ is mentioned to stand for all the senses. How then is he seen? By the heart, that is, by the intellect lodged in the heart; by the manīṣā, the intellect free from doubts, which rules (īṣṭe) the mind of the nature of volition and the like; by the mind, that is, by right vision in the form of reflection, he is made manifest, revealed. The sentence is completed thus: ‘the Ātman can be known’. Those who know this Ātman, Brahman, become immortal.",
    "parts": [
     {
      "role": "mula",
@@ -2155,16 +2160,17 @@
     },
     {
      "role": "bhashya",
-     "sanskrit": "कथं तर्हि तस्य अलिङ्गस्य दर्शनमुपपद्यत इति, उच्यते — न सन्दृशे सन्दर्शनविषये न तिष्ठति प्रत्यगात्मनः अस्य रूपम् । अतः न चक्षुषा सर्वेन्द्रियेण, चक्षुर्ग्रहणस्योपलक्षणार्थत्वात् , पश्यति नोपलभते कश्चन कश्चिदपि एनं प्रकृतमात्मानम् । कथं तर्हि तं पश्येदिति, उच्यते — हृदा हृत्स्थया बुद्ध्या, मनीषा मनसः सङ्कल्पादिरूपस्य ईष्टे नियन्तृत्वेनेति मनीट् तया मनीषा विकल्पवर्जितया बुद्ध्या । मनसा मननरूपेण सम्यग्दर्शनेन अभिक्लृप्तः अभिसमर्थितः अभिप्रकाशित इत्येतत् । आत्मा ज्ञातुं शक्य इति वाक्यशेषः । तमात्मानं ब्रह्म एतत् ये विदुः अमृताः ते भवन्ति ॥"
+     "sanskrit": "कथं तर्हि तस्य अलिङ्गस्य दर्शनमुपपद्यत इति, उच्यते — न सन्दृशे सन्दर्शनविषये न तिष्ठति प्रत्यगात्मनः अस्य रूपम् । अतः न चक्षुषा सर्वेन्द्रियेण, चक्षुर्ग्रहणस्योपलक्षणार्थत्वात् , पश्यति नोपलभते कश्चन कश्चिदपि एनं प्रकृतमात्मानम् । कथं तर्हि तं पश्येदिति, उच्यते — हृदा हृत्स्थया बुद्ध्या, मनीषा मनसः सङ्कल्पादिरूपस्य ईष्टे नियन्तृत्वेनेति मनीट् तया मनीषा विकल्पवर्जितया बुद्ध्या । मनसा मननरूपेण सम्यग्दर्शनेन अभिक्लृप्तः अभिसमर्थितः अभिप्रकाशित इत्येतत् । आत्मा ज्ञातुं शक्य इति वाक्यशेषः । तमात्मानं ब्रह्म एतत् ये विदुः अमृताः ते भवन्ति ॥",
+     "english": "How then is that which has no mark seen? It is said: his form does not stand within the range of sight; therefore no one sees this innermost Ātman with the eye. ‘Eye’ is mentioned to stand for all the senses. How then is he seen? By the heart, that is, by the intellect lodged in the heart; by the manīṣā, the intellect free from doubts, which rules (īṣṭe) the mind of the nature of volition and the like; by the mind, that is, by right vision in the form of reflection, he is made manifest, revealed. The sentence is completed thus: ‘the Ātman can be known’. Those who know this Ātman, Brahman, become immortal."
     }
    ]
   },
   {
    "ref": "2.3.10",
    "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "यदा पञ्चावतिष्ठन्ते ज्ञानानि मनसा सह ।\nबुद्धिश्च न विचेष्टति तामाहुः परमां गतिम् ॥ १० ॥",
-   "english": "When the five organs of perception become still, together with the mind, and the intellect ceases to be active: that is called the highest state.",
+   "scope": "mula+commentary",
+   "sanskrit": "यदा पञ्चावतिष्ठन्ते ज्ञानानि मनसा सह ।\nबुद्धिश्च न विचेष्टति तामाहुः परमां गतिम् ॥ १० ॥\nसा हृन्मनीट् कथं प्राप्यत इति तदर्थो योग उच्यते — यदा यस्मिन्काले स्वविषयेभ्यो निवर्तितानि आत्मन्येव पञ्च ज्ञानानि — ज्ञानार्थत्वाच्छ्रोत्रादीनीन्द्रियाणि ज्ञानान्युच्यन्ते — अवतिष्ठन्ते सह मनसा यदनुगतानि, येन सङ्कल्पादिव्यावृत्तेनान्तःकरणेन । बुद्धिश्च अध्यवसायलक्षणा न विचेष्टति स्वव्यापारेषु न विचेष्टते न व्याप्रियते, तामाहुः परमां गतिम् ॥",
+   "english": "When the five organs of perception become still, together with the mind, and the intellect ceases to be active: that is called the highest state.\nHow is that state of heart and mind reached? Yoga for that purpose is taught: when, at which time, the five organs of knowledge, turned back from their objects, stand still in the Ātman alone (the senses such as hearing are called ‘jñāna’ because they serve knowledge), together with the mind, that is, with the inner organ which they follow and which is withdrawn from volition and the like, and the intellect, of the nature of determination, does not stir, does not act in its own functions, that state they call the highest.",
    "parts": [
     {
      "role": "mula",
@@ -2173,16 +2179,17 @@
     },
     {
      "role": "bhashya",
-     "sanskrit": "सा हृन्मनीट् कथं प्राप्यत इति तदर्थो योग उच्यते — यदा यस्मिन्काले स्वविषयेभ्यो निवर्तितानि आत्मन्येव पञ्च ज्ञानानि — ज्ञानार्थत्वाच्छ्रोत्रादीनीन्द्रियाणि ज्ञानान्युच्यन्ते — अवतिष्ठन्ते सह मनसा यदनुगतानि, येन सङ्कल्पादिव्यावृत्तेनान्तःकरणेन । बुद्धिश्च अध्यवसायलक्षणा न विचेष्टति स्वव्यापारेषु न विचेष्टते न व्याप्रियते, तामाहुः परमां गतिम् ॥"
+     "sanskrit": "सा हृन्मनीट् कथं प्राप्यत इति तदर्थो योग उच्यते — यदा यस्मिन्काले स्वविषयेभ्यो निवर्तितानि आत्मन्येव पञ्च ज्ञानानि — ज्ञानार्थत्वाच्छ्रोत्रादीनीन्द्रियाणि ज्ञानान्युच्यन्ते — अवतिष्ठन्ते सह मनसा यदनुगतानि, येन सङ्कल्पादिव्यावृत्तेनान्तःकरणेन । बुद्धिश्च अध्यवसायलक्षणा न विचेष्टति स्वव्यापारेषु न विचेष्टते न व्याप्रियते, तामाहुः परमां गतिम् ॥",
+     "english": "How is that state of heart and mind reached? Yoga for that purpose is taught: when, at which time, the five organs of knowledge, turned back from their objects, stand still in the Ātman alone (the senses such as hearing are called ‘jñāna’ because they serve knowledge), together with the mind, that is, with the inner organ which they follow and which is withdrawn from volition and the like, and the intellect, of the nature of determination, does not stir, does not act in its own functions, that state they call the highest."
     }
    ]
   },
   {
    "ref": "2.3.11",
    "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "तां योगमिति मन्यन्ते स्थिरामिन्द्रियधारणाम् ।\nअप्रमत्तस्तदा भवति योगो हि प्रभवाप्ययौ ॥ ११ ॥",
-   "english": "This firm holding back of the senses is what is known as Yoga. Then one should become watchful, for Yoga comes and goes.",
+   "scope": "mula+commentary",
+   "sanskrit": "तां योगमिति मन्यन्ते स्थिरामिन्द्रियधारणाम् ।\nअप्रमत्तस्तदा भवति योगो हि प्रभवाप्ययौ ॥ ११ ॥\nताम् ईदृशीं तदवस्थां योगमिति मन्यन्ते वियोगमेव सन्तम् । सर्वानर्थसंयोगवियोगलक्षणा हीयमवस्था योगिनः । एतस्यां ह्यवस्थायाम् अविद्याध्यारोपणवर्जितस्वरूपप्रतिष्ठ आत्मा स्थिरामिन्द्रियधारणां स्थिरामचलामिन्द्रियधारणां बाह्यान्तःकरणानां धारणमित्यर्थः । अप्रमत्तः प्रमादवर्जितः समाधानं प्रति नित्यं यत्नवान् तदा तस्मिन्काले, यदैव प्रवृत्तयोगो भवतीति सामर्थ्यादवगम्यते । न हि बुद्ध्यादिचेष्टाभावे प्रमादसम्भवोऽस्ति । तस्मात्प्रागेव बुद्ध्यादिचेष्टोपरमात् अप्रमादो विधीयते । अथवा, यदैव इन्द्रियाणां स्थिरा धारणा, तदानीमेव निरङ्कुशमप्रमत्तत्वमित्यतोऽभिधीयते अप्रमत्तस्तदा भवतीति । कुतः ? योगो हि यस्मात् प्रभवाप्ययौ उपजनापायधर्मक इत्यर्थः । अतः अपायपरिहारायाप्रमादः कर्तव्य इत्यभिप्रायः ॥",
+   "english": "This firm holding back of the senses is what is known as Yoga. Then one should become watchful, for Yoga comes and goes.\nThat state, such as it is, they regard as Yoga, though it is really disunion (viyoga); for this state of the yogi is marked by separation from union with all evil. In this state the Ātman is established in its own nature, free from the superimposition of ignorance. ‘The steady holding of the senses’ means the firm, unmoving holding of the external and internal organs. ‘Careful’: free from negligence, ever striving for concentration, ‘then’, at that time, that is, when he has begun Yoga, as is understood from the context; for when the activities of the intellect and the rest have ceased there can be no negligence. Therefore carefulness is enjoined even before the activities of the intellect cease. Or: as soon as the holding of the senses is steady, then at once unrestrained carelessness becomes possible, and so it is said ‘then he becomes careful’. Why? Because Yoga ‘is the origin and the end’, that is, it is subject to arising and ceasing. Therefore carefulness must be practised to avoid its loss: this is the intention.",
    "parts": [
     {
      "role": "mula",
@@ -2191,7 +2198,8 @@
     },
     {
      "role": "bhashya",
-     "sanskrit": "ताम् ईदृशीं तदवस्थां योगमिति मन्यन्ते वियोगमेव सन्तम् । सर्वानर्थसंयोगवियोगलक्षणा हीयमवस्था योगिनः । एतस्यां ह्यवस्थायाम् अविद्याध्यारोपणवर्जितस्वरूपप्रतिष्ठ आत्मा स्थिरामिन्द्रियधारणां स्थिरामचलामिन्द्रियधारणां बाह्यान्तःकरणानां धारणमित्यर्थः । अप्रमत्तः प्रमादवर्जितः समाधानं प्रति नित्यं यत्नवान् तदा तस्मिन्काले, यदैव प्रवृत्तयोगो भवतीति सामर्थ्यादवगम्यते । न हि बुद्ध्यादिचेष्टाभावे प्रमादसम्भवोऽस्ति । तस्मात्प्रागेव बुद्ध्यादिचेष्टोपरमात् अप्रमादो विधीयते । अथवा, यदैव इन्द्रियाणां स्थिरा धारणा, तदानीमेव निरङ्कुशमप्रमत्तत्वमित्यतोऽभिधीयते अप्रमत्तस्तदा भवतीति । कुतः ? योगो हि यस्मात् प्रभवाप्ययौ उपजनापायधर्मक इत्यर्थः । अतः अपायपरिहारायाप्रमादः कर्तव्य इत्यभिप्रायः ॥"
+     "sanskrit": "ताम् ईदृशीं तदवस्थां योगमिति मन्यन्ते वियोगमेव सन्तम् । सर्वानर्थसंयोगवियोगलक्षणा हीयमवस्था योगिनः । एतस्यां ह्यवस्थायाम् अविद्याध्यारोपणवर्जितस्वरूपप्रतिष्ठ आत्मा स्थिरामिन्द्रियधारणां स्थिरामचलामिन्द्रियधारणां बाह्यान्तःकरणानां धारणमित्यर्थः । अप्रमत्तः प्रमादवर्जितः समाधानं प्रति नित्यं यत्नवान् तदा तस्मिन्काले, यदैव प्रवृत्तयोगो भवतीति सामर्थ्यादवगम्यते । न हि बुद्ध्यादिचेष्टाभावे प्रमादसम्भवोऽस्ति । तस्मात्प्रागेव बुद्ध्यादिचेष्टोपरमात् अप्रमादो विधीयते । अथवा, यदैव इन्द्रियाणां स्थिरा धारणा, तदानीमेव निरङ्कुशमप्रमत्तत्वमित्यतोऽभिधीयते अप्रमत्तस्तदा भवतीति । कुतः ? योगो हि यस्मात् प्रभवाप्ययौ उपजनापायधर्मक इत्यर्थः । अतः अपायपरिहारायाप्रमादः कर्तव्य इत्यभिप्रायः ॥",
+     "english": "That state, such as it is, they regard as Yoga, though it is really disunion (viyoga); for this state of the yogi is marked by separation from union with all evil. In this state the Ātman is established in its own nature, free from the superimposition of ignorance. ‘The steady holding of the senses’ means the firm, unmoving holding of the external and internal organs. ‘Careful’: free from negligence, ever striving for concentration, ‘then’, at that time, that is, when he has begun Yoga, as is understood from the context; for when the activities of the intellect and the rest have ceased there can be no negligence. Therefore carefulness is enjoined even before the activities of the intellect cease. Or: as soon as the holding of the senses is steady, then at once unrestrained carelessness becomes possible, and so it is said ‘then he becomes careful’. Why? Because Yoga ‘is the origin and the end’, that is, it is subject to arising and ceasing. Therefore carefulness must be practised to avoid its loss: this is the intention."
     }
    ]
   },
@@ -2331,9 +2339,9 @@
   {
    "ref": "2.3.19",
    "kind": "verse",
-   "scope": "mula",
-   "sanskrit": "सह नाववतु । सह नौ भुनक्तु । सह वीर्यं करवावहै । तेजस्विनावधीतमस्तु मा विद्विषावहै ॥ १९ ॥",
-   "english": "Let Him protect us both; let us exert together may what we study be well studied; may we not hate.",
+   "scope": "mula+commentary",
+   "sanskrit": "सह नाववतु । सह नौ भुनक्तु । सह वीर्यं करवावहै । तेजस्विनावधीतमस्तु मा विद्विषावहै ॥ १९ ॥\nअथ शिष्याचार्ययोः प्रमादकृतान्यायेन विद्याग्रहणप्रतिपादननिमित्तदोषप्रशमनार्थेयं शान्तिरुच्यते — सह नौ आवाम् अवतु पालयतु विद्यास्वरूपप्रकाशनेन । कः ? स एव परमेश्वरः उपनिषत्प्रकाशितः । किञ्च, सह नौ भुनक्तु तत्फलप्रकाशनेन नौ पालयतु । सहैव आवां विद्याकृतं वीर्यं सामर्थ्यं करवावहै निष्पादयावहै । किञ्च, तेजस्विनौ तेजस्विनोरावयोः यत् अधीतं तत्स्वधीतमस्तु । अथवा, तेजस्वि नौ आवाभ्यां यत् अधीतं तदतीव तेजस्वि वीर्यवदस्त्वित्यर्थः । मा विद्विषावहै शिष्याचार्यावन्योन्यं प्रमादकृतान्यायाध्ययनाध्यापनदोषनिमित्तं द्वेषं मा करवावहै इत्यर्थः । शान्तिः शान्तिः शान्तिरिति त्रिर्वचनं सर्वदोषोपशमनार्थम् ॥\nइति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ काठकोपनिषद्भाष्यम् सम्पूर्णम् ॥",
+   "english": "Let Him protect us both; let us exert together may what we study be well studied; may we not hate.\nNow this prayer for peace is said in order to quiet any fault arising from the wrong conduct, through negligence, of pupil and teacher in the taking and giving of knowledge. ‘May He protect us both’: may he guard us both by revealing the nature of knowledge. Who? That very Supreme Lord revealed by the Upaniṣad. Further, ‘may He nourish us both’ by revealing its fruit. Together let us bring about the vigour, the capacity produced by knowledge. Further, ‘may what we have studied be bright’: may what we, two bright ones, have studied be well studied; or, may what has been studied by us be exceedingly bright and powerful. ‘May we not hate’: may teacher and pupil not feel hatred toward each other on account of faults of study and teaching committed through negligence. The threefold ‘peace’ is for the quieting of all faults.\nThus ends the commentary on the Kaṭha Upaniṣad by Śrī Śaṅkara Bhagavat, disciple of Śrī Govinda Bhagavatpāda, the revered Paramahaṃsa wandering teacher.",
    "parts": [
     {
      "role": "mula",
@@ -2342,7 +2350,8 @@
     },
     {
      "role": "bhashya",
-     "sanskrit": "अथ शिष्याचार्ययोः प्रमादकृतान्यायेन विद्याग्रहणप्रतिपादननिमित्तदोषप्रशमनार्थेयं शान्तिरुच्यते — सह नौ आवाम् अवतु पालयतु विद्यास्वरूपप्रकाशनेन । कः ? स एव परमेश्वरः उपनिषत्प्रकाशितः । किञ्च, सह नौ भुनक्तु तत्फलप्रकाशनेन नौ पालयतु । सहैव आवां विद्याकृतं वीर्यं सामर्थ्यं करवावहै निष्पादयावहै । किञ्च, तेजस्विनौ तेजस्विनोरावयोः यत् अधीतं तत्स्वधीतमस्तु । अथवा, तेजस्वि नौ आवाभ्यां यत् अधीतं तदतीव तेजस्वि वीर्यवदस्त्वित्यर्थः । मा विद्विषावहै शिष्याचार्यावन्योन्यं प्रमादकृतान्यायाध्ययनाध्यापनदोषनिमित्तं द्वेषं मा करवावहै इत्यर्थः । शान्तिः शान्तिः शान्तिरिति त्रिर्वचनं सर्वदोषोपशमनार्थम् ॥\nइति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ काठकोपनिषद्भाष्यम् सम्पूर्णम् ॥"
+     "sanskrit": "अथ शिष्याचार्ययोः प्रमादकृतान्यायेन विद्याग्रहणप्रतिपादननिमित्तदोषप्रशमनार्थेयं शान्तिरुच्यते — सह नौ आवाम् अवतु पालयतु विद्यास्वरूपप्रकाशनेन । कः ? स एव परमेश्वरः उपनिषत्प्रकाशितः । किञ्च, सह नौ भुनक्तु तत्फलप्रकाशनेन नौ पालयतु । सहैव आवां विद्याकृतं वीर्यं सामर्थ्यं करवावहै निष्पादयावहै । किञ्च, तेजस्विनौ तेजस्विनोरावयोः यत् अधीतं तत्स्वधीतमस्तु । अथवा, तेजस्वि नौ आवाभ्यां यत् अधीतं तदतीव तेजस्वि वीर्यवदस्त्वित्यर्थः । मा विद्विषावहै शिष्याचार्यावन्योन्यं प्रमादकृतान्यायाध्ययनाध्यापनदोषनिमित्तं द्वेषं मा करवावहै इत्यर्थः । शान्तिः शान्तिः शान्तिरिति त्रिर्वचनं सर्वदोषोपशमनार्थम् ॥\nइति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ काठकोपनिषद्भाष्यम् सम्पूर्णम् ॥",
+     "english": "Now this prayer for peace is said in order to quiet any fault arising from the wrong conduct, through negligence, of pupil and teacher in the taking and giving of knowledge. ‘May He protect us both’: may he guard us both by revealing the nature of knowledge. Who? That very Supreme Lord revealed by the Upaniṣad. Further, ‘may He nourish us both’ by revealing its fruit. Together let us bring about the vigour, the capacity produced by knowledge. Further, ‘may what we have studied be bright’: may what we, two bright ones, have studied be well studied; or, may what has been studied by us be exceedingly bright and powerful. ‘May we not hate’: may teacher and pupil not feel hatred toward each other on account of faults of study and teaching committed through negligence. The threefold ‘peace’ is for the quieting of all faults.\nThus ends the commentary on the Kaṭha Upaniṣad by Śrī Śaṅkara Bhagavat, disciple of Śrī Govinda Bhagavatpāda, the revered Paramahaṃsa wandering teacher."
     }
    ]
   },
@@ -2381,7 +2390,7 @@
  "needs_ocr": false,
  "alignment": "by_ref",
  "slice_of": null,
- "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/kathaka-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1928), joined by Devanagari verse text (92) or number-checked ref (28): 120 of 120 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [12 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 1.1.10, 1.3.11, 1.3.12, 2.1.4, 2.1.5, 2.1.12, 2.1.13, 2.1.14, 2.3.9, 2.3.10, 2.3.11, 2.3.19] [Colophon units restored (8): the english is a formulaic translation written for this corpus (meta.english_source), since no source translates colophons.] [intro-2.1 folded into 2.1.1: its english already translates the dropped Sanskrit, so the Sanskrit was folded into the unit.] [intro-1.1 restored from the end of Shankara's introduction only: wisdomlib's page lacks its first two pages, so the Sanskrit of this unit starts at the matching sentence (the etymology of 'upanishad' that precedes it is not translated in the source and was cut).] [Length-outlier repair: mula-scope units whose english carried commentary paragraphs, source notes or IAST were cut to the translation only.] [Length-outlier repair: mula-scope units whose english carried commentary paragraphs, source notes or IAST were cut to the translation only.] [Length-outlier repair: mula-scope units whose english carried commentary paragraphs, source notes or IAST were cut to the translation only.] [Alignment pass 2026-10-09: the english of 1.3.10 had absorbed pieces of the commentary of 1.3.11 and 1.3.12 with part of Sastri's translation lost in the splice. The 1.3.10 part now ends where its Sanskrit does; the intellect-and-Mahat sentence, all of the 1.3.11 commentary and the first half of the 1.3.12 commentary were translated for this corpus (the rest of 1.3.12 is Sastri's). 'Com.' prefixes, verse-number prefixes and the '———' separator lines were stripped.]",
+ "notes": "Sanskrit (verse + Śaṃkara's bhashya, Devanagari) from Advaita Sharada /read/kathaka-bhashya. mula part = verse, bhashya part = avatarika/bhashya paragraphs incl. interstitial intros and colophon lines. English from wisdomlib (Sitarama Sastri 1928), joined by Devanagari verse text (92) or number-checked ref (28): 120 of 120 verse units have english; the rest are null. english = translation of verse + translation of commentary (mula english / bhashya english separate). Intro and colophon units have english null. Ref scheme follows Advaita Sharada ids (chapter.section.verse; K = Gaudapada karika). [12 units where english covers only the verse have sanskrit = mula part so the pair matches; commentary kept in bhashya part: 1.1.10, 1.3.11, 1.3.12, 2.1.4, 2.1.5, 2.1.12, 2.1.13, 2.1.14, 2.3.9, 2.3.10, 2.3.11, 2.3.19] [Colophon units restored (8): the english is a formulaic translation written for this corpus (meta.english_source), since no source translates colophons.] [intro-2.1 folded into 2.1.1: its english already translates the dropped Sanskrit, so the Sanskrit was folded into the unit.] [intro-1.1 restored from the end of Shankara's introduction only: wisdomlib's page lacks its first two pages, so the Sanskrit of this unit starts at the matching sentence (the etymology of 'upanishad' that precedes it is not translated in the source and was cut).] [Length-outlier repair: mula-scope units whose english carried commentary paragraphs, source notes or IAST were cut to the translation only.] [Length-outlier repair: mula-scope units whose english carried commentary paragraphs, source notes or IAST were cut to the translation only.] [Length-outlier repair: mula-scope units whose english carried commentary paragraphs, source notes or IAST were cut to the translation only.] [Alignment pass 2026-10-09: the english of 1.3.10 had absorbed pieces of the commentary of 1.3.11 and 1.3.12 with part of Sastri's translation lost in the splice. The 1.3.10 part now ends where its Sanskrit does; the intellect-and-Mahat sentence, all of the 1.3.11 commentary and the first half of the 1.3.12 commentary were translated for this corpus (the rest of 1.3.12 is Sastri's). 'Com.' prefixes, verse-number prefixes and the '———' separator lines were stripped.] [2026-10-09: Sastri's translation skips Śaṃkara's commentary on 2.1.4, 2.1.5, 2.1.12, 2.1.13, 2.1.14, 2.3.9, 2.3.10, 2.3.11 and 2.3.19; the english of that commentary in those nine units was translated for this corpus (Claude), in Sastri's plain style, and the units are now mula+commentary.]",
  "reference_type": "translation",
  "english_rights": [
   "public_domain"
