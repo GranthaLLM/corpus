@@ -2047,7 +2047,7 @@
    "kind": "verse",
    "scope": "text",
    "sanskrit": "सदा सदा असत्कृतः स्यात् न मृत्युः अमृतम् कुतस्",
-   "english": "He that is emancipate thinks,--this transitory organism can never make me liable to joy and grief and the other attributes inhering to it: nor can there be, in my case, anything like death and birth: and, further, when Brahman, which hath no opposing force to contend against and which is alike in all times and all places, constitutes the resting-place of both realities and unrealities, how can emancipation be mine? It is I alone that am the origin and the end of all causes and effects.--(Existing in the form of I or Self) that Eternal One endued with Divinity is beheld by Yogins (by their mental eye)."
+   "english": "He that is emancipate thinks,--this transitory organism can never make me liable to joy and grief and the other attributes inhering to it: nor can there be, in my case, anything like death and birth: and, further, when Brahman, which hath no opposing force to contend against and which is alike in all times and all places, constitutes the resting-place of both realities and unrealities, how can emancipation be mine? It is I alone that am the origin and the end of all causes and effects."
   },
   {
    "ref": "28125",
@@ -2207,7 +2207,7 @@
   "file": "GE07mbh-ganguly.tsv",
   "rows": "27805-28144"
  },
- "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. Slice = Udyoga Parva Sections XLI-XLVI (Sanat-sujata Parva), rows 27805-28144 of the source TSV; Section XLVII narrative conclusion excluded. Boundaries set by where the Sanskrit of each section begins; the first row's English carries a verbatim tail of the preceding section (source English column lags mid-row). Verify against the printed text before use. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is] [Length-outlier repair: 12 runs of units merged with neighbours so both columns cover the same passage.] [Length-outlier repair: 1 runs of units merged with neighbours so both columns cover the same passage.]",
+ "notes": "ref = row number in the source TSV (1-based line). Rows are sentence-aligned Sanskrit/English pairs from Mitrasamgraha; row boundaries follow the dataset, not verse numbering. Slice = Udyoga Parva Sections XLI-XLVI (Sanat-sujata Parva), rows 27805-28144 of the source TSV; Section XLVII narrative conclusion excluded. Boundaries set by where the Sanskrit of each section begins; the first row's English carries a verbatim tail of the preceding section (source English column lags mid-row). Verify against the printed text before use. [sanskrit transliterated from IAST to Devanagari by tools/translit.py: hyphens in compounds dropped, source markers and apparatus left as is] [Length-outlier repair: 12 runs of units merged with neighbours so both columns cover the same passage.] [Length-outlier repair: 1 runs of units merged with neighbours so both columns cover the same passage.] [2026-10-13: the english of 28124 ended with a repeat of the translation of 28123 (the Yogins behold the Eternal One); the repeat was cut.]",
  "reference_type": "translation",
  "english_rights": [
   "cc_by_sa"
