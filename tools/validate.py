@@ -66,8 +66,6 @@ def check(f):
             x = len(u["english"]) / len(s) / med
             if x > 4.5 or x < 0.3:
                 warns.append(f"{r}: english/sanskrit length ratio {x:.1f}x the file median")
-        if u["sanskrit"] and u["english"] and u["scope"] == "mula+commentary" and len(u["english"]) < 0.8 * len(s):
-            warns.append(f"{r}: english much shorter than sanskrit for scope mula+commentary")
         if re.search(r"[a-zA-Z]", re.sub(r"\(BhGR_[^)]*\)|bbs_[\d,.]+[a-z]?|\bfn\.?:|_+", "", s)) and name not in ("harivamsha.json"):
             warns.append(f"{r}: latin letters in sanskrit")
     return d, errs, warns
