@@ -1,2 +1,5 @@
 __pycache__/
 raw/
+.DS_Store
+.venv/
+.pytest_cache/
