@@ -1,6 +1,6 @@
 # Grantha corpus
 
-Benchmark corpus for the Sarvamoola/Grantha LLM project (advised by Dr. Prathosh, IISc). Companion to the "Grantha LLM: Internal Benchmarking Corpus" doc, which lists the works and the source chosen for each.
+Benchmark corpus for the Sarvamoola/Grantha LLM project.
 
 Private repo. Internal benchmark, not training data, not for release (several English sources are in copyright).
 
