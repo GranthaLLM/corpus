@@ -92,6 +92,17 @@ Two things to know when reading the list:
 - **Two tracks per Upanishad.** Every Upanishad appears twice, once with Śaṃkara's commentary (Advaita) and once with Madhva's (Dvaita). The mula is the same text, the commentary and its English differ. The same holds for the Gita (three tracks: Shankara, Ramanuja, Madhva) and the Brahmasutras (Shankara, Ramanuja via Sri Bhashya, Madhva). This allows the same verse to be compared across traditions.
 - **Not every file has commentary.** Harivamsha, Kumarasambhava, Shatakatraya, the Mahabharata excerpts and the Mitrasamgraha philosophical texts are independent works with no commentary layer.
 
+### Composition
+
+| Folder | Files | Units | Scoreable |
+|---|---:|---:|---:|
+| `philosophical/` | 13 | 7,566 | 7,504 |
+| `sahitya/` | 8 | 6,672 | 6,672 |
+| `upanishads/` | 20 | 2,504 | 2,477 |
+| **Total** | **41** | **16,742** | **16,653** |
+
+By `scope`: `text` 9,546, `mula` 2,035, `mula+commentary` 4,678, `commentary` 483. 4,703 units carry `parts`. `DATACARD.md` has the reference-type, rights and source summary.
+
 ## Data format
 
 ### File
