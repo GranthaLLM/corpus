@@ -1,0 +1,9 @@
+# Core checks (validate.py, status.py, lookup.py, test_lookup.py) need only the standard library.
+# The rebuild and audit scripts additionally need:
+numpy>=1.24
+
+# Only tools/labse_align_audit.py, harivamsha_realign.py and the offset probes:
+sentence-transformers>=2.2
+
+# Only tools/aitareya_madhva_pandurangi.py:
+rapidfuzz>=3.0

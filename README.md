@@ -19,7 +19,20 @@ The English is a **reference to score against**, not something the project needs
 - 41 files, 16,742 units. Units without English are skipped when scoring: Bhattasangraha (62) and the Sanskrit-only Madhva bhashya units of Aitareya (27).
 - Three folders: `philosophical/` (Gita, Brahmasutra and other shastra works), `upanishads/` (ten Upanishads, Shankara and Madhva tracks each), `sahitya/` (Mahabharata excerpts, Bhagavata excerpts, Harivamsha, Kumarasambhava, Shatakatraya).
 - All Sanskrit is Devanagari. English is English.
-- `schema.json` is the JSON Schema for a work file. `tools/` holds the scripts that built the files.
+- `schema.json` is the JSON Schema for a work file. `tools/` holds the scripts that built the files; `tools/README.md` groups them.
+
+## Quick start
+
+Run from this directory (`corpus/`):
+
+```bash
+python3 tools/validate.py       # format and length checks over every file
+python3 tools/test_lookup.py    # addressing tests for tools/lookup.py
+python3 tools/lookup.py bsb_madhva:1.1.1.bhashya
+python3 tools/status.py         # regenerate the Works table below
+```
+
+`make check` runs the first two. These need only the Python standard library; the rebuild scripts and `labse_align_audit.py` need `tools/requirements.txt`.
 
 ## Works
 
@@ -283,11 +296,29 @@ A unit or one of its parts is addressed as `file:ref` or `file:ref.role`, where 
 
 `python3 tools/lookup.py bsb_madhva:1.1.1.bhashya` prints the text, `--json` returns it as JSON. A unit that holds its pair without parts (all of `sribhashya_ramanuja`) answers only to the whole address. Run `python3 tools/test_lookup.py` to test it.
 
+## Sources and licensing
+
+Each file names its sources in `source_sanskrit` / `source_english`, and `english_rights` records the best-effort rights status. In brief:
+
+- **GRETIL** -- CC BY-NC-SA 4.0.
+- **Mitrasamgraha** -- CC BY-SA.
+- **Setutila / Sarvamula** -- CC0.
+- **Advaita Sharada** (Sringeri Sharada Peetham) -- no licence stated; kept private.
+- **Nagesh D. Sonde** -- the author states the translations are free to copy and distribute.
+- **Public domain** -- Kennedy 1913, Sastri 1903/1905, Subba Rau 1904.
+- **In copyright or unclear** -- Warrier (Ramakrishna Math), Adidevananda, Gambhirananda, wisdomlib, Prabhupada/Vedabase. These are why the repo stays private and must not be redistributed.
+
+## Rebuilding
+
+`tools/` expects a cache of raw sources in `$GRANTHA_RAW` (default `raw/`, which is gitignored): GRETIL plain text, Mitrasamgraha TSVs, Setutila `set_*.json`, a `wl_cache/` of wisdomlib pages, the Bodhan OCR of the Sri Bhashya scan, the Nellitheertha MBTN text layer, and a few OCR/PDF caches. Without it the one-off `build_*.py` and `*_english.py` scripts cannot be re-run; the committed JSON is the artifact.
+
+Where a rebuild is needed, the order is `build_*.py` -> `normalize.py` -> `layout.py` -> `clean_english.py` -> `validate.py`, with `status.py` regenerating the tables above.
+
 ## Known issues
 
 - **Units without English** (skipped when scoring): Bhattasangraha 62 units (its English is Pandurangi's summary, `reference_type: summary`, and exists for only part of the work), Aitareya Madhva bhashya 27 units (Pandurangi only summarises it; `reference_type: interpretive` for the rest of that file).
 - **English written for this corpus** (no source translates it; named in each file's notes): Isa Madhva 16, 17, 18; Katha Shankara 1.3.10-12 and nine commentary passages Sastri skips; bsb_madhva 1.1.24, 1.3.1, 1.3.43, 1.4.29, 2.1.8, 2.4.1 and the closing line of 3.3.68, 2.3.39, 3.1.22; bg_shankara 5.27, 7.30, 18.25; brihadaranyaka_shankara 6.4.2; brihadaranyaka_madhva last unit (Panchagni verses and closing salutations; some verses there are corrupt in Setutila, so those lines are tentative); bg_ramanuja 1.1; the colophon units.
 - **Harivamsha** is now 3,541 verse units (it was 7,206 half-verse rows, where Dutt's English often ran into the neighbouring row). 72 units were dropped because their English belongs to other passages (source rows 4962-4995, 5046-5115, 5619-5686, 6881-6927 in part, 7379-7468), and three stretches (rows 2953-2954, 3700-3708, 5954-5970) were merged where the English ran behind the Sanskrit. A later repartition pass (`tools/harivamsha_repartition.py`) moved the English of 126 units in 54 stretches back to the source rows their Sanskrit refs name; the LaBSE offset-run audit is now clean. A few stretches (roughly rows 140-148, 4950-4961, 5116-5120, 6666-6671, 6868-6880, 7358-7371) remain for hand review: their source English repeats a sentence, is split across a row boundary, or runs ahead of the Sanskrit in the TSV itself, so redistributing it would mean guessing.
 - **Known mismatches:** sanatsujatiya row 28124 (Sanskrit row is a fragment, English covers several rows); three validator warnings remain on purpose, all terse translations of longer Sanskrit (sribhashya_ramanuja 4.3.3, brihadaranyaka_shankara 3.2.9) or the fragment above; Mitrasamgraha rows in the Mahabharata files whose prose has no Sanskrit row.
-- **Shankara Upanishad and Brahma Sutra files** still have open items listed in `spotcheck/shankara_upanishad_bhashya_flaws.md` and `spotcheck/bsb_shankara_mismatches.md` (for example sutra-translation heads missing in bsb_shankara 3.1.1, 4.1.1, 4.3.1, 4.4.1, mid-unit spills in several bsb_shankara units, 16 avatarika spills in Brihadaranyaka Shankara). Treat those files as less reliable than the Madhva Upanishad files.
-- **Not hand-verified:** all checks so far are scripted (alignment audits, length ratios, duplicate detection) plus reading of flagged units. No random sample has been checked by hand yet.
+- **Shankara Upanishad and Brahma Sutra files** have dated audit notes in `spotcheck/shankara_upanishad_bhashya_flaws.md` and `spotcheck/bsb_shankara_mismatches.md` (for example sutra-translation heads missing in bsb_shankara 3.1.1, 4.1.1, 4.3.1, 4.4.1, mid-unit spills in several bsb_shankara units, 16 avatarika spills in Brihadaranyaka Shankara). These are snapshots, not a live issue list: check an item against HEAD before treating it as open. Treat those files as less reliable than the Madhva Upanishad files.
+- **Coverage of hand checks:** most checks are scripted (alignment audits, length ratios, duplicate detection) plus reading of flagged units. The Harivamsha and Shankara sweeps included hand reading, but there has been no systematic random sample across every file; treat per-file verification as uneven.
