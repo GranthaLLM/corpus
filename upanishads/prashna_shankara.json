@@ -314,10 +314,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति प्रथमप्रश्नभाष्यम् ॥",
-   "english": "Thus ends the commentary on the first question.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the first question."
   },
   {
    "ref": "2.1",
@@ -571,10 +568,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वितीयप्रश्नभाष्यम् ॥",
-   "english": "Thus ends the commentary on the second question.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the second question."
   },
   {
    "ref": "3.1",
@@ -809,10 +803,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति तृतीयप्रश्नभाष्यम् ॥",
-   "english": "Thus ends the commentary on the third question.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the third question."
   },
   {
    "ref": "4.1",
@@ -1028,10 +1019,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति चतुर्थप्रश्नभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fourth question.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fourth question."
   },
   {
    "ref": "5.1",
@@ -1171,10 +1159,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति पञ्चमप्रश्नभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fifth question.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fifth question."
   },
   {
    "ref": "6.1",
@@ -1314,10 +1299,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ प्रश्नोपनिषद्भाष्यं सम्पूर्णम् ॥",
-   "english": "Thus ends the commentary on the Prashna Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the Prashna Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher."
   }
  ],
  "source_sanskrit": {

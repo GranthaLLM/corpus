@@ -188,10 +188,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति प्रथमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the first section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the first section."
   },
   {
    "ref": "2.1",
@@ -293,10 +290,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वितीयखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the second section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the second section."
   },
   {
    "ref": "3.1",
@@ -461,10 +455,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति तृतीयखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the third section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the third section."
   },
   {
    "ref": "4.1",
@@ -642,10 +633,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति चतुर्थखण्डभाष्यम् ॥\nइति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ केनोपनिषत्पदभाष्यम् सम्पूर्णम् ॥",
-   "english": "Thus ends the commentary on the fourth section. Thus ends the commentary on the Kena Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fourth section. Thus ends the commentary on the Kena Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher."
   }
  ],
  "source_sanskrit": {

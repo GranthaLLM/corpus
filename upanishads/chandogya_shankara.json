@@ -15,8 +15,7 @@
     "jha_rows": [
      1,
      6
-    ],
-    "english_source": "wisdomlib, Ganganatha Jha (Shankara's introduction passages)"
+    ]
    }
   },
   {
@@ -254,10 +253,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति प्रथमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the first section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the first section."
   },
   {
    "ref": "1.2.1",
@@ -556,10 +552,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वितीयखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the second section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the second section."
   },
   {
    "ref": "1.3.1",
@@ -842,10 +835,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति तृतीयखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the third section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the third section."
   },
   {
    "ref": "1.4.1",
@@ -1036,10 +1026,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति पञ्चमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fifth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fifth section."
   },
   {
    "ref": "intro-1.6-1.6.1",
@@ -1201,10 +1188,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति षष्ठखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the sixth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the sixth section."
   },
   {
    "ref": "1.7.1",
@@ -1408,10 +1392,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति सप्तमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the seventh section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the seventh section."
   },
   {
    "ref": "1.8.1",
@@ -1602,10 +1583,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति अष्टमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eighth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eighth section."
   },
   {
    "ref": "1.9.1",
@@ -1704,10 +1682,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति नवमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the ninth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the ninth section."
   },
   {
    "ref": "1.10.1",
@@ -1957,10 +1932,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति दशमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the tenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the tenth section."
   },
   {
    "ref": "1.11.1",
@@ -2174,10 +2146,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति एकादशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eleventh section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eleventh section."
   },
   {
    "ref": "1.12.1",
@@ -2299,10 +2268,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वादशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the twelfth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twelfth section."
   },
   {
    "ref": "intro-1.13",
@@ -2408,20 +2374,14 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति त्रयोदशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the thirteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the thirteenth section."
   },
   {
    "ref": "colophon-1",
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ छान्दोग्योपनिषद्भाष्ये प्रथमोऽध्यायः समाप्तः ॥",
-   "english": "Thus ends the first chapter in the commentary on the Chandogya Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the first chapter in the commentary on the Chandogya Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher."
   },
   {
    "ref": "intro-2.1",
@@ -2533,10 +2493,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति प्रथमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the first section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the first section."
   },
   {
    "ref": "2.2.1",
@@ -2612,10 +2569,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वितीयखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the second section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the second section."
   },
   {
    "ref": "2.3.1",
@@ -2668,10 +2622,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति तृतीयखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the third section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the third section."
   },
   {
    "ref": "2.4.1",
@@ -2724,10 +2675,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति चतुर्थखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fourth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fourth section."
   },
   {
    "ref": "2.5.1",
@@ -2780,10 +2728,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति पञ्चमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fifth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fifth section."
   },
   {
    "ref": "2.6.1",
@@ -2836,10 +2781,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति षष्ठखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the sixth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the sixth section."
   },
   {
    "ref": "2.7.1",
@@ -2892,10 +2834,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति सप्तमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the seventh section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the seventh section."
   },
   {
    "ref": "2.8.1",
@@ -2971,10 +2910,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति अष्टमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eighth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eighth section."
   },
   {
    "ref": "2.9.1",
@@ -3234,10 +3170,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति दशमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the tenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the tenth section."
   },
   {
    "ref": "2.11.1",
@@ -3290,10 +3223,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति एकादशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eleventh section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eleventh section."
   },
   {
    "ref": "2.12.1",
@@ -3346,10 +3276,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वादशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the twelfth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twelfth section."
   },
   {
    "ref": "2.13.1",
@@ -3402,10 +3329,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति त्रयोदशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the thirteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the thirteenth section."
   },
   {
    "ref": "2.14.1",
@@ -3458,10 +3382,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति चतुर्दशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fourteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fourteenth section."
   },
   {
    "ref": "2.15.1",
@@ -3514,10 +3435,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति पञ्चदशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fifteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fifteenth section."
   },
   {
    "ref": "2.16.1",
@@ -3570,10 +3488,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति षोडशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the sixteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the sixteenth section."
   },
   {
    "ref": "2.17.1",
@@ -3626,10 +3541,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति सप्तदशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the seventeenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the seventeenth section."
   },
   {
    "ref": "2.18.1",
@@ -3682,10 +3594,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति अष्टादशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eighteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eighteenth section."
   },
   {
    "ref": "2.19.1",
@@ -3738,10 +3647,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति एकोनविंशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the nineteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the nineteenth section."
   },
   {
    "ref": "2.20.1",
@@ -3794,10 +3700,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति विंशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the twentieth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twentieth section."
   },
   {
    "ref": "2.21.1",
@@ -3896,10 +3799,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति एकविंशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the twenty-first section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twenty-first section."
   },
   {
    "ref": "2.22.1",
@@ -3998,10 +3898,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वाविंशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the twenty-second section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twenty-second section."
   },
   {
    "ref": "2.23.1",
@@ -4077,10 +3974,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति त्रयोविंशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the twenty-third section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twenty-third section."
   },
   {
    "ref": "intro-2.24",
@@ -4418,20 +4312,14 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति चतुर्विंशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the twenty-fourth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twenty-fourth section."
   },
   {
    "ref": "colophon-2",
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ छान्दोग्योपनिषद्भाष्ये द्वितीयोऽध्यायः समाप्तः ॥",
-   "english": "Thus ends the second chapter in the commentary on the Chandogya Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the second chapter in the commentary on the Chandogya Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher."
   },
   {
    "ref": "intro-3.1",
@@ -4543,10 +4431,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति प्रथमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the first section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the first section."
   },
   {
    "ref": "3.2.1",
@@ -4612,10 +4497,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वितीयखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the second section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the second section."
   },
   {
    "ref": "3.3.1",
@@ -4671,10 +4553,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति तृतीयखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the third section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the third section."
   },
   {
    "ref": "3.4.1",
@@ -4730,10 +4609,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति चतुर्थखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fourth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fourth section."
   },
   {
    "ref": "3.5.1",
@@ -4812,10 +4688,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति पञ्चमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fifth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fifth section."
   },
   {
    "ref": "3.6.1",
@@ -4914,10 +4787,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति षष्ठखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the sixth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the sixth section."
   },
   {
    "ref": "3.7.1",
@@ -5045,10 +4915,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति अष्टमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eighth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eighth section."
   },
   {
    "ref": "3.9.1-3.9.4",
@@ -5069,10 +4936,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति नवमः खण्डः ॥",
-   "english": "Thus ends the ninth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the ninth section."
   },
   {
    "ref": "3.10.1-3.10.4",
@@ -5093,10 +4957,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति दशमः खण्डः ॥",
-   "english": "Thus ends the tenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the tenth section."
   },
   {
    "ref": "3.11.1",
@@ -5241,10 +5102,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति एकादशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eleventh section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eleventh section."
   },
   {
    "ref": "intro-3.12",
@@ -5448,10 +5306,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वादशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the twelfth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twelfth section."
   },
   {
    "ref": "3.13.1",
@@ -5642,10 +5497,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति त्रयोदशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the thirteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the thirteenth section."
   },
   {
    "ref": "intro-3.14",
@@ -5728,10 +5580,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति चतुर्दशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fourteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fourteenth section."
   },
   {
    "ref": "intro-3.15-3.15.1",
@@ -5876,10 +5725,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति पञ्चदशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fifteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fifteenth section."
   },
   {
    "ref": "intro-3.16",
@@ -5891,8 +5737,7 @@
     "jha_rows": [
      1834,
      1834
-    ],
-    "english_source": "wisdomlib, Ganganatha Jha (Shankara's introduction passages)"
+    ]
    }
   },
   {
@@ -6041,10 +5886,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति षोडशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the sixteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the sixteenth section."
   },
   {
    "ref": "3.17.1",
@@ -6189,10 +6031,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति सप्तदशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the seventeenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the seventeenth section."
   },
   {
    "ref": "3.18.1",
@@ -6317,10 +6156,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति अष्टादशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eighteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eighteenth section."
   },
   {
    "ref": "3.19.1",
@@ -6593,10 +6429,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति प्रथमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the first section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the first section."
   },
   {
    "ref": "4.2.1",
@@ -6869,10 +6702,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति तृतीयखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the third section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the third section."
   },
   {
    "ref": "4.4.1",
@@ -6971,10 +6801,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति चतुर्थखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fourth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fourth section."
   },
   {
    "ref": "4.5.1",
@@ -7050,10 +6877,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति पञ्चमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fifth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fifth section."
   },
   {
    "ref": "4.6.1",
@@ -7152,10 +6976,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति षष्ठखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the sixth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the sixth section."
   },
   {
    "ref": "4.7.1",
@@ -7234,10 +7055,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति सप्तमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the seventh section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the seventh section."
   },
   {
    "ref": "4.8.1",
@@ -7326,10 +7144,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति अष्टमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eighth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eighth section."
   },
   {
    "ref": "4.9.1",
@@ -7405,20 +7220,14 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति नवमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the ninth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the ninth section."
   },
   {
    "ref": "intro-4.10",
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "पुनर्ब्रह्मविद्यां प्रकारान्तरेण वक्ष्यामीत्यारभते गतिं च तद्विदोऽग्निविद्यां च । आख्यायायिका पूर्ववच्छ्रद्धतपसोर्ब्रह्मविद्यासाधनत्वप्रदर्शनार्था —",
-   "english": "With a view to expound the Philosophy of Brahman in another manner,—the Text proceeds to expound the Agnividyā, the Science of the Fires, and to describe the man who knows it.—As before the story is introduced for the purpose of showing that faith and austerity are necessary for the acquisition of the knowledge of Brahman.",
-   "meta": {
-    "english_source": "wisdomlib, Ganganatha Jha (Shankara's introduction passages)"
-   }
+   "english": "With a view to expound the Philosophy of Brahman in another manner,—the Text proceeds to expound the Agnividyā, the Science of the Fires, and to describe the man who knows it.—As before the story is introduced for the purpose of showing that faith and austerity are necessary for the acquisition of the knowledge of Brahman."
   },
   {
    "ref": "4.10.1",
@@ -7540,10 +7349,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति दशमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the tenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the tenth section."
   },
   {
    "ref": "4.11.1",
@@ -7596,10 +7402,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति एकादशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eleventh section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eleventh section."
   },
   {
    "ref": "4.12.1",
@@ -7642,10 +7445,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वादशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the twelfth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twelfth section."
   },
   {
    "ref": "4.13.1",
@@ -7688,10 +7488,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति त्रयोदशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the thirteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the thirteenth section."
   },
   {
    "ref": "4.14.1",
@@ -7757,10 +7554,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति चतुर्दशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fourteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fourteenth section."
   },
   {
    "ref": "4.15.1",
@@ -7882,10 +7676,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति पञ्चदशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fifteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fifteenth section."
   },
   {
    "ref": "intro-4.16",
@@ -8200,20 +7991,14 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति सप्तदशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the seventeenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the seventeenth section."
   },
   {
    "ref": "colophon-4",
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ छान्दोग्योपनिषद्भाष्ये चतुर्थोऽध्यायः समाप्तः ॥",
-   "english": "Thus ends the fourth chapter in the commentary on the Chandogya Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the fourth chapter in the commentary on the Chandogya Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher."
   },
   {
    "ref": "intro-5.1",
@@ -8538,10 +8323,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति प्रथमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the first section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the first section."
   },
   {
    "ref": "5.2.1",
@@ -8732,10 +8514,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वितीयखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the second section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the second section."
   },
   {
    "ref": "intro-5.3",
@@ -8906,10 +8685,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति तृतीयखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the third section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the third section."
   },
   {
    "ref": "intro-5.4",
@@ -8975,10 +8751,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति चतुर्थखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fourth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fourth section."
   },
   {
    "ref": "5.5.1",
@@ -9031,10 +8804,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति पञ्चमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fifth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fifth section."
   },
   {
    "ref": "5.6.1",
@@ -9087,10 +8857,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति षष्ठखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the sixth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the sixth section."
   },
   {
    "ref": "5.7.1",
@@ -9143,10 +8910,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति सप्तमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the seventh section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the seventh section."
   },
   {
    "ref": "5.8.1",
@@ -9199,10 +8963,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति अष्टमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eighth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eighth section."
   },
   {
    "ref": "5.9.1",
@@ -9255,10 +9016,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति नवमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the ninth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the ninth section."
   },
   {
    "ref": "5.10.1-5.10.2",
@@ -9472,10 +9230,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति दशमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the tenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the tenth section."
   },
   {
    "ref": "intro-5.11",
@@ -9610,10 +9365,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति एकादशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eleventh section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eleventh section."
   },
   {
    "ref": "5.12.1",
@@ -9666,10 +9418,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वादशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the twelfth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twelfth section."
   },
   {
    "ref": "5.13.1",
@@ -9722,10 +9471,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति त्रयोदशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the thirteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the thirteenth section."
   },
   {
    "ref": "5.14.1",
@@ -9778,10 +9524,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति चतुर्दशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fourteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fourteenth section."
   },
   {
    "ref": "5.15.1",
@@ -9834,10 +9577,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति पञ्चदशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fifteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fifteenth section."
   },
   {
    "ref": "5.16.1",
@@ -9890,10 +9630,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति षोडशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the sixteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the sixteenth section."
   },
   {
    "ref": "5.17.1",
@@ -9936,10 +9673,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति सप्तदशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the seventeenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the seventeenth section."
   },
   {
    "ref": "5.18.1",
@@ -10015,10 +9749,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति एकोनविंशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the nineteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the nineteenth section."
   },
   {
    "ref": "5.20.1",
@@ -10051,10 +9782,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति विंशः खण्डः ॥",
-   "english": "Thus ends the twentieth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the twentieth section."
   },
   {
    "ref": "5.21.1-5.21.2",
@@ -10084,10 +9812,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति एकविंशः खण्डः ॥",
-   "english": "Thus ends the twenty-first section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the twenty-first section."
   },
   {
    "ref": "5.22.1",
@@ -10120,10 +9845,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वाविंशः खण्डः ॥",
-   "english": "Thus ends the twenty-second section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the twenty-second section."
   },
   {
    "ref": "5.23.1",
@@ -10166,10 +9888,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति त्रयोविंशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the twenty-third section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twenty-third section."
   },
   {
    "ref": "5.24.1",
@@ -10296,8 +10015,7 @@
     "jha_rows": [
      3217,
      3218
-    ],
-    "english_source": "formulaic translation of the colophon (Claude)"
+    ]
    }
   },
   {
@@ -10305,10 +10023,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ छान्दोग्योपनिषद्भाष्ये पञ्चमोऽध्यायः समाप्तः ॥",
-   "english": "Thus ends the fifth chapter in the commentary on the Chandogya Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the fifth chapter in the commentary on the Chandogya Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher."
   },
   {
    "ref": "intro-6.1",
@@ -10479,10 +10194,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति प्रथमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the first section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the first section."
   },
   {
    "ref": "6.2.1",
@@ -10558,10 +10270,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वितीयखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the second section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the second section."
   },
   {
    "ref": "6.3.1",
@@ -10768,10 +10477,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति चतुर्थखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fourth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fourth section."
   },
   {
    "ref": "6.5.1",
@@ -10847,10 +10553,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति पञ्चमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fifth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fifth section."
   },
   {
    "ref": "6.6.1",
@@ -10972,10 +10675,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति षष्ठखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the sixth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the sixth section."
   },
   {
    "ref": "6.7.1",
@@ -11120,10 +10820,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति सप्तमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the seventh section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the seventh section."
   },
   {
    "ref": "6.8.1",
@@ -11268,10 +10965,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति अष्टमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eighth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eighth section."
   },
   {
    "ref": "6.9.1",
@@ -11370,10 +11064,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति नवमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the ninth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the ninth section."
   },
   {
    "ref": "6.10.1",
@@ -11439,10 +11130,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति दशमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the tenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the tenth section."
   },
   {
    "ref": "6.11.1",
@@ -11518,10 +11206,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति एकादशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eleventh section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eleventh section."
   },
   {
    "ref": "6.12.1",
@@ -11597,10 +11282,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इदि द्वादशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the twelfth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twelfth section."
   },
   {
    "ref": "6.13.1",
@@ -11676,10 +11358,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति त्रयोदशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the thirteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the thirteenth section."
   },
   {
    "ref": "6.14.1",
@@ -11755,10 +11434,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति चतुर्दशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fourteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fourteenth section."
   },
   {
    "ref": "6.15.1",
@@ -11811,10 +11487,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति पञ्चदशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fifteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fifteenth section."
   },
   {
    "ref": "6.16.1",
@@ -11895,8 +11568,7 @@
     "jha_rows": [
      3922,
      3924
-    ],
-    "english_source": "formulaic translation of the colophon (Claude)"
+    ]
    }
   },
   {
@@ -11904,10 +11576,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ छान्दोग्योपनिषद्भाष्ये षष्ठोऽध्यायः समाप्तः ॥",
-   "english": "Thus ends the sixth chapter in the commentary on the Chandogya Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the sixth chapter in the commentary on the Chandogya Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher."
   },
   {
    "ref": "intro-7.1",
@@ -12019,10 +11688,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति प्रथमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the first section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the first section."
   },
   {
    "ref": "7.2.1",
@@ -12075,10 +11741,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वितीयखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the second section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the second section."
   },
   {
    "ref": "7.3.1",
@@ -12131,10 +11794,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति तृतीयखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the third section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the third section."
   },
   {
    "ref": "7.4.1",
@@ -12210,10 +11870,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति चतुर्थखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fourth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fourth section."
   },
   {
    "ref": "7.5.1",
@@ -12335,10 +11992,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति सप्तमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the seventh section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the seventh section."
   },
   {
    "ref": "7.8.1",
@@ -12381,10 +12035,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति अष्टमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eighth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eighth section."
   },
   {
    "ref": "7.9.1",
@@ -12437,10 +12088,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति नवमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the ninth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the ninth section."
   },
   {
    "ref": "7.10.1",
@@ -12493,10 +12141,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति दशमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the tenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the tenth section."
   },
   {
    "ref": "7.11.1",
@@ -12549,10 +12194,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति एकादशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eleventh section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eleventh section."
   },
   {
    "ref": "7.12.1",
@@ -12605,10 +12247,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वादशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the twelfth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twelfth section."
   },
   {
    "ref": "7.13.1",
@@ -12651,10 +12290,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति त्रयोदशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the thirteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the thirteenth section."
   },
   {
    "ref": "7.14.1",
@@ -12707,10 +12343,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति चतुर्दशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fourteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fourteenth section."
   },
   {
    "ref": "7.15.1",
@@ -12786,10 +12419,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति पञ्चदशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fifteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fifteenth section."
   },
   {
    "ref": "intro-7.16-7.16.1",
@@ -12819,10 +12449,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति षोडशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the sixteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the sixteenth section."
   },
   {
    "ref": "7.17.1",
@@ -12852,10 +12479,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति सप्तदशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the seventeenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the seventeenth section."
   },
   {
    "ref": "7.18.1",
@@ -12885,10 +12509,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति अष्टादशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eighteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eighteenth section."
   },
   {
    "ref": "7.19.1",
@@ -12918,10 +12539,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति एकोनविंशतितमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the nineteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the nineteenth section."
   },
   {
    "ref": "7.20.1",
@@ -12951,10 +12569,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति विंशतितमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the twentieth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twentieth section."
   },
   {
    "ref": "7.21.1",
@@ -12984,10 +12599,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति एकविंशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the twenty-first section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twenty-first section."
   },
   {
    "ref": "7.22.1",
@@ -13017,10 +12629,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इदि द्वाविंशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the twenty-second section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twenty-second section."
   },
   {
    "ref": "7.23.1",
@@ -13050,10 +12659,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति त्रयोविंशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the twenty-third section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twenty-third section."
   },
   {
    "ref": "7.24.1",
@@ -13106,10 +12712,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति चतुर्विंशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the twenty-fourth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twenty-fourth section."
   },
   {
    "ref": "7.25.1",
@@ -13162,10 +12765,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति पञ्चविंशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the twenty-fifth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twenty-fifth section."
   },
   {
    "ref": "7.26.1",
@@ -13223,8 +12823,7 @@
     "jha_rows": [
      4426,
      4426
-    ],
-    "english_source": "formulaic translation of the colophon (Claude)"
+    ]
    }
   },
   {
@@ -13232,10 +12831,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमत्छङ्करभगवतः कृतौ छान्दोग्योपनिषद्भाष्ये सप्तमोऽध्यायः समाप्तः ॥",
-   "english": "Thus ends the seventh chapter in the commentary on the Chandogya Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the seventh chapter in the commentary on the Chandogya Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher."
   },
   {
    "ref": "intro-8.1",
@@ -13393,10 +12989,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति प्रथमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the first section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the first section."
   },
   {
    "ref": "8.2.1",
@@ -13563,10 +13156,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वितीयखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the second section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the second section."
   },
   {
    "ref": "8.3.1",
@@ -13688,10 +13278,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति तृतीयखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the third section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the third section."
   },
   {
    "ref": "8.4.1",
@@ -13836,10 +13423,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति पञ्चमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fifth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fifth section."
   },
   {
    "ref": "intro-8.6-8.6.1",
@@ -14076,10 +13660,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति सप्तमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the seventh section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the seventh section."
   },
   {
    "ref": "intro-8.8",
@@ -14208,10 +13789,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति अष्टमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eighth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eighth section."
   },
   {
    "ref": "8.9.1",
@@ -14287,10 +13865,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति नवमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the ninth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the ninth section."
   },
   {
    "ref": "8.10.1-8.10.2",
@@ -14356,10 +13931,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति दशमखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the tenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the tenth section."
   },
   {
    "ref": "8.11.1",
@@ -14425,10 +13997,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति एकादशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eleventh section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eleventh section."
   },
   {
    "ref": "8.12.1",
@@ -14573,10 +14142,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वादशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the twelfth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twelfth section."
   },
   {
    "ref": "8.13.1",
@@ -14606,10 +14172,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति त्रयोदशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the thirteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the thirteenth section."
   },
   {
    "ref": "8.14.1",
@@ -14639,10 +14202,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति चतुर्दशखण्डभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fourteenth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fourteenth section."
   },
   {
    "ref": "8.15.1",
@@ -14677,8 +14237,7 @@
     "jha_rows": [
      5109,
      5109
-    ],
-    "english_source": "formulaic translation of the colophon (Claude)"
+    ]
    }
   },
   {
@@ -14686,10 +14245,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमत्छङ्करभगवतः कृतौ छान्दोग्योपनिषद्भाष्ये अष्टमोऽध्यायः समाप्तः ॥",
-   "english": "Thus ends the eighth chapter in the commentary on the Chandogya Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the eighth chapter in the commentary on the Chandogya Upanishad composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher."
   }
  ],
  "source_sanskrit": {

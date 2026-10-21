@@ -213,10 +213,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "॥ इति प्रथमः खण्डः॥",
-   "english": "Thus ends the first section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the first section."
   },
   {
    "ref": "2/1",
@@ -401,10 +398,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "॥ इति द्वितीयः खण्डः॥",
-   "english": "Thus ends the second section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the second section."
   },
   {
    "ref": "3/1",
@@ -528,10 +522,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "॥ इति तृतीयः खण्डः॥",
-   "english": "Thus ends the third section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the third section."
   },
   {
    "ref": "4/1",
@@ -609,10 +600,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "॥ इति चतुर्थः खण्डः॥",
-   "english": "Thus ends the fourth section.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the fourth section."
   },
   {
    "ref": "colophon48",
@@ -629,10 +617,7 @@
      "role": "bhashya",
      "sanskrit": "एकोऽपि निर्विशेषोऽपि चतुर्धा व्यवहारभाक्।\nयस्तं वन्दे\nसदानन्दं\nविष्णुं विश्वादिरूपिणम्॥\n॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं माण्डूकोपनिषद्भाष्यं सम्पूर्णम्॥"
     }
-   ],
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   ]
   }
  ],
  "source_sanskrit": {

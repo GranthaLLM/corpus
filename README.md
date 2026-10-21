@@ -275,7 +275,7 @@ The start of a work is its own units, so an invocation is not glued to the first
 }
 ```
 
-Colophon English was written for this corpus when the source had none (`meta.english_source` says so).
+Colophon English was written for this corpus when the source had none.
 
 ### 8. Interpretive translation (`reference_type: interpretive`)
 

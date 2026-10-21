@@ -206,10 +206,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "इति प्रथमः प्रश्नः॥",
-   "english": "Thus ends the first question.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the first question."
   },
   {
    "ref": "2/1",
@@ -330,10 +327,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "इति द्वितीयः प्रश्नः॥",
-   "english": "Thus ends the second question.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the second question."
   },
   {
    "ref": "3/1",
@@ -495,10 +489,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "इति तृतीयः प्रश्नः॥",
-   "english": "Thus ends the third question.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the third question."
   },
   {
    "ref": "4/1",
@@ -635,10 +626,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "इति चतुर्थः प्रश्नः॥",
-   "english": "Thus ends the fourth question.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the fourth question."
   },
   {
    "ref": "5/1",
@@ -718,10 +706,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "इति पञ्चमः प्रश्नः॥",
-   "english": "Thus ends the fifth question.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the fifth question."
   },
   {
    "ref": "6/1",
@@ -833,10 +818,7 @@
    "kind": "verse",
    "scope": "mula",
    "sanskrit": "॥ इति षष्ठः प्रश्नः॥",
-   "english": "Thus ends the sixth question.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the sixth question."
   },
   {
    "ref": "colophon77",
@@ -853,10 +835,7 @@
      "role": "bhashya",
      "sanskrit": "नमोनमोऽस्तु हरये प्रेष्ठप्रेष्ठतमाय मे।\nपरमानन्दसन्दोहसान्द्रानन्दवपुष्मते॥॥\n॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं षट्प्रश्नोपनिषद्भाष्यं सम्पूर्णम्॥"
     }
-   ],
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   ]
   }
  ],
  "source_sanskrit": {

@@ -34,10 +34,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति प्रथमानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the first anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the first anuvaka."
   },
   {
    "ref": "1.2.1",
@@ -61,10 +58,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वितीयानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the second anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the second anuvaka."
   },
   {
    "ref": "1.3.1-4",
@@ -88,10 +82,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति तृतीयानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the third anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the third anuvaka."
   },
   {
    "ref": "1.4.1-3",
@@ -115,10 +106,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति चतुर्थानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fourth anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fourth anuvaka."
   },
   {
    "ref": "1.5.1-3",
@@ -142,10 +130,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति पञ्चमानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fifth anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fifth anuvaka."
   },
   {
    "ref": "1.6.1-2",
@@ -169,10 +154,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति षष्ठोनुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the sixth anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the sixth anuvaka."
   },
   {
    "ref": "1.7.1",
@@ -196,10 +178,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति सप्तमानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the seventh anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the seventh anuvaka."
   },
   {
    "ref": "1.8.1",
@@ -223,10 +202,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इत्यष्टमानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eighth anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eighth anuvaka."
   },
   {
    "ref": "1.9.1",
@@ -250,10 +226,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति नवमानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the ninth anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the ninth anuvaka."
   },
   {
    "ref": "1.10.1",
@@ -277,10 +250,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति दशमानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the tenth anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the tenth anuvaka."
   },
   {
    "ref": "1.11.1-1.12.1",
@@ -304,20 +274,14 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इत्येकादशानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eleventh anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eleventh anuvaka."
   },
   {
    "ref": "colophon-1.12",
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वादशानुवाकभाष्यम् ॥\nइति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ तैत्तिरीयोपनिषद्भाष्ये शीक्षावल्लीभाष्यम् सम्पूर्णम् ॥",
-   "english": "Thus ends the commentary on the twelfth anuvaka. Thus ends the commentary on the Taittiriya Upanishad, the Siksha Valli composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the twelfth anuvaka. Thus ends the commentary on the Taittiriya Upanishad, the Siksha Valli composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher."
   },
   {
    "ref": "2.1.0",
@@ -358,10 +322,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति प्रथमानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the first anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the first anuvaka."
   },
   {
    "ref": "2.2.1",
@@ -385,10 +346,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वितीयानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the second anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the second anuvaka."
   },
   {
    "ref": "2.3.1",
@@ -412,10 +370,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति तृतीयानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the third anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the third anuvaka."
   },
   {
    "ref": "2.4.1",
@@ -439,10 +394,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति चतुर्थानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fourth anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fourth anuvaka."
   },
   {
    "ref": "2.5.1",
@@ -466,10 +418,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति पञ्चमानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the fifth anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the fifth anuvaka."
   },
   {
    "ref": "2.6.1",
@@ -493,10 +442,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति षष्ठानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the sixth anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the sixth anuvaka."
   },
   {
    "ref": "2.7.1",
@@ -520,10 +466,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति सप्तमनुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the seventh anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the seventh anuvaka."
   },
   {
    "ref": "2.8.1-5",
@@ -547,10 +490,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति अष्टमानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eighth anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eighth anuvaka."
   },
   {
    "ref": "2.9.1",
@@ -574,10 +514,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति नवमानुवाकभाष्यम् ॥\nइति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ तैत्तिरीयोपनिषद्भाष्ये ब्रह्मानन्दवल्लीभाष्यं सम्पूर्णम् ॥",
-   "english": "Thus ends the commentary on the ninth anuvaka. Thus ends the commentary on the Taittiriya Upanishad, the Brahmananda Valli composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the ninth anuvaka. Thus ends the commentary on the Taittiriya Upanishad, the Brahmananda Valli composed by the revered Shankara Bhagavatpada, disciple of the revered Govinda Bhagavatpada, the supreme ascetic and wandering teacher."
   },
   {
    "ref": "3.1.0",
@@ -608,10 +545,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति प्रथमानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the first anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the first anuvaka."
   },
   {
    "ref": "3.2.1",
@@ -635,10 +569,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति द्वितीयानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the second anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the second anuvaka."
   },
   {
    "ref": "3.3.1",
@@ -652,10 +583,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति तृतीयोऽनुवाकः ॥",
-   "english": "Thus ends the third anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the third anuvaka."
   },
   {
    "ref": "3.4.1",
@@ -669,10 +597,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति चतुर्थोऽनुवाकः ॥",
-   "english": "Thus ends the fourth anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the fourth anuvaka."
   },
   {
    "ref": "3.5.1",
@@ -686,10 +611,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति पञ्चमोऽनुवाकः ॥",
-   "english": "Thus ends the fifth anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the fifth anuvaka."
   },
   {
    "ref": "3.6.1",
@@ -713,10 +635,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति षष्ठानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the sixth anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the sixth anuvaka."
   },
   {
    "ref": "3.7.1",
@@ -740,10 +659,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति सप्तमानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the seventh anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the seventh anuvaka."
   },
   {
    "ref": "3.8.1",
@@ -767,10 +683,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति अष्टमानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the eighth anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the eighth anuvaka."
   },
   {
    "ref": "3.9.1",
@@ -794,10 +707,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति नवमानुवाकभाष्यम् ॥",
-   "english": "Thus ends the commentary on the ninth anuvaka.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the ninth anuvaka."
   },
   {
    "ref": "3.10.1-6",
@@ -821,10 +731,7 @@
    "kind": "prose",
    "scope": "commentary",
    "sanskrit": "इति दशमानुवाकभाष्यम् ॥\nइति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ तैत्तिरीयोपनिषद्भाष्ये भृगुवल्लीभाष्यं सम्पूर्णम् ॥\nइति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ तैत्तिरीयोपनिषद्भाष्यं सम्पूर्णम् ॥",
-   "english": "Thus ends the commentary on the tenth anuvaka.\nThus ends the commentary on the Bhriguvalli, composed by the venerable Shankara, disciple of the revered Govinda, the great teacher and supreme ascetic wanderer, in his commentary on the Taittiriya Upanishad.\nThus ends the commentary on the Taittiriya Upanishad, composed by the venerable Shankara, disciple of the revered Govinda, the great teacher and supreme ascetic wanderer.",
-   "meta": {
-    "english_source": "formulaic translation of the colophon (Claude)"
-   }
+   "english": "Thus ends the commentary on the tenth anuvaka.\nThus ends the commentary on the Bhriguvalli, composed by the venerable Shankara, disciple of the revered Govinda, the great teacher and supreme ascetic wanderer, in his commentary on the Taittiriya Upanishad.\nThus ends the commentary on the Taittiriya Upanishad, composed by the venerable Shankara, disciple of the revered Govinda, the great teacher and supreme ascetic wanderer."
   }
  ],
  "source_sanskrit": {
